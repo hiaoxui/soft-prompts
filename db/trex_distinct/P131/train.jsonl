@@ -1,0 +1,705 @@
+{"sub": "Rancho Castac", "obj": "California"}
+{"sub": "Millbrae station", "obj": "California"}
+{"sub": "Rancho Los Encinos", "obj": "California"}
+{"sub": "Diablo Canyon Power Plant", "obj": "California"}
+{"sub": "Long Beach Polytechnic High School", "obj": "California"}
+{"sub": "Golden Gate National Recreation Area", "obj": "California"}
+{"sub": "San Francisco Conservatory of Music", "obj": "California"}
+{"sub": "Owens Valley Radio Observatory", "obj": "California"}
+{"sub": "Zenshuji", "obj": "California"}
+{"sub": "Sacramento Convention Center Complex", "obj": "California"}
+{"sub": "Carrizo Plain", "obj": "California"}
+{"sub": "Whittier College", "obj": "California"}
+{"sub": "Six Rivers National Forest", "obj": "California"}
+{"sub": "Goat Rock Beach", "obj": "California"}
+{"sub": "California State Route 9", "obj": "California"}
+{"sub": "Salk Institute for Biological Studies", "obj": "California"}
+{"sub": "San Diego High School", "obj": "California"}
+{"sub": "Bethany University", "obj": "California"}
+{"sub": "Sears Point", "obj": "California"}
+{"sub": "San Lorenzo Valley", "obj": "California"}
+{"sub": "Gilroy High School", "obj": "California"}
+{"sub": "HRL Laboratories", "obj": "California"}
+{"sub": "Samuel Merritt University", "obj": "California"}
+{"sub": "Tijuana River", "obj": "California"}
+{"sub": "Pacific Union College", "obj": "California"}
+{"sub": "Heavenly Mountain Resort", "obj": "California"}
+{"sub": "Mount San Antonio", "obj": "California"}
+{"sub": "Fort Humboldt State Historic Park", "obj": "California"}
+{"sub": "Bullion Mountains", "obj": "California"}
+{"sub": "California Citrus State Historic Park", "obj": "California"}
+{"sub": "Brazos Wind Farm", "obj": "Texas"}
+{"sub": "Interstate 44 in Texas", "obj": "Texas"}
+{"sub": "Coke County", "obj": "Texas"}
+{"sub": "Southeast Texas", "obj": "Texas"}
+{"sub": "Lufkin", "obj": "Texas"}
+{"sub": "Lake Texana", "obj": "Texas"}
+{"sub": "Kelly Field Annex", "obj": "Texas"}
+{"sub": "San Antonio River", "obj": "Texas"}
+{"sub": "Circle Ten Council", "obj": "Texas"}
+{"sub": "Texas State Highway 170", "obj": "Texas"}
+{"sub": "Hartley County", "obj": "Texas"}
+{"sub": "Lake Marble Falls", "obj": "Texas"}
+{"sub": "Sam Rayburn Reservoir", "obj": "Texas"}
+{"sub": "Bryan Air Force Base", "obj": "Texas"}
+{"sub": "Texas State Highway 72", "obj": "Texas"}
+{"sub": "Gainesville Municipal Airport", "obj": "Texas"}
+{"sub": "Camp Mabry", "obj": "Texas"}
+{"sub": "Lake Conroe", "obj": "Texas"}
+{"sub": "KKBQ", "obj": "Texas"}
+{"sub": "Carnegie Vanguard High School", "obj": "Texas"}
+{"sub": "Big Thicket National Preserve", "obj": "Texas"}
+{"sub": "Austin College", "obj": "Texas"}
+{"sub": "Texas Medical Center", "obj": "Texas"}
+{"sub": "North Central Texas College", "obj": "Texas"}
+{"sub": "Gulf Coast of the United States", "obj": "Texas"}
+{"sub": "Anahuac National Wildlife Refuge", "obj": "Texas"}
+{"sub": "Barnett Shale", "obj": "Texas"}
+{"sub": "Texas State Highway Loop 1604", "obj": "Texas"}
+{"sub": "Whitacre Tower", "obj": "Texas"}
+{"sub": "Wharton County", "obj": "Texas"}
+{"sub": "Manatawny Creek", "obj": "Pennsylvania"}
+{"sub": "Hershey Country Club", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Route 611", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Route 443", "obj": "Pennsylvania"}
+{"sub": "Southpointe", "obj": "Pennsylvania"}
+{"sub": "Tussey Mountain", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Dutch Country", "obj": "Pennsylvania"}
+{"sub": "Montour County", "obj": "Pennsylvania"}
+{"sub": "Keystone Corridor", "obj": "Pennsylvania"}
+{"sub": "Old Trinity Church", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Route 320", "obj": "Pennsylvania"}
+{"sub": "Lancaster Catholic High School", "obj": "Pennsylvania"}
+{"sub": "Jacobsburg Environmental Education Center", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Liquor Control Board", "obj": "Pennsylvania"}
+{"sub": "Shikellamy High School", "obj": "Pennsylvania"}
+{"sub": "Kishacoquillas Valley", "obj": "Pennsylvania"}
+{"sub": "Hickory Run State Park", "obj": "Pennsylvania"}
+{"sub": "Drake Well", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Route 94", "obj": "Pennsylvania"}
+{"sub": "Monessen", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Route 372", "obj": "Pennsylvania"}
+{"sub": "Huntingdon County", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Route 198", "obj": "Pennsylvania"}
+{"sub": "Drexel University College of Medicine", "obj": "Pennsylvania"}
+{"sub": "Middletown Area School District", "obj": "Pennsylvania"}
+{"sub": "Lycoming College", "obj": "Pennsylvania"}
+{"sub": "Elk State Park", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Route 664", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania Route 696", "obj": "Pennsylvania"}
+{"sub": "Paudash Lake", "obj": "Ontario"}
+{"sub": "Assiginack", "obj": "Ontario"}
+{"sub": "Lawrence Heights", "obj": "Ontario"}
+{"sub": "Nanticoke, Ontario", "obj": "Ontario"}
+{"sub": "Martin Goodman Trail", "obj": "Ontario"}
+{"sub": "Commerce Court", "obj": "Ontario"}
+{"sub": "York Mills Bus Terminal", "obj": "Ontario"}
+{"sub": "Mississauga Centre", "obj": "Ontario"}
+{"sub": "Christie Pits", "obj": "Ontario"}
+{"sub": "Bruce County", "obj": "Ontario"}
+{"sub": "Lakeridge Health Oshawa", "obj": "Ontario"}
+{"sub": "Mel Lastman Square", "obj": "Ontario"}
+{"sub": "Lunenfeld-Tanenbaum Research Institute", "obj": "Ontario"}
+{"sub": "Matabitchuan River", "obj": "Ontario"}
+{"sub": "Wapekeka First Nation", "obj": "Ontario"}
+{"sub": "McMichael Canadian Art Collection", "obj": "Ontario"}
+{"sub": "Wellington Catholic District School Board", "obj": "Ontario"}
+{"sub": "Upper Canada District School Board", "obj": "Ontario"}
+{"sub": "Ryerson University", "obj": "Ontario"}
+{"sub": "Woodbine Racetrack", "obj": "Ontario"}
+{"sub": "Waltham High School", "obj": "Massachusetts"}
+{"sub": "Massachusetts Route 53", "obj": "Massachusetts"}
+{"sub": "Massachusetts Route 3", "obj": "Massachusetts"}
+{"sub": "Camp Myles Standish", "obj": "Massachusetts"}
+{"sub": "Naval Air Station South Weymouth", "obj": "Massachusetts"}
+{"sub": "Massachusetts Route 28", "obj": "Massachusetts"}
+{"sub": "Plymouth Rock", "obj": "Massachusetts"}
+{"sub": "Massachusetts Route 103", "obj": "Massachusetts"}
+{"sub": "Taunton River Watershed", "obj": "Massachusetts"}
+{"sub": "New Bedford Whaling Museum", "obj": "Massachusetts"}
+{"sub": "Tanglewood", "obj": "Massachusetts"}
+{"sub": "Cohasset High School", "obj": "Massachusetts"}
+{"sub": "Barnstable (village), Massachusetts", "obj": "Massachusetts"}
+{"sub": "Framingham Railroad Station", "obj": "Massachusetts"}
+{"sub": "Xaverian Brothers High School", "obj": "Massachusetts"}
+{"sub": "Boston University Marsh Chapel", "obj": "Massachusetts"}
+{"sub": "Spicket River", "obj": "Massachusetts"}
+{"sub": "Oliver Ames High School", "obj": "Massachusetts"}
+{"sub": "Fifth Avenue", "obj": "Manhattan"}
+{"sub": "Liberty Island", "obj": "Manhattan"}
+{"sub": "The New School for Jazz and Contemporary Music", "obj": "Manhattan"}
+{"sub": "Lexington Avenue", "obj": "Manhattan"}
+{"sub": "East River Greenway", "obj": "Manhattan"}
+{"sub": "Carnegie Deli", "obj": "Manhattan"}
+{"sub": "Alexander Hamilton Bridge", "obj": "Manhattan"}
+{"sub": "Fraunces Tavern", "obj": "Manhattan"}
+{"sub": "70 Pine Street", "obj": "Manhattan"}
+{"sub": "Spuyten Duyvil Bridge", "obj": "Manhattan"}
+{"sub": "Hamilton Heights", "obj": "Manhattan"}
+{"sub": "Randalls Island", "obj": "Manhattan"}
+{"sub": "Gramercy Park Hotel", "obj": "Manhattan"}
+{"sub": "Lincoln Square Synagogue", "obj": "Manhattan"}
+{"sub": "Gracie Mansion", "obj": "Manhattan"}
+{"sub": "Film Forum", "obj": "Manhattan"}
+{"sub": "Hunter College", "obj": "Manhattan"}
+{"sub": "Hyattsville", "obj": "Maryland"}
+{"sub": "Northwest Branch Anacostia River", "obj": "Maryland"}
+{"sub": "Patuxent Wildlife Research Center", "obj": "Maryland"}
+{"sub": "Maryland Route 6", "obj": "Maryland"}
+{"sub": "Maryland Route 222", "obj": "Maryland"}
+{"sub": "Maryland Route 22", "obj": "Maryland"}
+{"sub": "Arundel Formation", "obj": "Maryland"}
+{"sub": "Buckeystown", "obj": "Maryland"}
+{"sub": "Johns Hopkins University", "obj": "Maryland"}
+{"sub": "Maryland Route 224", "obj": "Maryland"}
+{"sub": "Maryland Route 100", "obj": "Maryland"}
+{"sub": "Susquehanna River", "obj": "Maryland"}
+{"sub": "Walter Reed National Military Medical Center", "obj": "Maryland"}
+{"sub": "Maryland Route 392", "obj": "Maryland"}
+{"sub": "M&T Bank Stadium", "obj": "Maryland"}
+{"sub": "Maryland Route 304", "obj": "Maryland"}
+{"sub": "Savage Mill", "obj": "Maryland"}
+{"sub": "Loy Yang Power Station", "obj": "Victoria"}
+{"sub": "Latrobe River", "obj": "Victoria"}
+{"sub": "Sturt Highway", "obj": "Victoria"}
+{"sub": "Geelong Art Gallery", "obj": "Victoria"}
+{"sub": "Toora", "obj": "Victoria"}
+{"sub": "Baw Baw National Park", "obj": "Victoria"}
+{"sub": "Rupanyup", "obj": "Victoria"}
+{"sub": "Calder Freeway", "obj": "Victoria"}
+{"sub": "Swifts Creek", "obj": "Victoria"}
+{"sub": "Kangaroo Ground", "obj": "Victoria"}
+{"sub": "Electoral district of South Bourke", "obj": "Victoria"}
+{"sub": "Mount St Gwinear", "obj": "Victoria"}
+{"sub": "Shire of Mount Alexander", "obj": "Victoria"}
+{"sub": "Dandenong", "obj": "Victoria"}
+{"sub": "Tyabb", "obj": "Victoria"}
+{"sub": "Bonegilla Migrant Reception and Training Centre", "obj": "Victoria"}
+{"sub": "Illinois Route 21", "obj": "Illinois"}
+{"sub": "Cuba", "obj": "Illinois"}
+{"sub": "Illinois Route 9", "obj": "Illinois"}
+{"sub": "Fermilab", "obj": "Illinois"}
+{"sub": "Piatt County", "obj": "Illinois"}
+{"sub": "Piasa", "obj": "Illinois"}
+{"sub": "Lake Bluff", "obj": "Illinois"}
+{"sub": "Gateway Motorsports Park", "obj": "Illinois"}
+{"sub": "Chicago River", "obj": "Illinois"}
+{"sub": "Crab Orchard National Wildlife Refuge", "obj": "Illinois"}
+{"sub": "DuPage County", "obj": "Illinois"}
+{"sub": "Arthur", "obj": "Illinois"}
+{"sub": "Illinois Route 394", "obj": "Illinois"}
+{"sub": "Interstate 255", "obj": "Illinois"}
+{"sub": "Mount Carmel", "obj": "Illinois"}
+{"sub": "Gympie North railway station", "obj": "Queensland"}
+{"sub": "Redland Bay", "obj": "Queensland"}
+{"sub": "Riverway, Townsville", "obj": "Queensland"}
+{"sub": "Many Peaks", "obj": "Queensland"}
+{"sub": "90.3 ABC Sunshine Coast", "obj": "Queensland"}
+{"sub": "Marsden State High School", "obj": "Queensland"}
+{"sub": "Lone Pine Koala Sanctuary", "obj": "Queensland"}
+{"sub": "Coomera River", "obj": "Queensland"}
+{"sub": "Newstead House Board of Trustees", "obj": "Queensland"}
+{"sub": "Riverside Expressway", "obj": "Queensland"}
+{"sub": "Noosa Heads", "obj": "Queensland"}
+{"sub": "City of Hervey Bay", "obj": "Queensland"}
+{"sub": "Ipswich", "obj": "Queensland"}
+{"sub": "Wesley Hospital", "obj": "Queensland"}
+{"sub": "Helensvale railway station", "obj": "Queensland"}
+{"sub": "Zoo Miami", "obj": "Florida"}
+{"sub": "Bone Valley", "obj": "Florida"}
+{"sub": "McKinley Climatic Laboratory", "obj": "Florida"}
+{"sub": "Sugarloaf Key", "obj": "Florida"}
+{"sub": "Paynes Prairie", "obj": "Florida"}
+{"sub": "WMTX", "obj": "Florida"}
+{"sub": "New Smyrna Speedway", "obj": "Florida"}
+{"sub": "U.S. Route 129 in Florida", "obj": "Florida"}
+{"sub": "Disney's Hollywood Studios", "obj": "Florida"}
+{"sub": "Kennedy Space Center", "obj": "Florida"}
+{"sub": "Downtown Orlando", "obj": "Florida"}
+{"sub": "Florida International University", "obj": "Florida"}
+{"sub": "Gasparilla Island", "obj": "Florida"}
+{"sub": "North Las Vegas Airport", "obj": "Nevada"}
+{"sub": "World Market Center Las Vegas", "obj": "Nevada"}
+{"sub": "East Humboldt Range", "obj": "Nevada"}
+{"sub": "Nevada State Route 147", "obj": "Nevada"}
+{"sub": "Operation Teapot", "obj": "Nevada"}
+{"sub": "Nevada State Route 599", "obj": "Nevada"}
+{"sub": "Schell Creek Range", "obj": "Nevada"}
+{"sub": "Nevada State Route 535", "obj": "Nevada"}
+{"sub": "Spirit Mountain Wilderness", "obj": "Nevada"}
+{"sub": "Mount Rose (Nevada)", "obj": "Nevada"}
+{"sub": "Nevada Cancer Institute", "obj": "Nevada"}
+{"sub": "La Bayou", "obj": "Nevada"}
+{"sub": "Pershing County", "obj": "Nevada"}
+{"sub": "Ohio State Route 125", "obj": "Ohio"}
+{"sub": "Covelli Centre", "obj": "Ohio"}
+{"sub": "Gnadenhutten massacre", "obj": "Ohio"}
+{"sub": "Ohio State Route 315", "obj": "Ohio"}
+{"sub": "Ohio gubernatorial elections", "obj": "Ohio"}
+{"sub": "Conneaut Creek", "obj": "Ohio"}
+{"sub": "Otterbein University", "obj": "Ohio"}
+{"sub": "Ohio State Route 108", "obj": "Ohio"}
+{"sub": "Ohio State Route 4", "obj": "Ohio"}
+{"sub": "Ohio State Route 2", "obj": "Ohio"}
+{"sub": "Rickenbacker Air National Guard Base", "obj": "Ohio"}
+{"sub": "Fenn Tower", "obj": "Ohio"}
+{"sub": "Slaithwaite", "obj": "England"}
+{"sub": "Cookley", "obj": "England"}
+{"sub": "Wavertree", "obj": "England"}
+{"sub": "Henbury", "obj": "England"}
+{"sub": "Brownhills", "obj": "England"}
+{"sub": "Thirteen Colonies", "obj": "England"}
+{"sub": "County of London", "obj": "England"}
+{"sub": "Crook, County Durham", "obj": "England"}
+{"sub": "Broughton in Furness", "obj": "England"}
+{"sub": "Bedworth", "obj": "England"}
+{"sub": "Wiseton", "obj": "England"}
+{"sub": "home counties", "obj": "England"}
+{"sub": "Holland, Manitoba", "obj": "Manitoba"}
+{"sub": "Manitoba Highway 1", "obj": "Manitoba"}
+{"sub": "Long Plain First Nation", "obj": "Manitoba"}
+{"sub": "Flin Flon", "obj": "Manitoba"}
+{"sub": "Assiniboine Community College", "obj": "Manitoba"}
+{"sub": "Point Douglas", "obj": "Manitoba"}
+{"sub": "East Kildonan, Winnipeg", "obj": "Manitoba"}
+{"sub": "South Indian Lake, Manitoba", "obj": "Manitoba"}
+{"sub": "Porcupine Hills", "obj": "Manitoba"}
+{"sub": "Poplar River First Nation", "obj": "Manitoba"}
+{"sub": "Berens River", "obj": "Manitoba"}
+{"sub": "White Stag sign", "obj": "Oregon"}
+{"sub": "Sam Hill Memorial Bridge", "obj": "Oregon"}
+{"sub": "Klaskanine River", "obj": "Oregon"}
+{"sub": "Interstate 82", "obj": "Oregon"}
+{"sub": "Kingsley Field Air National Guard Base", "obj": "Oregon"}
+{"sub": "Willamette Valley AVA", "obj": "Oregon"}
+{"sub": "Celilo Village", "obj": "Oregon"}
+{"sub": "Tom McCall Waterfront Park", "obj": "Oregon"}
+{"sub": "Oregon Route 8", "obj": "Oregon"}
+{"sub": "U.S. Route 20 in Oregon", "obj": "Oregon"}
+{"sub": "Virginia State Route 156", "obj": "Virginia"}
+{"sub": "Hanover Tavern", "obj": "Virginia"}
+{"sub": "Luray Caverns", "obj": "Virginia"}
+{"sub": "Virginia State Route 33", "obj": "Virginia"}
+{"sub": "Interstate 64 in Virginia", "obj": "Virginia"}
+{"sub": "Patrick Henry College", "obj": "Virginia"}
+{"sub": "Manassas Regional Airport", "obj": "Virginia"}
+{"sub": "Church Hill Tunnel", "obj": "Virginia"}
+{"sub": "Norfolk State University", "obj": "Virginia"}
+{"sub": "Bluefield College", "obj": "Virginia"}
+{"sub": "Edmonton City Centre (Blatchford Field) Airport", "obj": "Alberta"}
+{"sub": "Clearwater Formation", "obj": "Alberta"}
+{"sub": "Albian Sands", "obj": "Alberta"}
+{"sub": "Vermilion Pass", "obj": "Alberta"}
+{"sub": "Rosebud River", "obj": "Alberta"}
+{"sub": "Downtown East Village, Calgary", "obj": "Alberta"}
+{"sub": "Servus Credit Union Place", "obj": "Alberta"}
+{"sub": "Redwood Meadows, Alberta", "obj": "Alberta"}
+{"sub": "Olds College", "obj": "Alberta"}
+{"sub": "Parkland County", "obj": "Alberta"}
+{"sub": "Shetland Islands", "obj": "Scotland"}
+{"sub": "Findhorn Foundation", "obj": "Scotland"}
+{"sub": "Holyrood Secondary School", "obj": "Scotland"}
+{"sub": "North Berwick", "obj": "Scotland"}
+{"sub": "Auchenharvie Castle", "obj": "Scotland"}
+{"sub": "Foulis Castle", "obj": "Scotland"}
+{"sub": "Isle of Raasay", "obj": "Scotland"}
+{"sub": "Muchalls Castle", "obj": "Scotland"}
+{"sub": "Fingask Castle", "obj": "Scotland"}
+{"sub": "Judith River Group", "obj": "Saskatchewan"}
+{"sub": "Asquith", "obj": "Saskatchewan"}
+{"sub": "Tobin Lake", "obj": "Saskatchewan"}
+{"sub": "Punnichy", "obj": "Saskatchewan"}
+{"sub": "Agriculture in Saskatchewan", "obj": "Saskatchewan"}
+{"sub": "North Portal", "obj": "Saskatchewan"}
+{"sub": "Idylwyld Drive", "obj": "Saskatchewan"}
+{"sub": "Saskatchewan River Forks", "obj": "Saskatchewan"}
+{"sub": "Saskatchewan Highway 11", "obj": "Saskatchewan"}
+{"sub": "Amreli district", "obj": "Gujarat"}
+{"sub": "Lakhpat", "obj": "Gujarat"}
+{"sub": "Kosamba", "obj": "Gujarat"}
+{"sub": "Limbdi", "obj": "Gujarat"}
+{"sub": "Vadnagar", "obj": "Gujarat"}
+{"sub": "Dakor", "obj": "Gujarat"}
+{"sub": "Khedoi", "obj": "Gujarat"}
+{"sub": "Wadhwan", "obj": "Gujarat"}
+{"sub": "Botad", "obj": "Gujarat"}
+{"sub": "Alabama Theatre", "obj": "Alabama"}
+{"sub": "Marshall Space Flight Center", "obj": "Alabama"}
+{"sub": "Alabama Splash Adventure", "obj": "Alabama"}
+{"sub": "Autauga County", "obj": "Alabama"}
+{"sub": "Alabama State Route 20", "obj": "Alabama"}
+{"sub": "Miles College", "obj": "Alabama"}
+{"sub": "Prattville High School", "obj": "Alabama"}
+{"sub": "Gunter Annex", "obj": "Alabama"}
+{"sub": "Alabama State University", "obj": "Alabama"}
+{"sub": "M-129", "obj": "Michigan"}
+{"sub": "Interstate 69", "obj": "Michigan"}
+{"sub": "M-140", "obj": "Michigan"}
+{"sub": "Michigan meridian", "obj": "Michigan"}
+{"sub": "Muskegon River", "obj": "Michigan"}
+{"sub": "Kalamazoo County", "obj": "Michigan"}
+{"sub": "Leelanau Peninsula", "obj": "Michigan"}
+{"sub": "Andrews University", "obj": "Michigan"}
+{"sub": "Minnesota State Highway 36", "obj": "Minnesota"}
+{"sub": "Pinecreek", "obj": "Minnesota"}
+{"sub": "Leech Lake", "obj": "Minnesota"}
+{"sub": "KSTP-FM", "obj": "Minnesota"}
+{"sub": "Edina High School", "obj": "Minnesota"}
+{"sub": "Leech Lake Indian Reservation", "obj": "Minnesota"}
+{"sub": "Minnesota State Highway 21", "obj": "Minnesota"}
+{"sub": "North Hennepin Community College", "obj": "Minnesota"}
+{"sub": "Sitkalidak Island", "obj": "Alaska"}
+{"sub": "Yukon Flats National Wildlife Refuge", "obj": "Alaska"}
+{"sub": "Atna Peaks", "obj": "Alaska"}
+{"sub": "Kupreanof Island", "obj": "Alaska"}
+{"sub": "Southeast Fairbanks Census Area", "obj": "Alaska"}
+{"sub": "Coast Mountains", "obj": "Alaska"}
+{"sub": "Mount Saint Elias", "obj": "Alaska"}
+{"sub": "Bering Glacier", "obj": "Alaska"}
+{"sub": "Louisiana Highway 91", "obj": "Louisiana"}
+{"sub": "Breaux Bridge", "obj": "Louisiana"}
+{"sub": "Iberia Parish", "obj": "Louisiana"}
+{"sub": "Louisiana Highway 28", "obj": "Louisiana"}
+{"sub": "Cloutierville", "obj": "Louisiana"}
+{"sub": "Terrebonne Parish", "obj": "Louisiana"}
+{"sub": "Jennings", "obj": "Louisiana"}
+{"sub": "Barksdale Air Force Base", "obj": "Louisiana"}
+{"sub": "mumok", "obj": "Vienna"}
+{"sub": "University of Music and Performing Arts Vienna", "obj": "Vienna"}
+{"sub": "Raimund Theater", "obj": "Vienna"}
+{"sub": "Liechtenstein Museum", "obj": "Vienna"}
+{"sub": "Rotunde (Vienna)", "obj": "Vienna"}
+{"sub": "Haas House", "obj": "Vienna"}
+{"sub": "Josefstadt", "obj": "Vienna"}
+{"sub": "Vienna International Centre", "obj": "Vienna"}
+{"sub": "Interstate 75", "obj": "Tennessee"}
+{"sub": "Cumberland University", "obj": "Tennessee"}
+{"sub": "Fort Nashborough", "obj": "Tennessee"}
+{"sub": "Fall Creek Falls State Park", "obj": "Tennessee"}
+{"sub": "Maury County", "obj": "Tennessee"}
+{"sub": "Knoxville metropolitan area", "obj": "Tennessee"}
+{"sub": "West Tennessee", "obj": "Tennessee"}
+{"sub": "Union University", "obj": "Tennessee"}
+{"sub": "Millwood Lake", "obj": "Arkansas"}
+{"sub": "Ouachita National Forest", "obj": "Arkansas"}
+{"sub": "Hope", "obj": "Arkansas"}
+{"sub": "Pulaski County Special School District", "obj": "Arkansas"}
+{"sub": "Walton Arts Center", "obj": "Arkansas"}
+{"sub": "Pea Ridge National Military Park", "obj": "Arkansas"}
+{"sub": "Dogpatch USA", "obj": "Arkansas"}
+{"sub": "Poncha Pass", "obj": "Colorado"}
+{"sub": "Arapaho National Wildlife Refuge", "obj": "Colorado"}
+{"sub": "Anschutz Medical Campus", "obj": "Colorado"}
+{"sub": "Torreys Peak", "obj": "Colorado"}
+{"sub": "Fort Collins Municipal Railway", "obj": "Colorado"}
+{"sub": "Longs Peak", "obj": "Colorado"}
+{"sub": "Rocky Mountain National Park", "obj": "Colorado"}
+{"sub": "Pomfret School", "obj": "Connecticut"}
+{"sub": "Hamden Hall Country Day School", "obj": "Connecticut"}
+{"sub": "Connecticut Route 12", "obj": "Connecticut"}
+{"sub": "Squantz Pond State Park", "obj": "Connecticut"}
+{"sub": "Connecticut Route 183", "obj": "Connecticut"}
+{"sub": "Stratford Army Engine Plant", "obj": "Connecticut"}
+{"sub": "North Stonington", "obj": "Connecticut"}
+{"sub": "Kuthiyathodu grama panchayat", "obj": "Kerala"}
+{"sub": "Kurinjimala Sanctuary", "obj": "Kerala"}
+{"sub": "Devikulam", "obj": "Kerala"}
+{"sub": "Marad massacre", "obj": "Kerala"}
+{"sub": "Alathur", "obj": "Kerala"}
+{"sub": "Payyavoor", "obj": "Kerala"}
+{"sub": "Ezhupunna", "obj": "Kerala"}
+{"sub": "Uinta Basin", "obj": "Utah"}
+{"sub": "Box Elder County", "obj": "Utah"}
+{"sub": "Zion Canyon", "obj": "Utah"}
+{"sub": "Little Bear River", "obj": "Utah"}
+{"sub": "Utah State Route 152", "obj": "Utah"}
+{"sub": "Utah County", "obj": "Utah"}
+{"sub": "Raft River Mountains", "obj": "Utah"}
+{"sub": "Antelope Canyon", "obj": "Arizona"}
+{"sub": "Boundary Cone", "obj": "Arizona"}
+{"sub": "Growler Valley", "obj": "Arizona"}
+{"sub": "Phoenix Symphony Hall", "obj": "Arizona"}
+{"sub": "Wallow Fire", "obj": "Arizona"}
+{"sub": "Grand Canyon National Park Airport", "obj": "Arizona"}
+{"sub": "KMVP-FM", "obj": "Arizona"}
+{"sub": "Christ Church Cathedral, Indianapolis", "obj": "Indiana"}
+{"sub": "Stout Army Air Field", "obj": "Indiana"}
+{"sub": "U.S. Route 30 in Indiana", "obj": "Indiana"}
+{"sub": "Marian High School (Mishawaka, Indiana)", "obj": "Indiana"}
+{"sub": "Muncie Central High School", "obj": "Indiana"}
+{"sub": "Circle Centre", "obj": "Indiana"}
+{"sub": "UL Bend National Wildlife Refuge", "obj": "Montana"}
+{"sub": "Yellowstone National Park", "obj": "Montana"}
+{"sub": "Little Belt Mountains", "obj": "Montana"}
+{"sub": "Bitterroot Mountains", "obj": "Montana"}
+{"sub": "Libby Dam", "obj": "Montana"}
+{"sub": "Bighorn River", "obj": "Montana"}
+{"sub": "Lions' Gate", "obj": "Jerusalem"}
+{"sub": "Bais Hatalmud", "obj": "Jerusalem"}
+{"sub": "Mount Herzl", "obj": "Jerusalem"}
+{"sub": "Kiryat Moshe", "obj": "Jerusalem"}
+{"sub": "Malha", "obj": "Jerusalem"}
+{"sub": "Al-Aqsa Mosque", "obj": "Jerusalem"}
+{"sub": "Ostankinsky District", "obj": "Moscow"}
+{"sub": "Moscow State Pedagogical University", "obj": "Moscow"}
+{"sub": "Losiny Ostrov National Park", "obj": "Moscow"}
+{"sub": "Donskoy Monastery", "obj": "Moscow"}
+{"sub": "Dorogomilovo District", "obj": "Moscow"}
+{"sub": "Lefortovo District", "obj": "Moscow"}
+{"sub": "2013 Internazionali BNL d'Italia", "obj": "Rome"}
+{"sub": "Roma Termini railway station", "obj": "Rome"}
+{"sub": "Palazzo Borghese", "obj": "Rome"}
+{"sub": "Via Ardeatina", "obj": "Rome"}
+{"sub": "Stefaneschi Triptych", "obj": "Rome"}
+{"sub": "Altare della Patria", "obj": "Rome"}
+{"sub": "Antalya Province", "obj": "Turkey"}
+{"sub": "Osmaniye Province", "obj": "Turkey"}
+{"sub": "Edirne Province", "obj": "Turkey"}
+{"sub": "Samsun Province", "obj": "Turkey"}
+{"sub": "Burdur Province", "obj": "Turkey"}
+{"sub": "Nagaland", "obj": "India"}
+{"sub": "Mizoram", "obj": "India"}
+{"sub": "Dr. Babasaheb Ambedkar Marathwada University", "obj": "India"}
+{"sub": "Bureau of Indian Standards", "obj": "India"}
+{"sub": "Sikkim", "obj": "India"}
+{"sub": "University of Paris III: Sorbonne Nouvelle", "obj": "Paris"}
+{"sub": "Pont du Carrousel", "obj": "Paris"}
+{"sub": "pont Notre-Dame", "obj": "Paris"}
+{"sub": "15th arrondissement of Paris", "obj": "Paris"}
+{"sub": "Galerie des Machines", "obj": "Paris"}
+{"sub": "Honey War", "obj": "Missouri"}
+{"sub": "Waynesville School District", "obj": "Missouri"}
+{"sub": "Missouri Route 52", "obj": "Missouri"}
+{"sub": "St. Louis", "obj": "Missouri"}
+{"sub": "Mark Twain National Forest", "obj": "Missouri"}
+{"sub": "Brooklyn Navy Yard", "obj": "Brooklyn"}
+{"sub": "Medgar Evers College", "obj": "Brooklyn"}
+{"sub": "Kosciuszko Bridge", "obj": "Brooklyn"}
+{"sub": "Bishop Loughlin Memorial High School", "obj": "Brooklyn"}
+{"sub": "Kingsborough Community College", "obj": "Brooklyn"}
+{"sub": "Manipal University", "obj": "Karnataka"}
+{"sub": "Uttangi", "obj": "Karnataka"}
+{"sub": "Kuppalli", "obj": "Karnataka"}
+{"sub": "Maravanthe", "obj": "Karnataka"}
+{"sub": "Bidar Lok Sabha constituency", "obj": "Karnataka"}
+{"sub": "Place Bonaventure", "obj": "Quebec"}
+{"sub": "Ottawa River", "obj": "Quebec"}
+{"sub": "Lake Abitibi", "obj": "Quebec"}
+{"sub": "Great Whale River", "obj": "Quebec"}
+{"sub": "Mauricie", "obj": "Quebec"}
+{"sub": "Torresdale", "obj": "Philadelphia"}
+{"sub": "Moyamensing", "obj": "Philadelphia"}
+{"sub": "Swann Memorial Fountain", "obj": "Philadelphia"}
+{"sub": "Lincoln Financial Field", "obj": "Philadelphia"}
+{"sub": "Southwest Philadelphia", "obj": "Philadelphia"}
+{"sub": "Jane Franklin Hall", "obj": "Tasmania"}
+{"sub": "Liffey River", "obj": "Tasmania"}
+{"sub": "936 ABC Hobart", "obj": "Tasmania"}
+{"sub": "Somerset Land District", "obj": "Tasmania"}
+{"sub": "Ca' Pesaro", "obj": "Venice"}
+{"sub": "Museo Correr", "obj": "Venice"}
+{"sub": "Palazzo Contarini del Bovolo", "obj": "Venice"}
+{"sub": "Punta della Dogana", "obj": "Venice"}
+{"sub": "Ceredigion County Council", "obj": "Wales"}
+{"sub": "Vale of Glamorgan", "obj": "Wales"}
+{"sub": "Llanegryn", "obj": "Wales"}
+{"sub": "Rhayader", "obj": "Wales"}
+{"sub": "Western Kentucky University", "obj": "Kentucky"}
+{"sub": "Berea College", "obj": "Kentucky"}
+{"sub": "32nd Indiana Monument", "obj": "Kentucky"}
+{"sub": "Kentucky Route 3", "obj": "Kentucky"}
+{"sub": "Boroughmuir High School", "obj": "Edinburgh"}
+{"sub": "New Club, Edinburgh", "obj": "Edinburgh"}
+{"sub": "National War Museum", "obj": "Edinburgh"}
+{"sub": "Portobello, Edinburgh", "obj": "Edinburgh"}
+{"sub": "A53 road", "obj": "Shropshire"}
+{"sub": "Coalport", "obj": "Shropshire"}
+{"sub": "Telford and Wrekin", "obj": "Shropshire"}
+{"sub": "Acton Burnell Castle", "obj": "Shropshire"}
+{"sub": "Massachusetts Bay Transportation Authority", "obj": "Boston"}
+{"sub": "South Boston", "obj": "Boston"}
+{"sub": "University of Massachusetts Boston", "obj": "Boston"}
+{"sub": "North Shore Medical Center", "obj": "Boston"}
+{"sub": "Araria district", "obj": "Bihar"}
+{"sub": "Saharsa district", "obj": "Bihar"}
+{"sub": "Madhepura district", "obj": "Bihar"}
+{"sub": "Champapur", "obj": "Bihar"}
+{"sub": "Sultan Ahmed Mosque", "obj": "Istanbul"}
+{"sub": "Galata", "obj": "Istanbul"}
+{"sub": "Galatasaray High School", "obj": "Istanbul"}
+{"sub": "Istanbul Technical University", "obj": "Istanbul"}
+{"sub": "Schofield Barracks", "obj": "Hawaii"}
+{"sub": "Mauna Kea", "obj": "Hawaii"}
+{"sub": "Camp Tarawa", "obj": "Hawaii"}
+{"sub": "Farrington High School", "obj": "Hawaii"}
+{"sub": "Norwegian Museum of Cultural History", "obj": "Oslo"}
+{"sub": "Festning Tunnel", "obj": "Oslo"}
+{"sub": "Oslo Central Station", "obj": "Oslo"}
+{"sub": "Nordstrand IF", "obj": "Oslo"}
+{"sub": "City of Melbourne", "obj": "Melbourne"}
+{"sub": "Shire of Nillumbik", "obj": "Melbourne"}
+{"sub": "City of Boroondara", "obj": "Melbourne"}
+{"sub": "State Library of Victoria", "obj": "Melbourne"}
+{"sub": "Wythenshawe Hall", "obj": "Manchester"}
+{"sub": "Heaton Park", "obj": "Manchester"}
+{"sub": "Manchester Central Convention Complex", "obj": "Manchester"}
+{"sub": "Cornerhouse", "obj": "Manchester"}
+{"sub": "Jewish Museum", "obj": "Berlin"}
+{"sub": "Griebnitz Canal", "obj": "Berlin"}
+{"sub": "Berlin State Opera", "obj": "Berlin"}
+{"sub": "Schwules Museum", "obj": "Berlin"}
+{"sub": "McClain County", "obj": "Oklahoma"}
+{"sub": "WinStar World Casino", "obj": "Oklahoma"}
+{"sub": "Turkey Mountain Urban Wilderness Area", "obj": "Oklahoma"}
+{"sub": "Garvin County", "obj": "Oklahoma"}
+{"sub": "Overmonnow", "obj": "Monmouth"}
+{"sub": "Monmouth Police Station", "obj": "Monmouth"}
+{"sub": "Monmouth Regimental Museum", "obj": "Monmouth"}
+{"sub": "Kotturpuram", "obj": "Chennai"}
+{"sub": "Chennai Mathematical Institute", "obj": "Chennai"}
+{"sub": "Padi, Chennai", "obj": "Chennai"}
+{"sub": "Nares Strait", "obj": "Greenland"}
+{"sub": "Thule people", "obj": "Greenland"}
+{"sub": "Air Alpha Greenland", "obj": "Greenland"}
+{"sub": "A229 road", "obj": "Kent"}
+{"sub": "A227 road", "obj": "Kent"}
+{"sub": "Sittingbourne F.C.", "obj": "Kent"}
+{"sub": "West Ardsley", "obj": "Leeds"}
+{"sub": "Drighlington", "obj": "Leeds"}
+{"sub": "Leeds Beckett University", "obj": "Leeds"}
+{"sub": "Bandra", "obj": "Mumbai"}
+{"sub": "Andheri", "obj": "Mumbai"}
+{"sub": "Industrial Design Centre", "obj": "Mumbai"}
+{"sub": "Oxshott", "obj": "Surrey"}
+{"sub": "A25 road", "obj": "Surrey"}
+{"sub": "Holmbury St Mary", "obj": "Surrey"}
+{"sub": "Siazan District", "obj": "Azerbaijan"}
+{"sub": "Astara District", "obj": "Azerbaijan"}
+{"sub": "Absheron District", "obj": "Azerbaijan"}
+{"sub": "Iowa", "obj": "Iowa"}
+{"sub": "Des Moines International Airport", "obj": "Iowa"}
+{"sub": "Poweshiek County", "obj": "Iowa"}
+{"sub": "Cadgwith", "obj": "Cornwall"}
+{"sub": "Braddock, Cornwall", "obj": "Cornwall"}
+{"sub": "Caradon Hill", "obj": "Cornwall"}
+{"sub": "Reverchon Park", "obj": "Dallas"}
+{"sub": "Dallas Public Library", "obj": "Dallas"}
+{"sub": "assassination of John F. Kennedy", "obj": "Dallas"}
+{"sub": "Ashridge", "obj": "Hertfordshire"}
+{"sub": "Lemsford", "obj": "Hertfordshire"}
+{"sub": "Hitchin", "obj": "Hertfordshire"}
+{"sub": "Lake Constance", "obj": "Bavaria"}
+{"sub": "Spessart", "obj": "Bavaria"}
+{"sub": "Regnitz", "obj": "Bavaria"}
+{"sub": "Lwengo District", "obj": "Uganda"}
+{"sub": "Alebtong District", "obj": "Uganda"}
+{"sub": "Koboko District", "obj": "Uganda"}
+{"sub": "Nakheel Tower", "obj": "Dubai"}
+{"sub": "Rose Tower", "obj": "Dubai"}
+{"sub": "Al Shindagha", "obj": "Dubai"}
+{"sub": "Penclawdd", "obj": "Swansea"}
+{"sub": "National Waterfront Museum", "obj": "Swansea"}
+{"sub": "Gorseinon", "obj": "Swansea"}
+{"sub": "Canton Tower", "obj": "Guangzhou"}
+{"sub": "Liwan District", "obj": "Guangzhou"}
+{"sub": "Haizhu District", "obj": "Guangzhou"}
+{"sub": "Gangseo District", "obj": "Seoul"}
+{"sub": "Myongji University", "obj": "Seoul"}
+{"sub": "Seoul station", "obj": "Seoul"}
+{"sub": "Shippon", "obj": "Oxfordshire"}
+{"sub": "River Thames", "obj": "Oxfordshire"}
+{"sub": "Horton General Hospital", "obj": "Oxfordshire"}
+{"sub": "El Tarf Province", "obj": "Algeria"}
+{"sub": "M'Sila Province", "obj": "Algeria"}
+{"sub": "El Oued Province", "obj": "Algeria"}
+{"sub": "National Museum Cardiff", "obj": "Cardiff"}
+{"sub": "Llandaff Cathedral", "obj": "Cardiff"}
+{"sub": "Coal Exchange", "obj": "Cardiff"}
+{"sub": "Atpadi", "obj": "Maharashtra"}
+{"sub": "Rewas", "obj": "Maharashtra"}
+{"sub": "Dhule Lok Sabha constituency", "obj": "Maharashtra"}
+{"sub": "Hotel Bristol", "obj": "Warsaw"}
+{"sub": "Fryderyk Chopin University of Music", "obj": "Warsaw"}
+{"sub": "Warszawa Wschodnia Osobowa railway station", "obj": "Warsaw"}
+{"sub": "Centre Pierre Charbonneau", "obj": "Montreal"}
+{"sub": "Union Montreal", "obj": "Montreal"}
+{"sub": "Royal Montreal Golf Club", "obj": "Montreal"}
+{"sub": "Cheyenne Frontier Days", "obj": "Wyoming"}
+{"sub": "Fossil Butte National Monument", "obj": "Wyoming"}
+{"sub": "Bighorn Basin", "obj": "Wyoming"}
+{"sub": "Manica Province", "obj": "Mozambique"}
+{"sub": "Cabo Delgado Province", "obj": "Mozambique"}
+{"sub": "Tete Province", "obj": "Mozambique"}
+{"sub": "Nou Barris", "obj": "Barcelona"}
+{"sub": "Bon Pastor", "obj": "Barcelona"}
+{"sub": "Open University of Catalonia", "obj": "Barcelona"}
+{"sub": "Battambang Province", "obj": "Cambodia"}
+{"sub": "Prey Veng Province", "obj": "Cambodia"}
+{"sub": "Kampong Thom Province", "obj": "Cambodia"}
+{"sub": "Castle Morpeth", "obj": "Northumberland"}
+{"sub": "A697 road", "obj": "Northumberland"}
+{"sub": "Ford Castle", "obj": "Northumberland"}
+{"sub": "Area codes 402 and 531", "obj": "Nebraska"}
+{"sub": "Wildcat Hills", "obj": "Nebraska"}
+{"sub": "Porsche Museum", "obj": "Stuttgart"}
+{"sub": "Stuttgart-Bad Cannstatt station", "obj": "Stuttgart"}
+{"sub": "University of Vermont", "obj": "Burlington"}
+{"sub": "WEZF", "obj": "Burlington"}
+{"sub": "Politecnico di Milano", "obj": "Milan"}
+{"sub": "Milano Centrale railway station", "obj": "Milan"}
+{"sub": "Central European University", "obj": "Budapest"}
+{"sub": "Franz Liszt Academy of Music", "obj": "Budapest"}
+{"sub": "Monument to the Battle of the Nations", "obj": "Leipzig"}
+{"sub": "Augustusplatz", "obj": "Leipzig"}
+{"sub": "Alexandra Palace railway station", "obj": "London"}
+{"sub": "Royal National Theatre", "obj": "London"}
+{"sub": "Castle", "obj": "Belfast"}
+{"sub": "Lanyon Place railway station", "obj": "Belfast"}
+{"sub": "Jatinga", "obj": "Assam"}
+{"sub": "Hailakandi district", "obj": "Assam"}
+{"sub": "Covasna County", "obj": "Romania"}
+{"sub": "Vrancea County", "obj": "Romania"}
+{"sub": "Wisconsin Highway 101", "obj": "Wisconsin"}
+{"sub": "Windigo Lake", "obj": "Wisconsin"}
+{"sub": "Perry Barr", "obj": "Birmingham"}
+{"sub": "Birmingham Repertory Theatre", "obj": "Birmingham"}
+{"sub": "Southampton Castle", "obj": "Southampton"}
+{"sub": "University of Southampton", "obj": "Southampton"}
+{"sub": "Saladin Governorate", "obj": "Iraq"}
+{"sub": "Al Muthanna Governorate", "obj": "Iraq"}
+{"sub": "Brickell Key", "obj": "Miami"}
+{"sub": "Watson Island", "obj": "Miami"}
+{"sub": "Davao Region", "obj": "Philippines"}
+{"sub": "Bicol Region", "obj": "Philippines"}
+{"sub": "Alba Iulia", "obj": "Alba"}
+{"sub": "Albac", "obj": "Alba"}
+{"sub": "Sheaf Square", "obj": "Sheffield"}
+{"sub": "Crucible Theatre", "obj": "Sheffield"}
+{"sub": "Charles Lang Freer House", "obj": "Detroit"}
+{"sub": "Neighborhoods in Detroit", "obj": "Detroit"}
+{"sub": "Mykolaiv Oblast", "obj": "Ukraine"}
+{"sub": "Ternopil Oblast", "obj": "Ukraine"}
+{"sub": "Punjabi University", "obj": "Punjab"}
+{"sub": "Tarn Taran district", "obj": "Punjab"}
+{"sub": "Nez Perce County", "obj": "Idaho"}
+{"sub": "Black Pine Mountains", "obj": "Idaho"}
+{"sub": "Barkatpura", "obj": "Hyderabad"}
+{"sub": "Jubilee Hills", "obj": "Hyderabad"}
+{"sub": "Damascus University", "obj": "Damascus"}
+{"sub": "Al-Midan", "obj": "Damascus"}
+{"sub": "Fife Coastal Path", "obj": "Fife"}
+{"sub": "Cupar", "obj": "Fife"}
+{"sub": "Zarqa Governorate", "obj": "Jordan"}
+{"sub": "Ma'an Governorate", "obj": "Jordan"}
+{"sub": "Minhang District", "obj": "Shanghai"}
+{"sub": "Shanghai Ghetto", "obj": "Shanghai"}
+{"sub": "Vermont Route 108", "obj": "Vermont"}
+{"sub": "Halls Stream", "obj": "Vermont"}
+{"sub": "Boscombe", "obj": "Dorset"}
+{"sub": "Poole Harbour", "obj": "Dorset"}
+{"sub": "Bern Theatre", "obj": "Bern"}
+{"sub": "Old City of Bern", "obj": "Bern"}
+{"sub": "Wychavon", "obj": "Worcestershire"}
+{"sub": "Bromsgrove", "obj": "Worcestershire"}
+{"sub": "Salzburg Cathedral", "obj": "Salzburg"}
+{"sub": "Residenzgalerie", "obj": "Salzburg"}

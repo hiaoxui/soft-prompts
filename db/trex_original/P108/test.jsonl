@@ -1,0 +1,383 @@
+{"sub": "Steve Jobs", "obj": "Apple"}
+{"sub": "Steve Wozniak", "obj": "Apple"}
+{"sub": "Paul Allen", "obj": "Microsoft"}
+{"sub": "Satya Nadella", "obj": "Microsoft"}
+{"sub": "Jeremy Paxman", "obj": "BBC"}
+{"sub": "Andrew Marr", "obj": "BBC"}
+{"sub": "David Dimbleby", "obj": "BBC"}
+{"sub": "Grady Booch", "obj": "IBM"}
+{"sub": "Horst Feistel", "obj": "IBM"}
+{"sub": "Philip Don Estridge", "obj": "IBM"}
+{"sub": "Bill Gates", "obj": "Microsoft"}
+{"sub": "Steve Ballmer", "obj": "Microsoft"}
+{"sub": "Abdul Karim", "obj": "Victoria"}
+{"sub": "Jonathan King", "obj": "BBC"}
+{"sub": "Marissa Mayer", "obj": "Google"}
+{"sub": "Dave Hyatt", "obj": "Apple"}
+{"sub": "Jeff Fager", "obj": "CBS"}
+{"sub": "Daniel Filipacchi", "obj": "Elle"}
+{"sub": "Stephen Elop", "obj": "Microsoft"}
+{"sub": "John Sculley", "obj": "Apple"}
+{"sub": "Phil Schiller", "obj": "Apple"}
+{"sub": "Gerd Binnig", "obj": "IBM"}
+{"sub": "Heinrich Rohrer", "obj": "IBM"}
+{"sub": "Brian Krzanich", "obj": "Intel"}
+{"sub": "Satoru Iwata", "obj": "Nintendo"}
+{"sub": "Spike Milligan", "obj": "BBC"}
+{"sub": "Danny Baker", "obj": "BBC"}
+{"sub": "Jeremy Clarkson", "obj": "BBC"}
+{"sub": "Peter Barron", "obj": "Google"}
+{"sub": "John Snagge", "obj": "BBC"}
+{"sub": "Justin Webb", "obj": "BBC"}
+{"sub": "Kenneth Wolstenholme", "obj": "BBC"}
+{"sub": "Terry Wogan", "obj": "BBC"}
+{"sub": "Victoria Derbyshire", "obj": "BBC"}
+{"sub": "Leslie Megahey", "obj": "BBC"}
+{"sub": "Alistair Cooke", "obj": "BBC"}
+{"sub": "Dirk Maggs", "obj": "BBC"}
+{"sub": "P. D. James", "obj": "BBC"}
+{"sub": "Bridget Kendall", "obj": "BBC"}
+{"sub": "Huw Edwards", "obj": "BBC"}
+{"sub": "Adam Curtis", "obj": "BBC"}
+{"sub": "Peter Alliss", "obj": "BBC"}
+{"sub": "Ken Loach", "obj": "BBC"}
+{"sub": "Simon McCoy", "obj": "BBC"}
+{"sub": "Chris Hollins", "obj": "BBC"}
+{"sub": "Charles Simonyi", "obj": "Microsoft"}
+{"sub": "Roly Keating", "obj": "BBC"}
+{"sub": "Glenda Jackson", "obj": "BBC"}
+{"sub": "David Frost", "obj": "BBC"}
+{"sub": "Gwen Ifill", "obj": "PBS"}
+{"sub": "Ernie Wise", "obj": "BBC"}
+{"sub": "Craig Mundie", "obj": "Microsoft"}
+{"sub": "Willy Brandt", "obj": "Berlin"}
+{"sub": "Arthur Oliver Wheeler", "obj": "Canada"}
+{"sub": "Helen Boaden", "obj": "BBC"}
+{"sub": "Alasdair Milne", "obj": "BBC"}
+{"sub": "Marissa Mayer", "obj": "Yahoo"}
+{"sub": "Krishna Bharat", "obj": "Google"}
+{"sub": "Neil Nightingale", "obj": "BBC"}
+{"sub": "Bernard Cribbins", "obj": "BBC"}
+{"sub": "Jan Pieterszoon Sweelinck", "obj": "Amsterdam"}
+{"sub": "Eric Maschwitz", "obj": "BBC"}
+{"sub": "James Landale", "obj": "BBC"}
+{"sub": "Greg Dyke", "obj": "BBC"}
+{"sub": "Fran Unsworth", "obj": "BBC"}
+{"sub": "Gene Amdahl", "obj": "IBM"}
+{"sub": "Geert Hofstede", "obj": "IBM"}
+{"sub": "William Rees-Mogg", "obj": "BBC"}
+{"sub": "Terry Nation", "obj": "BBC"}
+{"sub": "Sue Lawley", "obj": "BBC"}
+{"sub": "Andrew Gilligan", "obj": "BBC"}
+{"sub": "Keith Olbermann", "obj": "ESPN"}
+{"sub": "Peter O'Sullevan", "obj": "BBC"}
+{"sub": "Heather Cox", "obj": "ESPN"}
+{"sub": "Graeme MacDonald", "obj": "BBC"}
+{"sub": "George Bodenheimer", "obj": "ESPN"}
+{"sub": "James Thomas Aubrey, Jr.", "obj": "CBS"}
+{"sub": "Greta Van Susteren", "obj": "CNN"}
+{"sub": "Steve Phillips", "obj": "ESPN"}
+{"sub": "Rolf Harris", "obj": "BBC"}
+{"sub": "Ginni Rometty", "obj": "IBM"}
+{"sub": "Margarita Luti", "obj": "Raphael"}
+{"sub": "Brad Silverberg", "obj": "Microsoft"}
+{"sub": "Gordon Bell", "obj": "Microsoft"}
+{"sub": "William S. Paley", "obj": "CBS"}
+{"sub": "Sid Waddell", "obj": "BBC"}
+{"sub": "Paul Walters", "obj": "BBC"}
+{"sub": "Tim Paterson", "obj": "Microsoft"}
+{"sub": "Adrian Newey", "obj": "McLaren"}
+{"sub": "Victoria Ocampo", "obj": "Sur"}
+{"sub": "Shane McMahon", "obj": "WWE"}
+{"sub": "Laurence Tisch", "obj": "CBS"}
+{"sub": "Mike Wallace", "obj": "CBS"}
+{"sub": "Andrew Neil", "obj": "BBC"}
+{"sub": "John Motson", "obj": "BBC"}
+{"sub": "Chris Cuomo", "obj": "CNN"}
+{"sub": "Shigeru Miyamoto", "obj": "Nintendo"}
+{"sub": "Gavyn Davies", "obj": "BBC"}
+{"sub": "Triple H", "obj": "WWE"}
+{"sub": "Nathan Myhrvold", "obj": "Microsoft"}
+{"sub": "Brandon Tartikoff", "obj": "NBC"}
+{"sub": "Klaus Tschira", "obj": "IBM"}
+{"sub": "Hasso Plattner", "obj": "IBM"}
+{"sub": "William Glock", "obj": "BBC"}
+{"sub": "Ted Lowe", "obj": "BBC"}
+{"sub": "John Inverdale", "obj": "BBC"}
+{"sub": "Paul Mayhew-Archer", "obj": "BBC"}
+{"sub": "Ross Perot", "obj": "IBM"}
+{"sub": "Tim Cook", "obj": "Apple"}
+{"sub": "Robert Peston", "obj": "BBC"}
+{"sub": "Bob Wallace", "obj": "Microsoft"}
+{"sub": "Mal Young", "obj": "BBC"}
+{"sub": "Armando Iannucci", "obj": "BBC"}
+{"sub": "Spencer Kelly", "obj": "BBC"}
+{"sub": "David Coleman", "obj": "BBC"}
+{"sub": "Matthew Pinsent", "obj": "BBC"}
+{"sub": "Alexey Pajitnov", "obj": "Microsoft"}
+{"sub": "Jimmy Hill", "obj": "BBC"}
+{"sub": "Chris Bangle", "obj": "BMW"}
+{"sub": "Ned Sherrin", "obj": "BBC"}
+{"sub": "Leslie Grantham", "obj": "BBC"}
+{"sub": "Margaret Jay, Baroness Jay of Paddington", "obj": "BBC"}
+{"sub": "Peter Simon Pallas", "obj": "Russia"}
+{"sub": "Jonathan Pearce", "obj": "BBC"}
+{"sub": "George Entwistle", "obj": "BBC"}
+{"sub": "Hairy Bikers", "obj": "BBC"}
+{"sub": "Samuel J. Palmisano", "obj": "IBM"}
+{"sub": "Heinrich Daniel Ruhmkorff", "obj": "Paris"}
+{"sub": "UNESCO Goodwill Ambassador", "obj": "UNESCO"}
+{"sub": "Sarah Montague", "obj": "BBC"}
+{"sub": "Paul Wilson, Baron Wilson of High Wray", "obj": "BBC"}
+{"sub": "Hugh Greene", "obj": "BBC"}
+{"sub": "Sean Fletcher", "obj": "BBC"}
+{"sub": "Phillip Schofield", "obj": "BBC"}
+{"sub": "Stephen Fry", "obj": "BBC"}
+{"sub": "Jim Allchin", "obj": "Microsoft"}
+{"sub": "Selina Scott", "obj": "BBC"}
+{"sub": "Nick Ross", "obj": "BBC"}
+{"sub": "John Reith, 1st Baron Reith", "obj": "BBC"}
+{"sub": "Griff Rhys Jones", "obj": "BBC"}
+{"sub": "Gilbert Harding", "obj": "BBC"}
+{"sub": "Keith Fordyce", "obj": "BBC"}
+{"sub": "Glenn Greenwald", "obj": "Salon"}
+{"sub": "Gilles Peterson", "obj": "BBC"}
+{"sub": "Peter M. Bowers", "obj": "Boeing"}
+{"sub": "Carl Kasell", "obj": "NPR"}
+{"sub": "Rageh Omaar", "obj": "BBC"}
+{"sub": "John Birt, Baron Birt", "obj": "BBC"}
+{"sub": "Leslie Moonves", "obj": "CBS"}
+{"sub": "Thomas J. Watson", "obj": "IBM"}
+{"sub": "Dan Le Batard", "obj": "ESPN"}
+{"sub": "Simon Brotherton", "obj": "BBC"}
+{"sub": "Carlos Ghosn", "obj": "Renault"}
+{"sub": "Ptolemy", "obj": "Alexandria"}
+{"sub": "Aled Jones", "obj": "BBC"}
+{"sub": "Helen Fospero", "obj": "BBC"}
+{"sub": "Jo Brand", "obj": "BBC"}
+{"sub": "Ian Messiter", "obj": "BBC"}
+{"sub": "Leonard Miall", "obj": "BBC"}
+{"sub": "Scott Mills", "obj": "BBC"}
+{"sub": "Sundar Pichai", "obj": "Google"}
+{"sub": "Michael Checkland", "obj": "BBC"}
+{"sub": "David M. Thompson", "obj": "BBC"}
+{"sub": "Jane Tranter", "obj": "BBC"}
+{"sub": "Angela Ahrendts", "obj": "Apple"}
+{"sub": "Ian Hickson", "obj": "Google"}
+{"sub": "Mark Kermode", "obj": "BBC"}
+{"sub": "Steve Claridge", "obj": "BBC"}
+{"sub": "Ed Logg", "obj": "Atari"}
+{"sub": "Douglas Adams", "obj": "BBC"}
+{"sub": "Ray Ozzie", "obj": "Microsoft"}
+{"sub": "Mike Harrington", "obj": "Microsoft"}
+{"sub": "Paddy Lowe", "obj": "Mercedes"}
+{"sub": "James Naughtie", "obj": "BBC"}
+{"sub": "Nina Tassler", "obj": "CBS"}
+{"sub": "Wynford Vaughan-Thomas", "obj": "BBC"}
+{"sub": "Jackie Fullerton", "obj": "BBC"}
+{"sub": "Lena Yada", "obj": "WWE"}
+{"sub": "Paul Otellini", "obj": "Intel"}
+{"sub": "David Hatch", "obj": "BBC"}
+{"sub": "Jack Pease, 1st Baron Gainford", "obj": "BBC"}
+{"sub": "Jim Blinn", "obj": "Microsoft"}
+{"sub": "Mark Byford", "obj": "BBC"}
+{"sub": "Ian Jacob", "obj": "BBC"}
+{"sub": "Hubert Gregg", "obj": "BBC"}
+{"sub": "Emma Willis", "obj": "BBC"}
+{"sub": "Stephen Mulhern", "obj": "Heart"}
+{"sub": "Cedric Messina", "obj": "BBC"}
+{"sub": "Adam Parsons", "obj": "BBC"}
+{"sub": "Charles P. de Saint-Aignan", "obj": "IBM"}
+{"sub": "Gavin Esler", "obj": "BBC"}
+{"sub": "Andy Kershaw", "obj": "BBC"}
+{"sub": "Hans Peter Luhn", "obj": "IBM"}
+{"sub": "Michael Grade", "obj": "BBC"}
+{"sub": "Sue Barker", "obj": "BBC"}
+{"sub": "Nina Easton", "obj": "Fortune"}
+{"sub": "Guido van Rossum", "obj": "Google"}
+{"sub": "John Howard Davies", "obj": "BBC"}
+{"sub": "Esther Rantzen", "obj": "BBC"}
+{"sub": "Martin Sixsmith", "obj": "BBC"}
+{"sub": "Philip Jenkinson", "obj": "BBC"}
+{"sub": "Phil Knight", "obj": "Nike"}
+{"sub": "Harry Carpenter", "obj": "BBC"}
+{"sub": "Ian Bartlett", "obj": "BBC"}
+{"sub": "Clare Balding", "obj": "BBC"}
+{"sub": "Mike Cowlishaw", "obj": "IBM"}
+{"sub": "Peter Bromley", "obj": "BBC"}
+{"sub": "Vincent Connare", "obj": "Microsoft"}
+{"sub": "John Craven", "obj": "BBC"}
+{"sub": "Paul Dickenson", "obj": "BBC"}
+{"sub": "Mark Lawrenson", "obj": "BBC"}
+{"sub": "Susan Stamberg", "obj": "NPR"}
+{"sub": "John Fellows Akers", "obj": "IBM"}
+{"sub": "Laura Trevelyan", "obj": "BBC"}
+{"sub": "Pete Atkin", "obj": "BBC"}
+{"sub": "Louis V. Gerstner", "obj": "IBM"}
+{"sub": "Eddie Jordan", "obj": "BBC"}
+{"sub": "Holly Rowe", "obj": "ESPN"}
+{"sub": "Sue MacGregor", "obj": "BBC"}
+{"sub": "Adrian van Hooydonk", "obj": "BMW"}
+{"sub": "John Rabe", "obj": "Siemens"}
+{"sub": "Anna Wintour", "obj": "Vogue"}
+{"sub": "Scott Forstall", "obj": "Apple"}
+{"sub": "Simon Brett", "obj": "BBC"}
+{"sub": "Michaela Pereira", "obj": "CNN"}
+{"sub": "Mathew Horne", "obj": "BBC"}
+{"sub": "Kate Adie", "obj": "BBC"}
+{"sub": "Des Lynam", "obj": "BBC"}
+{"sub": "Irina Bokova", "obj": "UNESCO"}
+{"sub": "Angela Rippon", "obj": "BBC"}
+{"sub": "Mihir Bose", "obj": "BBC"}
+{"sub": "John Zachman", "obj": "IBM"}
+{"sub": "Alan Sugar", "obj": "BBC"}
+{"sub": "Barbara Sleigh", "obj": "BBC"}
+{"sub": "Beth Phoenix", "obj": "WWE"}
+{"sub": "Frank Gillard", "obj": "BBC"}
+{"sub": "Larry Hryb", "obj": "Microsoft"}
+{"sub": "Denis Johnston", "obj": "BBC"}
+{"sub": "Adam Schefter", "obj": "ESPN"}
+{"sub": "Graham John Hills", "obj": "BBC"}
+{"sub": "Jon Ronson", "obj": "BBC"}
+{"sub": "Rob Pike", "obj": "Google"}
+{"sub": "Ed Fries", "obj": "Microsoft"}
+{"sub": "Alain de Cadenet", "obj": "ESPN"}
+{"sub": "Bud Tribble", "obj": "Apple"}
+{"sub": "Lyse Doucet", "obj": "BBC"}
+{"sub": "Jef Raskin", "obj": "Apple"}
+{"sub": "Dennis Taylor", "obj": "BBC"}
+{"sub": "Michael Portillo", "obj": "BBC"}
+{"sub": "Gary Lineker", "obj": "BBC"}
+{"sub": "Cokie Roberts", "obj": "NPR"}
+{"sub": "David Dickinson", "obj": "BBC"}
+{"sub": "Jim McGrath", "obj": "BBC"}
+{"sub": "Chris Bangle", "obj": "Fiat"}
+{"sub": "Hugh Darwen", "obj": "IBM"}
+{"sub": "Huw Wheldon", "obj": "BBC"}
+{"sub": "Verity Lambert", "obj": "BBC"}
+{"sub": "Carlos Ghosn", "obj": "Nissan"}
+{"sub": "Dennis Hwang", "obj": "Google"}
+{"sub": "Shinichiro Sakurai", "obj": "Nissan"}
+{"sub": "Noel Edmonds", "obj": "BBC"}
+{"sub": "Tony Fadell", "obj": "Apple"}
+{"sub": "Zai Bennett", "obj": "BBC"}
+{"sub": "Robert Scoble", "obj": "Microsoft"}
+{"sub": "Sydney Newman", "obj": "BBC"}
+{"sub": "Ian Trethowan", "obj": "BBC"}
+{"sub": "Mark Easton", "obj": "BBC"}
+{"sub": "Cliff Morgan", "obj": "BBC"}
+{"sub": "Christopher Martin-Jenkins", "obj": "BBC"}
+{"sub": "Susan Kare", "obj": "Apple"}
+{"sub": "Nick Pollard", "obj": "BBC"}
+{"sub": "John Humphrys", "obj": "BBC"}
+{"sub": "Esko Aho", "obj": "Nokia"}
+{"sub": "Adrian Chiles", "obj": "BBC"}
+{"sub": "Christine Bleakley", "obj": "BBC"}
+{"sub": "Meirion Jones", "obj": "BBC"}
+{"sub": "Barry Davies", "obj": "BBC"}
+{"sub": "Willy Brandt", "obj": "Germany"}
+{"sub": "Tom Ashbrook", "obj": "NPR"}
+{"sub": "Nick Clarke", "obj": "BBC"}
+{"sub": "Zeinab Badawi", "obj": "BBC"}
+{"sub": "Magnus Magnusson", "obj": "BBC"}
+{"sub": "Mai Jones", "obj": "BBC"}
+{"sub": "Jeremy Vine", "obj": "BBC"}
+{"sub": "Suzanne Virdee", "obj": "BBC"}
+{"sub": "Janice Hadlow", "obj": "BBC"}
+{"sub": "Ben Stephenson", "obj": "BBC"}
+{"sub": "Vassos Alexander", "obj": "BBC"}
+{"sub": "James Moir", "obj": "BBC"}
+{"sub": "Merfyn Jones", "obj": "BBC"}
+{"sub": "Jana Bennett", "obj": "BBC"}
+{"sub": "Jonathan Agnew", "obj": "BBC"}
+{"sub": "Fred Silverman", "obj": "CBS"}
+{"sub": "Edward Curtis Wells", "obj": "Boeing"}
+{"sub": "Marilyn Imrie", "obj": "BBC"}
+{"sub": "Kai-Fu Lee", "obj": "Microsoft"}
+{"sub": "Joe Belfiore", "obj": "Microsoft"}
+{"sub": "Guy Kawasaki", "obj": "Apple"}
+{"sub": "Pauline Neville-Jones, Baroness Neville-Jones", "obj": "BBC"}
+{"sub": "Wietse Venema", "obj": "IBM"}
+{"sub": "Mike Dibb", "obj": "BBC"}
+{"sub": "Michael Buerk", "obj": "BBC"}
+{"sub": "Freda Lingstrom", "obj": "BBC"}
+{"sub": "Craig Federighi", "obj": "Apple"}
+{"sub": "Ray Kurzweil", "obj": "Google"}
+{"sub": "Guy Kawasaki", "obj": "Forbes"}
+{"sub": "Stephanie Flanders", "obj": "BBC"}
+{"sub": "Lorraine Newman", "obj": "BBC"}
+{"sub": "Adam Amin", "obj": "ESPN"}
+{"sub": "Jane Root", "obj": "BBC"}
+{"sub": "Eddy Cue", "obj": "Apple"}
+{"sub": "Julia Somerville", "obj": "BBC"}
+{"sub": "Paddy Lowe", "obj": "McLaren"}
+{"sub": "Jeff Zucker", "obj": "CNN"}
+{"sub": "Eleanor Oldroyd", "obj": "BBC"}
+{"sub": "Eddie Mair", "obj": "BBC"}
+{"sub": "Terry Myerson", "obj": "Microsoft"}
+{"sub": "Dermot O'Leary", "obj": "BBC"}
+{"sub": "Stephen Sackur", "obj": "BBC"}
+{"sub": "Tony Reali", "obj": "ESPN"}
+{"sub": "Mark Penn", "obj": "Microsoft"}
+{"sub": "Vint Cerf", "obj": "Google"}
+{"sub": "Moira Stuart", "obj": "BBC"}
+{"sub": "Ward Cunningham", "obj": "Microsoft"}
+{"sub": "Phil Harrison", "obj": "Microsoft"}
+{"sub": "Val Gielgud", "obj": "BBC"}
+{"sub": "Tatsumi Kimishima", "obj": "Nintendo"}
+{"sub": "Fred Brooks", "obj": "IBM"}
+{"sub": "Martin Esslin", "obj": "BBC"}
+{"sub": "Bryant Tuckerman", "obj": "IBM"}
+{"sub": "Charles Goldfarb", "obj": "IBM"}
+{"sub": "Martin M. Wattenberg", "obj": "IBM"}
+{"sub": "Ronnie Waldman", "obj": "BBC"}
+{"sub": "Jean-Dominique Bauby", "obj": "Elle"}
+{"sub": "Tim Davie", "obj": "BBC"}
+{"sub": "Tony Hall, Baron Hall of Birkenhead", "obj": "BBC"}
+{"sub": "Yoshiyuki Tomino", "obj": "Sunrise"}
+{"sub": "Innes Lloyd", "obj": "BBC"}
+{"sub": "William Crawley", "obj": "BBC"}
+{"sub": "Peter Oppenheimer", "obj": "Apple"}
+{"sub": "Carolyn Quinn", "obj": "BBC"}
+{"sub": "Samira Ahmed", "obj": "BBC"}
+{"sub": "Robert Dougall", "obj": "BBC"}
+{"sub": "Reynold B. Johnson", "obj": "IBM"}
+{"sub": "Arash Markazi", "obj": "ESPN"}
+{"sub": "Philip Mould", "obj": "BBC"}
+{"sub": "Chris Langham", "obj": "BBC"}
+{"sub": "Ray Stubbs", "obj": "BBC"}
+{"sub": "Robert J. Bach", "obj": "Microsoft"}
+{"sub": "Marmaduke Hussey, Baron Hussey of North Bradley", "obj": "BBC"}
+{"sub": "Johnny Beerling", "obj": "BBC"}
+{"sub": "Allan Little", "obj": "BBC"}
+{"sub": "Kate Silverton", "obj": "BBC"}
+{"sub": "Emily Maitlis", "obj": "BBC"}
+{"sub": "Lorne Spicer", "obj": "BBC"}
+{"sub": "Will Wyatt", "obj": "BBC"}
+{"sub": "Peter Fincham", "obj": "BBC"}
+{"sub": "John Timpson", "obj": "BBC"}
+{"sub": "Jon Sopel", "obj": "BBC"}
+{"sub": "Peter Sissons", "obj": "BBC"}
+{"sub": "Peter Horrocks", "obj": "BBC"}
+{"sub": "Frank Bough", "obj": "BBC"}
+{"sub": "Mishal Husain", "obj": "BBC"}
+{"sub": "Rigsy", "obj": "BBC"}
+{"sub": "Ellen Hancock", "obj": "IBM"}
+{"sub": "Paddy O'Connell", "obj": "BBC"}
+{"sub": "Ed Zschau", "obj": "IBM"}
+{"sub": "Katsuaki Watanabe", "obj": "Toyota"}
+{"sub": "Jan Leeming", "obj": "BBC"}
+{"sub": "Peter Haigh", "obj": "BBC"}
+{"sub": "Jean Metcalfe", "obj": "BBC"}
+{"sub": "Delia Derbyshire", "obj": "BBC"}
+{"sub": "Don Coppersmith", "obj": "IBM"}
+{"sub": "Steve Cram", "obj": "BBC"}
+{"sub": "Mara Liasson", "obj": "NPR"}
+{"sub": "Charles Chilton", "obj": "BBC"}
+{"sub": "Nicholas Witchell", "obj": "BBC"}
+{"sub": "Michael Bakewell", "obj": "BBC"}
+{"sub": "Joe Kaeser", "obj": "Siemens"}
+{"sub": "Ian Fraser, Baron Fraser of Lonsdale", "obj": "BBC"}
+{"sub": "John R. Opel", "obj": "IBM"}
+{"sub": "Andy Wilman", "obj": "BBC"}
+{"sub": "Henry Swanzy", "obj": "BBC"}

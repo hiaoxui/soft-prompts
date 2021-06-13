@@ -1,0 +1,562 @@
+{"sub": "Kingdom of France", "obj": "Paris"}
+{"sub": "Second French Empire", "obj": "Paris"}
+{"sub": "Bourbon Restoration", "obj": "Paris"}
+{"sub": "Neustria", "obj": "Paris"}
+{"sub": "Seine", "obj": "Paris"}
+{"sub": "France", "obj": "Paris"}
+{"sub": "Metropolitan France", "obj": "Paris"}
+{"sub": "Paris Commune", "obj": "Paris"}
+{"sub": "Metropolis of Greater Paris", "obj": "Paris"}
+{"sub": "Vichy France", "obj": "Paris"}
+{"sub": "Commonwealth of England", "obj": "London"}
+{"sub": "England", "obj": "London"}
+{"sub": "United Kingdom of Great Britain and Ireland", "obj": "London"}
+{"sub": "United Kingdom", "obj": "London"}
+{"sub": "England", "obj": "London"}
+{"sub": "British America", "obj": "London"}
+{"sub": "British North America", "obj": "London"}
+{"sub": "Kingdom of Essex", "obj": "London"}
+{"sub": "Kingdom of Great Britain", "obj": "London"}
+{"sub": "Serbia", "obj": "Belgrade"}
+{"sub": "Kingdom of Serbia", "obj": "Belgrade"}
+{"sub": "Serbian Despotate", "obj": "Belgrade"}
+{"sub": "Socialist Republic of Serbia", "obj": "Belgrade"}
+{"sub": "Kingdom of Yugoslavia", "obj": "Belgrade"}
+{"sub": "Serbia and Montenegro", "obj": "Belgrade"}
+{"sub": "Socialist Federal Republic of Yugoslavia", "obj": "Belgrade"}
+{"sub": "Realm of Stefan Dragutin", "obj": "Belgrade"}
+{"sub": "Yugoslavia", "obj": "Belgrade"}
+{"sub": "Kingdom of Italy", "obj": "Rome"}
+{"sub": "Province of Rome", "obj": "Rome"}
+{"sub": "Sovereign Military Order of Malta", "obj": "Rome"}
+{"sub": "Italy", "obj": "Rome"}
+{"sub": "Roman Empire", "obj": "Rome"}
+{"sub": "Italian Social Republic", "obj": "Rome"}
+{"sub": "Papal States", "obj": "Rome"}
+{"sub": "Roman Republic", "obj": "Rome"}
+{"sub": "Lazio", "obj": "Rome"}
+{"sub": "Czech Socialist Republic", "obj": "Prague"}
+{"sub": "Czech Republic", "obj": "Prague"}
+{"sub": "Czechoslovakia", "obj": "Prague"}
+{"sub": "Central Bohemian Region", "obj": "Prague"}
+{"sub": "Bohemia", "obj": "Prague"}
+{"sub": "First Czechoslovak Republic", "obj": "Prague"}
+{"sub": "Prague-West District", "obj": "Prague"}
+{"sub": "Kingdom of Bohemia", "obj": "Prague"}
+{"sub": "Democratic Republic of Afghanistan", "obj": "Kabul"}
+{"sub": "Afghanistan", "obj": "Kabul"}
+{"sub": "Islamic Emirate of Afghanistan", "obj": "Kabul"}
+{"sub": "Kabul Shahi", "obj": "Kabul"}
+{"sub": "Afghan Transitional Administration", "obj": "Kabul"}
+{"sub": "Kingdom of Afghanistan", "obj": "Kabul"}
+{"sub": "Islamic State of Afghanistan", "obj": "Kabul"}
+{"sub": "Kabul", "obj": "Kabul"}
+{"sub": "Khedivate of Egypt", "obj": "Cairo"}
+{"sub": "Egypt", "obj": "Cairo"}
+{"sub": "Ayyubid dynasty", "obj": "Cairo"}
+{"sub": "United Arab Republic", "obj": "Cairo"}
+{"sub": "Cairo Governorate", "obj": "Cairo"}
+{"sub": "Kingdom of Egypt", "obj": "Cairo"}
+{"sub": "Fatimid caliphate", "obj": "Cairo"}
+{"sub": "Egypt Eyalet", "obj": "Cairo"}
+{"sub": "Latah County", "obj": "Moscow"}
+{"sub": "Russian Soviet Federative Socialist Republic", "obj": "Moscow"}
+{"sub": "Russia", "obj": "Moscow"}
+{"sub": "Moscow Governorate", "obj": "Moscow"}
+{"sub": "Reichskommissariat Moskowien", "obj": "Moscow"}
+{"sub": "Moscow Oblast", "obj": "Moscow"}
+{"sub": "Grand Duchy of Moscow", "obj": "Moscow"}
+{"sub": "Soviet Union", "obj": "Moscow"}
+{"sub": "Province of Brandenburg", "obj": "Berlin"}
+{"sub": "Weimar Republic", "obj": "Berlin"}
+{"sub": "Brandenburg-Prussia", "obj": "Berlin"}
+{"sub": "Nazi Germany", "obj": "Berlin"}
+{"sub": "Free State of Prussia", "obj": "Berlin"}
+{"sub": "Germany", "obj": "Berlin"}
+{"sub": "Allied-occupied Germany", "obj": "Berlin"}
+{"sub": "Kingdom of Prussia", "obj": "Berlin"}
+{"sub": "Brussels-Capital Region", "obj": "Brussels"}
+{"sub": "Flemish Region", "obj": "Brussels"}
+{"sub": "Belgium", "obj": "Brussels"}
+{"sub": "Flanders", "obj": "Brussels"}
+{"sub": "European Union", "obj": "Brussels"}
+{"sub": "Flemish Community", "obj": "Brussels"}
+{"sub": "French Community of Belgium", "obj": "Brussels"}
+{"sub": "McMinn County", "obj": "Athens"}
+{"sub": "Third Hellenic Republic", "obj": "Athens"}
+{"sub": "Kingdom of Greece", "obj": "Athens"}
+{"sub": "Athens County", "obj": "Athens"}
+{"sub": "Duchy of Athens", "obj": "Athens"}
+{"sub": "Greece", "obj": "Athens"}
+{"sub": "4th of August Regime", "obj": "Athens"}
+{"sub": "Kosciusko County", "obj": "Warsaw"}
+{"sub": "Second Polish Republic", "obj": "Warsaw"}
+{"sub": "Congress Poland", "obj": "Warsaw"}
+{"sub": "Masovian Voivodeship", "obj": "Warsaw"}
+{"sub": "Poland", "obj": "Warsaw"}
+{"sub": "People's Republic of Poland", "obj": "Warsaw"}
+{"sub": "Lithuania", "obj": "Vilnius"}
+{"sub": "Vilnius District Municipality", "obj": "Vilnius"}
+{"sub": "Grand Duchy of Lithuania", "obj": "Vilnius"}
+{"sub": "Vilnius County", "obj": "Vilnius"}
+{"sub": "Vilnius Voivodeship", "obj": "Vilnius"}
+{"sub": "Republic of Central Lithuania", "obj": "Vilnius"}
+{"sub": "Kyivska Rus'", "obj": "Kiev"}
+{"sub": "Kiev-Sviatoshyn Raion", "obj": "Kiev"}
+{"sub": "Kiev Voivodeship", "obj": "Kiev"}
+{"sub": "Ukrainian Soviet Socialist Republic", "obj": "Kiev"}
+{"sub": "Ukrainian State", "obj": "Kiev"}
+{"sub": "Ukraine", "obj": "Kiev"}
+{"sub": "Ba'athist Iraq", "obj": "Baghdad"}
+{"sub": "Iraq", "obj": "Baghdad"}
+{"sub": "Abbasid Caliphate", "obj": "Baghdad"}
+{"sub": "Kingdom of Iraq", "obj": "Baghdad"}
+{"sub": "Baghdad Governorate", "obj": "Baghdad"}
+{"sub": "Republika Srpska", "obj": "Sarajevo"}
+{"sub": "Bosnia Eyalet", "obj": "Sarajevo"}
+{"sub": "Bosnia and Herzegovina", "obj": "Sarajevo"}
+{"sub": "Sarajevo Canton", "obj": "Sarajevo"}
+{"sub": "Novo Sarajevo", "obj": "Sarajevo"}
+{"sub": "Delhi Sultanate", "obj": "Delhi"}
+{"sub": "Sur Empire", "obj": "Delhi"}
+{"sub": "Lodi dynasty", "obj": "Delhi"}
+{"sub": "Khalji dynasty", "obj": "Delhi"}
+{"sub": "Tughlaq dynasty", "obj": "Delhi"}
+{"sub": "Austrian Empire", "obj": "Vienna"}
+{"sub": "Austria-Hungary", "obj": "Vienna"}
+{"sub": "Habsburg Monarchy", "obj": "Vienna"}
+{"sub": "Holy Roman Empire", "obj": "Vienna"}
+{"sub": "Austria", "obj": "Vienna"}
+{"sub": "Pest County", "obj": "Budapest"}
+{"sub": "Austria-Hungary", "obj": "Budapest"}
+{"sub": "Kingdom of Hungary", "obj": "Budapest"}
+{"sub": "Hungary", "obj": "Budapest"}
+{"sub": "Hungarian Soviet Republic", "obj": "Budapest"}
+{"sub": "Dhaka Division", "obj": "Dhaka"}
+{"sub": "Bangladesh", "obj": "Dhaka"}
+{"sub": "East Bengal", "obj": "Dhaka"}
+{"sub": "Dhaka District", "obj": "Dhaka"}
+{"sub": "East Pakistan", "obj": "Dhaka"}
+{"sub": "Ravalli County", "obj": "Hamilton"}
+{"sub": "Shire of Southern Grampians", "obj": "Hamilton"}
+{"sub": "Bermuda", "obj": "Hamilton"}
+{"sub": "Waikato Region", "obj": "Hamilton"}
+{"sub": "South Lanarkshire", "obj": "Hamilton"}
+{"sub": "Abbasid Caliphate", "obj": "Damascus"}
+{"sub": "Umayyad Caliphate", "obj": "Damascus"}
+{"sub": "Homs Governorate", "obj": "Damascus"}
+{"sub": "Syria", "obj": "Damascus"}
+{"sub": "Rif Dimashq Governorate", "obj": "Damascus"}
+{"sub": "Stockholm County", "obj": "Stockholm"}
+{"sub": "Union between Sweden and Norway", "obj": "Stockholm"}
+{"sub": "Sweden", "obj": "Stockholm"}
+{"sub": "Swedish Empire", "obj": "Stockholm"}
+{"sub": "Stockholm Municipality", "obj": "Stockholm"}
+{"sub": "Kingdom of Libya", "obj": "Tripoli"}
+{"sub": "Tripolitania", "obj": "Tripoli"}
+{"sub": "Tripoli District", "obj": "Tripoli"}
+{"sub": "Libya", "obj": "Tripoli"}
+{"sub": "Southern Tang", "obj": "Nanjing"}
+{"sub": "Jiangsu", "obj": "Nanjing"}
+{"sub": "Wang Jingwei regime", "obj": "Nanjing"}
+{"sub": "Ming dynasty", "obj": "Nanjing"}
+{"sub": "Slovak Socialist Republic", "obj": "Bratislava"}
+{"sub": "Bratislava Region", "obj": "Bratislava"}
+{"sub": "Pozsony County", "obj": "Bratislava"}
+{"sub": "Slovakia", "obj": "Bratislava"}
+{"sub": "Second Spanish Republic", "obj": "Madrid"}
+{"sub": "Spanish Empire", "obj": "Madrid"}
+{"sub": "Spain", "obj": "Madrid"}
+{"sub": "First Spanish Republic", "obj": "Madrid"}
+{"sub": "Emirate of Sicily", "obj": "Palermo"}
+{"sub": "Kingdom of Sicily", "obj": "Palermo"}
+{"sub": "Province of Palermo", "obj": "Palermo"}
+{"sub": "Sicily", "obj": "Palermo"}
+{"sub": "Alsace", "obj": "Strasbourg"}
+{"sub": "European Union", "obj": "Strasbourg"}
+{"sub": "Bas-Rhin", "obj": "Strasbourg"}
+{"sub": "Grand Est", "obj": "Strasbourg"}
+{"sub": "Uusimaa", "obj": "Helsinki"}
+{"sub": "Grand Duchy of Finland", "obj": "Helsinki"}
+{"sub": "Finnish Socialist Workers' Republic", "obj": "Helsinki"}
+{"sub": "Finland", "obj": "Helsinki"}
+{"sub": "Mandatory Palestine", "obj": "Jerusalem"}
+{"sub": "Jerusalem District", "obj": "Jerusalem"}
+{"sub": "Kingdom of Jerusalem", "obj": "Jerusalem"}
+{"sub": "Israel", "obj": "Jerusalem"}
+{"sub": "Baku Governorate", "obj": "Baku"}
+{"sub": "Centrocaspian Dictatorship", "obj": "Baku"}
+{"sub": "Azerbaijan Soviet Socialist Republic", "obj": "Baku"}
+{"sub": "Azerbaijan", "obj": "Baku"}
+{"sub": "Ranga Reddy district", "obj": "Hyderabad"}
+{"sub": "Andhra Pradesh", "obj": "Hyderabad"}
+{"sub": "Hyderabad State", "obj": "Hyderabad"}
+{"sub": "Telangana", "obj": "Hyderabad"}
+{"sub": "Kingdom of Sardinia", "obj": "Turin"}
+{"sub": "Province of Turin", "obj": "Turin"}
+{"sub": "Kingdom of Italy", "obj": "Turin"}
+{"sub": "Piedmont", "obj": "Turin"}
+{"sub": "Pitt County", "obj": "Greenville"}
+{"sub": "Hunt County", "obj": "Greenville"}
+{"sub": "Meriwether County", "obj": "Greenville"}
+{"sub": "Darke County", "obj": "Greenville"}
+{"sub": "Virginia", "obj": "Richmond"}
+{"sub": "Henrico County", "obj": "Richmond"}
+{"sub": "Confederate States of America", "obj": "Richmond"}
+{"sub": "Fort Bend County", "obj": "Richmond"}
+{"sub": "West Bengal", "obj": "Kolkata"}
+{"sub": "Company rule in India", "obj": "Kolkata"}
+{"sub": "British Raj", "obj": "Kolkata"}
+{"sub": "Kolkata district", "obj": "Kolkata"}
+{"sub": "Carabobo", "obj": "Valencia"}
+{"sub": "Valencia Province", "obj": "Valencia"}
+{"sub": "Valencian Community", "obj": "Valencia"}
+{"sub": "Kingdom of Valencia", "obj": "Valencia"}
+{"sub": "Ransom County", "obj": "Lisbon"}
+{"sub": "First Portuguese Republic", "obj": "Lisbon"}
+{"sub": "Grande Lisboa Subregion", "obj": "Lisbon"}
+{"sub": "Portugal", "obj": "Lisbon"}
+{"sub": "Mount Lebanon Governorate", "obj": "Beirut"}
+{"sub": "Lebanon", "obj": "Beirut"}
+{"sub": "Beirut Governorate", "obj": "Beirut"}
+{"sub": "Campania", "obj": "Naples"}
+{"sub": "Kingdom of Sicily", "obj": "Naples"}
+{"sub": "Province of Naples", "obj": "Naples"}
+{"sub": "Principality of Calenberg", "obj": "Hanover"}
+{"sub": "Kingdom of Hanover", "obj": "Hanover"}
+{"sub": "Lower Saxony", "obj": "Hanover"}
+{"sub": "Tehran Province", "obj": "Tehran"}
+{"sub": "Iran", "obj": "Tehran"}
+{"sub": "Qajar dynasty", "obj": "Tehran"}
+{"sub": "Golden Ambrosian Republic", "obj": "Milan"}
+{"sub": "province of Milan", "obj": "Milan"}
+{"sub": "Lombardy", "obj": "Milan"}
+{"sub": "Uruguay", "obj": "Montevideo"}
+{"sub": "Southern Common Market", "obj": "Montevideo"}
+{"sub": "Cisplatina Province", "obj": "Montevideo"}
+{"sub": "Larvotto", "obj": "Monaco"}
+{"sub": "La Colle", "obj": "Monaco"}
+{"sub": "La Condamine", "obj": "Monaco"}
+{"sub": "Erivan Governorate", "obj": "Yerevan"}
+{"sub": "Armenia", "obj": "Yerevan"}
+{"sub": "First Republic of Armenia", "obj": "Yerevan"}
+{"sub": "Albania", "obj": "Tirana"}
+{"sub": "People's Socialist Republic of Albania", "obj": "Tirana"}
+{"sub": "Tirana District", "obj": "Tirana"}
+{"sub": "Kingdom of Wessex", "obj": "Winchester"}
+{"sub": "England", "obj": "Winchester"}
+{"sub": "Hampshire", "obj": "Winchester"}
+{"sub": "Ireland", "obj": "Dublin"}
+{"sub": "County Dublin", "obj": "Dublin"}
+{"sub": "Kingdom of Ireland", "obj": "Dublin"}
+{"sub": "Romania", "obj": "Bucharest"}
+{"sub": "Ilfov County", "obj": "Bucharest"}
+{"sub": "Kingdom of Romania", "obj": "Bucharest"}
+{"sub": "Aquitaine", "obj": "Bordeaux"}
+{"sub": "Gironde", "obj": "Bordeaux"}
+{"sub": "Nouvelle-Aquitaine", "obj": "Bordeaux"}
+{"sub": "Kanawha County", "obj": "Charleston"}
+{"sub": "West Virginia", "obj": "Charleston"}
+{"sub": "Province of South Carolina", "obj": "Charleston"}
+{"sub": "French Algeria", "obj": "Algiers"}
+{"sub": "Algeria", "obj": "Algiers"}
+{"sub": "Algiers Province", "obj": "Algiers"}
+{"sub": "Colony of Vancouver Island", "obj": "Victoria"}
+{"sub": "Labuan", "obj": "Victoria"}
+{"sub": "British Columbia", "obj": "Victoria"}
+{"sub": "Province of Genoa", "obj": "Genoa"}
+{"sub": "Republic of Genova", "obj": "Genoa"}
+{"sub": "Liguria", "obj": "Genoa"}
+{"sub": "Cape Girardeau County", "obj": "Jackson"}
+{"sub": "Breathitt County", "obj": "Jackson"}
+{"sub": "Mississippi", "obj": "Jackson"}
+{"sub": "Demerara", "obj": "Georgetown"}
+{"sub": "Guyana", "obj": "Georgetown"}
+{"sub": "British Guiana", "obj": "Georgetown"}
+{"sub": "Lahore District", "obj": "Lahore"}
+{"sub": "Punjab", "obj": "Lahore"}
+{"sub": "Sikh Empire", "obj": "Lahore"}
+{"sub": "Languedoc", "obj": "Toulouse"}
+{"sub": "Haute-Garonne", "obj": "Toulouse"}
+{"sub": "Occitania", "obj": "Toulouse"}
+{"sub": "Zagreb County", "obj": "Zagreb"}
+{"sub": "Croatia", "obj": "Zagreb"}
+{"sub": "Independent State of Croatia", "obj": "Zagreb"}
+{"sub": "Beiyang Government", "obj": "Beijing"}
+{"sub": "Qing dynasty", "obj": "Beijing"}
+{"sub": "People's Republic of China", "obj": "Beijing"}
+{"sub": "City of Edinburgh", "obj": "Edinburgh"}
+{"sub": "Kingdom of Scotland", "obj": "Edinburgh"}
+{"sub": "Scotland", "obj": "Edinburgh"}
+{"sub": "Kingdom of Bavaria", "obj": "Munich"}
+{"sub": "Bavaria", "obj": "Munich"}
+{"sub": "Munich", "obj": "Munich"}
+{"sub": "Philippines", "obj": "Manila"}
+{"sub": "Spanish East Indies", "obj": "Manila"}
+{"sub": "Commonwealth of the Philippines", "obj": "Manila"}
+{"sub": "Latin Empire", "obj": "Constantinople"}
+{"sub": "Roman Empire", "obj": "Constantinople"}
+{"sub": "Byzantine Empire", "obj": "Constantinople"}
+{"sub": "West Pakistan", "obj": "Karachi"}
+{"sub": "Sindh", "obj": "Karachi"}
+{"sub": "Dominion of Pakistan", "obj": "Karachi"}
+{"sub": "Province of Florence", "obj": "Florence"}
+{"sub": "Republic of Florence", "obj": "Florence"}
+{"sub": "Kingdom of Italy", "obj": "Florence"}
+{"sub": "Kingdom of the Netherlands", "obj": "Amsterdam"}
+{"sub": "Netherlands", "obj": "Amsterdam"}
+{"sub": "United Kingdom of the Netherlands", "obj": "Amsterdam"}
+{"sub": "Ankara Province", "obj": "Ankara"}
+{"sub": "Anatolia Eyalet", "obj": "Ankara"}
+{"sub": "Turkey", "obj": "Ankara"}
+{"sub": "Republic of Tatarstan", "obj": "Kazan"}
+{"sub": "Tatar Autonomous Soviet Socialist Republic", "obj": "Kazan"}
+{"sub": "Kazan Governorate", "obj": "Kazan"}
+{"sub": "Province of Venice", "obj": "Venice"}
+{"sub": "Veneto", "obj": "Venice"}
+{"sub": "Republic of Venice", "obj": "Venice"}
+{"sub": "Byelorussian Soviet Socialist Republic", "obj": "Minsk"}
+{"sub": "Belarus", "obj": "Minsk"}
+{"sub": "Minsk Region", "obj": "Minsk"}
+{"sub": "Empire of Japan", "obj": "Tokyo"}
+{"sub": "Japan", "obj": "Tokyo"}
+{"sub": "occupation of Japan", "obj": "Tokyo"}
+{"sub": "Ohio", "obj": "Columbus"}
+{"sub": "Bartholomew County", "obj": "Columbus"}
+{"sub": "Colorado County", "obj": "Columbus"}
+{"sub": "Lima", "obj": "Lima"}
+{"sub": "Peru", "obj": "Lima"}
+{"sub": "Andrew County", "obj": "Savannah"}
+{"sub": "Province of Georgia", "obj": "Savannah"}
+{"sub": "Maury County", "obj": "Columbia"}
+{"sub": "South Carolina", "obj": "Columbia"}
+{"sub": "Rhein-Neckar", "obj": "Heidelberg"}
+{"sub": "Electoral Palatinate", "obj": "Heidelberg"}
+{"sub": "Nebraska", "obj": "Lincoln"}
+{"sub": "Lincolnshire", "obj": "Lincoln"}
+{"sub": "Aichi Prefecture", "obj": "Nagoya"}
+{"sub": "Owari Domain", "obj": "Nagoya"}
+{"sub": "Stafford", "obj": "Stafford"}
+{"sub": "Staffordshire", "obj": "Stafford"}
+{"sub": "Rashidun Caliphates", "obj": "Medina"}
+{"sub": "Al Madinah Region", "obj": "Medina"}
+{"sub": "Chile", "obj": "Santiago"}
+{"sub": "Santiago Metropolitan Region", "obj": "Santiago"}
+{"sub": "Laramie County", "obj": "Cheyenne"}
+{"sub": "Wyoming", "obj": "Cheyenne"}
+{"sub": "Cambridgeshire", "obj": "Cambridge"}
+{"sub": "Guernsey County", "obj": "Cambridge"}
+{"sub": "Alabama", "obj": "Montgomery"}
+{"sub": "Confederate States of America", "obj": "Montgomery"}
+{"sub": "Latvia", "obj": "Riga"}
+{"sub": "Reichskommissariat Ostland", "obj": "Riga"}
+{"sub": "Onondaga County", "obj": "Syracuse"}
+{"sub": "Province of Syracuse", "obj": "Syracuse"}
+{"sub": "Mont-Tonnerre", "obj": "Mainz"}
+{"sub": "Rhineland-Palatinate", "obj": "Mainz"}
+{"sub": "Cayuga County", "obj": "Auburn"}
+{"sub": "Androscoggin County", "obj": "Auburn"}
+{"sub": "Province of New Hampshire", "obj": "Portsmouth"}
+{"sub": "Scioto County", "obj": "Portsmouth"}
+{"sub": "Aberdeenshire", "obj": "Aberdeen"}
+{"sub": "Aberdeen City Council", "obj": "Aberdeen"}
+{"sub": "Queensland", "obj": "Brisbane"}
+{"sub": "City of Brisbane", "obj": "Brisbane"}
+{"sub": "State of Brazil", "obj": "Salvador"}
+{"sub": "Colonial Brazil", "obj": "Salvador"}
+{"sub": "Idaho", "obj": "Boise"}
+{"sub": "Ada County", "obj": "Boise"}
+{"sub": "Cumbria", "obj": "Carlisle"}
+{"sub": "Carlisle", "obj": "Carlisle"}
+{"sub": "Mumbai City district", "obj": "Mumbai"}
+{"sub": "Maharashtra", "obj": "Mumbai"}
+{"sub": "Laclede County", "obj": "Lebanon"}
+{"sub": "Lebanon County", "obj": "Lebanon"}
+{"sub": "Illyrian Provinces", "obj": "Ljubljana"}
+{"sub": "Slovenia", "obj": "Ljubljana"}
+{"sub": "Ulster County", "obj": "Kingston"}
+{"sub": "Jamaica", "obj": "Kingston"}
+{"sub": "Gauteng", "obj": "Johannesburg"}
+{"sub": "City of Johannesburg Metropolitan Municipality", "obj": "Johannesburg"}
+{"sub": "Merrimack County", "obj": "Concord"}
+{"sub": "New Hampshire", "obj": "Concord"}
+{"sub": "Grande Porto", "obj": "Porto"}
+{"sub": "Porto District", "obj": "Porto"}
+{"sub": "Caddo Parish", "obj": "Shreveport"}
+{"sub": "Ark-La-Tex", "obj": "Shreveport"}
+{"sub": "Federation of South Arabia", "obj": "Aden"}
+{"sub": "South Yemen", "obj": "Aden"}
+{"sub": "City of Melbourne", "obj": "Melbourne"}
+{"sub": "Izard County", "obj": "Melbourne"}
+{"sub": "Burleigh County", "obj": "Bismarck"}
+{"sub": "North Dakota", "obj": "Bismarck"}
+{"sub": "Southern Han", "obj": "Guangzhou"}
+{"sub": "Guangdong", "obj": "Guangzhou"}
+{"sub": "Callaway County", "obj": "Fulton"}
+{"sub": "Itawamba County", "obj": "Fulton"}
+{"sub": "Neshoba County", "obj": "Philadelphia"}
+{"sub": "Philadelphia County", "obj": "Philadelphia"}
+{"sub": "Guadalajara Province", "obj": "Guadalajara"}
+{"sub": "Jalisco", "obj": "Guadalajara"}
+{"sub": "South Korea", "obj": "Seoul"}
+{"sub": "United States Army Military Government in Korea", "obj": "Seoul"}
+{"sub": "North Carolina", "obj": "Raleigh"}
+{"sub": "Wake County", "obj": "Raleigh"}
+{"sub": "Lublin Voivodeship", "obj": "Lublin"}
+{"sub": "Lublin County", "obj": "Lublin"}
+{"sub": "Oxfordshire", "obj": "Oxford"}
+{"sub": "Granville County", "obj": "Oxford"}
+{"sub": "Maryland", "obj": "Annapolis"}
+{"sub": "Anne Arundel County", "obj": "Annapolis"}
+{"sub": "Pennsylvania", "obj": "Harrisburg"}
+{"sub": "Poinsett County", "obj": "Harrisburg"}
+{"sub": "Hanson County", "obj": "Alexandria"}
+{"sub": "Alexandria Governorate", "obj": "Alexandria"}
+{"sub": "Colombo District", "obj": "Colombo"}
+{"sub": "Sri Lanka", "obj": "Colombo"}
+{"sub": "California", "obj": "Sacramento"}
+{"sub": "Sacramento County", "obj": "Sacramento"}
+{"sub": "Australia", "obj": "Canberra"}
+{"sub": "Australian Capital Territory", "obj": "Canberra"}
+{"sub": "Denmark", "obj": "Copenhagen"}
+{"sub": "Copenhagen Municipality", "obj": "Copenhagen"}
+{"sub": "Norway", "obj": "Oslo"}
+{"sub": "Akershus", "obj": "Oslo"}
+{"sub": "Seville Province", "obj": "Seville"}
+{"sub": "Andalusia", "obj": "Seville"}
+{"sub": "Taiwan Province", "obj": "Taipei"}
+{"sub": "Taiwan", "obj": "Taipei"}
+{"sub": "Neo-Babylonian Empire", "obj": "Babylon"}
+{"sub": "Achaemenid Empire", "obj": "Babylon"}
+{"sub": "Casey County", "obj": "Liberty"}
+{"sub": "Amite County", "obj": "Liberty"}
+{"sub": "Nova Scotia", "obj": "Halifax"}
+{"sub": "Calderdale", "obj": "Halifax"}
+{"sub": "Province of Siena", "obj": "Siena"}
+{"sub": "Republic of Siena", "obj": "Siena"}
+{"sub": "Brest Region", "obj": "Brest"}
+{"sub": "Polesie Voivodeship", "obj": "Brest"}
+{"sub": "Salem County", "obj": "Salem"}
+{"sub": "Oregon", "obj": "Salem"}
+{"sub": "Tiflis Governorate", "obj": "Tbilisi"}
+{"sub": "Kingdom of Kartli-Kakheti", "obj": "Tbilisi"}
+{"sub": "North West England", "obj": "Manchester"}
+{"sub": "Bennington County", "obj": "Manchester"}
+{"sub": "Province of Bologna", "obj": "Bologna"}
+{"sub": "Emilia-Romagna", "obj": "Bologna"}
+{"sub": "Balearic Islands", "obj": "Palma"}
+{"sub": "Majorca", "obj": "Palma"}
+{"sub": "Central Macedonia", "obj": "Thessaloniki"}
+{"sub": "Thessaloniki Regional Unit", "obj": "Thessaloniki"}
+{"sub": "Sangamon County", "obj": "Springfield"}
+{"sub": "Illinois", "obj": "Springfield"}
+{"sub": "Bulgaria", "obj": "Sofia"}
+{"sub": "Kingdom of Bulgaria", "obj": "Sofia"}
+{"sub": "Glasgow City Council", "obj": "Glasgow"}
+{"sub": "Barren County", "obj": "Glasgow"}
+{"sub": "Deaf Smith County", "obj": "Hereford"}
+{"sub": "Herefordshire", "obj": "Hereford"}
+{"sub": "Kingdom of Galicia and Lodomeria", "obj": "Lviv"}
+{"sub": "Lviv Oblast", "obj": "Lviv"}
+{"sub": "Indonesia", "obj": "Jakarta"}
+{"sub": "Dutch East Indies", "obj": "Jakarta"}
+{"sub": "West Jersey", "obj": "Burlington"}
+{"sub": "Kit Carson County", "obj": "Burlington"}
+{"sub": "Hawaii", "obj": "Honolulu"}
+{"sub": "Honolulu County", "obj": "Honolulu"}
+{"sub": "Highland", "obj": "Inverness"}
+{"sub": "Citrus County", "obj": "Inverness"}
+{"sub": "Chenango County", "obj": "Norwich"}
+{"sub": "Norfolk", "obj": "Norwich"}
+{"sub": "County Limerick", "obj": "Limerick"}
+{"sub": "Gila County", "obj": "Globe"}
+{"sub": "South Dakota", "obj": "Pierre"}
+{"sub": "County Kilkenny", "obj": "Kilkenny"}
+{"sub": "North Ayrshire", "obj": "Irvine"}
+{"sub": "County Wexford", "obj": "Wexford"}
+{"sub": "Dudley", "obj": "Dudley"}
+{"sub": "City of Parramatta Council", "obj": "Parramatta"}
+{"sub": "Old Kingdom of Egypt", "obj": "Memphis"}
+{"sub": "Cuba", "obj": "Havana"}
+{"sub": "Calloway County", "obj": "Murray"}
+{"sub": "Amherst County", "obj": "Amherst"}
+{"sub": "Eagle County", "obj": "Eagle"}
+{"sub": "Brody Raion", "obj": "Brody"}
+{"sub": "McCone County", "obj": "Circle"}
+{"sub": "Jericho Governorate", "obj": "Jericho"}
+{"sub": "Northern Territory", "obj": "Darwin"}
+{"sub": "County Antrim", "obj": "Antrim"}
+{"sub": "Bates County", "obj": "Butler"}
+{"sub": "Wales", "obj": "Cardiff"}
+{"sub": "Preble County", "obj": "Eaton"}
+{"sub": "Wellington Region", "obj": "Wellington"}
+{"sub": "Cabell County", "obj": "Huntington"}
+{"sub": "Valverde Province", "obj": "Mao"}
+{"sub": "Gage County", "obj": "Beatrice"}
+{"sub": "Aleppo Governorate", "obj": "Aleppo"}
+{"sub": "Canterbury Region", "obj": "Christchurch"}
+{"sub": "Jerome County", "obj": "Jerome"}
+{"sub": "Hemphill County", "obj": "Canadian"}
+{"sub": "Basel-Stadt", "obj": "Basel"}
+{"sub": "Batman Province", "obj": "Batman"}
+{"sub": "Cuyahoga County", "obj": "Cleveland"}
+{"sub": "Kidder County", "obj": "Steele"}
+{"sub": "New South Wales", "obj": "Sydney"}
+{"sub": "Sabine Parish", "obj": "Many"}
+{"sub": "Flores Department", "obj": "Trinidad"}
+{"sub": "Warwickshire", "obj": "Warwick"}
+{"sub": "Montmorency County", "obj": "Atlanta"}
+{"sub": "Apulia", "obj": "Bari"}
+{"sub": "Ky\u014dto Prefecture", "obj": "Kyoto"}
+{"sub": "Royal Borough of Kensington and Chelsea", "obj": "Kensington"}
+{"sub": "Oliver County", "obj": "Center"}
+{"sub": "Rabun County", "obj": "Clayton"}
+{"sub": "Mackay Region", "obj": "Mackay"}
+{"sub": "Canton of Geneva", "obj": "Geneva"}
+{"sub": "Penobscot County", "obj": "Bangor"}
+{"sub": "Ontario", "obj": "Toronto"}
+{"sub": "Multnomah County", "obj": "Portland"}
+{"sub": "Banks County", "obj": "Homer"}
+{"sub": "Gedling", "obj": "Arnold"}
+{"sub": "Pratt County", "obj": "Pratt"}
+{"sub": "Tucker County", "obj": "Parsons"}
+{"sub": "Saga Prefecture", "obj": "Saga"}
+{"sub": "Karnataka", "obj": "Bangalore"}
+{"sub": "Malheur County", "obj": "Vale"}
+{"sub": "Salzburg", "obj": "Salzburg"}
+{"sub": "Oakland County", "obj": "Pontiac"}
+{"sub": "Stirling", "obj": "Stirling"}
+{"sub": "Milwaukee County", "obj": "Milwaukee"}
+{"sub": "Gothenburg Municipality", "obj": "Gothenburg"}
+{"sub": "King County", "obj": "Seattle"}
+{"sub": "Wallowa County", "obj": "Enterprise"}
+{"sub": "Watauga County", "obj": "Boone"}
+{"sub": "Kerman Province", "obj": "Kerman"}
+{"sub": "Michigan", "obj": "Lansing"}
+{"sub": "Schleswig-Holstein", "obj": "Kiel"}
+{"sub": "Emirate of Granada", "obj": "Granada"}
+{"sub": "Province of Canada", "obj": "Montreal"}
+{"sub": "Worcestershire", "obj": "Worcester"}
+{"sub": "County Waterford", "obj": "Waterford"}
+{"sub": "Mary Region", "obj": "Mary"}
+{"sub": "Harney County", "obj": "Burns"}
+{"sub": "Tokugawa shogunate", "obj": "Edo"}
+{"sub": "Devon", "obj": "Exeter"}
+{"sub": "Mobile County", "obj": "Mobile"}
+{"sub": "Cache County", "obj": "Logan"}
+{"sub": "Vandal Kingdom", "obj": "Carthage"}
+{"sub": "Anand district", "obj": "Anand"}
+{"sub": "Matanuska-Susitna Borough", "obj": "Palmer"}
+{"sub": "Kingdom of Gwynedd", "obj": "Chester"}
+{"sub": "Pitkin County", "obj": "Aspen"}
+{"sub": "Catawba County", "obj": "Newton"}
+{"sub": "Shropshire", "obj": "Shrewsbury"}
+{"sub": "Connecticut", "obj": "Hartford"}
+{"sub": "Volta Region", "obj": "Ho"}
+{"sub": "Alberta", "obj": "Edmonton"}
+{"sub": "Skamania County", "obj": "Stevenson"}
+{"sub": "Acadia Parish", "obj": "Crowley"}
+{"sub": "Colorado", "obj": "Denver"}
+{"sub": "West Kazakhstan Province", "obj": "Oral"}
+{"sub": "Broadwater County", "obj": "Townsend"}
+{"sub": "Grand Casablanca", "obj": "Casablanca"}

@@ -1,0 +1,931 @@
+{"sub": "John Cage", "obj": "opera"}
+{"sub": "Herbie Mann", "obj": "jazz"}
+{"sub": "William Bolcom", "obj": "opera"}
+{"sub": "Original Dixieland Jass Band", "obj": "jazz"}
+{"sub": "Jean-Michel Pilc", "obj": "jazz"}
+{"sub": "Giulio Caccini", "obj": "opera"}
+{"sub": "Nicolas Dalayrac", "obj": "opera"}
+{"sub": "Hamish MacCunn", "obj": "opera"}
+{"sub": "Frank Teschemacher", "obj": "jazz"}
+{"sub": "Georgie Auld", "obj": "jazz"}
+{"sub": "Chess Records", "obj": "jazz"}
+{"sub": "Natalie Dessay", "obj": "opera"}
+{"sub": "Reynaldo Hahn", "obj": "opera"}
+{"sub": "Mighty Diamonds", "obj": "reggae"}
+{"sub": "Chick Corea", "obj": "jazz"}
+{"sub": "Benedetto Marcello", "obj": "opera"}
+{"sub": "World of Ice and Fire", "obj": "fantasy"}
+{"sub": "Naxos Records", "obj": "jazz"}
+{"sub": "Vinnie Burke", "obj": "jazz"}
+{"sub": "Bob Enevoldsen", "obj": "jazz"}
+{"sub": "Heath Brothers", "obj": "jazz"}
+{"sub": "Darryl Jones", "obj": "jazz"}
+{"sub": "Mainstream Records", "obj": "jazz"}
+{"sub": "Jonathan Coe", "obj": "satire"}
+{"sub": "Jam Session", "obj": "jazz"}
+{"sub": "Steve Lacy", "obj": "jazz"}
+{"sub": "Einojuhani Rautavaara", "obj": "opera"}
+{"sub": "Jules Massenet", "obj": "opera"}
+{"sub": "Jean-Joseph Mouret", "obj": "opera"}
+{"sub": "Snub Mosley", "obj": "jazz"}
+{"sub": "Gary Burton", "obj": "jazz"}
+{"sub": "Johnny Smith", "obj": "jazz"}
+{"sub": "Buzzy Drootin", "obj": "jazz"}
+{"sub": "Ambrose Akinmusire", "obj": "jazz"}
+{"sub": "Jean Cras", "obj": "opera"}
+{"sub": "Weather Report", "obj": "jazz"}
+{"sub": "Henri Rabaud", "obj": "opera"}
+{"sub": "Nick Brignola", "obj": "jazz"}
+{"sub": "Sal Salvador", "obj": "jazz"}
+{"sub": "Charles Wuorinen", "obj": "opera"}
+{"sub": "William Michael Rooke", "obj": "opera"}
+{"sub": "Mark Helias", "obj": "jazz"}
+{"sub": "Airplane!", "obj": "parody"}
+{"sub": "Ola Kvernberg", "obj": "jazz"}
+{"sub": "Better Off Ted", "obj": "sitcom"}
+{"sub": "Marvin David Levy", "obj": "opera"}
+{"sub": "Red Mitchell", "obj": "jazz"}
+{"sub": "Al Haig", "obj": "jazz"}
+{"sub": "Bluebird Records", "obj": "jazz"}
+{"sub": "Tribal Seeds", "obj": "reggae"}
+{"sub": "Frank Marocco", "obj": "jazz"}
+{"sub": "Humphrey Lyttelton", "obj": "jazz"}
+{"sub": "Igor Stravinsky", "obj": "opera"}
+{"sub": "Dial M for Murder", "obj": "thriller"}
+{"sub": "Lee Konitz", "obj": "jazz"}
+{"sub": "Pierre-Alexandre Monsigny", "obj": "opera"}
+{"sub": "The Crazy Ones", "obj": "sitcom"}
+{"sub": "Dhoom 3", "obj": "thriller"}
+{"sub": "Fraser MacPherson", "obj": "jazz"}
+{"sub": "Rabih Abou-Khalil", "obj": "jazz"}
+{"sub": "Ronnie Scott", "obj": "jazz"}
+{"sub": "Buster Bailey", "obj": "jazz"}
+{"sub": "Something Wilder", "obj": "sitcom"}
+{"sub": "Antonio Smareglia", "obj": "opera"}
+{"sub": "SFJAZZ Collective", "obj": "jazz"}
+{"sub": "De-Phazz", "obj": "jazz"}
+{"sub": "Anja Eline Skybakmoen", "obj": "jazz"}
+{"sub": "Aldo Romano", "obj": "jazz"}
+{"sub": "Orpheus Music", "obj": "jazz"}
+{"sub": "The Jazz Messengers", "obj": "jazz"}
+{"sub": "Friedrich Gulda", "obj": "jazz"}
+{"sub": "Jerome Hines", "obj": "opera"}
+{"sub": "The Simpsons", "obj": "sitcom"}
+{"sub": "Liquid Gold", "obj": "disco"}
+{"sub": "Tony Gilroy", "obj": "thriller"}
+{"sub": "The Domino Principle", "obj": "thriller"}
+{"sub": "Eddie Barefield", "obj": "jazz"}
+{"sub": "Lenny Breau", "obj": "jazz"}
+{"sub": "Kenny Werner", "obj": "jazz"}
+{"sub": "Solveig Slettahjell", "obj": "jazz"}
+{"sub": "Tiny Grimes", "obj": "jazz"}
+{"sub": "Pluto Shervington", "obj": "reggae"}
+{"sub": "Eyran Katsenelenbogen", "obj": "jazz"}
+{"sub": "The Complete Compleat Enchanter", "obj": "fantasy"}
+{"sub": "Raina Kabaivanska", "obj": "opera"}
+{"sub": "Orest Kiprensky", "obj": "portrait"}
+{"sub": "Keter Betts", "obj": "jazz"}
+{"sub": "George Avakian", "obj": "jazz"}
+{"sub": "Harlem Hamfats", "obj": "jazz"}
+{"sub": "JazzKamikaze", "obj": "jazz"}
+{"sub": "Danny Barker", "obj": "jazz"}
+{"sub": "Johann Adolph Hasse", "obj": "opera"}
+{"sub": "Kenny Drew", "obj": "jazz"}
+{"sub": "Prince Far I", "obj": "reggae"}
+{"sub": "Ricky Ford", "obj": "jazz"}
+{"sub": "Casa Loma Orchestra", "obj": "jazz"}
+{"sub": "Giuseppe Scarlatti", "obj": "opera"}
+{"sub": "The Squadronaires", "obj": "jazz"}
+{"sub": "Cyrus Chestnut", "obj": "jazz"}
+{"sub": "Ottawan", "obj": "disco"}
+{"sub": "Virgil", "obj": "pastoral"}
+{"sub": "Bryn Terfel", "obj": "opera"}
+{"sub": "Byard Lancaster", "obj": "jazz"}
+{"sub": "Sonny Boy Williamson I", "obj": "blues"}
+{"sub": "Frank Strazzeri", "obj": "jazz"}
+{"sub": "Jonah Jones", "obj": "jazz"}
+{"sub": "Joseph Carl Breil", "obj": "opera"}
+{"sub": "Addison Farmer", "obj": "jazz"}
+{"sub": "Vernon Alley", "obj": "jazz"}
+{"sub": "Hazel Scott", "obj": "jazz"}
+{"sub": "Adam Makowicz", "obj": "jazz"}
+{"sub": "Yerba Buena Jazz Band", "obj": "jazz"}
+{"sub": "Frank Jakobsen", "obj": "jazz"}
+{"sub": "Aribert Reimann", "obj": "opera"}
+{"sub": "Double-Time Records", "obj": "jazz"}
+{"sub": "Charlie Ventura", "obj": "jazz"}
+{"sub": "704 Hauser", "obj": "sitcom"}
+{"sub": "Joe Wilder", "obj": "jazz"}
+{"sub": "Sharon Freeman", "obj": "jazz"}
+{"sub": "David Sanborn", "obj": "jazz"}
+{"sub": "Dazz Band", "obj": "funk"}
+{"sub": "Contemporary Records", "obj": "jazz"}
+{"sub": "Art Davis", "obj": "jazz"}
+{"sub": "Bobbi Humphrey", "obj": "jazz"}
+{"sub": "Preservation Hall Jazz Band", "obj": "jazz"}
+{"sub": "Chessmaster", "obj": "chess"}
+{"sub": "We Are All Legends", "obj": "fantasy"}
+{"sub": "Aziz Nesin", "obj": "satire"}
+{"sub": "Jeff Coffin", "obj": "jazz"}
+{"sub": "Ivo Perelman", "obj": "jazz"}
+{"sub": "Henry Kimball Hadley", "obj": "opera"}
+{"sub": "Xavier Leroux", "obj": "opera"}
+{"sub": "Orphan Black", "obj": "thriller"}
+{"sub": "Francesco Cilea", "obj": "opera"}
+{"sub": "The Glam Metal Detectives", "obj": "sitcom"}
+{"sub": "Lettuce", "obj": "funk"}
+{"sub": "Mocean Worker", "obj": "jazz"}
+{"sub": "Mika Pohjola", "obj": "jazz"}
+{"sub": "Antonio Lotti", "obj": "opera"}
+{"sub": "Kane O'Hara", "obj": "opera"}
+{"sub": "Salvador Espriu", "obj": "poetry"}
+{"sub": "Morty Corb", "obj": "jazz"}
+{"sub": "Doublemoon", "obj": "jazz"}
+{"sub": "Jack Parnell", "obj": "jazz"}
+{"sub": "Joseph Haydn", "obj": "opera"}
+{"sub": "Barbara Dennerlein", "obj": "jazz"}
+{"sub": "Adam Taubitz", "obj": "jazz"}
+{"sub": "The Carpet People", "obj": "fantasy"}
+{"sub": "Jonathan Tunick", "obj": "musical"}
+{"sub": "Suddenly Susan", "obj": "sitcom"}
+{"sub": "Embryo Records", "obj": "jazz"}
+{"sub": "Lynn Seaton", "obj": "jazz"}
+{"sub": "Alfred Bruneau", "obj": "opera"}
+{"sub": "I Loves You, Porgy", "obj": "opera"}
+{"sub": "Jon Larsen", "obj": "jazz"}
+{"sub": "Pato Banton", "obj": "reggae"}
+{"sub": "Luigi Denza", "obj": "opera"}
+{"sub": "Ron Affif", "obj": "jazz"}
+{"sub": "Mad About You", "obj": "sitcom"}
+{"sub": "Soweto Kinch", "obj": "jazz"}
+{"sub": "Zynga Poker", "obj": "poker"}
+{"sub": "Anything but Love", "obj": "sitcom"}
+{"sub": "Gian Francesco Malipiero", "obj": "opera"}
+{"sub": "My Family", "obj": "sitcom"}
+{"sub": "Chelmsford 123", "obj": "sitcom"}
+{"sub": "Eyes of Laura Mars", "obj": "thriller"}
+{"sub": "David Fiuczynski", "obj": "jazz"}
+{"sub": "Warhammer 40,000", "obj": "fantasy"}
+{"sub": "Steve Swell", "obj": "jazz"}
+{"sub": "John Stubblefield", "obj": "jazz"}
+{"sub": "Dave Liebman", "obj": "jazz"}
+{"sub": "Doc Evans", "obj": "jazz"}
+{"sub": "Chris Barber", "obj": "jazz"}
+{"sub": "Hubert Laws", "obj": "jazz"}
+{"sub": "Bill Anschell", "obj": "jazz"}
+{"sub": "Spanky Wilson", "obj": "jazz"}
+{"sub": "Curtis Clark", "obj": "jazz"}
+{"sub": "Bruno Blum", "obj": "reggae"}
+{"sub": "Putter Smith", "obj": "jazz"}
+{"sub": "Louis Cottrell, Jr.", "obj": "jazz"}
+{"sub": "Idina Menzel", "obj": "orchestra"}
+{"sub": "God Made Me Funky", "obj": "funk"}
+{"sub": "Dennis Rowland", "obj": "jazz"}
+{"sub": "Dupree Bolton", "obj": "jazz"}
+{"sub": "Billy Eckstine", "obj": "jazz"}
+{"sub": "Leo Blech", "obj": "opera"}
+{"sub": "Ken Vandermark", "obj": "jazz"}
+{"sub": "Boney James", "obj": "jazz"}
+{"sub": "Giuseppe Verdi", "obj": "opera"}
+{"sub": "Steve Cardenas", "obj": "jazz"}
+{"sub": "The Beatles", "obj": "blues"}
+{"sub": "Billy Liar", "obj": "sitcom"}
+{"sub": "Rick Margitza", "obj": "jazz"}
+{"sub": "Cadet Records", "obj": "jazz"}
+{"sub": "Jiggs Whigham", "obj": "jazz"}
+{"sub": "Ry\u014d Kawasaki", "obj": "jazz"}
+{"sub": "Helge Schneider", "obj": "jazz"}
+{"sub": "The Belgariad", "obj": "fantasy"}
+{"sub": "I'm Your Boogie Man", "obj": "disco"}
+{"sub": "Rising Damp", "obj": "BBC"}
+{"sub": "Paddy Milner", "obj": "jazz"}
+{"sub": "Trend Records", "obj": "jazz"}
+{"sub": "The Wailers Band", "obj": "reggae"}
+{"sub": "Arthur Goring Thomas", "obj": "opera"}
+{"sub": "Jim Pugliese", "obj": "jazz"}
+{"sub": "The Jazztet", "obj": "jazz"}
+{"sub": "Flying Dutchman Records", "obj": "jazz"}
+{"sub": "The Little Prince", "obj": "novella"}
+{"sub": "Garnett Brown", "obj": "jazz"}
+{"sub": "Magni Wentzel", "obj": "jazz"}
+{"sub": "Call Cobbs, Jr.", "obj": "jazz"}
+{"sub": "Dinnerladies", "obj": "sitcom"}
+{"sub": "Acker Bilk", "obj": "jazz"}
+{"sub": "John Bernard Riley", "obj": "jazz"}
+{"sub": "I Married Joan", "obj": "sitcom"}
+{"sub": "The Upsetters", "obj": "reggae"}
+{"sub": "Satires", "obj": "satire"}
+{"sub": "Tohpati", "obj": "jazz"}
+{"sub": "Pascal Dusapin", "obj": "opera"}
+{"sub": "Pete La Roca", "obj": "jazz"}
+{"sub": "Tommy Banks", "obj": "jazz"}
+{"sub": "Jamie Cullum", "obj": "jazz"}
+{"sub": "Source Code", "obj": "thriller"}
+{"sub": "Rune Grammofon", "obj": "jazz"}
+{"sub": "Dennis Rea", "obj": "jazz"}
+{"sub": "Paul Dessau", "obj": "opera"}
+{"sub": "Les McCann", "obj": "jazz"}
+{"sub": "Ole Mathisen", "obj": "jazz"}
+{"sub": "Chaostar", "obj": "opera"}
+{"sub": "The Aggrolites", "obj": "reggae"}
+{"sub": "Leo Parker", "obj": "jazz"}
+{"sub": "Lost Tribe", "obj": "trance"}
+{"sub": "Roots Radics", "obj": "reggae"}
+{"sub": "Ranking Trevor", "obj": "reggae"}
+{"sub": "Salvatore Licitra", "obj": "opera"}
+{"sub": "H. P. Lovecraft", "obj": "fantasy"}
+{"sub": "Arliss", "obj": "sitcom"}
+{"sub": "Benny Golson", "obj": "jazz"}
+{"sub": "Jiunie Booth", "obj": "jazz"}
+{"sub": "Max Bruch", "obj": "symphony"}
+{"sub": "Animal Farm", "obj": "novella"}
+{"sub": "Ronnie Foster", "obj": "jazz"}
+{"sub": "Patricia Barber", "obj": "jazz"}
+{"sub": "Tim Garland", "obj": "jazz"}
+{"sub": "Bobby Hackett", "obj": "jazz"}
+{"sub": "Hugh Ragin", "obj": "jazz"}
+{"sub": "The Flame Knife", "obj": "novella"}
+{"sub": "Willie Ruff", "obj": "jazz"}
+{"sub": "Eek-A-Mouse", "obj": "reggae"}
+{"sub": "Dirty Dozen Brass Band", "obj": "jazz"}
+{"sub": "Tierney Sutton", "obj": "jazz"}
+{"sub": "Iration", "obj": "reggae"}
+{"sub": "Martin France", "obj": "jazz"}
+{"sub": "Peak Records", "obj": "jazz"}
+{"sub": "Ziggy Marley and the Melody Makers", "obj": "reggae"}
+{"sub": "Stephen Storace", "obj": "opera"}
+{"sub": "Alexander Knaifel", "obj": "opera"}
+{"sub": "Poison Study", "obj": "fantasy"}
+{"sub": "Duke Ellington", "obj": "jazz"}
+{"sub": "Nilva Records", "obj": "jazz"}
+{"sub": "La fiamma", "obj": "opera"}
+{"sub": "Willie Cook", "obj": "jazz"}
+{"sub": "Michael Parsberg", "obj": "trance"}
+{"sub": "Svend Asmussen", "obj": "jazz"}
+{"sub": "Time Lapse", "obj": "thriller"}
+{"sub": "Lu Watters", "obj": "jazz"}
+{"sub": "Sylvano Bussotti", "obj": "opera"}
+{"sub": "Arnold Bax", "obj": "symphony"}
+{"sub": "Andy Milne", "obj": "jazz"}
+{"sub": "Jacqui Dankworth", "obj": "jazz"}
+{"sub": "Freddie Keppard", "obj": "jazz"}
+{"sub": "De Werf", "obj": "jazz"}
+{"sub": "Fast Five", "obj": "thriller"}
+{"sub": "Olu Dara", "obj": "jazz"}
+{"sub": "Count Basie", "obj": "jazz"}
+{"sub": "The Tamuli", "obj": "fantasy"}
+{"sub": "Piirpauke", "obj": "jazz"}
+{"sub": "Alberto Mazzucato", "obj": "opera"}
+{"sub": "Horizon Records", "obj": "jazz"}
+{"sub": "Marcia Griffiths", "obj": "reggae"}
+{"sub": "Stephen Hough", "obj": "opera"}
+{"sub": "Iain Ballamy", "obj": "jazz"}
+{"sub": "Soultrane", "obj": "jazz"}
+{"sub": "Laurdine \"Pat\" Patrick", "obj": "jazz"}
+{"sub": "Neal Creque", "obj": "jazz"}
+{"sub": "Pat Martino", "obj": "jazz"}
+{"sub": "Cedric Myton", "obj": "reggae"}
+{"sub": "Robert Asprin", "obj": "fantasy"}
+{"sub": "Santa Esmeralda", "obj": "disco"}
+{"sub": "Ralph Lyford", "obj": "opera"}
+{"sub": "Big Pig", "obj": "funk"}
+{"sub": "Yulia Latynina", "obj": "fantasy"}
+{"sub": "Doc Severinsen", "obj": "jazz"}
+{"sub": "Lorin Maazel", "obj": "opera"}
+{"sub": "The Incomplete Enchanter", "obj": "fantasy"}
+{"sub": "Tommy Bryant", "obj": "jazz"}
+{"sub": "Pierre Montan Berton", "obj": "opera"}
+{"sub": "Tuck Everlasting", "obj": "fantasy"}
+{"sub": "Point Break", "obj": "thriller"}
+{"sub": "Milcho Leviev", "obj": "jazz"}
+{"sub": "The Goodies", "obj": "sitcom"}
+{"sub": "Dave Gelly", "obj": "jazz"}
+{"sub": "Johnny Osbourne", "obj": "reggae"}
+{"sub": "Peter Josef von Lindpaintner", "obj": "opera"}
+{"sub": "Knut Kristiansen", "obj": "jazz"}
+{"sub": "Paul Dunmall", "obj": "jazz"}
+{"sub": "Pan Ron", "obj": "jazz"}
+{"sub": "Diedre Murray", "obj": "jazz"}
+{"sub": "Moya Henderson", "obj": "opera"}
+{"sub": "Sylvain Dupuis", "obj": "opera"}
+{"sub": "Hot 8 Brass Band", "obj": "jazz"}
+{"sub": "Gunnar Andreas Berg", "obj": "jazz"}
+{"sub": "Amici Forever", "obj": "opera"}
+{"sub": "Alex Skolnick", "obj": "jazz"}
+{"sub": "Matt Lavelle", "obj": "jazz"}
+{"sub": "Matt Dennis", "obj": "jazz"}
+{"sub": "Rodolphe Kreutzer", "obj": "opera"}
+{"sub": "Bunky Green", "obj": "jazz"}
+{"sub": "Bootsie Barnes", "obj": "jazz"}
+{"sub": "Oofotr", "obj": "jazz"}
+{"sub": "Red Nails", "obj": "fantasy"}
+{"sub": "The Nutty Squirrels", "obj": "jazz"}
+{"sub": "Lizzie McGuire", "obj": "sitcom"}
+{"sub": "Martin Scherber", "obj": "symphony"}
+{"sub": "John Lunn", "obj": "opera"}
+{"sub": "Herman Foster", "obj": "jazz"}
+{"sub": "Irene Dalis", "obj": "opera"}
+{"sub": "Markus Schulz", "obj": "trance"}
+{"sub": "Brush Strokes", "obj": "sitcom"}
+{"sub": "Ole Thomsen", "obj": "jazz"}
+{"sub": "Baby Daddy", "obj": "sitcom"}
+{"sub": "Jimmy Lyons", "obj": "jazz"}
+{"sub": "Style Scott", "obj": "reggae"}
+{"sub": "The Elenium", "obj": "fantasy"}
+{"sub": "Alfredo Keil", "obj": "opera"}
+{"sub": "Amilcare Ponchielli", "obj": "opera"}
+{"sub": "Georges Arvanitas", "obj": "jazz"}
+{"sub": "Art Farmer", "obj": "jazz"}
+{"sub": "Big Youth", "obj": "reggae"}
+{"sub": "Adam Levy", "obj": "jazz"}
+{"sub": "Jesse Davis", "obj": "jazz"}
+{"sub": "Tryo", "obj": "reggae"}
+{"sub": "Ole Amund Gjersvik", "obj": "jazz"}
+{"sub": "Healey Willan", "obj": "opera"}
+{"sub": "Grant Green", "obj": "jazz"}
+{"sub": "Emanem Records", "obj": "jazz"}
+{"sub": "Robbie Jansen", "obj": "jazz"}
+{"sub": "Dennis Alcapone", "obj": "reggae"}
+{"sub": "Pink Martini", "obj": "jazz"}
+{"sub": "Israel Vibration", "obj": "reggae"}
+{"sub": "Stefano di Battista", "obj": "jazz"}
+{"sub": "Carl Orff", "obj": "opera"}
+{"sub": "Maria Callas", "obj": "opera"}
+{"sub": "Vecinos", "obj": "sitcom"}
+{"sub": "Blackadder", "obj": "sitcom"}
+{"sub": "Antonio Vivaldi", "obj": "opera"}
+{"sub": "Plenty, Plenty Soul", "obj": "jazz"}
+{"sub": "Armen Donelian", "obj": "jazz"}
+{"sub": "Lirael", "obj": "fantasy"}
+{"sub": "Hilding Rosenberg", "obj": "opera"}
+{"sub": "Harold Dejan", "obj": "jazz"}
+{"sub": "Eumir Deodato", "obj": "jazz"}
+{"sub": "Everett Barksdale", "obj": "jazz"}
+{"sub": "Jim Pepper", "obj": "jazz"}
+{"sub": "Han Bennink", "obj": "jazz"}
+{"sub": "Kleeer", "obj": "funk"}
+{"sub": "Alban Berg", "obj": "opera"}
+{"sub": "Jiver Hutchinson", "obj": "jazz"}
+{"sub": "Johnny Coles", "obj": "jazz"}
+{"sub": "Bobby Timmons", "obj": "jazz"}
+{"sub": "Billie Holiday", "obj": "ballad"}
+{"sub": "Miles Smiles", "obj": "jazz"}
+{"sub": "Earl Lindo", "obj": "reggae"}
+{"sub": "The Enchanter Reborn", "obj": "fantasy"}
+{"sub": "CIMP", "obj": "jazz"}
+{"sub": "Leevi Madetoja", "obj": "symphony"}
+{"sub": "Mike Mosiello", "obj": "jazz"}
+{"sub": "Wilbur Sweatman", "obj": "jazz"}
+{"sub": "Sonny Simmons", "obj": "jazz"}
+{"sub": "Toninho Horta", "obj": "jazz"}
+{"sub": "John LaBarbera", "obj": "jazz"}
+{"sub": "Alberto Socarras", "obj": "jazz"}
+{"sub": "Dianne Reeves", "obj": "jazz"}
+{"sub": "Frank Catalano", "obj": "jazz"}
+{"sub": "Three Up, Two Down", "obj": "sitcom"}
+{"sub": "Kyau & Albert", "obj": "trance"}
+{"sub": "Madeleine Peyroux", "obj": "jazz"}
+{"sub": "Alex Sipiagin", "obj": "jazz"}
+{"sub": "Going Straight", "obj": "sitcom"}
+{"sub": "Krzysztof Meyer", "obj": "opera"}
+{"sub": "Leon Haywood", "obj": "funk"}
+{"sub": "Stanley Clarke", "obj": "jazz"}
+{"sub": "Pete Christlieb", "obj": "jazz"}
+{"sub": "Todd Sickafoose", "obj": "jazz"}
+{"sub": "Dave Samuels", "obj": "jazz"}
+{"sub": "Dave Pike", "obj": "jazz"}
+{"sub": "Michael Mantler", "obj": "jazz"}
+{"sub": "Saverio Mercadante", "obj": "opera"}
+{"sub": "Antonio Sartorio", "obj": "opera"}
+{"sub": "Joe Darensbourg", "obj": "jazz"}
+{"sub": "Nasenbluten", "obj": "hardcore"}
+{"sub": "The Paul Lynde Show", "obj": "sitcom"}
+{"sub": "Blue Goose Records", "obj": "jazz"}
+{"sub": "Don Lusher", "obj": "jazz"}
+{"sub": "Joni Mitchell", "obj": "jazz"}
+{"sub": "Gerd Dudek", "obj": "jazz"}
+{"sub": "Pete York", "obj": "jazz"}
+{"sub": "Alex Cline", "obj": "jazz"}
+{"sub": "Booker Ervin", "obj": "jazz"}
+{"sub": "Ed Greenwood", "obj": "fantasy"}
+{"sub": "Neil Gaiman", "obj": "fantasy"}
+{"sub": "Johann Christian Bach", "obj": "opera"}
+{"sub": "Harry Somers", "obj": "opera"}
+{"sub": "Lucky Louie", "obj": "sitcom"}
+{"sub": "Junior Byles", "obj": "reggae"}
+{"sub": "Catullus", "obj": "poetry"}
+{"sub": "Lutan Fyah", "obj": "reggae"}
+{"sub": "Jimmy Cliff", "obj": "reggae"}
+{"sub": "Rick Braun", "obj": "jazz"}
+{"sub": "Christopher Paolini", "obj": "fantasy"}
+{"sub": "Bob Servant", "obj": "sitcom"}
+{"sub": "Jean-Baptiste Lully", "obj": "opera"}
+{"sub": "EmArcy", "obj": "jazz"}
+{"sub": "Steve Nieve", "obj": "opera"}
+{"sub": "Dag Arnesen", "obj": "jazz"}
+{"sub": "Curtis Amy", "obj": "jazz"}
+{"sub": "Frank Kimbrough", "obj": "jazz"}
+{"sub": "Donovan Germain", "obj": "reggae"}
+{"sub": "Masada", "obj": "jazz"}
+{"sub": "Bunny Berigan", "obj": "jazz"}
+{"sub": "Joseph Jarman", "obj": "jazz"}
+{"sub": "Tone Center Records", "obj": "jazz"}
+{"sub": "The Jazz Knights", "obj": "jazz"}
+{"sub": "Nic Chagall", "obj": "trance"}
+{"sub": "Wolfgang Fortner", "obj": "opera"}
+{"sub": "Eivind Opsvik", "obj": "jazz"}
+{"sub": "Carol Welsman", "obj": "jazz"}
+{"sub": "Andy Duguid", "obj": "trance"}
+{"sub": "Simon Mayr", "obj": "opera"}
+{"sub": "Sammy Davis Jr.", "obj": "jazz"}
+{"sub": "Keshavan Maslak", "obj": "jazz"}
+{"sub": "Till Death...", "obj": "sitcom"}
+{"sub": "Leaf Storm", "obj": "novella"}
+{"sub": "Eric Gale", "obj": "jazz"}
+{"sub": "Benjamin Godard", "obj": "opera"}
+{"sub": "Casey Bill Weldon", "obj": "blues"}
+{"sub": "Edward Vesala", "obj": "jazz"}
+{"sub": "Rhythm-a-Ning", "obj": "jazz"}
+{"sub": "Dick Wellstood", "obj": "jazz"}
+{"sub": "Wolfgang Hohlbein", "obj": "fantasy"}
+{"sub": "Marcus Rojas", "obj": "jazz"}
+{"sub": "Joey Baron", "obj": "jazz"}
+{"sub": "Kevin Hays", "obj": "jazz"}
+{"sub": "Jean-Philippe Rameau", "obj": "opera"}
+{"sub": "Conjure Wife", "obj": "fantasy"}
+{"sub": "Missile Gap", "obj": "novella"}
+{"sub": "Doug Watkins", "obj": "jazz"}
+{"sub": "Ed Neumeister", "obj": "jazz"}
+{"sub": "Bodega Band", "obj": "jazz"}
+{"sub": "The Rolling Stones", "obj": "blues"}
+{"sub": "James Patterson", "obj": "thriller"}
+{"sub": "Karl Goldmark", "obj": "opera"}
+{"sub": "Ray Copeland", "obj": "jazz"}
+{"sub": "Skye Records", "obj": "jazz"}
+{"sub": "Frode Gjerstad", "obj": "jazz"}
+{"sub": "Basil Gabbidon", "obj": "reggae"}
+{"sub": "Codename Coq Rouge", "obj": "thriller"}
+{"sub": "Marilyn Mazur", "obj": "jazz"}
+{"sub": "Cymande", "obj": "funk"}
+{"sub": "Teddy Hill", "obj": "jazz"}
+{"sub": "Keith Hudson", "obj": "reggae"}
+{"sub": "Pakkins' Land", "obj": "fantasy"}
+{"sub": "Drowned Ammet", "obj": "fantasy"}
+{"sub": "Paul Le Flem", "obj": "opera"}
+{"sub": "Mork & Mindy", "obj": "sitcom"}
+{"sub": "Zutty Singleton", "obj": "jazz"}
+{"sub": "The Likely Lads", "obj": "sitcom"}
+{"sub": "Chris McGregor", "obj": "jazz"}
+{"sub": "Henry Threadgill", "obj": "jazz"}
+{"sub": "The Darrell Schweitzer Megapack", "obj": "fantasy"}
+{"sub": "Kris Davis", "obj": "jazz"}
+{"sub": "Erik Truffaz", "obj": "jazz"}
+{"sub": "Jean-Luc Ponty", "obj": "jazz"}
+{"sub": "Kurt Vonnegut", "obj": "satire"}
+{"sub": "Dena DeRose", "obj": "jazz"}
+{"sub": "Paul Gonsalves", "obj": "jazz"}
+{"sub": "Grimus", "obj": "fantasy"}
+{"sub": "The Alzheimer Case", "obj": "thriller"}
+{"sub": "Rued Langgaard", "obj": "opera"}
+{"sub": "Enhanced Music", "obj": "trance"}
+{"sub": "Milt Larkin", "obj": "jazz"}
+{"sub": "Metalwood", "obj": "jazz"}
+{"sub": "Sabriel", "obj": "fantasy"}
+{"sub": "Greg Cohen", "obj": "jazz"}
+{"sub": "Harold Land", "obj": "jazz"}
+{"sub": "Funkadelic", "obj": "funk"}
+{"sub": "Erik Nylander", "obj": "jazz"}
+{"sub": "Del Arno Band", "obj": "reggae"}
+{"sub": "Young-Holt Unlimited", "obj": "jazz"}
+{"sub": "Dave McKenna", "obj": "jazz"}
+{"sub": "King Kolax", "obj": "jazz"}
+{"sub": "Mario Del Monaco", "obj": "opera"}
+{"sub": "Fyodor Ivanovich Shalyapin", "obj": "opera"}
+{"sub": "The Office", "obj": "sitcom"}
+{"sub": "Alexander O'Neal", "obj": "funk"}
+{"sub": "John Benson Brooks", "obj": "jazz"}
+{"sub": "Aram Khachaturian", "obj": "symphony"}
+{"sub": "Les Elgart", "obj": "jazz"}
+{"sub": "Susie Ibarra", "obj": "jazz"}
+{"sub": "Peter Metro", "obj": "reggae"}
+{"sub": "Eureka Brass Band", "obj": "jazz"}
+{"sub": "Frasier", "obj": "sitcom"}
+{"sub": "Astor Piazzolla", "obj": "opera"}
+{"sub": "Hello, Love", "obj": "jazz"}
+{"sub": "Kami-sama no Inai Nichiy\u014dbi", "obj": "fantasy"}
+{"sub": "Alexander Borodin", "obj": "opera"}
+{"sub": "Valentine Chin", "obj": "reggae"}
+{"sub": "Willie Dennis", "obj": "jazz"}
+{"sub": "Nino Rota", "obj": "opera"}
+{"sub": "Kelly Link", "obj": "fantasy"}
+{"sub": "Andrew Schultz", "obj": "opera"}
+{"sub": "Domenico Cimarosa", "obj": "opera"}
+{"sub": "Herbie Hancock", "obj": "funk"}
+{"sub": "Mike Stern", "obj": "jazz"}
+{"sub": "Hamlet", "obj": "tragedy"}
+{"sub": "Benito Cereno", "obj": "novella"}
+{"sub": "Cobblestone Records", "obj": "jazz"}
+{"sub": "Chiaroscuro Records", "obj": "jazz"}
+{"sub": "Mercer Ellington", "obj": "jazz"}
+{"sub": "Kamasi Washington", "obj": "jazz"}
+{"sub": "Judi Silvano", "obj": "jazz"}
+{"sub": "Bedouin Soundclash", "obj": "reggae"}
+{"sub": "Ken Peplowski", "obj": "jazz"}
+{"sub": "Grey Gull Records", "obj": "jazz"}
+{"sub": "Wally Fawkes", "obj": "jazz"}
+{"sub": "Boys Town Gang", "obj": "disco"}
+{"sub": "Geminiano Giacomelli", "obj": "opera"}
+{"sub": "Postcards Records", "obj": "jazz"}
+{"sub": "Shafi Hadi", "obj": "jazz"}
+{"sub": "Harry James", "obj": "jazz"}
+{"sub": "Still Open All Hours", "obj": "sitcom"}
+{"sub": "Peanuts Holland", "obj": "jazz"}
+{"sub": "Peter Schlemihl", "obj": "novella"}
+{"sub": "Sugar Minott", "obj": "reggae"}
+{"sub": "Gary Unmarried", "obj": "sitcom"}
+{"sub": "Shindig!", "obj": "variety"}
+{"sub": "Abhorsen", "obj": "fantasy"}
+{"sub": "Boyd Raeburn", "obj": "jazz"}
+{"sub": "Filles de Kilimanjaro", "obj": "jazz"}
+{"sub": "Carmen McRae", "obj": "jazz"}
+{"sub": "Clifford Brown", "obj": "jazz"}
+{"sub": "Loris Tjeknavorian", "obj": "opera"}
+{"sub": "Delightful Precipice", "obj": "jazz"}
+{"sub": "Landmark Records", "obj": "jazz"}
+{"sub": "Raphe Malik", "obj": "jazz"}
+{"sub": "Sal Mosca", "obj": "jazz"}
+{"sub": "Cold Comfort Farm", "obj": "satire"}
+{"sub": "David Friesen", "obj": "jazz"}
+{"sub": "Joe Marsala", "obj": "jazz"}
+{"sub": "Wardell Gray", "obj": "jazz"}
+{"sub": "Jimmy Raney", "obj": "jazz"}
+{"sub": "Peter Benoit", "obj": "opera"}
+{"sub": "Jimmy McGriff", "obj": "jazz"}
+{"sub": "Babs Gonzales", "obj": "jazz"}
+{"sub": "Gothika", "obj": "thriller"}
+{"sub": "Steps Ahead", "obj": "jazz"}
+{"sub": "Arthur Benjamin", "obj": "opera"}
+{"sub": "Philips Records", "obj": "jazz"}
+{"sub": "Louis Prima", "obj": "jazz"}
+{"sub": "Jamil Nasser", "obj": "jazz"}
+{"sub": "Dominick Argento", "obj": "opera"}
+{"sub": "Misty in Roots", "obj": "reggae"}
+{"sub": "Wolfgang Muthspiel", "obj": "jazz"}
+{"sub": "Nick Travis", "obj": "jazz"}
+{"sub": "Memphis Minnie", "obj": "blues"}
+{"sub": "Ron McClure", "obj": "jazz"}
+{"sub": "The Cat Empire", "obj": "jazz"}
+{"sub": "Lewis Porter", "obj": "jazz"}
+{"sub": "Cornelis van Haarlem", "obj": "portrait"}
+{"sub": "The Army Game", "obj": "sitcom"}
+{"sub": "Enrique Granados", "obj": "opera"}
+{"sub": "Tommy Vig", "obj": "jazz"}
+{"sub": "The Mighty Boosh", "obj": "sitcom"}
+{"sub": "Phone Booth", "obj": "thriller"}
+{"sub": "Alvino Rey", "obj": "jazz"}
+{"sub": "Loose Tubes", "obj": "jazz"}
+{"sub": "Khan Jamal", "obj": "jazz"}
+{"sub": "Franz Liszt", "obj": "symphony"}
+{"sub": "Lester Young", "obj": "jazz"}
+{"sub": "The Dustbinmen", "obj": "sitcom"}
+{"sub": "Patty Waters", "obj": "jazz"}
+{"sub": "So Haunt Me", "obj": "sitcom"}
+{"sub": "Ferdinand Ries", "obj": "symphony"}
+{"sub": "Chris Batchelor", "obj": "jazz"}
+{"sub": "Tony Rebel", "obj": "reggae"}
+{"sub": "Candido Camero", "obj": "jazz"}
+{"sub": "Jean-Joseph de Mondonville", "obj": "opera"}
+{"sub": "Fred Thelonious Baker", "obj": "jazz"}
+{"sub": "Audio Fidelity", "obj": "jazz"}
+{"sub": "Theodosii Spassov", "obj": "jazz"}
+{"sub": "Gennett", "obj": "jazz"}
+{"sub": "Marshall Allen", "obj": "jazz"}
+{"sub": "Harold Arlen", "obj": "jazz"}
+{"sub": "Dicky Wells", "obj": "jazz"}
+{"sub": "Edward Solomon", "obj": "opera"}
+{"sub": "Sykes", "obj": "sitcom"}
+{"sub": "Philip Catherine", "obj": "jazz"}
+{"sub": "Meet Mr. McNutley", "obj": "sitcom"}
+{"sub": "Ettore Panizza", "obj": "opera"}
+{"sub": "Katherine Jenkins", "obj": "opera"}
+{"sub": "Earth Is Room Enough", "obj": "anthology"}
+{"sub": "Dinosaurs", "obj": "sitcom"}
+{"sub": "Tommy LiPuma", "obj": "jazz"}
+{"sub": "Steve Gadd", "obj": "jazz"}
+{"sub": "Johannes Eick", "obj": "jazz"}
+{"sub": "Kelly Marie", "obj": "disco"}
+{"sub": "Harmolodics", "obj": "jazz"}
+{"sub": "Rachael Price", "obj": "jazz"}
+{"sub": "Stefano Pavesi", "obj": "opera"}
+{"sub": "Leon Breeden", "obj": "jazz"}
+{"sub": "Thomas Linley the elder", "obj": "opera"}
+{"sub": "Avni Mula", "obj": "opera"}
+{"sub": "Sleepy John Estes", "obj": "blues"}
+{"sub": "Arnett Cobb", "obj": "jazz"}
+{"sub": "Kenny Wheeler", "obj": "jazz"}
+{"sub": "Pori Jazz", "obj": "jazz"}
+{"sub": "How I Met Your Mother", "obj": "sitcom"}
+{"sub": "Fulfillingness' First Finale", "obj": "funk"}
+{"sub": "Cy Coleman", "obj": "jazz"}
+{"sub": "Paul McCandless", "obj": "jazz"}
+{"sub": "Jacintha Abisheganaden", "obj": "jazz"}
+{"sub": "Hall Overton", "obj": "jazz"}
+{"sub": "Les Double Six", "obj": "jazz"}
+{"sub": "Red Nichols", "obj": "jazz"}
+{"sub": "Peter Appleyard", "obj": "jazz"}
+{"sub": "Reinhard Keiser", "obj": "opera"}
+{"sub": "Verve Records", "obj": "jazz"}
+{"sub": "Energy 52", "obj": "trance"}
+{"sub": "Bongo Herman", "obj": "reggae"}
+{"sub": "Kamaya Painters", "obj": "trance"}
+{"sub": "Lucky Thompson", "obj": "jazz"}
+{"sub": "Milt Hinton", "obj": "jazz"}
+{"sub": "Hank Garland", "obj": "jazz"}
+{"sub": "Mily Balakirev", "obj": "symphony"}
+{"sub": "Claude Deppa", "obj": "jazz"}
+{"sub": "Unfinished Tales", "obj": "fantasy"}
+{"sub": "Bobby Watson", "obj": "jazz"}
+{"sub": "Fawlty Towers", "obj": "sitcom"}
+{"sub": "Paul Whiteman", "obj": "jazz"}
+{"sub": "RuneScape", "obj": "fantasy"}
+{"sub": "Dr Alimantado", "obj": "reggae"}
+{"sub": "Jean Racine", "obj": "tragedy"}
+{"sub": "Blossom Dearie", "obj": "jazz"}
+{"sub": "Hans Koller", "obj": "jazz"}
+{"sub": "Suicide", "obj": "essay"}
+{"sub": "Manu Chao", "obj": "reggae"}
+{"sub": "Justine Suissa", "obj": "trance"}
+{"sub": "Nighty Night", "obj": "sitcom"}
+{"sub": "Platypus Man", "obj": "sitcom"}
+{"sub": "Bert Joris", "obj": "jazz"}
+{"sub": "Blank & Jones", "obj": "trance"}
+{"sub": "Teddy Kotick", "obj": "jazz"}
+{"sub": "Ahmed Abdullah", "obj": "jazz"}
+{"sub": "Robert Cambert", "obj": "opera"}
+{"sub": "Jacques Offenbach", "obj": "opera"}
+{"sub": "Daniel Kandi", "obj": "trance"}
+{"sub": "Miles Davis", "obj": "jazz"}
+{"sub": "Catalyst Records", "obj": "jazz"}
+{"sub": "227", "obj": "sitcom"}
+{"sub": "Roy Hargrove", "obj": "jazz"}
+{"sub": "Johnny Alegre Affinity", "obj": "jazz"}
+{"sub": "Eldar Djangirov", "obj": "jazz"}
+{"sub": "Franz Koglmann", "obj": "jazz"}
+{"sub": "Bobina", "obj": "trance"}
+{"sub": "Fess Williams", "obj": "jazz"}
+{"sub": "Patrick Alavi", "obj": "funk"}
+{"sub": "HighNote Records", "obj": "jazz"}
+{"sub": "Hesiod", "obj": "poetry"}
+{"sub": "Don Grusin", "obj": "jazz"}
+{"sub": "Giuseppe Gazzaniga", "obj": "opera"}
+{"sub": "Lou Marini", "obj": "jazz"}
+{"sub": "Al Hirt", "obj": "jazz"}
+{"sub": "Gary Bartz", "obj": "jazz"}
+{"sub": "Maria Kannegaard", "obj": "jazz"}
+{"sub": "Easy Star All-Stars", "obj": "reggae"}
+{"sub": "Benjamin Britten", "obj": "opera"}
+{"sub": "Urbie Green", "obj": "jazz"}
+{"sub": "Vincent Herring", "obj": "jazz"}
+{"sub": "Deborah Drattell", "obj": "opera"}
+{"sub": "Fatma Mukhtarova", "obj": "opera"}
+{"sub": "Taylor Eigsti", "obj": "jazz"}
+{"sub": "Mark Bucci", "obj": "opera"}
+{"sub": "June Christy", "obj": "jazz"}
+{"sub": "George Frideric Handel", "obj": "opera"}
+{"sub": "Svensson, Svensson", "obj": "sitcom"}
+{"sub": "Roberta Gambarini", "obj": "jazz"}
+{"sub": "Sonny Bradshaw", "obj": "jazz"}
+{"sub": "Jimmie Noone", "obj": "jazz"}
+{"sub": "Viktor Nessler", "obj": "opera"}
+{"sub": "Sadik Hakim", "obj": "jazz"}
+{"sub": "Stafford James", "obj": "jazz"}
+{"sub": "Lorenzo Tio", "obj": "jazz"}
+{"sub": "Leonard Gaskin", "obj": "jazz"}
+{"sub": "Porter Records", "obj": "jazz"}
+{"sub": "Digby Fairweather", "obj": "jazz"}
+{"sub": "Art Tatum", "obj": "jazz"}
+{"sub": "Ethel Waters", "obj": "jazz"}
+{"sub": "The Rider on the White Horse", "obj": "novella"}
+{"sub": "Gerald Veasley", "obj": "jazz"}
+{"sub": "32 Jazz", "obj": "jazz"}
+{"sub": "Bernard Herrmann", "obj": "opera"}
+{"sub": "Three Drives", "obj": "trance"}
+{"sub": "Margit Sandemo", "obj": "fantasy"}
+{"sub": "Steve Slagle", "obj": "jazz"}
+{"sub": "Tao Lin", "obj": "essay"}
+{"sub": "Rob McConnell", "obj": "jazz"}
+{"sub": "Furry Lewis", "obj": "blues"}
+{"sub": "Dido and Aeneas", "obj": "opera"}
+{"sub": "Aka Moon", "obj": "jazz"}
+{"sub": "Geraint Evans", "obj": "opera"}
+{"sub": "Roswell Rudd", "obj": "jazz"}
+{"sub": "Vernel Fournier", "obj": "jazz"}
+{"sub": "The Flintstones", "obj": "sitcom"}
+{"sub": "Mel Powell", "obj": "jazz"}
+{"sub": "Frank Lowe", "obj": "jazz"}
+{"sub": "Allan Ganley", "obj": "jazz"}
+{"sub": "Thelma Carpenter", "obj": "jazz"}
+{"sub": "Montgomery Brothers", "obj": "jazz"}
+{"sub": "Jan Peerce", "obj": "opera"}
+{"sub": "Hugo Weisgall", "obj": "opera"}
+{"sub": "Ted Gioia", "obj": "jazz"}
+{"sub": "Jan Johnston", "obj": "trance"}
+{"sub": "The Adjustment Bureau", "obj": "thriller"}
+{"sub": "Leo Wright", "obj": "jazz"}
+{"sub": "Marcel Samuel-Rousseau", "obj": "opera"}
+{"sub": "Wes Montgomery", "obj": "jazz"}
+{"sub": "The Worm Ouroboros", "obj": "fantasy"}
+{"sub": "Maxine Sullivan", "obj": "jazz"}
+{"sub": "Cutting contest", "obj": "jazz"}
+{"sub": "Craig S. Harris", "obj": "jazz"}
+{"sub": "Fats Waller", "obj": "jazz"}
+{"sub": "John Altenburgh", "obj": "jazz"}
+{"sub": "Bendik Hofseth", "obj": "jazz"}
+{"sub": "Johannes Brahms", "obj": "symphony"}
+{"sub": "Henri Renaud", "obj": "jazz"}
+{"sub": "Donald Byrd", "obj": "jazz"}
+{"sub": "Bernard Rogers", "obj": "symphony"}
+{"sub": "East Wind Records", "obj": "jazz"}
+{"sub": "Law Abiding Citizen", "obj": "thriller"}
+{"sub": "Keely Smith", "obj": "jazz"}
+{"sub": "Ivar Antonsen", "obj": "jazz"}
+{"sub": "Drew Gress", "obj": "jazz"}
+{"sub": "Lena Horne", "obj": "jazz"}
+{"sub": "Don't Wait Up", "obj": "sitcom"}
+{"sub": "The Juror", "obj": "thriller"}
+{"sub": "Dudu Pukwana", "obj": "jazz"}
+{"sub": "Jacques Morali", "obj": "disco"}
+{"sub": "The Bar-Kays", "obj": "funk"}
+{"sub": "Dick Katz", "obj": "jazz"}
+{"sub": "A Love Trilogy", "obj": "disco"}
+{"sub": "Hilton Jefferson", "obj": "jazz"}
+{"sub": "Wadada Leo Smith", "obj": "jazz"}
+{"sub": "Carl Kress", "obj": "jazz"}
+{"sub": "Bennie Wallace", "obj": "jazz"}
+{"sub": "Artists House", "obj": "jazz"}
+{"sub": "Rising Damp", "obj": "sitcom"}
+{"sub": "Progressive Records", "obj": "jazz"}
+{"sub": "Klaus Doldinger", "obj": "jazz"}
+{"sub": "Palatine Anthology", "obj": "anthology"}
+{"sub": "Diff'rent Strokes", "obj": "sitcom"}
+{"sub": "Don Fagerquist", "obj": "jazz"}
+{"sub": "Don Byas", "obj": "jazz"}
+{"sub": "MetroJazz Records", "obj": "jazz"}
+{"sub": "Jean-Yves Daniel-Lesur", "obj": "opera"}
+{"sub": "Virgilio Mazzocchi", "obj": "opera"}
+{"sub": "Animal Room", "obj": "thriller"}
+{"sub": "Jacques Ibert", "obj": "opera"}
+{"sub": "Paul Chambers", "obj": "jazz"}
+{"sub": "Earl King", "obj": "blues"}
+{"sub": "David DiChiera", "obj": "opera"}
+{"sub": "Anthony Braxton", "obj": "jazz"}
+{"sub": "Harrison Birtwistle", "obj": "opera"}
+{"sub": "Wolter Wierbos", "obj": "jazz"}
+{"sub": "Lin Carter", "obj": "fantasy"}
+{"sub": "Michel Massot", "obj": "jazz"}
+{"sub": "Geggy Tah", "obj": "jazz"}
+{"sub": "Friday Night Dinner", "obj": "sitcom"}
+{"sub": "Willem Pijper", "obj": "opera"}
+{"sub": "BadBadNotGood", "obj": "jazz"}
+{"sub": "Don Paterson", "obj": "jazz"}
+{"sub": "Enrico Pieranunzi", "obj": "jazz"}
+{"sub": "Barry Harris", "obj": "jazz"}
+{"sub": "Panama Francis", "obj": "jazz"}
+{"sub": "Mose Allison", "obj": "jazz"}
+{"sub": "Main Hoon Na", "obj": "thriller"}
+{"sub": "Hugh Marsh", "obj": "jazz"}
+{"sub": "Kirsti Huke", "obj": "jazz"}
+{"sub": "Riverworld", "obj": "fantasy"}
+{"sub": "Louis Banks", "obj": "jazz"}
+{"sub": "Helen Sung", "obj": "jazz"}
+{"sub": "Joe Fonda", "obj": "jazz"}
+{"sub": "Bob Rusch", "obj": "jazz"}
+{"sub": "Anton Schwartz", "obj": "jazz"}
+{"sub": "Rudolf Brucci", "obj": "opera"}
+{"sub": "Denise Jannah", "obj": "jazz"}
+{"sub": "The Bays", "obj": "jazz"}
+{"sub": "Gonzalo Rubalcaba", "obj": "jazz"}
+{"sub": "Mafia & Fluxy", "obj": "reggae"}
+{"sub": "Dorothy Donegan", "obj": "jazz"}
+{"sub": "Super8 & Tab", "obj": "trance"}
+{"sub": "The Book Group", "obj": "sitcom"}
+{"sub": "Pacific Jazz Records", "obj": "jazz"}
+{"sub": "Georg Christoph Wagenseil", "obj": "symphony"}
+{"sub": "Tim Hauser", "obj": "jazz"}
+{"sub": "Pattie Brooks", "obj": "disco"}
+{"sub": "Soul Syndicate", "obj": "reggae"}
+{"sub": "Buck Clayton", "obj": "jazz"}
+{"sub": "Don Byron", "obj": "jazz"}
+{"sub": "Michael Bisio", "obj": "jazz"}
+{"sub": "The Nanny", "obj": "sitcom"}
+{"sub": "Cuong Vu", "obj": "jazz"}
+{"sub": "Roy Budd", "obj": "jazz"}
+{"sub": "Robert Volkmann", "obj": "symphony"}
+{"sub": "Antonio Paoli", "obj": "opera"}
+{"sub": "Eddie Condon", "obj": "jazz"}
+{"sub": "Inva Mula", "obj": "opera"}
+{"sub": "Monkey Dust", "obj": "satire"}
+{"sub": "Gerard Presencer", "obj": "jazz"}
+{"sub": "Palo Alto Records", "obj": "jazz"}
+{"sub": "Ken Hyder", "obj": "jazz"}
+{"sub": "Rainforest Band", "obj": "jazz"}
+{"sub": "Olivier Messiaen", "obj": "symphony"}
+{"sub": "Muggsy Spanier", "obj": "jazz"}
+{"sub": "Philip Glass", "obj": "opera"}
+{"sub": "Chris Biscoe", "obj": "jazz"}
+{"sub": "Jackie Davis", "obj": "jazz"}
+{"sub": "Willie Bobo", "obj": "jazz"}
+{"sub": "The Peacemaker", "obj": "thriller"}
+{"sub": "Sirone", "obj": "jazz"}
+{"sub": "Erwin Schulhoff", "obj": "opera"}
+{"sub": "Renata Tebaldi", "obj": "opera"}
+{"sub": "Giuseppina Strepponi", "obj": "opera"}
+{"sub": "Hardwicke House", "obj": "sitcom"}
+{"sub": "Susie Arioli", "obj": "jazz"}
+{"sub": "Mikhail Matyushin", "obj": "opera"}
+{"sub": "Dub Syndicate", "obj": "reggae"}
+{"sub": "Randy Sabien", "obj": "jazz"}
+{"sub": "Lydia Field Emmet", "obj": "portrait"}
+{"sub": "Claude Hopkins", "obj": "jazz"}
+{"sub": "Oscar Moore", "obj": "jazz"}
+{"sub": "Mary Garden", "obj": "opera"}
+{"sub": "Airto Moreira", "obj": "jazz"}
+{"sub": "A Christmas Carol", "obj": "novella"}
+{"sub": "Peter-Jan Wagemans", "obj": "opera"}
+{"sub": "Liberty Records", "obj": "jazz"}
+{"sub": "Larry Ridley", "obj": "jazz"}
+{"sub": "Rayvon", "obj": "reggae"}
+{"sub": "Kenny Barron", "obj": "jazz"}
+{"sub": "Mr Velcro Fastener", "obj": "electro"}
+{"sub": "Chris Speed", "obj": "jazz"}
+{"sub": "Kayamar", "obj": "jazz"}
+{"sub": "Vanguard Records", "obj": "jazz"}
+{"sub": "Roy Babbington", "obj": "jazz"}
+{"sub": "Pat Metheny Group", "obj": "jazz"}
+{"sub": "Best Selling Secrets", "obj": "sitcom"}
+{"sub": "Errico Petrella", "obj": "opera"}
+{"sub": "Andy Vores", "obj": "opera"}
+{"sub": "David Gilmore", "obj": "jazz"}
+{"sub": "Tito Satya", "obj": "sitcom"}
+{"sub": "Pee Wee Hunt", "obj": "jazz"}
+{"sub": "Charlie Banacos", "obj": "jazz"}
+{"sub": "Strata-East Records", "obj": "jazz"}
+{"sub": "Future Man", "obj": "jazz"}
+{"sub": "Norris Turney", "obj": "jazz"}
+{"sub": "The Blue Notes", "obj": "jazz"}
+{"sub": "Hugh Martin", "obj": "musical"}
+{"sub": "The Boy from Oz", "obj": "musical"}
+{"sub": "Emil von Reznicek", "obj": "opera"}
+{"sub": "Giovanni Battista Sammartini", "obj": "symphony"}
+{"sub": "Sherrill Milnes", "obj": "opera"}
+{"sub": "Bama State Collegians", "obj": "jazz"}
+{"sub": "Cannonball Adderley", "obj": "jazz"}
+{"sub": "Flavio", "obj": "opera"}
+{"sub": "Matt Glaser", "obj": "jazz"}
+{"sub": "Jon Eberson", "obj": "jazz"}
+{"sub": "Nels Cline", "obj": "jazz"}
+{"sub": "Skeeter Best", "obj": "jazz"}
+{"sub": "Mel Lewis", "obj": "jazz"}
+{"sub": "Rosenberg Trio", "obj": "jazz"}
+{"sub": "Bob Wilber", "obj": "jazz"}
+{"sub": "The Witcher", "obj": "fantasy"}
+{"sub": "Jimmy Riley", "obj": "reggae"}
+{"sub": "Jon Hassell", "obj": "jazz"}
+{"sub": "Maximum Ride", "obj": "fantasy"}
+{"sub": "Dietrich Fischer-Dieskau", "obj": "opera"}
+{"sub": "Frank Zappa", "obj": "jazz"}
+{"sub": "Andrew Lloyd Webber", "obj": "musical"}
+{"sub": "Jonas Steur", "obj": "trance"}
+{"sub": "Magnus Lindgren", "obj": "jazz"}
+{"sub": "The Tritonian Ring", "obj": "fantasy"}
+{"sub": "Horace Silver", "obj": "jazz"}
+{"sub": "Martin Denny", "obj": "jazz"}
+{"sub": "Didier Lockwood", "obj": "jazz"}
+{"sub": "Allen Eager", "obj": "jazz"}
+{"sub": "Bobby Troup", "obj": "jazz"}
+{"sub": "Benedikt Schack", "obj": "opera"}
+{"sub": "King Tubby", "obj": "reggae"}
+{"sub": "The Rite", "obj": "thriller"}
+{"sub": "Gordon Brisker", "obj": "jazz"}
+{"sub": "Mary Higgins Clark", "obj": "thriller"}
+{"sub": "George Bohanon", "obj": "jazz"}
+{"sub": "Rupie Edwards", "obj": "reggae"}
+{"sub": "Citizen James", "obj": "sitcom"}
+{"sub": "Stanislao Gastaldon", "obj": "opera"}
+{"sub": "Jazz Party", "obj": "jazz"}
+{"sub": "Ivan Lins", "obj": "jazz"}
+{"sub": "Greetje Kauffeld", "obj": "jazz"}
+{"sub": "The Constant Gardener", "obj": "thriller"}
+{"sub": "Afrasiyab Badalbeyli", "obj": "opera"}
+{"sub": "Eddie Lang", "obj": "jazz"}
+{"sub": "Russell Jacquet", "obj": "jazz"}
+{"sub": "Putte Wickman", "obj": "jazz"}
+{"sub": "Felix Mendelssohn", "obj": "symphony"}
+{"sub": "Ildebrando Pizzetti", "obj": "opera"}
+{"sub": "The Flame Knife", "obj": "fantasy"}
+{"sub": "Ron Eschete", "obj": "jazz"}
+{"sub": "Luciano Pavarotti", "obj": "opera"}
+{"sub": "Night Ark", "obj": "jazz"}
+{"sub": "Gilad Atzmon", "obj": "jazz"}
+{"sub": "Yellow Dog Records", "obj": "jazz"}
+{"sub": "Frank Mantooth", "obj": "jazz"}

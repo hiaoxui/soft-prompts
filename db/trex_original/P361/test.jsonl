@@ -1,0 +1,932 @@
+{"sub": "South Asia", "obj": "Asia"}
+{"sub": "arithmetic", "obj": "mathematics"}
+{"sub": "agricultural science", "obj": "agriculture"}
+{"sub": "zoology", "obj": "biology"}
+{"sub": "comparative anatomy", "obj": "anatomy"}
+{"sub": "Asia", "obj": "Earth"}
+{"sub": "algorithm", "obj": "mathematics"}
+{"sub": "Central Asia", "obj": "Asia"}
+{"sub": "linguistic typology", "obj": "linguistics"}
+{"sub": "white matter", "obj": "brain"}
+{"sub": "New Testament", "obj": "Bible"}
+{"sub": "subgenus", "obj": "genus"}
+{"sub": "municipal council", "obj": "municipality"}
+{"sub": "mathematical object", "obj": "mathematics"}
+{"sub": "neuroscience", "obj": "psychology"}
+{"sub": "lithosphere", "obj": "Earth"}
+{"sub": "differential geometry", "obj": "geometry"}
+{"sub": "Gautama Buddha", "obj": "Buddhism"}
+{"sub": "Antarctic", "obj": "Earth"}
+{"sub": "Southern Hemisphere", "obj": "Earth"}
+{"sub": "Chimborazo", "obj": "Andes"}
+{"sub": "Ojos del Salado", "obj": "Andes"}
+{"sub": "Southeast Europe", "obj": "Europe"}
+{"sub": "Late Cretaceous", "obj": "Cretaceous"}
+{"sub": "Honshu", "obj": "Japan"}
+{"sub": "Leviticus", "obj": "Torah"}
+{"sub": "Deuteronomy", "obj": "Torah"}
+{"sub": "Africa", "obj": "Earth"}
+{"sub": "mathematical physics", "obj": "mathematics"}
+{"sub": "topology", "obj": "mathematics"}
+{"sub": "number theory", "obj": "mathematics"}
+{"sub": "God the Father", "obj": "Trinity"}
+{"sub": "Arab", "obj": "Semitic"}
+{"sub": "financial statement", "obj": "accounting"}
+{"sub": "Cataracts of the Nile", "obj": "Nile"}
+{"sub": "Ahimsa", "obj": "Hinduism"}
+{"sub": "Ahimsa", "obj": "Buddhism"}
+{"sub": "molecular biology", "obj": "biology"}
+{"sub": "ecology", "obj": "biology"}
+{"sub": "geometry", "obj": "mathematics"}
+{"sub": "abstract algebra", "obj": "mathematics"}
+{"sub": "ANSI C", "obj": "C"}
+{"sub": "meta-ethics", "obj": "ethics"}
+{"sub": "Germany", "obj": "Europe"}
+{"sub": "bone", "obj": "skeleton"}
+{"sub": "Sub-Saharan Africa", "obj": "Africa"}
+{"sub": "mayor", "obj": "municipality"}
+{"sub": "runway", "obj": "airport"}
+{"sub": "pharmacy", "obj": "medicine"}
+{"sub": "biochemistry", "obj": "chemistry"}
+{"sub": "biochemistry", "obj": "biology"}
+{"sub": "Western Europe", "obj": "Europe"}
+{"sub": "graph theory", "obj": "mathematics"}
+{"sub": "horticulture", "obj": "agriculture"}
+{"sub": "DNA", "obj": "genome"}
+{"sub": "nipple", "obj": "breast"}
+{"sub": "social psychology", "obj": "sociology"}
+{"sub": "Books of Chronicles", "obj": "Bible"}
+{"sub": "subspecies", "obj": "species"}
+{"sub": "Book of Esther", "obj": "Bible"}
+{"sub": "Judges", "obj": "Bible"}
+{"sub": "Jonah", "obj": "Bible"}
+{"sub": "Old Testament", "obj": "Bible"}
+{"sub": "lava dome", "obj": "volcano"}
+{"sub": "suffrage", "obj": "democracy"}
+{"sub": "celestial sphere", "obj": "astronomy"}
+{"sub": "participant observation", "obj": "anthropology"}
+{"sub": "Supreme Headquarters Allied Powers Europe", "obj": "NATO"}
+{"sub": "Lesser Antilles", "obj": "Caribbean"}
+{"sub": "category theory", "obj": "mathematics"}
+{"sub": "Chinese characters", "obj": "Chinese"}
+{"sub": "cell biology", "obj": "biology"}
+{"sub": "whey", "obj": "milk"}
+{"sub": "county of England", "obj": "England"}
+{"sub": "South America", "obj": "Americas"}
+{"sub": "physical cosmology", "obj": "astronomy"}
+{"sub": "nuclear chemistry", "obj": "chemistry"}
+{"sub": "cannon", "obj": "artillery"}
+{"sub": "Galilean moons", "obj": "Jupiter"}
+{"sub": "Jewish denomination", "obj": "Judaism"}
+{"sub": "flotilla", "obj": "fleet"}
+{"sub": "theoretical physics", "obj": "physics"}
+{"sub": "Christadelphians", "obj": "Christianity"}
+{"sub": "ventricular system", "obj": "brain"}
+{"sub": "Book of Genesis", "obj": "Bible"}
+{"sub": "psychopathology", "obj": "psychology"}
+{"sub": "Dianetics", "obj": "Scientology"}
+{"sub": "causality", "obj": "logic"}
+{"sub": "oral medicine", "obj": "medicine"}
+{"sub": "Greater Antilles", "obj": "Caribbean"}
+{"sub": "Denial of Peter", "obj": "gospel"}
+{"sub": "Book of Genesis", "obj": "Torah"}
+{"sub": "Xbox", "obj": "Microsoft"}
+{"sub": "North America", "obj": "Americas"}
+{"sub": "Tunisia", "obj": "Africa"}
+{"sub": "Linux kernel", "obj": "Linux"}
+{"sub": "normative economics", "obj": "economics"}
+{"sub": "descriptive ethics", "obj": "ethics"}
+{"sub": "evolutionary biology", "obj": "biology"}
+{"sub": "Nile Delta", "obj": "Nile"}
+{"sub": "Euclidean geometry", "obj": "geometry"}
+{"sub": "hydrosphere", "obj": "Earth"}
+{"sub": "mathematical logic", "obj": "mathematics"}
+{"sub": "intron", "obj": "gene"}
+{"sub": "neuroscience", "obj": "medicine"}
+{"sub": "Mount Etna", "obj": "Sicily"}
+{"sub": "chessboard", "obj": "chess"}
+{"sub": "Denmark", "obj": "Europe"}
+{"sub": "syntax", "obj": "linguistics"}
+{"sub": "Holy Spirit", "obj": "Trinity"}
+{"sub": "graphic design", "obj": "communication"}
+{"sub": "Franconia", "obj": "Hesse"}
+{"sub": "Germany", "obj": "NATO"}
+{"sub": "Denmark", "obj": "Scandinavia"}
+{"sub": "stratigraphy", "obj": "geology"}
+{"sub": "grammar", "obj": "linguistics"}
+{"sub": "genotype", "obj": "organism"}
+{"sub": "sura", "obj": "Quran"}
+{"sub": "humanities", "obj": "science"}
+{"sub": "physical geography", "obj": "geography"}
+{"sub": "Central Europe", "obj": "Europe"}
+{"sub": "egyptology", "obj": "archaeology"}
+{"sub": "Shaivism", "obj": "Hinduism"}
+{"sub": "Theravada", "obj": "Buddhism"}
+{"sub": "cognitive psychology", "obj": "psychology"}
+{"sub": "Classic Rabbinic literature", "obj": "Judaism"}
+{"sub": "Internet television", "obj": "Internet"}
+{"sub": "Iran", "obj": "Asia"}
+{"sub": "candle wick", "obj": "candle"}
+{"sub": "interstellar cloud", "obj": "galaxy"}
+{"sub": "carbon", "obj": "steel"}
+{"sub": "Southeast Asia", "obj": "Asia"}
+{"sub": "mathematical physics", "obj": "physics"}
+{"sub": "organic chemistry", "obj": "chemistry"}
+{"sub": "Mitzvah", "obj": "Judaism"}
+{"sub": "Dead Sea scrolls", "obj": "Judaism"}
+{"sub": "East Jerusalem", "obj": "Jerusalem"}
+{"sub": "neurophysiology", "obj": "physiology"}
+{"sub": "animal husbandry", "obj": "agriculture"}
+{"sub": "Kriegsmarine", "obj": "Wehrmacht"}
+{"sub": "laser science", "obj": "physics"}
+{"sub": "quantum optics", "obj": "physics"}
+{"sub": "Luftwaffe", "obj": "Wehrmacht"}
+{"sub": "Leviticus", "obj": "Bible"}
+{"sub": "Torah", "obj": "Bible"}
+{"sub": "normative ethics", "obj": "ethics"}
+{"sub": "applied ethics", "obj": "ethics"}
+{"sub": "economic history", "obj": "economics"}
+{"sub": "mineralogy", "obj": "chemistry"}
+{"sub": "mineralogy", "obj": "physics"}
+{"sub": "Sangay", "obj": "Andes"}
+{"sub": "underwater archaeology", "obj": "archaeology"}
+{"sub": "psychotherapy", "obj": "psychology"}
+{"sub": "catabolism", "obj": "metabolism"}
+{"sub": "anabolism", "obj": "metabolism"}
+{"sub": "morphophonology", "obj": "linguistics"}
+{"sub": "phonology", "obj": "linguistics"}
+{"sub": "phonetics", "obj": "linguistics"}
+{"sub": "word formation", "obj": "linguistics"}
+{"sub": "toxicology", "obj": "chemistry"}
+{"sub": "abutment", "obj": "bridge"}
+{"sub": "Licancabur", "obj": "Andes"}
+{"sub": "Jamaica Plain", "obj": "Boston"}
+{"sub": "pharmacy", "obj": "chemistry"}
+{"sub": "cancer cell", "obj": "cancer"}
+{"sub": "theoretical chemistry", "obj": "chemistry"}
+{"sub": "Christian denomination", "obj": "Christianity"}
+{"sub": "myocardium", "obj": "heart"}
+{"sub": "developmental psychology", "obj": "psychology"}
+{"sub": "gynoecium", "obj": "flower"}
+{"sub": "Paganini Competition", "obj": "violin"}
+{"sub": "Franconia", "obj": "Bavaria"}
+{"sub": "Late Jurassic", "obj": "Jurassic"}
+{"sub": "Lata Mountain", "obj": "Tau"}
+{"sub": "Early Cretaceous", "obj": "Cretaceous"}
+{"sub": "active site", "obj": "enzyme"}
+{"sub": "Mahayana", "obj": "Buddhism"}
+{"sub": "evangelism", "obj": "Christianity"}
+{"sub": "North America", "obj": "Earth"}
+{"sub": "black tea", "obj": "tea"}
+{"sub": "cost accounting", "obj": "accounting"}
+{"sub": "Scottish English", "obj": "English"}
+{"sub": "orthopedic surgery", "obj": "surgery"}
+{"sub": "chemical bond", "obj": "molecule"}
+{"sub": "performance art", "obj": "art"}
+{"sub": "pericarp", "obj": "fruit"}
+{"sub": "political philosophy", "obj": "philosophy"}
+{"sub": "North East Lincolnshire", "obj": "Lincolnshire"}
+{"sub": "scherzo", "obj": "symphony"}
+{"sub": "Zen", "obj": "Buddhism"}
+{"sub": "bicycle wheel", "obj": "bicycle"}
+{"sub": "covert feather", "obj": "bird"}
+{"sub": "plumage", "obj": "bird"}
+{"sub": "screw thread", "obj": "screw"}
+{"sub": "thematic relation", "obj": "syntax"}
+{"sub": "obverse", "obj": "coin"}
+{"sub": "Cerro Rico", "obj": "Andes"}
+{"sub": "English grammar", "obj": "English"}
+{"sub": "apsis", "obj": "orbit"}
+{"sub": "cerebrum", "obj": "brain"}
+{"sub": "Deoxyribonucleotide", "obj": "DNA"}
+{"sub": "medical physics", "obj": "physics"}
+{"sub": "medical physics", "obj": "medicine"}
+{"sub": "infantry", "obj": "army"}
+{"sub": "anatomy", "obj": "medicine"}
+{"sub": "H II region", "obj": "galaxy"}
+{"sub": "Chinese Buddhism", "obj": "Buddhism"}
+{"sub": "Tate Britain", "obj": "Tate"}
+{"sub": "fractal", "obj": "mathematics"}
+{"sub": "Vaganova Academy of Russian Ballet", "obj": "ballet"}
+{"sub": "frontal bone", "obj": "skull"}
+{"sub": "rennet", "obj": "cheese"}
+{"sub": "perianth", "obj": "flower"}
+{"sub": "Microsoft Research", "obj": "Microsoft"}
+{"sub": "neuroscience", "obj": "biology"}
+{"sub": "nuclear physics", "obj": "physics"}
+{"sub": "internet access", "obj": "Internet"}
+{"sub": "electron shell", "obj": "atom"}
+{"sub": "Nuremberg", "obj": "Bavaria"}
+{"sub": "axon", "obj": "nerve"}
+{"sub": "part of speech", "obj": "linguistics"}
+{"sub": "Antisana", "obj": "Andes"}
+{"sub": "Cotopaxi", "obj": "Andes"}
+{"sub": "Tungurahua", "obj": "Andes"}
+{"sub": "Book of Micah", "obj": "Bible"}
+{"sub": "Northern Hemisphere", "obj": "Earth"}
+{"sub": "optics", "obj": "physics"}
+{"sub": "philosophical theology", "obj": "theology"}
+{"sub": "phoneme", "obj": "linguistics"}
+{"sub": "biophysics", "obj": "physics"}
+{"sub": "paleontology", "obj": "biology"}
+{"sub": "Montmartre", "obj": "Paris"}
+{"sub": "Proverbs", "obj": "Bible"}
+{"sub": "quantum chemistry", "obj": "chemistry"}
+{"sub": "parish church", "obj": "parish"}
+{"sub": "Philips Consumer Lifestyle", "obj": "Philips"}
+{"sub": "phylogenetics", "obj": "biology"}
+{"sub": "Psalms", "obj": "Bible"}
+{"sub": "post office", "obj": "mail"}
+{"sub": "Southern Europe", "obj": "Europe"}
+{"sub": "vacuum", "obj": "physics"}
+{"sub": "semantics", "obj": "linguistics"}
+{"sub": "social psychology", "obj": "psychology"}
+{"sub": "Simple Mail Transfer Protocol", "obj": "email"}
+{"sub": "hilt", "obj": "sword"}
+{"sub": "invariant theory", "obj": "mathematics"}
+{"sub": "short-term memory", "obj": "memory"}
+{"sub": "sex organ", "obj": "organism"}
+{"sub": "Jerusalem Talmud", "obj": "Talmud"}
+{"sub": "toxicology", "obj": "biology"}
+{"sub": "general topology", "obj": "topology"}
+{"sub": "Tate Liverpool", "obj": "Tate"}
+{"sub": "Tate St Ives", "obj": "Tate"}
+{"sub": "human evolution", "obj": "anthropology"}
+{"sub": "folklore", "obj": "history"}
+{"sub": "embryology", "obj": "biology"}
+{"sub": "Western Asia", "obj": "Asia"}
+{"sub": "brain stem", "obj": "brain"}
+{"sub": "Toreador Song", "obj": "Carmen"}
+{"sub": "volcanic crater", "obj": "volcano"}
+{"sub": "atmosphere of Mars", "obj": "Mars"}
+{"sub": "escape velocity", "obj": "spacecraft"}
+{"sub": "algebraic topology", "obj": "topology"}
+{"sub": "Upper Rhine", "obj": "Rhine"}
+{"sub": "philosophy of language", "obj": "philosophy"}
+{"sub": "planetary nebula", "obj": "galaxy"}
+{"sub": "Unix shell", "obj": "Unix"}
+{"sub": "Internet Message Access Protocol", "obj": "email"}
+{"sub": "cloud base", "obj": "cloud"}
+{"sub": "morality", "obj": "ethics"}
+{"sub": "region of England", "obj": "England"}
+{"sub": "periodization", "obj": "history"}
+{"sub": "135 film", "obj": "photography"}
+{"sub": "amygdala", "obj": "brain"}
+{"sub": "High Rhine", "obj": "Rhine"}
+{"sub": "dorsal fin", "obj": "fish"}
+{"sub": "bastion", "obj": "fortification"}
+{"sub": "Forbidden City", "obj": "Beijing"}
+{"sub": "moat", "obj": "fortification"}
+{"sub": "apron", "obj": "airport"}
+{"sub": "taxiway", "obj": "airport"}
+{"sub": "French grammar", "obj": "French"}
+{"sub": "G Suite", "obj": "Google"}
+{"sub": "anatomy", "obj": "biology"}
+{"sub": "biophysics", "obj": "biology"}
+{"sub": "Siemens Healthcare", "obj": "Siemens"}
+{"sub": "Eastern Alps", "obj": "Alps"}
+{"sub": "C preprocessor", "obj": "C"}
+{"sub": "stupa", "obj": "Buddhism"}
+{"sub": "Valby", "obj": "Copenhagen"}
+{"sub": "elementary arithmetic", "obj": "mathematics"}
+{"sub": "active ingredient", "obj": "medication"}
+{"sub": "Shia Islam", "obj": "Islam"}
+{"sub": "history of art", "obj": "art"}
+{"sub": "television channel", "obj": "television"}
+{"sub": "Mount Bulusan", "obj": "Luzon"}
+{"sub": "shield boss", "obj": "shield"}
+{"sub": "foreskin", "obj": "penis"}
+{"sub": "malleolus", "obj": "ankle"}
+{"sub": "understory", "obj": "forest"}
+{"sub": "IBM Research", "obj": "IBM"}
+{"sub": "Song of Songs", "obj": "Bible"}
+{"sub": "district of England", "obj": "England"}
+{"sub": "minaret", "obj": "mosque"}
+{"sub": "firing pin", "obj": "pistol"}
+{"sub": "computer graphics", "obj": "art"}
+{"sub": "psychophysics", "obj": "psychology"}
+{"sub": "mesencephalon", "obj": "brain"}
+{"sub": "tribe", "obj": "subfamily"}
+{"sub": "Eastern Armenian", "obj": "Armenian"}
+{"sub": "Book of Daniel", "obj": "Bible"}
+{"sub": "paleobiology", "obj": "biology"}
+{"sub": "organizational theory", "obj": "sociology"}
+{"sub": "Tosk Albanian", "obj": "Albanian"}
+{"sub": "BBC Cymru Wales", "obj": "BBC"}
+{"sub": "experimental physics", "obj": "physics"}
+{"sub": "Central Africa", "obj": "Africa"}
+{"sub": "avatar", "obj": "Hinduism"}
+{"sub": "inorganic chemistry", "obj": "chemistry"}
+{"sub": "Banu Khazraj", "obj": "Arab"}
+{"sub": "Bodhi", "obj": "Buddhism"}
+{"sub": "computer program", "obj": "software"}
+{"sub": "archaeological site", "obj": "archaeology"}
+{"sub": "renal pelvis", "obj": "kidney"}
+{"sub": "Australia", "obj": "Australia"}
+{"sub": "Bergen-Enkheim", "obj": "Frankfurt"}
+{"sub": "flue", "obj": "chimney"}
+{"sub": "Incahuasi", "obj": "Andes"}
+{"sub": "stratum", "obj": "formation"}
+{"sub": "celestial mechanics", "obj": "astronomy"}
+{"sub": "Northern Crusades", "obj": "Crusade"}
+{"sub": "development economics", "obj": "economics"}
+{"sub": "education economics", "obj": "economics"}
+{"sub": "Colombian Massif", "obj": "Andes"}
+{"sub": "pastoral theology", "obj": "theology"}
+{"sub": "Varna", "obj": "Hinduism"}
+{"sub": "Umbral calculus", "obj": "mathematics"}
+{"sub": "nephron", "obj": "kidney"}
+{"sub": "Abseiling", "obj": "climbing"}
+{"sub": "musk", "obj": "perfume"}
+{"sub": "Mapp\u014d", "obj": "Buddhism"}
+{"sub": "stochastic calculus", "obj": "mathematics"}
+{"sub": "theoretical philosophy", "obj": "philosophy"}
+{"sub": "linguistic prescription", "obj": "linguistics"}
+{"sub": "hydrology", "obj": "ecology"}
+{"sub": "brain", "obj": "head"}
+{"sub": "Earth's magnetic field", "obj": "Earth"}
+{"sub": "hepatocyte", "obj": "liver"}
+{"sub": "organ system", "obj": "organism"}
+{"sub": "stirrup", "obj": "saddle"}
+{"sub": "algebraic geometry", "obj": "geometry"}
+{"sub": "non-Euclidean geometry", "obj": "geometry"}
+{"sub": "post-office box", "obj": "mail"}
+{"sub": "trailhead", "obj": "trail"}
+{"sub": "invoice", "obj": "accounting"}
+{"sub": "attitude control", "obj": "spacecraft"}
+{"sub": "physiology", "obj": "biology"}
+{"sub": "media psychology", "obj": "psychology"}
+{"sub": "Southern Jutland", "obj": "Denmark"}
+{"sub": "renal medulla", "obj": "kidney"}
+{"sub": "bishop", "obj": "clergy"}
+{"sub": "Aconcagua", "obj": "Andes"}
+{"sub": "Tupungato", "obj": "Andes"}
+{"sub": "Harburg-Wilhelmsburg", "obj": "Hamburg"}
+{"sub": "Lefka Ori", "obj": "Crete"}
+{"sub": "Imamiyyah", "obj": "Islam"}
+{"sub": "public relations", "obj": "communication"}
+{"sub": "galactic halo", "obj": "galaxy"}
+{"sub": "outer ear", "obj": "ear"}
+{"sub": "biogeography", "obj": "geography"}
+{"sub": "applied linguistics", "obj": "linguistics"}
+{"sub": "lacrimal bone", "obj": "skull"}
+{"sub": "swim bladder", "obj": "fish"}
+{"sub": "semiotics", "obj": "philosophy"}
+{"sub": "Ecclesiastes", "obj": "Bible"}
+{"sub": "asana", "obj": "Yoga"}
+{"sub": "Eastern Europe", "obj": "Europe"}
+{"sub": "North Lincolnshire", "obj": "Lincolnshire"}
+{"sub": "Government of France", "obj": "France"}
+{"sub": "Books of Kings", "obj": "Bible"}
+{"sub": "Uspallata Pass", "obj": "Andes"}
+{"sub": "Garden of Eden", "obj": "paradise"}
+{"sub": "BBC Music", "obj": "BBC"}
+{"sub": "Surcingle", "obj": "saddle"}
+{"sub": "Cerro Catedral", "obj": "Andes"}
+{"sub": "atmosphere of Venus", "obj": "Venus"}
+{"sub": "molecular cloud", "obj": "galaxy"}
+{"sub": "philosophy of law", "obj": "philosophy"}
+{"sub": "Hindu temple", "obj": "Hinduism"}
+{"sub": "naval aviation", "obj": "navy"}
+{"sub": "Ampato", "obj": "Andes"}
+{"sub": "Lewotobi", "obj": "Flores"}
+{"sub": "algebra", "obj": "mathematics"}
+{"sub": "physical anthropology", "obj": "anthropology"}
+{"sub": "Gunung Merbabu", "obj": "Java"}
+{"sub": "areola", "obj": "breast"}
+{"sub": "Muzzle brake", "obj": "firearm"}
+{"sub": "Malay language", "obj": "Malay"}
+{"sub": "Christian music", "obj": "Christianity"}
+{"sub": "Yorick", "obj": "Hamlet"}
+{"sub": "world view", "obj": "philosophy"}
+{"sub": "Flash suppressor", "obj": "firearm"}
+{"sub": "Director-General of the BBC", "obj": "BBC"}
+{"sub": "Norwegian dialects", "obj": "Norwegian"}
+{"sub": "caste system in India", "obj": "Hinduism"}
+{"sub": "neurosurgery", "obj": "surgery"}
+{"sub": "informatics", "obj": "science"}
+{"sub": "mass", "obj": "force"}
+{"sub": "Paso Internacional Los Libertadores", "obj": "Andes"}
+{"sub": "aesthetics of music", "obj": "aesthetics"}
+{"sub": "2nd arrondissement of Lyon", "obj": "Lyon"}
+{"sub": "Angered", "obj": "Gothenburg"}
+{"sub": "projective geometry", "obj": "geometry"}
+{"sub": "BBC Scotland", "obj": "BBC"}
+{"sub": "stator", "obj": "turbine"}
+{"sub": "logical form", "obj": "logic"}
+{"sub": "toilet paper", "obj": "toilet"}
+{"sub": "Mayon Volcano", "obj": "Luzon"}
+{"sub": "Mount Apo", "obj": "Mindanao"}
+{"sub": "Belarusian Latin alphabet", "obj": "Belarusian"}
+{"sub": "Eulerian path", "obj": "graph"}
+{"sub": "electronic business", "obj": "Internet"}
+{"sub": "telomere", "obj": "chromosome"}
+{"sub": "Tokyo Metropolitan Government", "obj": "Tokyo"}
+{"sub": "BBC Manchester", "obj": "BBC"}
+{"sub": "Spektr", "obj": "Mir"}
+{"sub": "Priroda", "obj": "Mir"}
+{"sub": "iOS 8", "obj": "iOS"}
+{"sub": "ligule", "obj": "leaf"}
+{"sub": "Hinayana", "obj": "Buddhism"}
+{"sub": "Shabrack", "obj": "saddle"}
+{"sub": "heel", "obj": "foot"}
+{"sub": "Antarctica", "obj": "Antarctic"}
+{"sub": "Mir Core Module", "obj": "Mir"}
+{"sub": "Root of the lung", "obj": "lung"}
+{"sub": "Post Office Protocol 3", "obj": "email"}
+{"sub": "theoretical linguistics", "obj": "linguistics"}
+{"sub": "archaeoastronomy", "obj": "astronomy"}
+{"sub": "airport terminal", "obj": "airport"}
+{"sub": "Mount Mulu", "obj": "Borneo"}
+{"sub": "baroque architecture", "obj": "baroque"}
+{"sub": "World Ocean", "obj": "Earth"}
+{"sub": "social philosophy", "obj": "philosophy"}
+{"sub": "Early Jurassic", "obj": "Jurassic"}
+{"sub": "plantation", "obj": "agriculture"}
+{"sub": "tree stump", "obj": "tree"}
+{"sub": "Mount Isarog", "obj": "Luzon"}
+{"sub": "BBC Natural History Unit", "obj": "BBC"}
+{"sub": "purple drank", "obj": "slang"}
+{"sub": "Scout Group", "obj": "scouting"}
+{"sub": "Chilean Coast Range", "obj": "Andes"}
+{"sub": "acoustics", "obj": "physics"}
+{"sub": "Yate", "obj": "Andes"}
+{"sub": "Cerro El Plomo", "obj": "Andes"}
+{"sub": "stochastic", "obj": "mathematics"}
+{"sub": "factorial", "obj": "mathematics"}
+{"sub": "evolution of the eye", "obj": "evolution"}
+{"sub": "Bible story", "obj": "Bible"}
+{"sub": "bicycle chain", "obj": "bicycle"}
+{"sub": "bicycle pedal", "obj": "bicycle"}
+{"sub": "North Caucasus", "obj": "Caucasus"}
+{"sub": "glans", "obj": "penis"}
+{"sub": "administrative district of Prague", "obj": "Prague"}
+{"sub": "Kelut", "obj": "Java"}
+{"sub": "South America", "obj": "Earth"}
+{"sub": "Boeing Commercial Airplanes", "obj": "Boeing"}
+{"sub": "sign", "obj": "mathematics"}
+{"sub": "renal cortex", "obj": "kidney"}
+{"sub": "chief economist", "obj": "economist"}
+{"sub": "kiln", "obj": "pottery"}
+{"sub": "bicycle lock", "obj": "bicycle"}
+{"sub": "International Federation of Gymnastics", "obj": "gymnastics"}
+{"sub": "crupper", "obj": "saddle"}
+{"sub": "saddle blanket", "obj": "saddle"}
+{"sub": "pharmacy", "obj": "biology"}
+{"sub": "Fern Pass", "obj": "Alps"}
+{"sub": "jetty", "obj": "port"}
+{"sub": "globular cluster", "obj": "galaxy"}
+{"sub": "embryology", "obj": "medicine"}
+{"sub": "heroic fantasy", "obj": "fantasy"}
+{"sub": "Gunung Muria", "obj": "Java"}
+{"sub": "Gunung Sumbing", "obj": "Java"}
+{"sub": "film score", "obj": "film"}
+{"sub": "allotropy", "obj": "chemistry"}
+{"sub": "bullet", "obj": "cartridge"}
+{"sub": "Samsung Life Insurance", "obj": "Samsung"}
+{"sub": "magnetosphere of Jupiter", "obj": "Jupiter"}
+{"sub": "Venezuelan Coastal Range", "obj": "Andes"}
+{"sub": "Downtown Denver", "obj": "Denver"}
+{"sub": "Mount Penanggungan", "obj": "Java"}
+{"sub": "Arjuno-Welirang", "obj": "Java"}
+{"sub": "Supreme Allied Commander Atlantic", "obj": "NATO"}
+{"sub": "gangster", "obj": "gang"}
+{"sub": "electrolyte", "obj": "battery"}
+{"sub": "Zugspitze", "obj": "Alps"}
+{"sub": "Western Hemisphere", "obj": "Earth"}
+{"sub": "Eastern Hemisphere", "obj": "Earth"}
+{"sub": "Semeru", "obj": "Java"}
+{"sub": "image editing", "obj": "photography"}
+{"sub": "Mount Ida", "obj": "Crete"}
+{"sub": "C99 shell", "obj": "C"}
+{"sub": "Utrecht Caravaggism", "obj": "baroque"}
+{"sub": "fodder", "obj": "agriculture"}
+{"sub": "Gunung Galunggung", "obj": "Java"}
+{"sub": "triangle center", "obj": "triangle"}
+{"sub": "autosome", "obj": "genome"}
+{"sub": "Western Tokyo", "obj": "Tokyo"}
+{"sub": "Probabilism", "obj": "philosophy"}
+{"sub": "rocket", "obj": "spacecraft"}
+{"sub": "blood plasma", "obj": "blood"}
+{"sub": "Alien 3", "obj": "Alien"}
+{"sub": "atomic physics", "obj": "physics"}
+{"sub": "mathematical table", "obj": "mathematics"}
+{"sub": "Quilotoa", "obj": "Andes"}
+{"sub": "rose", "obj": "Rosa"}
+{"sub": "Deuteronomy", "obj": "Bible"}
+{"sub": "plan position indicator", "obj": "radar"}
+{"sub": "mathematical notation", "obj": "mathematics"}
+{"sub": "health informatics", "obj": "medicine"}
+{"sub": "descriptive statistics", "obj": "statistics"}
+{"sub": "feminist movement", "obj": "feminism"}
+{"sub": "folk psychology", "obj": "psychology"}
+{"sub": "Tate Modern", "obj": "Tate"}
+{"sub": "freight forwarder", "obj": "logistics"}
+{"sub": "Fourth Crusade", "obj": "Crusade"}
+{"sub": "computational biology", "obj": "biology"}
+{"sub": "arboriculture", "obj": "agriculture"}
+{"sub": "post-production", "obj": "photography"}
+{"sub": "Ezekiel", "obj": "Bible"}
+{"sub": "feminist art", "obj": "feminism"}
+{"sub": "climatology", "obj": "physics"}
+{"sub": "Bani Khalid", "obj": "Arab"}
+{"sub": "theodicy", "obj": "theology"}
+{"sub": "philosophical anthropology", "obj": "anthropology"}
+{"sub": "Job", "obj": "Bible"}
+{"sub": "Sercquiais", "obj": "Norman"}
+{"sub": "molecular physics", "obj": "physics"}
+{"sub": "electrostatics", "obj": "physics"}
+{"sub": "computational physics", "obj": "physics"}
+{"sub": "Guatemala", "obj": "Americas"}
+{"sub": "aquarium filter", "obj": "aquarium"}
+{"sub": "The Jungle Book and Scouting", "obj": "scouting"}
+{"sub": "rhetoric", "obj": "communication"}
+{"sub": "discourse analysis", "obj": "linguistics"}
+{"sub": "Kvant-2", "obj": "Mir"}
+{"sub": "Mir Docking Module", "obj": "Mir"}
+{"sub": "Kvant-1", "obj": "Mir"}
+{"sub": "bow string", "obj": "bow"}
+{"sub": "limnology", "obj": "chemistry"}
+{"sub": "limnology", "obj": "physics"}
+{"sub": "Nevado Tres Cruces", "obj": "Andes"}
+{"sub": "Boeing Defense, Space & Security", "obj": "Boeing"}
+{"sub": "labour law", "obj": "law"}
+{"sub": "bicycle fork", "obj": "bicycle"}
+{"sub": "Cima Palon", "obj": "Alps"}
+{"sub": "Sabancaya", "obj": "Andes"}
+{"sub": "gerontology", "obj": "sociology"}
+{"sub": "Usenet newsgroup", "obj": "Internet"}
+{"sub": "pedagogy", "obj": "education"}
+{"sub": "Ezra", "obj": "Bible"}
+{"sub": "domain name", "obj": "Internet"}
+{"sub": "recorded history", "obj": "history"}
+{"sub": "Three prime untranslated region", "obj": "RNA"}
+{"sub": "hand surgery", "obj": "surgery"}
+{"sub": "Sierra Nevada de Santa Marta", "obj": "Andes"}
+{"sub": "United Airlines", "obj": "airline"}
+{"sub": "orbit", "obj": "skull"}
+{"sub": "demonology", "obj": "theology"}
+{"sub": "Galactic astronomy", "obj": "astronomy"}
+{"sub": "diplomatic mission", "obj": "diplomacy"}
+{"sub": "Joshua", "obj": "Bible"}
+{"sub": "biogeography", "obj": "biology"}
+{"sub": "Friends, season 5", "obj": "Friends"}
+{"sub": "Christianity in Iraq", "obj": "Christianity"}
+{"sub": "banana peel", "obj": "banana"}
+{"sub": "solid-state physics", "obj": "physics"}
+{"sub": "endosperm", "obj": "seed"}
+{"sub": "Siemens Energy Sector", "obj": "Siemens"}
+{"sub": "Northern Range", "obj": "Trinidad"}
+{"sub": "Ilm al-Kalam", "obj": "Islam"}
+{"sub": "Information Technology", "obj": "library"}
+{"sub": "Darkhad", "obj": "Mongols"}
+{"sub": "Call Me Maybe", "obj": "curiosity"}
+{"sub": "Reventador", "obj": "Andes"}
+{"sub": "Leading wheel", "obj": "locomotive"}
+{"sub": "Mount Lamlam", "obj": "Guam"}
+{"sub": "sociological theory", "obj": "sociology"}
+{"sub": "mathematical psychology", "obj": "psychology"}
+{"sub": "bicameral legislature", "obj": "democracy"}
+{"sub": "I'm Coming Out", "obj": "Diana"}
+{"sub": "archaeological industry", "obj": "archaeology"}
+{"sub": "Mount Erciyes", "obj": "Anatolia"}
+{"sub": "organizational studies", "obj": "sociology"}
+{"sub": "Northern Ireland", "obj": "Ireland"}
+{"sub": "Western Belorussia", "obj": "Belarus"}
+{"sub": "distress signal", "obj": "communication"}
+{"sub": "iOS 5", "obj": "iOS"}
+{"sub": "radiophysics", "obj": "physics"}
+{"sub": "macromolecule", "obj": "cell"}
+{"sub": "economic law (Soviet Union)", "obj": "law"}
+{"sub": "criminal law", "obj": "law"}
+{"sub": "Idol 2007", "obj": "Idol"}
+{"sub": "Idol 2008", "obj": "Idol"}
+{"sub": "Idol 2009", "obj": "Idol"}
+{"sub": "Idol 2010", "obj": "Idol"}
+{"sub": "Socialist Federal Republic of Yugoslavia", "obj": "Yugoslavia"}
+{"sub": "Hindu denomination", "obj": "Hinduism"}
+{"sub": "gable", "obj": "facade"}
+{"sub": "Floreasca", "obj": "Bucharest"}
+{"sub": "environmental philosophy", "obj": "philosophy"}
+{"sub": "Mount Fitz Roy", "obj": "Andes"}
+{"sub": "Cerro Torre", "obj": "Andes"}
+{"sub": "diagnostic procedure", "obj": "psychology"}
+{"sub": "urban history", "obj": "history"}
+{"sub": "cerebral lobe", "obj": "brain"}
+{"sub": "Qahal", "obj": "Judaism"}
+{"sub": "scientific racism", "obj": "racism"}
+{"sub": "163rd Infantry Division", "obj": "Wehrmacht"}
+{"sub": "organizational theory", "obj": "psychology"}
+{"sub": "Bayesian statistics", "obj": "statistics"}
+{"sub": "Goodreads", "obj": "Amazon"}
+{"sub": "Dark matter halo", "obj": "galaxy"}
+{"sub": "Fighter Wing 4", "obj": "Luftwaffe"}
+{"sub": "Samsung C&T Corporation", "obj": "Samsung"}
+{"sub": "histogram", "obj": "statistics"}
+{"sub": "chinese philosophy", "obj": "philosophy"}
+{"sub": "computational complexity theory", "obj": "mathematics"}
+{"sub": "Swiss Alps", "obj": "Alps"}
+{"sub": "posterior parietal cortex", "obj": "brain"}
+{"sub": "evolutionary developmental biology", "obj": "biology"}
+{"sub": "Melody Fair", "obj": "Odessa"}
+{"sub": "Y chromosome", "obj": "genome"}
+{"sub": "geodetic astronomy", "obj": "astronomy"}
+{"sub": "limnology", "obj": "ecology"}
+{"sub": "insurance policy", "obj": "insurance"}
+{"sub": "coaxial", "obj": "geometry"}
+{"sub": "Standing NATO Maritime Group One", "obj": "NATO"}
+{"sub": "obelisk", "obj": "monument"}
+{"sub": "music psychology", "obj": "psychology"}
+{"sub": "Torslanda", "obj": "Gothenburg"}
+{"sub": "child development", "obj": "psychology"}
+{"sub": "Army National Guard", "obj": "Militia"}
+{"sub": "Alsterdorf", "obj": "Hamburg"}
+{"sub": "9th Panzer Division (Wehrmacht)", "obj": "Wehrmacht"}
+{"sub": "harquebusier", "obj": "cavalry"}
+{"sub": "Just war theory", "obj": "ethics"}
+{"sub": "limnology", "obj": "biology"}
+{"sub": "combinatorial topology", "obj": "topology"}
+{"sub": "generalized linear model", "obj": "statistics"}
+{"sub": "statistics", "obj": "mathematics"}
+{"sub": "eye surgery", "obj": "surgery"}
+{"sub": "psephology", "obj": "sociology"}
+{"sub": "simulation", "obj": "physics"}
+{"sub": "Middle Jurassic", "obj": "Jurassic"}
+{"sub": "suppressor", "obj": "firearm"}
+{"sub": "Czech Socialist Republic", "obj": "Czechoslovakia"}
+{"sub": "experiment", "obj": "science"}
+{"sub": "odor", "obj": "smell"}
+{"sub": "cultural area", "obj": "archaeology"}
+{"sub": "Portuguese dialects", "obj": "Portuguese"}
+{"sub": "Ottoman Greeks", "obj": "Greeks"}
+{"sub": "Metaweb", "obj": "Google"}
+{"sub": "Gunung Raung", "obj": "Java"}
+{"sub": "palynology", "obj": "biology"}
+{"sub": "seawater", "obj": "sea"}
+{"sub": "driving wheel", "obj": "locomotive"}
+{"sub": "oenology", "obj": "biology"}
+{"sub": "Pangaea", "obj": "Earth"}
+{"sub": "open cluster", "obj": "galaxy"}
+{"sub": "Ecclesiology", "obj": "Christianity"}
+{"sub": "Ouchy", "obj": "Lausanne"}
+{"sub": "Hengill", "obj": "Iceland"}
+{"sub": "machine learning", "obj": "statistics"}
+{"sub": "Highlands of Iceland", "obj": "Iceland"}
+{"sub": "Krafla", "obj": "Iceland"}
+{"sub": "Norwegian Armed Forces", "obj": "Norway"}
+{"sub": "consciousness raising", "obj": "feminism"}
+{"sub": "international economics", "obj": "economics"}
+{"sub": "1st arrondissement of Lyon", "obj": "Lyon"}
+{"sub": "dark nebula", "obj": "galaxy"}
+{"sub": "history of mathematics", "obj": "history"}
+{"sub": "Army Group Centre", "obj": "Wehrmacht"}
+{"sub": "6to4", "obj": "Internet"}
+{"sub": "tribology", "obj": "chemistry"}
+{"sub": "tribology", "obj": "physics"}
+{"sub": "dashboard", "obj": "car"}
+{"sub": "philosophical anthropology", "obj": "philosophy"}
+{"sub": "vitreous humour", "obj": "eye"}
+{"sub": "retina", "obj": "eye"}
+{"sub": "3rd arrondissement of Lyon", "obj": "Lyon"}
+{"sub": "Pichincha Volcano", "obj": "Andes"}
+{"sub": "maxilla", "obj": "skull"}
+{"sub": "Huizhou Chinese", "obj": "Chinese"}
+{"sub": "Volvo Penta", "obj": "Volvo"}
+{"sub": "Deuterocanonical books", "obj": "Bible"}
+{"sub": "forma specialis", "obj": "species"}
+{"sub": "Hunga Tonga", "obj": "Tonga"}
+{"sub": "exome", "obj": "genome"}
+{"sub": "animal science", "obj": "biology"}
+{"sub": "member of parliament", "obj": "parliament"}
+{"sub": "design of experiments", "obj": "statistics"}
+{"sub": "Ausangate", "obj": "Andes"}
+{"sub": "cultivar", "obj": "subspecies"}
+{"sub": "cocktail garnish", "obj": "cocktail"}
+{"sub": "Vertebral column", "obj": "skeleton"}
+{"sub": "German Army", "obj": "Wehrmacht"}
+{"sub": "NATO Response Force", "obj": "NATO"}
+{"sub": "Danube Bend", "obj": "Danube"}
+{"sub": "mechanics", "obj": "physics"}
+{"sub": "Altbayern", "obj": "Bavaria"}
+{"sub": "health law", "obj": "medicine"}
+{"sub": "breechblock", "obj": "pistol"}
+{"sub": "Cordillera de la Ramada", "obj": "Andes"}
+{"sub": "Chawpi Urqu", "obj": "Andes"}
+{"sub": "chemin de ronde", "obj": "castle"}
+{"sub": "Izz ad-Din al-Qassam Brigades", "obj": "Hamas"}
+{"sub": "9th arrondissement of Lyon", "obj": "Lyon"}
+{"sub": "5th arrondissement of Lyon", "obj": "Lyon"}
+{"sub": "Trekking pole", "obj": "hiking"}
+{"sub": "Kavanah", "obj": "Hebrew"}
+{"sub": "Kavanah", "obj": "Judaism"}
+{"sub": "Galeras", "obj": "Andes"}
+{"sub": "slack water", "obj": "tide"}
+{"sub": "escape velocity", "obj": "gravity"}
+{"sub": "pharmaceutical science", "obj": "biology"}
+{"sub": "financial economics", "obj": "economics"}
+{"sub": "lateral line", "obj": "fish"}
+{"sub": "crankshaft", "obj": "engine"}
+{"sub": "receiving vault", "obj": "cemetery"}
+{"sub": "translation studies", "obj": "linguistics"}
+{"sub": "Abomasum", "obj": "stomach"}
+{"sub": "Chi-square distribution", "obj": "statistics"}
+{"sub": "speech act", "obj": "linguistics"}
+{"sub": "Tangkuban Perahu", "obj": "Java"}
+{"sub": "Mount Batur", "obj": "Bali"}
+{"sub": "nebula", "obj": "galaxy"}
+{"sub": "7th arrondissement of Lyon", "obj": "Lyon"}
+{"sub": "4th arrondissement of Lyon", "obj": "Lyon"}
+{"sub": "Liberal Christianity", "obj": "Christianity"}
+{"sub": "Italian Baroque art", "obj": "baroque"}
+{"sub": "6th arrondissement of Lyon", "obj": "Lyon"}
+{"sub": "atom", "obj": "molecule"}
+{"sub": "female education", "obj": "education"}
+{"sub": "Trevor Rabin", "obj": "Yes"}
+{"sub": "Hindu deity", "obj": "Hinduism"}
+{"sub": "Habakkuk", "obj": "Bible"}
+{"sub": "sacred prostitution", "obj": "prostitution"}
+{"sub": "accounting standard", "obj": "accounting"}
+{"sub": "percussion cap", "obj": "cartridge"}
+{"sub": "Nehemiah", "obj": "Bible"}
+{"sub": "Schoolkids OZ", "obj": "Oz"}
+{"sub": "physical object", "obj": "physics"}
+{"sub": "Seerhein", "obj": "Rhine"}
+{"sub": "propellant", "obj": "shell"}
+{"sub": "Monte San Giorgio", "obj": "Alps"}
+{"sub": "Swedes", "obj": "Scandinavia"}
+{"sub": "5th Panzer Division (Wehrmacht)", "obj": "Wehrmacht"}
+{"sub": "22nd Air Landing Division (Wehrmacht)", "obj": "Wehrmacht"}
+{"sub": "13th Panzer Division", "obj": "Wehrmacht"}
+{"sub": "Book of Tobit", "obj": "Bible"}
+{"sub": "Government of Vietnam", "obj": "Vietnam"}
+{"sub": "asceticism", "obj": "philosophy"}
+{"sub": "Mount Bromo", "obj": "Java"}
+{"sub": "radioisotope thermoelectric generator", "obj": "spacecraft"}
+{"sub": "NXP Semiconductors", "obj": "Philips"}
+{"sub": "computational sociology", "obj": "sociology"}
+{"sub": "baculum", "obj": "penis"}
+{"sub": "iOS 7", "obj": "iOS"}
+{"sub": "coordinates transformation", "obj": "geometry"}
+{"sub": "oenology", "obj": "chemistry"}
+{"sub": "Mauna Kea", "obj": "Hawaii"}
+{"sub": "U Thant Island", "obj": "Manhattan"}
+{"sub": "Isaiah", "obj": "Bible"}
+{"sub": "computer keyboard", "obj": "computer"}
+{"sub": "coat of arms", "obj": "achievement"}
+{"sub": "radiation", "obj": "physics"}
+{"sub": "Viking Age", "obj": "history"}
+{"sub": "mineralogy", "obj": "geology"}
+{"sub": "umwelt", "obj": "communication"}
+{"sub": "atmosphere of Earth", "obj": "Earth"}
+{"sub": "mullah", "obj": "clergy"}
+{"sub": "wave", "obj": "physics"}
+{"sub": "Drumul Taberei", "obj": "Bucharest"}
+{"sub": "medical specialty", "obj": "medicine"}
+{"sub": "2nd Mountain Division", "obj": "Wehrmacht"}
+{"sub": "pediatric surgery", "obj": "surgery"}
+{"sub": "inflection", "obj": "morphology"}
+{"sub": "piston ring", "obj": "piston"}
+{"sub": "Jeremiah", "obj": "Bible"}
+{"sub": "Panzer Division Kempf", "obj": "Wehrmacht"}
+{"sub": "Marmolejo", "obj": "Andes"}
+{"sub": "social research", "obj": "sociology"}
+{"sub": "shape", "obj": "geometry"}
+{"sub": "star cluster", "obj": "galaxy"}
+{"sub": "FIFA Congress", "obj": "FIFA"}
+{"sub": "visual sociology", "obj": "sociology"}
+{"sub": "cultural area", "obj": "history"}
+{"sub": "thoracic surgery", "obj": "surgery"}
+{"sub": "Third Dynasty of Ur", "obj": "history"}
+{"sub": "cognitive anthropology", "obj": "anthropology"}
+{"sub": "urban geography", "obj": "sociology"}
+{"sub": "palatine bone", "obj": "skull"}
+{"sub": "Idol 2011", "obj": "Idol"}
+{"sub": "dry cell", "obj": "battery"}
+{"sub": "gun barrel", "obj": "pistol"}
+{"sub": "Board of Governors of the BBC", "obj": "BBC"}
+{"sub": "general surgery", "obj": "surgery"}
+{"sub": "diagnostic procedure", "obj": "medicine"}
+{"sub": "pharmacokinetics", "obj": "pharmacy"}
+{"sub": "Kibbor", "obj": "Glamorgan"}
+{"sub": "Rhine Falls", "obj": "Rhine"}
+{"sub": "11th Panzer Division", "obj": "Wehrmacht"}
+{"sub": "centrosome", "obj": "chromosome"}
+{"sub": "dihedral angle", "obj": "geometry"}
+{"sub": "glacis", "obj": "fortification"}
+{"sub": "accounting", "obj": "finance"}
+{"sub": "advocacy group", "obj": "lobbying"}
+{"sub": "gerontology", "obj": "nursing"}
+{"sub": "level crossing", "obj": "track"}
+{"sub": "Thin disk", "obj": "galaxy"}
+{"sub": "Thick disk", "obj": "galaxy"}
+{"sub": "Mount Agung", "obj": "Bali"}
+{"sub": "Teredo tunneling", "obj": "Internet"}
+{"sub": "Books of Samuel", "obj": "Bible"}
+{"sub": "Mount Banahaw", "obj": "Luzon"}
+{"sub": "YouTube Original Channel Initiative", "obj": "YouTube"}
+{"sub": "90th Light Infantry Division (Wehrmacht)", "obj": "Wehrmacht"}
+{"sub": "couplet", "obj": "poetry"}
+{"sub": "side dishes", "obj": "cooking"}
+{"sub": "Amazon Studios", "obj": "Amazon"}
+{"sub": "2nd Infantry Division", "obj": "Wehrmacht"}
+{"sub": "Wila Lluxita", "obj": "Andes"}
+{"sub": "Wila Lluxi", "obj": "Andes"}
+{"sub": "Janq'u Uyu", "obj": "Andes"}
+{"sub": "phonetics", "obj": "biology"}
+{"sub": "Phaq'u Kiwuta", "obj": "Andes"}
+{"sub": "liturgical year", "obj": "Christianity"}
+{"sub": "breechblock", "obj": "rifle"}
+{"sub": "Gunung Guntur", "obj": "Java"}
+{"sub": "Army Group South", "obj": "Wehrmacht"}
+{"sub": "Air Scouts", "obj": "scouting"}
+{"sub": "Eighth Crusade", "obj": "Crusade"}
+{"sub": "administrative territorial entity of Wisconsin", "obj": "Wisconsin"}
+{"sub": "mathematical statistics", "obj": "statistics"}
+{"sub": "Western Alps", "obj": "Alps"}
+{"sub": "Sirihuani", "obj": "Andes"}
+{"sub": "Pucajirca", "obj": "Andes"}
+{"sub": "Chumpe", "obj": "Andes"}
+{"sub": "Idol 2013", "obj": "Idol"}
+{"sub": "Pucaranra", "obj": "Andes"}
+{"sub": "cyberfeminism", "obj": "feminism"}
+{"sub": "Pariacaca", "obj": "Andes"}
+{"sub": "Hualc\u00e1n", "obj": "Andes"}
+{"sub": "research", "obj": "science"}
+{"sub": "dispositio", "obj": "rhetoric"}
+{"sub": "Baroque painting", "obj": "baroque"}
+{"sub": "Ticsani", "obj": "Andes"}
+{"sub": "pediatric nursing", "obj": "nursing"}
+{"sub": "Pomanota", "obj": "Andes"}
+{"sub": "configuration management", "obj": "management"}
+{"sub": "Russian Liberation Army", "obj": "Wehrmacht"}
+{"sub": "cardiopulmonary resuscitation", "obj": "medicine"}
+{"sub": "Antarasu", "obj": "Andes"}
+{"sub": "Sinqa", "obj": "Andes"}
+{"sub": "main diagonal", "obj": "matrix"}
+{"sub": "Nevado del Tolima", "obj": "Andes"}
+{"sub": "Ticlla", "obj": "Andes"}
+{"sub": "vascular surgery", "obj": "surgery"}
+{"sub": "Google Brain", "obj": "Google"}
+{"sub": "Copahue", "obj": "Andes"}
+{"sub": "Ring ditch", "obj": "archaeology"}
+{"sub": "Semi-empirical quantum chemistry method", "obj": "chemistry"}
+{"sub": "magazine", "obj": "pistol"}
+{"sub": "oral and maxillofacial surgery", "obj": "surgery"}
+{"sub": "Pachatusan", "obj": "Andes"}
+{"sub": "Western Palatinate", "obj": "Palatinate"}
+{"sub": "Pillku Urqu", "obj": "Andes"}
+{"sub": "Numbers", "obj": "Torah"}
+{"sub": "sedimentology", "obj": "geology"}
+{"sub": "House, season 1", "obj": "House"}
+{"sub": "Warawarani (Bolivia)", "obj": "Andes"}
+{"sub": "categorification", "obj": "mathematics"}
+{"sub": "Jewish wedding", "obj": "Judaism"}
+{"sub": "Any Time, Any Place", "obj": "Janet"}
+{"sub": "You Want This", "obj": "Janet"}
+{"sub": "3rd Mountain Division", "obj": "Wehrmacht"}
+{"sub": "Grauspitz", "obj": "Alps"}
+{"sub": "Tronador", "obj": "Andes"}
+{"sub": "door handle", "obj": "door"}
+{"sub": "cornea", "obj": "eye"}
+{"sub": "Malachi", "obj": "Bible"}
+{"sub": "Pro-feminism", "obj": "feminism"}
+{"sub": "nape", "obj": "neck"}
+{"sub": "Ricasso", "obj": "blade"}
+{"sub": "Ricasso", "obj": "sword"}
+{"sub": "crop protection", "obj": "agriculture"}
+{"sub": "Infinity focus", "obj": "photography"}
+{"sub": "sexual dimorphism", "obj": "sex"}
+{"sub": "Old Egyptian", "obj": "Egyptian"}
+{"sub": "Greater Caucasus", "obj": "Caucasus"}
+{"sub": "Lesser Caucasus", "obj": "Caucasus"}
+{"sub": "pH indicator", "obj": "chemistry"}
+{"sub": "Mount Makiling", "obj": "Luzon"}
+{"sub": "reincarnation", "obj": "philosophy"}
+{"sub": "6th Panzer Division (Wehrmacht)", "obj": "Wehrmacht"}
+{"sub": "WIVB-TV", "obj": "CBS"}
+{"sub": "information theory", "obj": "mathematics"}
+{"sub": "nursing diagnosis", "obj": "nursing"}
+{"sub": "Bukit Peninsula", "obj": "Bali"}
+{"sub": "L", "obj": "SL"}
+{"sub": "participant observation", "obj": "sociology"}
+{"sub": "Mercedario", "obj": "Andes"}
+{"sub": "Red Blood Cell", "obj": "blood"}
+{"sub": "firing pin", "obj": "rifle"}
+{"sub": "environmental factor", "obj": "ecosystem"}
+{"sub": "noise", "obj": "physics"}
+{"sub": "Idol 2005", "obj": "Idol"}
+{"sub": "frame of reference", "obj": "physics"}
+{"sub": "ecological pyramid", "obj": "ecosystem"}
+{"sub": "C-symmetry", "obj": "physics"}
+{"sub": "Maine", "obj": "Massachusetts"}
+{"sub": "Comet nucleus", "obj": "comet"}
+{"sub": "hydrology", "obj": "geology"}
+{"sub": "Brittany", "obj": "Brittany"}
+{"sub": "psychotherapy", "obj": "therapy"}
+{"sub": "Los Angeles Union Station", "obj": "Amtrak"}
+{"sub": "column", "obj": "flower"}
+{"sub": "computational mechanics", "obj": "mechanics"}
+{"sub": "propellant", "obj": "cartridge"}
+{"sub": "Mala Kapela Tunnel", "obj": "A1"}
+{"sub": "Ubinas", "obj": "Andes"}
+{"sub": "Andean Baroque", "obj": "baroque"}

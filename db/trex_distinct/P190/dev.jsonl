@@ -1,0 +1,99 @@
+{"sub": "Leeds", "obj": "Lille"}
+{"sub": "Turin", "obj": "Lille"}
+{"sub": "Cologne", "obj": "Lille"}
+{"sub": "Rotterdam", "obj": "Lille"}
+{"sub": "San Francisco", "obj": "Paris"}
+{"sub": "Porto Alegre", "obj": "Paris"}
+{"sub": "Seoul", "obj": "Paris"}
+{"sub": "Cairo", "obj": "Paris"}
+{"sub": "Moscow", "obj": "Brest"}
+{"sub": "Denver", "obj": "Brest"}
+{"sub": "Siedlce", "obj": "Brest"}
+{"sub": "Lutsk", "obj": "Brest"}
+{"sub": "Bucharest", "obj": "Lagos"}
+{"sub": "Maputo", "obj": "Lagos"}
+{"sub": "Rio de Janeiro", "obj": "Lagos"}
+{"sub": "Atlanta", "obj": "Lagos"}
+{"sub": "Tel Aviv", "obj": "Philadelphia"}
+{"sub": "Tianjin", "obj": "Philadelphia"}
+{"sub": "Abruzzo", "obj": "Philadelphia"}
+{"sub": "Nizhny Novgorod", "obj": "Philadelphia"}
+{"sub": "Venice", "obj": "Nice"}
+{"sub": "Edinburgh", "obj": "Nice"}
+{"sub": "Manila", "obj": "Nice"}
+{"sub": "Alicante", "obj": "Nice"}
+{"sub": "Guadalajara", "obj": "Guadalajara"}
+{"sub": "Mexico City", "obj": "Guadalajara"}
+{"sub": "Cali", "obj": "Guadalajara"}
+{"sub": "Panama City", "obj": "Guadalajara"}
+{"sub": "Edinburgh", "obj": "Vancouver"}
+{"sub": "Los Angeles", "obj": "Vancouver"}
+{"sub": "Rio de Janeiro", "obj": "Vancouver"}
+{"sub": "Jeddah", "obj": "Stuttgart"}
+{"sub": "Strasbourg", "obj": "Stuttgart"}
+{"sub": "Brno", "obj": "Stuttgart"}
+{"sub": "Sapporo", "obj": "Munich"}
+{"sub": "Verona", "obj": "Munich"}
+{"sub": "Cincinnati", "obj": "Munich"}
+{"sub": "Tel Aviv", "obj": "Toulouse"}
+{"sub": "Bristol", "obj": "Toulouse"}
+{"sub": "Kiev", "obj": "Toulouse"}
+{"sub": "Toulouse", "obj": "Atlanta"}
+{"sub": "Newcastle upon Tyne", "obj": "Atlanta"}
+{"sub": "Rio de Janeiro", "obj": "Atlanta"}
+{"sub": "Luanda", "obj": "Porto"}
+{"sub": "Mindelo", "obj": "Porto"}
+{"sub": "Macau", "obj": "Porto"}
+{"sub": "Tokyo", "obj": "Rome"}
+{"sub": "Johannesburg", "obj": "Rome"}
+{"sub": "Benevento", "obj": "Rome"}
+{"sub": "Caen", "obj": "Portsmouth"}
+{"sub": "Portsmouth", "obj": "Portsmouth"}
+{"sub": "Sydney", "obj": "Portsmouth"}
+{"sub": "Havana", "obj": "Seville"}
+{"sub": "Rabat", "obj": "Seville"}
+{"sub": "Rome", "obj": "Seville"}
+{"sub": "Budapest", "obj": "Lviv"}
+{"sub": "Vilnius", "obj": "Lviv"}
+{"sub": "Lublin", "obj": "Lviv"}
+{"sub": "Shanghai", "obj": "Yokohama"}
+{"sub": "Vancouver", "obj": "Yokohama"}
+{"sub": "Odessa", "obj": "Yokohama"}
+{"sub": "Luanda", "obj": "Macau"}
+{"sub": "Praia", "obj": "Macau"}
+{"sub": "Lisbon", "obj": "Macau"}
+{"sub": "Istanbul", "obj": "Cologne"}
+{"sub": "Turin", "obj": "Cologne"}
+{"sub": "Esch-sur-Alzette", "obj": "Cologne"}
+{"sub": "Bari", "obj": "Bologna"}
+{"sub": "Leipzig", "obj": "Bologna"}
+{"sub": "Thessaloniki", "obj": "Bologna"}
+{"sub": "Mashhad", "obj": "Lahore"}
+{"sub": "Istanbul", "obj": "Lahore"}
+{"sub": "Bukhara", "obj": "Lahore"}
+{"sub": "Salisbury", "obj": "Salisbury"}
+{"sub": "Salisbury", "obj": "Salisbury"}
+{"sub": "Salisbury", "obj": "Salisbury"}
+{"sub": "Porto", "obj": "Bristol"}
+{"sub": "Toulouse", "obj": "Bristol"}
+{"sub": "Hanover", "obj": "Bristol"}
+{"sub": "Erfurt", "obj": "Mainz"}
+{"sub": "Valencia", "obj": "Mainz"}
+{"sub": "Atlanta", "obj": "Salzburg"}
+{"sub": "Vilnius", "obj": "Salzburg"}
+{"sub": "Milan", "obj": "Bethlehem"}
+{"sub": "Assisi", "obj": "Bethlehem"}
+{"sub": "Mexico City", "obj": "Lima"}
+{"sub": "Miami", "obj": "Lima"}
+{"sub": "Christchurch", "obj": "Seattle"}
+{"sub": "Chongqing", "obj": "Seattle"}
+{"sub": "Taipei", "obj": "Dallas"}
+{"sub": "Dijon", "obj": "Dallas"}
+{"sub": "Prague", "obj": "Kyoto"}
+{"sub": "Boston", "obj": "Kyoto"}
+{"sub": "San Francisco", "obj": "Bangalore"}
+{"sub": "Cleveland", "obj": "Bangalore"}
+{"sub": "Taipei", "obj": "Guam"}
+{"sub": "Manila", "obj": "Guam"}
+{"sub": "Stralsund", "obj": "Kiel"}
+{"sub": "Tallinn", "obj": "Kiel"}

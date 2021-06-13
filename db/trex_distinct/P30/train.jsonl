@@ -1,0 +1,820 @@
+{"sub": "Penney Bay", "obj": "Antarctica"}
+{"sub": "Voden Heights", "obj": "Antarctica"}
+{"sub": "Pourquoi Pas Point", "obj": "Antarctica"}
+{"sub": "Anderson Hills", "obj": "Antarctica"}
+{"sub": "Surveyors Range", "obj": "Antarctica"}
+{"sub": "Evans Peak", "obj": "Antarctica"}
+{"sub": "Panega Glacier", "obj": "Antarctica"}
+{"sub": "Two Step Cliffs", "obj": "Antarctica"}
+{"sub": "Concordia Station", "obj": "Antarctica"}
+{"sub": "Welcome Mountain", "obj": "Antarctica"}
+{"sub": "Quinton Point", "obj": "Antarctica"}
+{"sub": "Cape Longing", "obj": "Antarctica"}
+{"sub": "Nimbus Hills", "obj": "Antarctica"}
+{"sub": "Cape Filchner", "obj": "Antarctica"}
+{"sub": "Gibbs Glacier", "obj": "Antarctica"}
+{"sub": "Vernadsky Research Base", "obj": "Antarctica"}
+{"sub": "Peacock Sound", "obj": "Antarctica"}
+{"sub": "Ioannes Paulus II Peninsula", "obj": "Antarctica"}
+{"sub": "Fournier Bay", "obj": "Antarctica"}
+{"sub": "Meyer Hills", "obj": "Antarctica"}
+{"sub": "Shackleton Ice Shelf", "obj": "Antarctica"}
+{"sub": "Debenham Glacier", "obj": "Antarctica"}
+{"sub": "Alexander Island", "obj": "Antarctica"}
+{"sub": "Rockefeller Mountains", "obj": "Antarctica"}
+{"sub": "Mount Harding", "obj": "Antarctica"}
+{"sub": "Levski Ridge", "obj": "Antarctica"}
+{"sub": "Insel Range", "obj": "Antarctica"}
+{"sub": "Brunt Ice Shelf", "obj": "Antarctica"}
+{"sub": "Mariner Glacier", "obj": "Antarctica"}
+{"sub": "Cape Legoupil", "obj": "Antarctica"}
+{"sub": "Whitehall Glacier", "obj": "Antarctica"}
+{"sub": "William Scoresby Bay", "obj": "Antarctica"}
+{"sub": "French Southern and Antarctic Lands", "obj": "Antarctica"}
+{"sub": "Husky Massif", "obj": "Antarctica"}
+{"sub": "Sequence Hills", "obj": "Antarctica"}
+{"sub": "Ryder Bay", "obj": "Antarctica"}
+{"sub": "Dufek Massif", "obj": "Antarctica"}
+{"sub": "Denfeld Mountains", "obj": "Antarctica"}
+{"sub": "Neuburg Peak", "obj": "Antarctica"}
+{"sub": "Northeast Glacier", "obj": "Antarctica"}
+{"sub": "Juan Carlos I Antarctic Base", "obj": "Antarctica"}
+{"sub": "Rouen Mountains", "obj": "Antarctica"}
+{"sub": "Berwick Glacier", "obj": "Antarctica"}
+{"sub": "Cartographers Range", "obj": "Antarctica"}
+{"sub": "Mac. Robertson Land", "obj": "Antarctica"}
+{"sub": "Bigo Bay", "obj": "Antarctica"}
+{"sub": "Enterprise Island", "obj": "Antarctica"}
+{"sub": "Mertz Glacier", "obj": "Antarctica"}
+{"sub": "Cape Barne", "obj": "Antarctica"}
+{"sub": "Staten Island Heights", "obj": "Antarctica"}
+{"sub": "Mount Berlin", "obj": "Antarctica"}
+{"sub": "Law Dome", "obj": "Antarctica"}
+{"sub": "Lisiya Ridge", "obj": "Antarctica"}
+{"sub": "Hesperides Hill", "obj": "Antarctica"}
+{"sub": "Willan Saddle", "obj": "Antarctica"}
+{"sub": "Foyn Coast", "obj": "Antarctica"}
+{"sub": "Mars Glacier", "obj": "Antarctica"}
+{"sub": "The Gullet", "obj": "Antarctica"}
+{"sub": "Minnesota Glacier", "obj": "Antarctica"}
+{"sub": "Bermel Escarpment", "obj": "Antarctica"}
+{"sub": "Detaille Island", "obj": "Antarctica"}
+{"sub": "Collins Harbour", "obj": "Antarctica"}
+{"sub": "Jorum Glacier", "obj": "Antarctica"}
+{"sub": "Saturn Glacier", "obj": "Antarctica"}
+{"sub": "Cape Selborne", "obj": "Antarctica"}
+{"sub": "Eros Glacier", "obj": "Antarctica"}
+{"sub": "Rezen Knoll", "obj": "Antarctica"}
+{"sub": "David Glacier", "obj": "Antarctica"}
+{"sub": "Kondofrey Heights", "obj": "Antarctica"}
+{"sub": "Cape Kinsey", "obj": "Antarctica"}
+{"sub": "Rutford Ice Stream", "obj": "Antarctica"}
+{"sub": "Wilhelmina Bay", "obj": "Antarctica"}
+{"sub": "Shipton Ridge", "obj": "Antarctica"}
+{"sub": "Oates Land", "obj": "Antarctica"}
+{"sub": "Astrolabe Glacier", "obj": "Antarctica"}
+{"sub": "Vaughan Inlet", "obj": "Antarctica"}
+{"sub": "Anderson Heights", "obj": "Antarctica"}
+{"sub": "Cleveland Glacier", "obj": "Antarctica"}
+{"sub": "Gair Mesa", "obj": "Antarctica"}
+{"sub": "Uranus Glacier", "obj": "Antarctica"}
+{"sub": "Herbert Mountains", "obj": "Antarctica"}
+{"sub": "Mitchell Peninsula", "obj": "Antarctica"}
+{"sub": "Indian Antarctic Program", "obj": "Antarctica"}
+{"sub": "Halpern Point", "obj": "Antarctica"}
+{"sub": "Support Force Glacier", "obj": "Antarctica"}
+{"sub": "MacKenzie Bay", "obj": "Antarctica"}
+{"sub": "Carryer Glacier", "obj": "Antarctica"}
+{"sub": "Princess Elisabeth Antarctica", "obj": "Antarctica"}
+{"sub": "Radnevo Peak", "obj": "Antarctica"}
+{"sub": "Flask Glacier", "obj": "Antarctica"}
+{"sub": "Crevasse Valley Glacier", "obj": "Antarctica"}
+{"sub": "Sykes Glacier", "obj": "Antarctica"}
+{"sub": "Mount Tyrrell", "obj": "Antarctica"}
+{"sub": "Newell Point", "obj": "Antarctica"}
+{"sub": "Heritage Range", "obj": "Antarctica"}
+{"sub": "Silverstein Peak", "obj": "Antarctica"}
+{"sub": "Edward VIII Bay", "obj": "Antarctica"}
+{"sub": "Garwood Valley", "obj": "Antarctica"}
+{"sub": "Victory Mountains", "obj": "Antarctica"}
+{"sub": "Breidnes Peninsula", "obj": "Antarctica"}
+{"sub": "Brahms Inlet", "obj": "Antarctica"}
+{"sub": "Bach Ice Shelf", "obj": "Antarctica"}
+{"sub": "Drygalski Mountains", "obj": "Antarctica"}
+{"sub": "Cosgrove Ice Shelf", "obj": "Antarctica"}
+{"sub": "Beaumont Bay", "obj": "Antarctica"}
+{"sub": "Opalchenie Peak", "obj": "Antarctica"}
+{"sub": "Land Glacier", "obj": "Antarctica"}
+{"sub": "Arctowski Peninsula", "obj": "Antarctica"}
+{"sub": "Lucy Glacier", "obj": "Antarctica"}
+{"sub": "Liv Glacier", "obj": "Antarctica"}
+{"sub": "Long Hills", "obj": "Antarctica"}
+{"sub": "Read Mountains", "obj": "Antarctica"}
+{"sub": "Benson Point", "obj": "Antarctica"}
+{"sub": "Mount Farrell", "obj": "Antarctica"}
+{"sub": "Balchen Mountain", "obj": "Antarctica"}
+{"sub": "Brooklyn Island", "obj": "Antarctica"}
+{"sub": "Onyx River", "obj": "Antarctica"}
+{"sub": "Nebraska Peaks", "obj": "Antarctica"}
+{"sub": "Cape Jeremy", "obj": "Antarctica"}
+{"sub": "Neumayer Cliffs", "obj": "Antarctica"}
+{"sub": "Eureka Glacier", "obj": "Antarctica"}
+{"sub": "Corner Cliffs", "obj": "Antarctica"}
+{"sub": "Cape Northrop", "obj": "Antarctica"}
+{"sub": "Alpha Island", "obj": "Antarctica"}
+{"sub": "Rampart Ridge", "obj": "Antarctica"}
+{"sub": "Bull Pass", "obj": "Antarctica"}
+{"sub": "Shirley Island", "obj": "Antarctica"}
+{"sub": "Mount Longhurst", "obj": "Antarctica"}
+{"sub": "Mackellar Inlet", "obj": "Antarctica"}
+{"sub": "McKinnon Island", "obj": "Antarctica"}
+{"sub": "South Georgia Survey", "obj": "Antarctica"}
+{"sub": "Risemedet Mountain", "obj": "Antarctica"}
+{"sub": "The Knoll", "obj": "Antarctica"}
+{"sub": "Dion Islands", "obj": "Antarctica"}
+{"sub": "Hudson Mountains", "obj": "Antarctica"}
+{"sub": "Hays Mountains", "obj": "Antarctica"}
+{"sub": "Borg Massif", "obj": "Antarctica"}
+{"sub": "Lazarev Ice Shelf", "obj": "Antarctica"}
+{"sub": "Breznik Heights", "obj": "Antarctica"}
+{"sub": "Brabant Island", "obj": "Antarctica"}
+{"sub": "Jones Mountains", "obj": "Antarctica"}
+{"sub": "Pautalia Glacier", "obj": "Antarctica"}
+{"sub": "McDonald Heights", "obj": "Antarctica"}
+{"sub": "Borchgrevink Glacier", "obj": "Antarctica"}
+{"sub": "Antarctic Plate", "obj": "Antarctica"}
+{"sub": "Probuda Ridge", "obj": "Antarctica"}
+{"sub": "Solvay Mountains", "obj": "Antarctica"}
+{"sub": "Paulet Island", "obj": "Antarctica"}
+{"sub": "Queen Maud Land", "obj": "Antarctica"}
+{"sub": "MacAlpine Hills", "obj": "Antarctica"}
+{"sub": "Birchall Peaks", "obj": "Antarctica"}
+{"sub": "Grossman Nunataks", "obj": "Antarctica"}
+{"sub": "Hippocrates Glacier", "obj": "Antarctica"}
+{"sub": "Demay Point", "obj": "Antarctica"}
+{"sub": "Miers Bluff", "obj": "Antarctica"}
+{"sub": "Swanson Mountains", "obj": "Antarctica"}
+{"sub": "Demas Range", "obj": "Antarctica"}
+{"sub": "George V Coast", "obj": "Antarctica"}
+{"sub": "Arkell Cirque", "obj": "Antarctica"}
+{"sub": "Mount Passel", "obj": "Antarctica"}
+{"sub": "Blaiklock Glacier", "obj": "Antarctica"}
+{"sub": "Kaliakra Glacier", "obj": "Antarctica"}
+{"sub": "English Coast", "obj": "Antarctica"}
+{"sub": "Varna Peninsula", "obj": "Antarctica"}
+{"sub": "Svarthamaren Mountain", "obj": "Antarctica"}
+{"sub": "Bowman Peninsula", "obj": "Antarctica"}
+{"sub": "Chuprene Glacier", "obj": "Antarctica"}
+{"sub": "Washington Escarpment", "obj": "Antarctica"}
+{"sub": "Pomorie Point", "obj": "Antarctica"}
+{"sub": "Warren Range", "obj": "Antarctica"}
+{"sub": "Romulus Glacier", "obj": "Antarctica"}
+{"sub": "Yule Bay", "obj": "Antarctica"}
+{"sub": "Mount Bentley", "obj": "Antarctica"}
+{"sub": "Cape Adare", "obj": "Antarctica"}
+{"sub": "Scotia Bay", "obj": "Antarctica"}
+{"sub": "Hoseason Island", "obj": "Antarctica"}
+{"sub": "Forster Ice Piedmont", "obj": "Antarctica"}
+{"sub": "Marie Byrd Land", "obj": "Antarctica"}
+{"sub": "Teres Ridge", "obj": "Antarctica"}
+{"sub": "Mount Fridtjof Nansen", "obj": "Antarctica"}
+{"sub": "Cape Mousse", "obj": "Antarctica"}
+{"sub": "Southern Cross Mountains", "obj": "Antarctica"}
+{"sub": "Saunders Mountain", "obj": "Antarctica"}
+{"sub": "Tapsell Foreland", "obj": "Antarctica"}
+{"sub": "Douglas Peaks", "obj": "Antarctica"}
+{"sub": "Cape Bird", "obj": "Antarctica"}
+{"sub": "Dunedin Range", "obj": "Antarctica"}
+{"sub": "Shipley Glacier", "obj": "Antarctica"}
+{"sub": "British Graham Land Expedition", "obj": "Antarctica"}
+{"sub": "Saffery Islands", "obj": "Antarctica"}
+{"sub": "Balleny Islands", "obj": "Antarctica"}
+{"sub": "Mount Dido", "obj": "Antarctica"}
+{"sub": "Rayner Glacier", "obj": "Antarctica"}
+{"sub": "Moubray Bay", "obj": "Antarctica"}
+{"sub": "Antarctic Treaty System", "obj": "Antarctica"}
+{"sub": "Watt Bay", "obj": "Antarctica"}
+{"sub": "Whillans Ice Stream", "obj": "Antarctica"}
+{"sub": "Rennick Glacier", "obj": "Antarctica"}
+{"sub": "Cobham Range", "obj": "Antarctica"}
+{"sub": "Erickson Bluffs", "obj": "Antarctica"}
+{"sub": "Jutulsessen", "obj": "Antarctica"}
+{"sub": "Mount Schuyler", "obj": "Antarctica"}
+{"sub": "Fold Island", "obj": "Antarctica"}
+{"sub": "Cape Chocolate", "obj": "Antarctica"}
+{"sub": "Cape Shirreff", "obj": "Antarctica"}
+{"sub": "Havre Mountains", "obj": "Antarctica"}
+{"sub": "Russell East Glacier", "obj": "Antarctica"}
+{"sub": "Cape Rey", "obj": "Antarctica"}
+{"sub": "Cape Ducorps", "obj": "Antarctica"}
+{"sub": "Hammer Point", "obj": "Antarctica"}
+{"sub": "Palmer Archipelago", "obj": "Antarctica"}
+{"sub": "Frostlendet Valley", "obj": "Antarctica"}
+{"sub": "Lake Vanda", "obj": "Antarctica"}
+{"sub": "Cape Archer", "obj": "Antarctica"}
+{"sub": "Terningskarvet Mountain", "obj": "Antarctica"}
+{"sub": "Whirlwind Inlet", "obj": "Antarctica"}
+{"sub": "Larsemann Hills", "obj": "Antarctica"}
+{"sub": "Hektoria Glacier", "obj": "Antarctica"}
+{"sub": "Salamander Range", "obj": "Antarctica"}
+{"sub": "Lions Rump", "obj": "Antarctica"}
+{"sub": "Mapple Glacier", "obj": "Antarctica"}
+{"sub": "Bellingshausen Sea", "obj": "Antarctica"}
+{"sub": "Mount Cocks", "obj": "Antarctica"}
+{"sub": "Holdsworth Glacier", "obj": "Antarctica"}
+{"sub": "Marsh Glacier", "obj": "Antarctica"}
+{"sub": "McFarlane Strait", "obj": "Antarctica"}
+{"sub": "Robinson Group", "obj": "Antarctica"}
+{"sub": "Sopot Ice Piedmont", "obj": "Antarctica"}
+{"sub": "Achaean Range", "obj": "Antarctica"}
+{"sub": "Charlotte Bay", "obj": "Antarctica"}
+{"sub": "Struma Glacier", "obj": "Antarctica"}
+{"sub": "David Island", "obj": "Antarctica"}
+{"sub": "Darwin Mountains", "obj": "Antarctica"}
+{"sub": "Piccard Cove", "obj": "Antarctica"}
+{"sub": "Cape Williams", "obj": "Antarctica"}
+{"sub": "Daniels Range", "obj": "Antarctica"}
+{"sub": "Cape Adriasola", "obj": "Antarctica"}
+{"sub": "Coulman Island", "obj": "Antarctica"}
+{"sub": "Pearse Valley", "obj": "Antarctica"}
+{"sub": "Mount Bursey", "obj": "Antarctica"}
+{"sub": "Wylie Bay", "obj": "Antarctica"}
+{"sub": "Holtedahl Bay", "obj": "Antarctica"}
+{"sub": "Mount McCoy", "obj": "Antarctica"}
+{"sub": "Mawson Glacier", "obj": "Antarctica"}
+{"sub": "Padda Island", "obj": "Antarctica"}
+{"sub": "Mount Wade", "obj": "Antarctica"}
+{"sub": "Bertha Island", "obj": "Antarctica"}
+{"sub": "Mobiloil Inlet", "obj": "Antarctica"}
+{"sub": "Ryder Glacier", "obj": "Antarctica"}
+{"sub": "Byers Peninsula", "obj": "Antarctica"}
+{"sub": "Brown Hills", "obj": "Antarctica"}
+{"sub": "Kukri Hills", "obj": "Antarctica"}
+{"sub": "Hansen Glacier", "obj": "Antarctica"}
+{"sub": "Emona Anchorage", "obj": "Antarctica"}
+{"sub": "Ravens Mountains", "obj": "Antarctica"}
+{"sub": "Hurricane Ridge", "obj": "Antarctica"}
+{"sub": "Vinson Massif", "obj": "Antarctica"}
+{"sub": "Neny Island", "obj": "Antarctica"}
+{"sub": "Tinker Glacier", "obj": "Antarctica"}
+{"sub": "Lamplugh Island", "obj": "Antarctica"}
+{"sub": "Ford Ranges", "obj": "Antarctica"}
+{"sub": "Elkhorn Ridge", "obj": "Antarctica"}
+{"sub": "Chester Cone", "obj": "Antarctica"}
+{"sub": "Hull Glacier", "obj": "Antarctica"}
+{"sub": "Maury Bay", "obj": "Antarctica"}
+{"sub": "Eland Mountains", "obj": "Antarctica"}
+{"sub": "Miers Valley", "obj": "Antarctica"}
+{"sub": "Murphy Glacier", "obj": "Antarctica"}
+{"sub": "Millerand Island", "obj": "Antarctica"}
+{"sub": "Lanterman Range", "obj": "Antarctica"}
+{"sub": "Pequod Glacier", "obj": "Antarctica"}
+{"sub": "Kotis Point", "obj": "Antarctica"}
+{"sub": "Pernik Peninsula", "obj": "Antarctica"}
+{"sub": "Gerlache Strait", "obj": "Antarctica"}
+{"sub": "Nye Mountains", "obj": "Antarctica"}
+{"sub": "Fredriksen Island", "obj": "Antarctica"}
+{"sub": "Terra Nova Bay", "obj": "Antarctica"}
+{"sub": "Maglenik Heights", "obj": "Antarctica"}
+{"sub": "Conrad Mountains", "obj": "Antarctica"}
+{"sub": "Rose Valley Glacier", "obj": "Antarctica"}
+{"sub": "Colbert Mountains", "obj": "Antarctica"}
+{"sub": "Archar Peninsula", "obj": "Antarctica"}
+{"sub": "Mikkelsen Bay", "obj": "Antarctica"}
+{"sub": "Rydberg Peninsula", "obj": "Antarctica"}
+{"sub": "Cape Yelcho", "obj": "Antarctica"}
+{"sub": "Jupiter Glacier", "obj": "Antarctica"}
+{"sub": "Adelaide Island", "obj": "Antarctica"}
+{"sub": "Wright Lower Glacier", "obj": "Antarctica"}
+{"sub": "Mount Manthe", "obj": "Antarctica"}
+{"sub": "Ellsworth Land", "obj": "Antarctica"}
+{"sub": "Violante Inlet", "obj": "Antarctica"}
+{"sub": "Honkala Island", "obj": "Antarctica"}
+{"sub": "Coronation Island", "obj": "Antarctica"}
+{"sub": "Scar Inlet", "obj": "Antarctica"}
+{"sub": "Lemaire Island", "obj": "Antarctica"}
+{"sub": "Wohlthat Mountains", "obj": "Antarctica"}
+{"sub": "Prydz Bay", "obj": "Antarctica"}
+{"sub": "Pickwick Island", "obj": "Antarctica"}
+{"sub": "Chavez Island", "obj": "Antarctica"}
+{"sub": "Aviator Glacier", "obj": "Antarctica"}
+{"sub": "Carlota Cove", "obj": "Antarctica"}
+{"sub": "Argentina Range", "obj": "Antarctica"}
+{"sub": "Macquarie Island", "obj": "Antarctica"}
+{"sub": "Pendleton Strait", "obj": "Antarctica"}
+{"sub": "Pensacola Mountains", "obj": "Antarctica"}
+{"sub": "Lake Vostok", "obj": "Antarctica"}
+{"sub": "Cape Penck", "obj": "Antarctica"}
+{"sub": "Cape Perez", "obj": "Antarctica"}
+{"sub": "Hinkley Glacier", "obj": "Antarctica"}
+{"sub": "Vestreskorve Glacier", "obj": "Antarctica"}
+{"sub": "Willan Nunatak", "obj": "Antarctica"}
+{"sub": "Pioneers Escarpment", "obj": "Antarctica"}
+{"sub": "Crystal Sound", "obj": "Antarctica"}
+{"sub": "Peshtera Glacier", "obj": "Antarctica"}
+{"sub": "Williams Point", "obj": "Antarctica"}
+{"sub": "Masson Range", "obj": "Antarctica"}
+{"sub": "Odbert Island", "obj": "Antarctica"}
+{"sub": "Saint Johns Range", "obj": "Antarctica"}
+{"sub": "Arrival Heights", "obj": "Antarctica"}
+{"sub": "Beardmore Glacier", "obj": "Antarctica"}
+{"sub": "Snakeskin Glacier", "obj": "Antarctica"}
+{"sub": "Craddock Massif", "obj": "Antarctica"}
+{"sub": "Hull Bay", "obj": "Antarctica"}
+{"sub": "Fleming Glacier", "obj": "Antarctica"}
+{"sub": "Andvord Bay", "obj": "Antarctica"}
+{"sub": "Reeves Glacier", "obj": "Antarctica"}
+{"sub": "Marshall Mountains", "obj": "Antarctica"}
+{"sub": "Trail Inlet", "obj": "Antarctica"}
+{"sub": "Morgan Inlet", "obj": "Antarctica"}
+{"sub": "Molar Massif", "obj": "Antarctica"}
+{"sub": "Harold Byrd Mountains", "obj": "Antarctica"}
+{"sub": "Owen Ridge", "obj": "Antarctica"}
+{"sub": "Venus Glacier", "obj": "Antarctica"}
+{"sub": "Moon Bay", "obj": "Antarctica"}
+{"sub": "Cape Waite", "obj": "Antarctica"}
+{"sub": "Beacon Supergroup", "obj": "Antarctica"}
+{"sub": "Planet Heights", "obj": "Antarctica"}
+{"sub": "Cape Royds", "obj": "Antarctica"}
+{"sub": "Palmer Station", "obj": "Antarctica"}
+{"sub": "Green Glacier", "obj": "Antarctica"}
+{"sub": "Fosdick Mountains", "obj": "Antarctica"}
+{"sub": "Flatvaer Islands", "obj": "Antarctica"}
+{"sub": "Carlini Station", "obj": "Antarctica"}
+{"sub": "Kilby Island", "obj": "Antarctica"}
+{"sub": "Sobral Peninsula", "obj": "Antarctica"}
+{"sub": "Imperial Trans-Antarctic Expedition", "obj": "Antarctica"}
+{"sub": "Aitcho Islands", "obj": "Antarctica"}
+{"sub": "Queen Elizabeth Land", "obj": "Antarctica"}
+{"sub": "Grindley Plateau", "obj": "Antarctica"}
+{"sub": "Executive Committee Range", "obj": "Antarctica"}
+{"sub": "Samuel Point", "obj": "Antarctica"}
+{"sub": "Keltie Glacier", "obj": "Antarctica"}
+{"sub": "Mount Ignatiev", "obj": "Antarctica"}
+{"sub": "Palmer Land", "obj": "Antarctica"}
+{"sub": "Balkan Snowfield", "obj": "Antarctica"}
+{"sub": "Smith Glacier", "obj": "Antarctica"}
+{"sub": "Shackleton Range", "obj": "Antarctica"}
+{"sub": "Mount Mentzel", "obj": "Antarctica"}
+{"sub": "Robertson Bay", "obj": "Antarctica"}
+{"sub": "Tile Ridge", "obj": "Antarctica"}
+{"sub": "Mendelssohn Inlet", "obj": "Antarctica"}
+{"sub": "Coulter Heights", "obj": "Antarctica"}
+{"sub": "Mount Stephenson", "obj": "Antarctica"}
+{"sub": "Mount Boreas", "obj": "Antarctica"}
+{"sub": "Dundee Whaling Expedition", "obj": "Antarctica"}
+{"sub": "Scylla Glacier", "obj": "Antarctica"}
+{"sub": "Seal Nunataks", "obj": "Antarctica"}
+{"sub": "Antarctic Plateau", "obj": "Antarctica"}
+{"sub": "Barrientos Island", "obj": "Antarctica"}
+{"sub": "Delchev Ridge", "obj": "Antarctica"}
+{"sub": "Evans Peninsula", "obj": "Antarctica"}
+{"sub": "West Antarctica", "obj": "Antarctica"}
+{"sub": "Ardery Island", "obj": "Antarctica"}
+{"sub": "Vinson Plateau", "obj": "Antarctica"}
+{"sub": "Skeidshovden Mountain", "obj": "Antarctica"}
+{"sub": "Dumoulin Islands", "obj": "Antarctica"}
+{"sub": "Liard Island", "obj": "Antarctica"}
+{"sub": "Bransfield Strait", "obj": "Antarctica"}
+{"sub": "Vestfold Hills", "obj": "Antarctica"}
+{"sub": "Wilson Piedmont Glacier", "obj": "Antarctica"}
+{"sub": "Noll Glacier", "obj": "Antarctica"}
+{"sub": "Fort William Point", "obj": "Antarctica"}
+{"sub": "Melchior Islands", "obj": "Antarctica"}
+{"sub": "Canisteo Peninsula", "obj": "Antarctica"}
+{"sub": "Williams Hills", "obj": "Antarctica"}
+{"sub": "Iskar Glacier", "obj": "Antarctica"}
+{"sub": "D'Urville Island, Antarctica", "obj": "Antarctica"}
+{"sub": "James Ross Island group", "obj": "Antarctica"}
+{"sub": "Harris Peninsula", "obj": "Antarctica"}
+{"sub": "Cape Monaco", "obj": "Antarctica"}
+{"sub": "George VI Ice Shelf", "obj": "Antarctica"}
+{"sub": "Watson Escarpment", "obj": "Antarctica"}
+{"sub": "Mountaineer Range", "obj": "Antarctica"}
+{"sub": "Kurze Mountains", "obj": "Antarctica"}
+{"sub": "Crown Peak", "obj": "Antarctica"}
+{"sub": "Knox Coast", "obj": "Antarctica"}
+{"sub": "Phobos Ridge", "obj": "Antarctica"}
+{"sub": "Recovery Glacier", "obj": "Antarctica"}
+{"sub": "Clark Mountains", "obj": "Antarctica"}
+{"sub": "Slab Point", "obj": "Antarctica"}
+{"sub": "Davis Station", "obj": "Antarctica"}
+{"sub": "Beaglehole Glacier", "obj": "Antarctica"}
+{"sub": "Antim Peak", "obj": "Antarctica"}
+{"sub": "Butler Glacier", "obj": "Antarctica"}
+{"sub": "Mulock Glacier", "obj": "Antarctica"}
+{"sub": "Lovech Heights", "obj": "Antarctica"}
+{"sub": "Ruppert Coast", "obj": "Antarctica"}
+{"sub": "McMurdo Station", "obj": "Antarctica"}
+{"sub": "Rothera Research Station", "obj": "Antarctica"}
+{"sub": "Lomonosov Mountains", "obj": "Antarctica"}
+{"sub": "Spur Point", "obj": "Antarctica"}
+{"sub": "Cordiner Peaks", "obj": "Antarctica"}
+{"sub": "Reinbolt Hills", "obj": "Antarctica"}
+{"sub": "Brialmont Cove", "obj": "Antarctica"}
+{"sub": "Morris Rock", "obj": "Antarctica"}
+{"sub": "Thomas Glacier", "obj": "Antarctica"}
+{"sub": "Hutton Mountains", "obj": "Antarctica"}
+{"sub": "Danger Islands", "obj": "Antarctica"}
+{"sub": "Scott Base", "obj": "Antarctica"}
+{"sub": "Cape Hallett", "obj": "Antarctica"}
+{"sub": "Rambo Nunataks", "obj": "Antarctica"}
+{"sub": "Gabbro Hills", "obj": "Antarctica"}
+{"sub": "Bowman Coast", "obj": "Antarctica"}
+{"sub": "Lazarev Mountains", "obj": "Antarctica"}
+{"sub": "Cape Colbeck", "obj": "Antarctica"}
+{"sub": "Everett Range", "obj": "Antarctica"}
+{"sub": "Mount Electra", "obj": "Antarctica"}
+{"sub": "Davis Coast", "obj": "Antarctica"}
+{"sub": "Gordon Glacier", "obj": "Antarctica"}
+{"sub": "Samuel Peak", "obj": "Antarctica"}
+{"sub": "Rothschild Island", "obj": "Antarctica"}
+{"sub": "Morozumi Range", "obj": "Antarctica"}
+{"sub": "Albanus Glacier", "obj": "Antarctica"}
+{"sub": "Langnes Peninsula", "obj": "Antarctica"}
+{"sub": "Granite Knolls", "obj": "Antarctica"}
+{"sub": "Clare Range", "obj": "Antarctica"}
+{"sub": "Victor Bay", "obj": "Antarctica"}
+{"sub": "Lambert Glacier", "obj": "Antarctica"}
+{"sub": "Nimrod Glacier", "obj": "Antarctica"}
+{"sub": "Scaife Mountains", "obj": "Antarctica"}
+{"sub": "Beaufort Island", "obj": "Antarctica"}
+{"sub": "Condor Peninsula", "obj": "Antarctica"}
+{"sub": "Trakiya Heights", "obj": "Antarctica"}
+{"sub": "Davis Sea", "obj": "Antarctica"}
+{"sub": "Mount Dallmann", "obj": "Antarctica"}
+{"sub": "Plana Peak", "obj": "Antarctica"}
+{"sub": "Laurie Island", "obj": "Antarctica"}
+{"sub": "Biscoe Islands", "obj": "Antarctica"}
+{"sub": "Ross Island", "obj": "Antarctica"}
+{"sub": "Largo Island", "obj": "Antarctica"}
+{"sub": "La Grange Nunataks", "obj": "Antarctica"}
+{"sub": "Schytt Glacier", "obj": "Antarctica"}
+{"sub": "Tapley Mountains", "obj": "Antarctica"}
+{"sub": "Barwick Valley", "obj": "Antarctica"}
+{"sub": "Panzarini Hills", "obj": "Antarctica"}
+{"sub": "Kirkby Glacier", "obj": "Antarctica"}
+{"sub": "Ingrid Christensen Coast", "obj": "Antarctica"}
+{"sub": "Napier Mountains", "obj": "Antarctica"}
+{"sub": "Von Essen Mountain", "obj": "Antarctica"}
+{"sub": "Douglas Range", "obj": "Antarctica"}
+{"sub": "Mount Queequeg", "obj": "Antarctica"}
+{"sub": "South Beaches", "obj": "Antarctica"}
+{"sub": "Howard Glacier", "obj": "Antarctica"}
+{"sub": "Riiser-Larsen Ice Shelf", "obj": "Antarctica"}
+{"sub": "Crosswell Glacier", "obj": "Antarctica"}
+{"sub": "Stonington Island", "obj": "Antarctica"}
+{"sub": "Mount Melbourne", "obj": "Antarctica"}
+{"sub": "George V Land", "obj": "Antarctica"}
+{"sub": "Tierney Peninsula", "obj": "Antarctica"}
+{"sub": "Greenwood Valley", "obj": "Antarctica"}
+{"sub": "Shirase Glacier", "obj": "Antarctica"}
+{"sub": "Storm Peak", "obj": "Antarctica"}
+{"sub": "Benson Glacier", "obj": "Antarctica"}
+{"sub": "Balham Valley", "obj": "Antarctica"}
+{"sub": "Zucchelli Station", "obj": "Antarctica"}
+{"sub": "Foundation Ice Stream", "obj": "Antarctica"}
+{"sub": "Shipka Saddle", "obj": "Antarctica"}
+{"sub": "Convoy Range", "obj": "Antarctica"}
+{"sub": "Zemen Knoll", "obj": "Antarctica"}
+{"sub": "Mount Black", "obj": "Antarctica"}
+{"sub": "Botnneset Peninsula", "obj": "Antarctica"}
+{"sub": "Austkampane Hills", "obj": "Antarctica"}
+{"sub": "Avery Plateau", "obj": "Antarctica"}
+{"sub": "Arena Valley", "obj": "Antarctica"}
+{"sub": "Miziya Peak", "obj": "Antarctica"}
+{"sub": "Pirrit Hills", "obj": "Antarctica"}
+{"sub": "Ice Runway", "obj": "Antarctica"}
+{"sub": "Eisenhower Range", "obj": "Antarctica"}
+{"sub": "Drummond Glacier", "obj": "Antarctica"}
+{"sub": "Melnik Ridge", "obj": "Antarctica"}
+{"sub": "Jennings Promontory", "obj": "Antarctica"}
+{"sub": "Ablation Valley", "obj": "Antarctica"}
+{"sub": "Ray Promontory", "obj": "Antarctica"}
+{"sub": "Mount Newall", "obj": "Antarctica"}
+{"sub": "Gambacorta Peak", "obj": "Antarctica"}
+{"sub": "Melnik Peak", "obj": "Antarctica"}
+{"sub": "Mount McClintock", "obj": "Antarctica"}
+{"sub": "Pecora Escarpment", "obj": "Antarctica"}
+{"sub": "Supporters Range", "obj": "Antarctica"}
+{"sub": "Deep Freeze Range", "obj": "Antarctica"}
+{"sub": "Mount Lister", "obj": "Antarctica"}
+{"sub": "Trinity Peninsula", "obj": "Antarctica"}
+{"sub": "Strom Glacier", "obj": "Antarctica"}
+{"sub": "Getz Ice Shelf", "obj": "Antarctica"}
+{"sub": "Petvar Heights", "obj": "Antarctica"}
+{"sub": "Camp Academia", "obj": "Antarctica"}
+{"sub": "Mercator Ice Piedmont", "obj": "Antarctica"}
+{"sub": "Aleko Rock", "obj": "Antarctica"}
+{"sub": "Bruce Plateau", "obj": "Antarctica"}
+{"sub": "Mount Kempe", "obj": "Antarctica"}
+{"sub": "Malta Plateau", "obj": "Antarctica"}
+{"sub": "Antarctic ice sheet", "obj": "Antarctica"}
+{"sub": "Curzon Islands", "obj": "Antarctica"}
+{"sub": "Moe Island", "obj": "Antarctica"}
+{"sub": "Misnomer Point", "obj": "Antarctica"}
+{"sub": "Booth Island", "obj": "Antarctica"}
+{"sub": "Norway Bight", "obj": "Antarctica"}
+{"sub": "William Scoresby Archipelago", "obj": "Antarctica"}
+{"sub": "Mount Hornsby", "obj": "Antarctica"}
+{"sub": "Merrick Mountains", "obj": "Antarctica"}
+{"sub": "Chapman Snowfield", "obj": "Antarctica"}
+{"sub": "Shinnan Glacier", "obj": "Antarctica"}
+{"sub": "Mount Weaver", "obj": "Antarctica"}
+{"sub": "Emmanuel Glacier", "obj": "Antarctica"}
+{"sub": "Kaloyan Nunatak", "obj": "Antarctica"}
+{"sub": "Stabben", "obj": "Antarctica"}
+{"sub": "East Ongul Island", "obj": "Antarctica"}
+{"sub": "Mount Harker", "obj": "Antarctica"}
+{"sub": "Tower Island", "obj": "Antarctica"}
+{"sub": "Bertram Glacier", "obj": "Antarctica"}
+{"sub": "Argosy Glacier", "obj": "Antarctica"}
+{"sub": "Reedy Glacier", "obj": "Antarctica"}
+{"sub": "Miller Range", "obj": "Antarctica"}
+{"sub": "Lavoisier Island", "obj": "Antarctica"}
+{"sub": "Yambol Peak", "obj": "Antarctica"}
+{"sub": "Aprilov Point", "obj": "Antarctica"}
+{"sub": "Quarles Range", "obj": "Antarctica"}
+{"sub": "Hercules Inlet", "obj": "Antarctica"}
+{"sub": "Dennistoun Glacier", "obj": "Antarctica"}
+{"sub": "Cape Rymill", "obj": "Antarctica"}
+{"sub": "Moubray Glacier", "obj": "Antarctica"}
+{"sub": "Signy Island", "obj": "Antarctica"}
+{"sub": "Bourgeois Fjord", "obj": "Antarctica"}
+{"sub": "Pare Glacier", "obj": "Antarctica"}
+{"sub": "Payer Mountains", "obj": "Antarctica"}
+{"sub": "Northwind Glacier", "obj": "Antarctica"}
+{"sub": "Siple Dome", "obj": "Antarctica"}
+{"sub": "Andersson Island", "obj": "Antarctica"}
+{"sub": "Rezen Saddle", "obj": "Antarctica"}
+{"sub": "Boyana Glacier", "obj": "Antarctica"}
+{"sub": "Sjogren Glacier", "obj": "Antarctica"}
+{"sub": "Cannonball Cliffs", "obj": "Antarctica"}
+{"sub": "Fendley Glacier", "obj": "Antarctica"}
+{"sub": "Lake Vida", "obj": "Antarctica"}
+{"sub": "Contell Glacier", "obj": "Antarctica"}
+{"sub": "Cape Hordern", "obj": "Antarctica"}
+{"sub": "Plateau Station", "obj": "Antarctica"}
+{"sub": "Pidgeon Island", "obj": "Antarctica"}
+{"sub": "Johnson Glacier", "obj": "Antarctica"}
+{"sub": "Mount Paris", "obj": "Antarctica"}
+{"sub": "Hood Glacier", "obj": "Antarctica"}
+{"sub": "Griffith Glacier", "obj": "Antarctica"}
+{"sub": "Australian Antarctic Territory", "obj": "Antarctica"}
+{"sub": "Mount Cupola", "obj": "Antarctica"}
+{"sub": "Mount Moses", "obj": "Antarctica"}
+{"sub": "Eights Coast", "obj": "Antarctica"}
+{"sub": "Bowyer Butte", "obj": "Antarctica"}
+{"sub": "Weber Inlet", "obj": "Antarctica"}
+{"sub": "Prince Charles Mountains", "obj": "Antarctica"}
+{"sub": "McCuddin Mountains", "obj": "Antarctica"}
+{"sub": "Kirkpatrick Glacier", "obj": "Antarctica"}
+{"sub": "Mount Foster", "obj": "Antarctica"}
+{"sub": "Bigourdan Fjord", "obj": "Antarctica"}
+{"sub": "Schokalsky Bay", "obj": "Antarctica"}
+{"sub": "Bailey Peninsula (Antarctica)", "obj": "Antarctica"}
+{"sub": "Pitt Islands", "obj": "Antarctica"}
+{"sub": "Festninga Mountain", "obj": "Antarctica"}
+{"sub": "Ninnis Glacier", "obj": "Antarctica"}
+{"sub": "Howchin Glacier", "obj": "Antarctica"}
+{"sub": "Cape Adams", "obj": "Antarctica"}
+{"sub": "Mount Markham", "obj": "Antarctica"}
+{"sub": "Prespa Glacier", "obj": "Antarctica"}
+{"sub": "Pitkevitch Glacier", "obj": "Antarctica"}
+{"sub": "Cole Peninsula", "obj": "Antarctica"}
+{"sub": "Ferrer Point", "obj": "Antarctica"}
+{"sub": "Yovkov Point", "obj": "Antarctica"}
+{"sub": "Apollo Peak", "obj": "Antarctica"}
+{"sub": "Medina Peaks", "obj": "Antarctica"}
+{"sub": "Frigate Range", "obj": "Antarctica"}
+{"sub": "Lillie Range", "obj": "Antarctica"}
+{"sub": "Cape Evensen", "obj": "Antarctica"}
+{"sub": "Walker Mountains", "obj": "Antarctica"}
+{"sub": "Cape Smith", "obj": "Antarctica"}
+{"sub": "Air New Zealand Flight 901", "obj": "Antarctica"}
+{"sub": "Hannah Point", "obj": "Antarctica"}
+{"sub": "Mount Tyree", "obj": "Antarctica"}
+{"sub": "Mount Hallgren", "obj": "Antarctica"}
+{"sub": "Suvorov Glacier", "obj": "Antarctica"}
+{"sub": "Batterbee Mountains", "obj": "Antarctica"}
+{"sub": "Roman Four Promontory", "obj": "Antarctica"}
+{"sub": "Srebarna Glacier", "obj": "Antarctica"}
+{"sub": "Veleka Ridge", "obj": "Antarctica"}
+{"sub": "Krogh Island", "obj": "Antarctica"}
+{"sub": "Zed Islands", "obj": "Antarctica"}
+{"sub": "Otway Massif", "obj": "Antarctica"}
+{"sub": "Possession Islands", "obj": "Antarctica"}
+{"sub": "Tundzha Glacier", "obj": "Antarctica"}
+{"sub": "Anare Mountains", "obj": "Antarctica"}
+{"sub": "Roberts Massif", "obj": "Antarctica"}
+{"sub": "New Swabia", "obj": "Antarctica"}
+{"sub": "Mirabito Range", "obj": "Antarctica"}
+{"sub": "Byrd Station", "obj": "Antarctica"}
+{"sub": "Maitri", "obj": "Antarctica"}
+{"sub": "Desko Mountains", "obj": "Antarctica"}
+{"sub": "Knobhead", "obj": "Antarctica"}
+{"sub": "Wirth Peninsula", "obj": "Antarctica"}
+{"sub": "Cathedral Rocks", "obj": "Antarctica"}
+{"sub": "Atlantic Club Ridge", "obj": "Antarctica"}
+{"sub": "Churchill Peninsula", "obj": "Antarctica"}
+{"sub": "Urdoviza Glacier", "obj": "Antarctica"}
+{"sub": "Stonehouse Bay", "obj": "Antarctica"}
+{"sub": "Herbert Range", "obj": "Antarctica"}
+{"sub": "Elgar Uplands", "obj": "Antarctica"}
+{"sub": "Splettstoesser Glacier", "obj": "Antarctica"}
+{"sub": "Mule Peninsula", "obj": "Antarctica"}
+{"sub": "Mount Steere", "obj": "Antarctica"}
+{"sub": "Martin Hills", "obj": "Antarctica"}
+{"sub": "Guest Peninsula", "obj": "Antarctica"}
+{"sub": "Northern Foothills", "obj": "Antarctica"}
+{"sub": "European Project for Ice Coring in Antarctica", "obj": "Antarctica"}
+{"sub": "Rotch Dome", "obj": "Antarctica"}
+{"sub": "Beaumont Glacier", "obj": "Antarctica"}
+{"sub": "Doyran Heights", "obj": "Antarctica"}
+{"sub": "Transantarctic Mountains", "obj": "Antarctica"}
+{"sub": "Don Juan Pond", "obj": "Antarctica"}
+{"sub": "Worcester Range", "obj": "Antarctica"}
+{"sub": "Skelton Glacier", "obj": "Antarctica"}
+{"sub": "Wright Inlet", "obj": "Antarctica"}
+{"sub": "Clothier Harbour", "obj": "Antarctica"}
+{"sub": "Forrestal Range", "obj": "Antarctica"}
+{"sub": "Mount Bayonne", "obj": "Antarctica"}
+{"sub": "Renier Point", "obj": "Antarctica"}
+{"sub": "Yamato 000593", "obj": "Antarctica"}
+{"sub": "Sentinel Range", "obj": "Antarctica"}
+{"sub": "Huntress Glacier", "obj": "Antarctica"}
+{"sub": "Martel Inlet", "obj": "Antarctica"}
+{"sub": "Block Bay", "obj": "Antarctica"}
+{"sub": "Scott Island", "obj": "Antarctica"}
+{"sub": "Rawson Plateau", "obj": "Antarctica"}
+{"sub": "Beall Island", "obj": "Antarctica"}
+{"sub": "Paulding Bay", "obj": "Antarctica"}
+{"sub": "Founders Peaks", "obj": "Antarctica"}
+{"sub": "Mount Murphy", "obj": "Antarctica"}
+{"sub": "Publications Ice Shelf", "obj": "Antarctica"}
+{"sub": "Coppermine Peninsula", "obj": "Antarctica"}
+{"sub": "Denton Glacier", "obj": "Antarctica"}
+{"sub": "Thiel Mountains", "obj": "Antarctica"}
+{"sub": "Steventon Island", "obj": "Antarctica"}
+{"sub": "Lyon Nunataks", "obj": "Antarctica"}
+{"sub": "Totten Glacier", "obj": "Antarctica"}
+{"sub": "Black Coast", "obj": "Antarctica"}
+{"sub": "Avitohol Point", "obj": "Antarctica"}
+{"sub": "Beascochea Bay", "obj": "Antarctica"}
+{"sub": "Quartz Hills", "obj": "Antarctica"}
+{"sub": "Cape Evans", "obj": "Antarctica"}
+{"sub": "South Pole Traverse", "obj": "Antarctica"}
+{"sub": "Kohler Range", "obj": "Antarctica"}
+{"sub": "Bowman Glacier", "obj": "Antarctica"}
+{"sub": "Darley Hills", "obj": "Antarctica"}
+{"sub": "Brugmann Mountains", "obj": "Antarctica"}
+{"sub": "Barker Range", "obj": "Antarctica"}
+{"sub": "Tarnovo Ice Piedmont", "obj": "Antarctica"}
+{"sub": "Jones Bluffs", "obj": "Antarctica"}
+{"sub": "Danco Coast", "obj": "Antarctica"}
+{"sub": "Cape Burks", "obj": "Antarctica"}
+{"sub": "Taylor Valley", "obj": "Antarctica"}
+{"sub": "Hilton Inlet", "obj": "Antarctica"}
+{"sub": "Fish Islands", "obj": "Antarctica"}
+{"sub": "Discovery Expedition", "obj": "Antarctica"}
+{"sub": "Berkner Island", "obj": "Antarctica"}
+{"sub": "Sevtopolis Peak", "obj": "Antarctica"}
+{"sub": "Handel Ice Piedmont", "obj": "Antarctica"}
+{"sub": "California Plateau", "obj": "Antarctica"}
+{"sub": "Rutgers Glacier", "obj": "Antarctica"}
+{"sub": "Dundee Island", "obj": "Antarctica"}
+{"sub": "Dominion Range", "obj": "Antarctica"}
+{"sub": "Matusevich Glacier", "obj": "Antarctica"}
+{"sub": "Mount Spivey", "obj": "Antarctica"}
+{"sub": "Kiev Peninsula", "obj": "Antarctica"}
+{"sub": "Edinburgh Hill", "obj": "Antarctica"}
+{"sub": "Brown Peninsula", "obj": "Antarctica"}
+{"sub": "Leverett Glacier", "obj": "Antarctica"}
+{"sub": "Posadowsky Bay", "obj": "Antarctica"}
+{"sub": "Cugnot Ice Piedmont", "obj": "Antarctica"}
+{"sub": "Mundraga Bay", "obj": "Antarctica"}
+{"sub": "Berkovitsa Glacier", "obj": "Antarctica"}
+{"sub": "Sartorius Point", "obj": "Antarctica"}
+{"sub": "Hugi Glacier", "obj": "Antarctica"}
+{"sub": "Umber Island", "obj": "Antarctica"}
+{"sub": "Shiver Point", "obj": "Antarctica"}
+{"sub": "Mount Discovery", "obj": "Antarctica"}
+{"sub": "Victoria Upper Glacier", "obj": "Antarctica"}
+{"sub": "Minna Bluff", "obj": "Antarctica"}
+{"sub": "Newcomer Glacier", "obj": "Antarctica"}
+{"sub": "Neptune Glacier", "obj": "Antarctica"}
+{"sub": "Bosnia and Herzegovina", "obj": "Europe"}
+{"sub": "Greece", "obj": "Europe"}
+{"sub": "Segura", "obj": "Europe"}
+{"sub": "Bulgaria", "obj": "Europe"}
+{"sub": "Katowice", "obj": "Europe"}
+{"sub": "United Kingdom of Great Britain and Ireland", "obj": "Europe"}
+{"sub": "Dutch Republic", "obj": "Europe"}
+{"sub": "Soviet Union", "obj": "Europe"}
+{"sub": "Principality of Sealand", "obj": "Europe"}
+{"sub": "Athens", "obj": "Europe"}
+{"sub": "Schreckhorn", "obj": "Europe"}
+{"sub": "North Macedonia", "obj": "Europe"}
+{"sub": "Eastern Bloc", "obj": "Europe"}
+{"sub": "Eiger", "obj": "Europe"}
+{"sub": "Portugal", "obj": "Europe"}
+{"sub": "Armenia", "obj": "Europe"}
+{"sub": "Paris", "obj": "Europe"}
+{"sub": "Entente Florale", "obj": "Europe"}
+{"sub": "Tallinn", "obj": "Europe"}
+{"sub": "Scotland", "obj": "Europe"}
+{"sub": "Gelderland", "obj": "Europe"}
+{"sub": "Slovakia", "obj": "Europe"}
+{"sub": "Dniester", "obj": "Europe"}
+{"sub": "Austria-Hungary", "obj": "Europe"}
+{"sub": "Venta", "obj": "Europe"}
+{"sub": "Tisza", "obj": "Europe"}
+{"sub": "United Kingdom", "obj": "Europe"}
+{"sub": "Tbilisi", "obj": "Europe"}
+{"sub": "Finland", "obj": "Europe"}
+{"sub": "Yorkshire", "obj": "Europe"}
+{"sub": "Rubicon", "obj": "Europe"}
+{"sub": "Cieszyn", "obj": "Europe"}
+{"sub": "Kazakhstan", "obj": "Europe"}
+{"sub": "Gibraltar", "obj": "Europe"}
+{"sub": "Tiber", "obj": "Europe"}
+{"sub": "Switzerland", "obj": "Europe"}
+{"sub": "San Marino", "obj": "Europe"}
+{"sub": "Scheldt", "obj": "Europe"}
+{"sub": "Montenegro", "obj": "Europe"}
+{"sub": "Snowdon", "obj": "Europe"}
+{"sub": "Volga Bulgaria", "obj": "Europe"}
+{"sub": "Alsace-Lorraine", "obj": "Europe"}
+{"sub": "Tagus river", "obj": "Europe"}
+{"sub": "United Kingdom of the Netherlands", "obj": "Europe"}
+{"sub": "Carolingian Empire", "obj": "Europe"}
+{"sub": "Despotate of Epirus", "obj": "Europe"}
+{"sub": "Exarchate of Ravenna", "obj": "Europe"}
+{"sub": "Irish Free State", "obj": "Europe"}
+{"sub": "Douro", "obj": "Europe"}
+{"sub": "Bern", "obj": "Europe"}
+{"sub": "England", "obj": "Europe"}
+{"sub": "Southern Netherlands", "obj": "Europe"}
+{"sub": "Warta", "obj": "Europe"}
+{"sub": "Kingdom of the Netherlands", "obj": "Europe"}
+{"sub": "Germany", "obj": "Europe"}
+{"sub": "Swedish Empire", "obj": "Europe"}
+{"sub": "KU Leuven", "obj": "Europe"}
+{"sub": "Metropolitan France", "obj": "Europe"}
+{"sub": "Estonia", "obj": "Europe"}
+{"sub": "Zechstein", "obj": "Europe"}
+{"sub": "Denmark", "obj": "Europe"}
+{"sub": "Spain", "obj": "Europe"}
+{"sub": "Saint Petersburg", "obj": "Europe"}
+{"sub": "East Francia", "obj": "Europe"}
+{"sub": "Toulouse", "obj": "Europe"}
+{"sub": "Gornergrat", "obj": "Europe"}
+{"sub": "Kingdom of Burgundy", "obj": "Europe"}
+{"sub": "Wallonia", "obj": "Europe"}
+{"sub": "Catalonia", "obj": "Europe"}
+{"sub": "Austria", "obj": "Europe"}
+{"sub": "Monte San Giorgio", "obj": "Europe"}
+{"sub": "Vistula", "obj": "Europe"}
+{"sub": "history of Europe", "obj": "Europe"}
+{"sub": "Viking Age", "obj": "Europe"}
+{"sub": "Ireland", "obj": "Europe"}
+{"sub": "Arno", "obj": "Europe"}
+{"sub": "Vantaa", "obj": "Europe"}
+{"sub": "Helsinki", "obj": "Europe"}
+{"sub": "Neva", "obj": "Europe"}
+{"sub": "Rhine", "obj": "Europe"}
+{"sub": "The Hague", "obj": "Europe"}
+{"sub": "Kama River", "obj": "Europe"}
+{"sub": "Gdynia", "obj": "Europe"}
+{"sub": "Czechoslovakia", "obj": "Europe"}
+{"sub": "Basel", "obj": "Europe"}
+{"sub": "Loire", "obj": "Europe"}
+{"sub": "Pechora River", "obj": "Europe"}
+{"sub": "English Channel", "obj": "Europe"}
+{"sub": "Yugoslavia", "obj": "Europe"}
+{"sub": "Prussian Partition", "obj": "Europe"}
+{"sub": "Moscow", "obj": "Europe"}
+{"sub": "Umayyad Caliphate", "obj": "Europe"}
+{"sub": "Mont Blanc", "obj": "Europe"}
+{"sub": "Elbe", "obj": "Europe"}
+{"sub": "Kingdom of Saxony", "obj": "Europe"}
+{"sub": "Kingdom of Mercia", "obj": "Europe"}
+{"sub": "Harsewinkel", "obj": "Europe"}
+{"sub": "Kryvyi Rih", "obj": "Europe"}
+{"sub": "Daugava River", "obj": "Europe"}
+{"sub": "Wales", "obj": "Europe"}
+{"sub": "Trelech", "obj": "Europe"}
+{"sub": "Guadalquivir", "obj": "Europe"}
+{"sub": "Inn", "obj": "Europe"}
+{"sub": "Duchy of Brabant", "obj": "Europe"}
+{"sub": "Shkhara", "obj": "Europe"}
+{"sub": "River Clyde", "obj": "Europe"}
+{"sub": "Moldova", "obj": "Europe"}
+{"sub": "North Brabant", "obj": "Europe"}
+{"sub": "European Union", "obj": "Europe"}
+{"sub": "Grossglockner", "obj": "Europe"}
+{"sub": "Craiova", "obj": "Europe"}
+{"sub": "North Holland", "obj": "Europe"}
+{"sub": "Ancient Greece", "obj": "Europe"}
+{"sub": "Middle East", "obj": "Europe"}
+{"sub": "Slovenia", "obj": "Europe"}

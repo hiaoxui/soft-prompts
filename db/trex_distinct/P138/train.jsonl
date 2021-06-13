@@ -1,0 +1,516 @@
+{"sub": "Victoria Harbour", "obj": "Victoria"}
+{"sub": "Lake Victoria", "obj": "Victoria"}
+{"sub": "Queen Victoria Market", "obj": "Victoria"}
+{"sub": "Queensland", "obj": "Victoria"}
+{"sub": "London Victoria station", "obj": "Victoria"}
+{"sub": "Victoriaville", "obj": "Victoria"}
+{"sub": "Victoria International Airport", "obj": "Victoria"}
+{"sub": "Victoria and Albert Museum", "obj": "Victoria"}
+{"sub": "Victoria Land", "obj": "Victoria"}
+{"sub": "Victoria Avenue Bridge", "obj": "Victoria"}
+{"sub": "Victoria Inner Harbour Airport", "obj": "Victoria"}
+{"sub": "Croissy-sur-Seine", "obj": "Seine"}
+{"sub": "Flins-sur-Seine", "obj": "Seine"}
+{"sub": "Rosny-sur-Seine", "obj": "Seine"}
+{"sub": "Nogent-sur-Seine", "obj": "Seine"}
+{"sub": "Neuilly-sur-Seine", "obj": "Seine"}
+{"sub": "Bar-sur-Seine", "obj": "Seine"}
+{"sub": "Seine-Maritime", "obj": "Seine"}
+{"sub": "Hauts-de-Seine", "obj": "Seine"}
+{"sub": "Seine-et-Marne", "obj": "Seine"}
+{"sub": "Ivry-sur-Seine", "obj": "Seine"}
+{"sub": "Vitry-sur-Seine", "obj": "Seine"}
+{"sub": "San Pietro in Montorio", "obj": "Peter"}
+{"sub": "St. Peter's Basilica", "obj": "Peter"}
+{"sub": "Saint Petersburg", "obj": "Peter"}
+{"sub": "Leeds Minster", "obj": "Peter"}
+{"sub": "Cologne Cathedral", "obj": "Peter"}
+{"sub": "Bologna Cathedral", "obj": "Peter"}
+{"sub": "Chair of Saint Peter", "obj": "Peter"}
+{"sub": "Saint-Pierre de Montmartre", "obj": "Peter"}
+{"sub": "Peterborough Cathedral", "obj": "Peter"}
+{"sub": "Beauvais Cathedral", "obj": "Peter"}
+{"sub": "Pays de la Loire", "obj": "Loire"}
+{"sub": "Maine-et-Loire", "obj": "Loire"}
+{"sub": "Loire-Atlantique", "obj": "Loire"}
+{"sub": "Chalonnes-sur-Loire", "obj": "Loire"}
+{"sub": "Haute-Loire", "obj": "Loire"}
+{"sub": "Loire Valley", "obj": "Loire"}
+{"sub": "Monistrol-sur-Loire", "obj": "Loire"}
+{"sub": "Indre-et-Loire", "obj": "Loire"}
+{"sub": "Chaumont-sur-Loire", "obj": "Loire"}
+{"sub": "Katholische Hofkirche", "obj": "Trinity"}
+{"sub": "Norwich Cathedral", "obj": "Trinity"}
+{"sub": "Trinidad", "obj": "Trinity"}
+{"sub": "Santa Trinita", "obj": "Trinity"}
+{"sub": "Chichester Cathedral", "obj": "Trinity"}
+{"sub": "Gloucester Cathedral", "obj": "Trinity"}
+{"sub": "Bristol Cathedral", "obj": "Trinity"}
+{"sub": "London Bridge", "obj": "London"}
+{"sub": "Gatwick Airport", "obj": "London"}
+{"sub": "London City Airport", "obj": "London"}
+{"sub": "London Biggin Hill Airport", "obj": "London"}
+{"sub": "London International Airport", "obj": "London"}
+{"sub": "London Stansted Airport", "obj": "London"}
+{"sub": "Luton Airport", "obj": "London"}
+{"sub": "Amsterdam Ordnance Datum", "obj": "Amsterdam"}
+{"sub": "Amsterdam", "obj": "Amsterdam"}
+{"sub": "New Amsterdam", "obj": "Amsterdam"}
+{"sub": "Amsterdam Airport Schiphol", "obj": "Amsterdam"}
+{"sub": "COBRA", "obj": "Amsterdam"}
+{"sub": "Amsterdam Centraal", "obj": "Amsterdam"}
+{"sub": "Rhinau", "obj": "Rhine"}
+{"sub": "Frankfurt Rhine-Main Metropolitan Region", "obj": "Rhine"}
+{"sub": "Rhin-et-Moselle", "obj": "Rhine"}
+{"sub": "Rheinpark", "obj": "Rhine"}
+{"sub": "Bas-Rhin", "obj": "Rhine"}
+{"sub": "Haut-Rhin", "obj": "Rhine"}
+{"sub": "Tour de France", "obj": "France"}
+{"sub": "francium", "obj": "France"}
+{"sub": "Three Countries Bridge", "obj": "France"}
+{"sub": "Cabernet Franc", "obj": "France"}
+{"sub": "Universit\u00e9 Lille Nord de France", "obj": "France"}
+{"sub": "Hamburg culture", "obj": "Hamburg"}
+{"sub": "Hamburg Airport", "obj": "Hamburg"}
+{"sub": "hamburger", "obj": "Hamburg"}
+{"sub": "Hamburger Schule", "obj": "Hamburg"}
+{"sub": "Hamburger Verkehrsverbund", "obj": "Hamburg"}
+{"sub": "Athens Ben Epps Airport", "obj": "Athens"}
+{"sub": "Athens", "obj": "Athens"}
+{"sub": "Athens", "obj": "Athens"}
+{"sub": "Athens International Airport", "obj": "Athens"}
+{"sub": "Athens County", "obj": "Athens"}
+{"sub": "Moscow Oblast", "obj": "Moscow"}
+{"sub": "Domodedovo International Airport", "obj": "Moscow"}
+{"sub": "Sheremetyevo International Airport", "obj": "Moscow"}
+{"sub": "Vnukovo International Airport", "obj": "Moscow"}
+{"sub": "Mare Moscoviense", "obj": "Moscow"}
+{"sub": "Russian battleship Andrei Pervozvanny", "obj": "Andrew"}
+{"sub": "saltire", "obj": "Andrew"}
+{"sub": "Peterborough Cathedral", "obj": "Andrew"}
+{"sub": "Sant'Andrea al Quirinale", "obj": "Andrew"}
+{"sub": "Leicester City F.C.", "obj": "Leicester"}
+{"sub": "Leicestershire", "obj": "Leicester"}
+{"sub": "Leicester railway station", "obj": "Leicester"}
+{"sub": "Leicester Central railway station", "obj": "Leicester"}
+{"sub": "Chicago Executive Airport", "obj": "Chicago"}
+{"sub": "USS Chicago", "obj": "Chicago"}
+{"sub": "Chicago Midway International Airport", "obj": "Chicago"}
+{"sub": "O'Hare International Airport", "obj": "Chicago"}
+{"sub": "Easter Monday", "obj": "Easter"}
+{"sub": "Easter Island", "obj": "Easter"}
+{"sub": "Paskha", "obj": "Easter"}
+{"sub": "Easter Vigil", "obj": "Easter"}
+{"sub": "Platonic realism", "obj": "Plato"}
+{"sub": "Platonism", "obj": "Plato"}
+{"sub": "Platonic idealism", "obj": "Plato"}
+{"sub": "platonic solid", "obj": "Plato"}
+{"sub": "Bavarian Soviet Republic", "obj": "Munich"}
+{"sub": "Munich Airport", "obj": "Munich"}
+{"sub": "FC Bayern Munich", "obj": "Munich"}
+{"sub": "Apollo space program", "obj": "Apollo"}
+{"sub": "Apollo Belvedere", "obj": "Apollo"}
+{"sub": "1862 Apollo", "obj": "Apollo"}
+{"sub": "palladium", "obj": "Athena"}
+{"sub": "2 Pallas", "obj": "Athena"}
+{"sub": "Athens", "obj": "Athena"}
+{"sub": "Paris meridian", "obj": "Paris"}
+{"sub": "Paris-Charles de Gaulle Airport", "obj": "Paris"}
+{"sub": "Orly Airport", "obj": "Paris"}
+{"sub": "Copenhagen Airport", "obj": "Copenhagen"}
+{"sub": "hafnium", "obj": "Copenhagen"}
+{"sub": "COBRA", "obj": "Copenhagen"}
+{"sub": "Manchester Central railway station", "obj": "Manchester"}
+{"sub": "Manchester capitalism", "obj": "Manchester"}
+{"sub": "Manchester Airport", "obj": "Manchester"}
+{"sub": "Philadelphia Experiment", "obj": "Philadelphia"}
+{"sub": "Filadelfia", "obj": "Philadelphia"}
+{"sub": "Philadelphia International Airport", "obj": "Philadelphia"}
+{"sub": "Edmonton City Centre (Blatchford Field) Airport", "obj": "Edmonton"}
+{"sub": "Edmonton", "obj": "Edmonton"}
+{"sub": "Edmonton International Airport", "obj": "Edmonton"}
+{"sub": "Sydney Swans", "obj": "Sydney"}
+{"sub": "Sydney Airport", "obj": "Sydney"}
+{"sub": "HMAS Sydney", "obj": "Sydney"}
+{"sub": "Lanyon Place railway station", "obj": "Belfast"}
+{"sub": "George Best Belfast City Airport", "obj": "Belfast"}
+{"sub": "HMS Belfast", "obj": "Belfast"}
+{"sub": "Melbourne Football Club", "obj": "Melbourne"}
+{"sub": "Melbourne", "obj": "Melbourne"}
+{"sub": "Melbourne Airport", "obj": "Melbourne"}
+{"sub": "Alpes-Maritimes", "obj": "Alps"}
+{"sub": "Hautes-Alpes", "obj": "Alps"}
+{"sub": "Alpes-de-Haute-Provence", "obj": "Alps"}
+{"sub": "Berlin Tegel Airport", "obj": "Berlin"}
+{"sub": "Berlin School of electronic music", "obj": "Berlin"}
+{"sub": "Berlin Tempelhof Airport", "obj": "Berlin"}
+{"sub": "Anvers Island", "obj": "Antwerp"}
+{"sub": "Antwerp", "obj": "Antwerp"}
+{"sub": "Antwerp", "obj": "Antwerp"}
+{"sub": "euro", "obj": "Europe"}
+{"sub": "European Union", "obj": "Europe"}
+{"sub": "Europa-Park", "obj": "Europe"}
+{"sub": "Delmarva Peninsula", "obj": "Virginia"}
+{"sub": "USS Virginia", "obj": "Virginia"}
+{"sub": "USS Virginia", "obj": "Virginia"}
+{"sub": "Jerusalem Prize", "obj": "Jerusalem"}
+{"sub": "Jerusalem syndrome", "obj": "Jerusalem"}
+{"sub": "Jerusalem Day", "obj": "Jerusalem"}
+{"sub": "Pennsylvania Reserves", "obj": "Pennsylvania"}
+{"sub": "Pen Mar", "obj": "Pennsylvania"}
+{"sub": "USS Pennsylvania", "obj": "Pennsylvania"}
+{"sub": "thorium", "obj": "Thor"}
+{"sub": "Thor", "obj": "Thor"}
+{"sub": "PGM-17 Thor", "obj": "Thor"}
+{"sub": "Stockholm Arlanda Airport", "obj": "Stockholm"}
+{"sub": "Stockholm Bromma Airport", "obj": "Stockholm"}
+{"sub": "Stockholm Skavsta Airport", "obj": "Stockholm"}
+{"sub": "Boston", "obj": "Boston"}
+{"sub": "Boston State College", "obj": "Boston"}
+{"sub": "Logan International Airport", "obj": "Boston"}
+{"sub": "New England", "obj": "England"}
+{"sub": "Bank of England", "obj": "England"}
+{"sub": "English Channel", "obj": "England"}
+{"sub": "Art Cologne", "obj": "Cologne"}
+{"sub": "Butzweilerhof", "obj": "Cologne"}
+{"sub": "Cologne Bonn Airport", "obj": "Cologne"}
+{"sub": "uranophane-alpha", "obj": "uranium"}
+{"sub": "uraninite", "obj": "uranium"}
+{"sub": "Cleveland Hopkins International Airport", "obj": "Cleveland"}
+{"sub": "Cleveland Burke Lakefront Airport", "obj": "Cleveland"}
+{"sub": "Blackburn railway station", "obj": "Blackburn"}
+{"sub": "Blackburn Rovers F.C.", "obj": "Blackburn"}
+{"sub": "Leyden jar", "obj": "Leiden"}
+{"sub": "Leiden Centraal railway station", "obj": "Leiden"}
+{"sub": "Coventry railway station", "obj": "Coventry"}
+{"sub": "Coventry Airport", "obj": "Coventry"}
+{"sub": "Scandinavian Peninsula", "obj": "Scandinavia"}
+{"sub": "Scandinavism", "obj": "Scandinavia"}
+{"sub": "West Francia", "obj": "Franks"}
+{"sub": "France", "obj": "Franks"}
+{"sub": "Delmarva Peninsula", "obj": "Maryland"}
+{"sub": "Pen Mar", "obj": "Maryland"}
+{"sub": "Cincinnati Municipal Lunken Airport", "obj": "Cincinnati"}
+{"sub": "Cincinnati/Northern Kentucky International Airport", "obj": "Cincinnati"}
+{"sub": "Honolulu International Airport", "obj": "Honolulu"}
+{"sub": "USS Honolulu", "obj": "Honolulu"}
+{"sub": "Nelson Airport, New Zealand", "obj": "Nelson"}
+{"sub": "Nelson F.C.", "obj": "Nelson"}
+{"sub": "Winchester railway station", "obj": "Winchester"}
+{"sub": "Winchester City F.C.", "obj": "Winchester"}
+{"sub": "Gulf of Odessa", "obj": "Odessa"}
+{"sub": "Odessa", "obj": "Odessa"}
+{"sub": "Ipswich Airport", "obj": "Ipswich"}
+{"sub": "Ipswich railway station", "obj": "Ipswich"}
+{"sub": "HNoMY Norge", "obj": "Norway"}
+{"sub": "norite", "obj": "Norway"}
+{"sub": "Jupiter mass", "obj": "Jupiter"}
+{"sub": "Jupiter", "obj": "Jupiter"}
+{"sub": "Ky\u014dto Prefecture", "obj": "Kyoto"}
+{"sub": "Kyoto Protocol", "obj": "Kyoto"}
+{"sub": "Stuttgart", "obj": "Stuttgart"}
+{"sub": "Stuttgart Airport", "obj": "Stuttgart"}
+{"sub": "Lviv Oblast", "obj": "Lviv"}
+{"sub": "Lviv Danylo Halytskyi International Airport", "obj": "Lviv"}
+{"sub": "Florence Airport, Peretola", "obj": "Florence"}
+{"sub": "Florence Regional Airport", "obj": "Florence"}
+{"sub": "Swindon railway station", "obj": "Swindon"}
+{"sub": "Swindon Town railway station", "obj": "Swindon"}
+{"sub": "Helsinki Airport", "obj": "Helsinki"}
+{"sub": "Haloo Helsinki!", "obj": "Helsinki"}
+{"sub": "Venice Municipal Airport", "obj": "Venice"}
+{"sub": "Venice Marco Polo Airport", "obj": "Venice"}
+{"sub": "Southampton Airport", "obj": "Southampton"}
+{"sub": "Southampton Central railway station", "obj": "Southampton"}
+{"sub": "Perth", "obj": "Perth"}
+{"sub": "Perth Airport", "obj": "Perth"}
+{"sub": "Reading Regional Airport", "obj": "Reading"}
+{"sub": "Reading railway station", "obj": "Reading"}
+{"sub": "Warwick railway station", "obj": "Warwick"}
+{"sub": "Warwick", "obj": "Warwick"}
+{"sub": "USS Indianapolis", "obj": "Indianapolis"}
+{"sub": "Indianapolis International Airport", "obj": "Indianapolis"}
+{"sub": "Shanghai Hongqiao International Airport", "obj": "Shanghai"}
+{"sub": "Shanghai Pudong International Airport", "obj": "Shanghai"}
+{"sub": "Minneapolis sound", "obj": "Minneapolis"}
+{"sub": "USS Minneapolis", "obj": "Minneapolis"}
+{"sub": "Ajaccio Napoleon Bonaparte Airport", "obj": "Napoleon"}
+{"sub": "Napoleon complex", "obj": "Napoleon"}
+{"sub": "Aberdeen Airport", "obj": "Aberdeen"}
+{"sub": "Aberdeen railway station", "obj": "Aberdeen"}
+{"sub": "Poole Town F.C.", "obj": "Poole"}
+{"sub": "Poole railway station", "obj": "Poole"}
+{"sub": "Manhattanhenge", "obj": "Manhattan"}
+{"sub": "taxicab geometry", "obj": "Manhattan"}
+{"sub": "Frankfurt Rhine-Main Metropolitan Region", "obj": "Frankfurt"}
+{"sub": "Frankfurt Airport", "obj": "Frankfurt"}
+{"sub": "Cardiff Airport", "obj": "Cardiff"}
+{"sub": "Cardiff Central railway station", "obj": "Cardiff"}
+{"sub": "Island of Montreal", "obj": "Montreal"}
+{"sub": "Montrealer", "obj": "Montreal"}
+{"sub": "Rotterdam", "obj": "Rotterdam"}
+{"sub": "Rotterdam The Hague Airport", "obj": "Rotterdam"}
+{"sub": "Warrington Central railway station", "obj": "Warrington"}
+{"sub": "Warrington Town F.C.", "obj": "Warrington"}
+{"sub": "Hotel Vancouver", "obj": "Vancouver"}
+{"sub": "Seacouver", "obj": "Vancouver"}
+{"sub": "Istanbul Airport", "obj": "Istanbul"}
+{"sub": "Istanbul Hezarfen Airfield", "obj": "Istanbul"}
+{"sub": "Bangkok Opera", "obj": "Bangkok"}
+{"sub": "Suvarnabhumi Airport", "obj": "Bangkok"}
+{"sub": "L.F. Wade International Airport", "obj": "Bermuda"}
+{"sub": "HMS Bermuda", "obj": "Bermuda"}
+{"sub": "Chatham Town F.C.", "obj": "Chatham"}
+{"sub": "Chatham railway station", "obj": "Chatham"}
+{"sub": "Newquay Cornwall Airport", "obj": "Cornwall"}
+{"sub": "Cornish engine", "obj": "Cornwall"}
+{"sub": "Battle of Waterloo", "obj": "Waterloo"}
+{"sub": "University of Waterloo", "obj": "Waterloo"}
+{"sub": "University of Lagos", "obj": "Lagos"}
+{"sub": "Lagos", "obj": "Lagos"}
+{"sub": "Fennoscandia", "obj": "Finland"}
+{"sub": "Gulf of Finland", "obj": "Finland"}
+{"sub": "Turkish Angora", "obj": "Ankara"}
+{"sub": "Angora goat", "obj": "Ankara"}
+{"sub": "Savoie", "obj": "Savoy"}
+{"sub": "Haute-Savoie", "obj": "Savoy"}
+{"sub": "South Holland", "obj": "Holland"}
+{"sub": "North Holland", "obj": "Holland"}
+{"sub": "Indian Ocean", "obj": "India"}
+{"sub": "BRIC", "obj": "India"}
+{"sub": "Strait of Gibraltar", "obj": "Gibraltar"}
+{"sub": "Gibraltar International Airport", "obj": "Gibraltar"}
+{"sub": "Luton Airport", "obj": "Luton"}
+{"sub": "Luton railway station", "obj": "Luton"}
+{"sub": "Delmarva Peninsula", "obj": "Delaware"}
+{"sub": "USS Delaware", "obj": "Delaware"}
+{"sub": "Toronto Pearson International Airport", "obj": "Toronto"}
+{"sub": "Billy Bishop Toronto City Airport", "obj": "Toronto"}
+{"sub": "Exeter International Airport", "obj": "Exeter"}
+{"sub": "Exeter City F.C.", "obj": "Exeter"}
+{"sub": "Nederland", "obj": "Netherlands"}
+{"sub": "Dutch disease", "obj": "Netherlands"}
+{"sub": "Damascus International Airport", "obj": "Damascus"}
+{"sub": "Damascus steel", "obj": "Damascus"}
+{"sub": "Minsk-1 Airport", "obj": "Minsk"}
+{"sub": "Minsk National Airport", "obj": "Minsk"}
+{"sub": "Bristol (Whitchurch) Airport", "obj": "Bristol"}
+{"sub": "Bristol Airport", "obj": "Bristol"}
+{"sub": "Gloversville", "obj": "glove"}
+{"sub": "Rawlings Gold Glove Award", "obj": "glove"}
+{"sub": "Norwich International Airport", "obj": "Norwich"}
+{"sub": "Norwich railway station", "obj": "Norwich"}
+{"sub": "Ireland", "obj": "Ireland"}
+{"sub": "Irish Sea", "obj": "Ireland"}
+{"sub": "Linate Airport", "obj": "Milan"}
+{"sub": "Il Caravaggio International Airport", "obj": "Milan"}
+{"sub": "Gloucester railway station", "obj": "Gloucester"}
+{"sub": "Gloucestershire Airport", "obj": "Gloucester"}
+{"sub": "Treaty of Lisbon", "obj": "Lisbon"}
+{"sub": "Lisbon Airport", "obj": "Lisbon"}
+{"sub": "Ares Vallis", "obj": "Mars"}
+{"sub": "Mars", "obj": "Mars"}
+{"sub": "classical unities", "obj": "Aristotle"}
+{"sub": "aristotelianism", "obj": "Aristotle"}
+{"sub": "Peterborough Airport", "obj": "Peterborough"}
+{"sub": "Peterborough railway station", "obj": "Peterborough"}
+{"sub": "Dundee railway station", "obj": "Dundee"}
+{"sub": "Dundee Airport", "obj": "Dundee"}
+{"sub": "Christmas Island", "obj": "Christmas"}
+{"sub": "Christmas Eve", "obj": "Christmas"}
+{"sub": "Tehran Imam Khomeini International Airport", "obj": "Tehran"}
+{"sub": "Mehrabad International Airport", "obj": "Tehran"}
+{"sub": "Aleppo Codex", "obj": "Aleppo"}
+{"sub": "Aleppo International Airport", "obj": "Aleppo"}
+{"sub": "Salford Central railway station", "obj": "Salford"}
+{"sub": "Salford City F.C.", "obj": "Salford"}
+{"sub": "Alpes-de-Haute-Provence", "obj": "Provence"}
+{"sub": "Marseille Provence Airport", "obj": "Provence"}
+{"sub": "Oslo Airport, Gardermoen", "obj": "Oslo"}
+{"sub": "Oslo Airport, Fornebu", "obj": "Oslo"}
+{"sub": "English Channel", "obj": "Brittany"}
+{"sub": "Brittany", "obj": "Brittany"}
+{"sub": "Pittsburgh International Airport", "obj": "Pittsburgh"}
+{"sub": "Pittsburg County", "obj": "Pittsburgh"}
+{"sub": "Basel-Landschaft", "obj": "Basel"}
+{"sub": "Basel-Stadt", "obj": "Basel"}
+{"sub": "Colchester railway station", "obj": "Colchester"}
+{"sub": "Colchester United F.C.", "obj": "Colchester"}
+{"sub": "Turin Airport", "obj": "Turin"}
+{"sub": "Torino F.C.", "obj": "Turin"}
+{"sub": "Salisbury railway station", "obj": "Salisbury"}
+{"sub": "Salisbury City F.C.", "obj": "Salisbury"}
+{"sub": "Brisbane Airport", "obj": "Brisbane"}
+{"sub": "HMAS Brisbane", "obj": "Brisbane"}
+{"sub": "Birmingham City F.C.", "obj": "Birmingham"}
+{"sub": "City of Birmingham Symphony Orchestra", "obj": "Birmingham"}
+{"sub": "Nanjing Dajiaochang Airport", "obj": "Nanjing"}
+{"sub": "Nanjing Lukou International Airport", "obj": "Nanjing"}
+{"sub": "Cambridge", "obj": "Cambridge"}
+{"sub": "Cambridge Airport", "obj": "Cambridge"}
+{"sub": "Germany", "obj": "Bavaria"}
+{"sub": "FC Bayern Munich", "obj": "Bavaria"}
+{"sub": "Universit\u00e9 Lille Nord de France", "obj": "Lille"}
+{"sub": "Lille Airport", "obj": "Lille"}
+{"sub": "Beijing Capital International Airport", "obj": "Beijing"}
+{"sub": "Beijing Nanyuan Airport", "obj": "Beijing"}
+{"sub": "Seattle Pacific University", "obj": "Seattle"}
+{"sub": "Seacouver", "obj": "Seattle"}
+{"sub": "Harlow Town F.C.", "obj": "Harlow"}
+{"sub": "Harlow Town railway station", "obj": "Harlow"}
+{"sub": "Basilica of Saint Paul Outside the Walls", "obj": "Paul"}
+{"sub": "Pauline epistles", "obj": "Paul"}
+{"sub": "RNZAF Base Auckland", "obj": "Auckland"}
+{"sub": "Auckland Airport", "obj": "Auckland"}
+{"sub": "Hamilton Central railway station", "obj": "Hamilton"}
+{"sub": "John C. Munro Hamilton International Airport", "obj": "Hamilton"}
+{"sub": "Boryspil International Airport", "obj": "Kiev"}
+{"sub": "Kyiv Zhuliany International Airport", "obj": "Kiev"}
+{"sub": "Carrasco International Airport", "obj": "Montevideo"}
+{"sub": "patent troll", "obj": "patent"}
+{"sub": "Carlisle railway station", "obj": "Carlisle"}
+{"sub": "Copperton", "obj": "copper"}
+{"sub": "Churchill Airport", "obj": "Churchill"}
+{"sub": "Aden International Airport", "obj": "Aden"}
+{"sub": "Sarajevo International Airport", "obj": "Sarajevo"}
+{"sub": "BRIC", "obj": "Russia"}
+{"sub": "Nikel", "obj": "nickel"}
+{"sub": "Raffaello MPLM", "obj": "Raphael"}
+{"sub": "Scarborough railway station", "obj": "Scarborough"}
+{"sub": "Homeric Hymns", "obj": "Homer"}
+{"sub": "Ohio University", "obj": "Ohio"}
+{"sub": "Wilmington International Airport", "obj": "Wilmington"}
+{"sub": "Hawaiian Islands", "obj": "Hawaii"}
+{"sub": "Brighton railway station", "obj": "Brighton"}
+{"sub": "Naples International Airport", "obj": "Naples"}
+{"sub": "Stamford A.F.C.", "obj": "Stamford"}
+{"sub": "Darlington railway station", "obj": "Darlington"}
+{"sub": "Portsmouth Airport, Hampshire", "obj": "Portsmouth"}
+{"sub": "Halifax Stanfield International Airport", "obj": "Halifax"}
+{"sub": "Chhatrapati Shivaji International Airport", "obj": "Mumbai"}
+{"sub": "Doncaster Sheffield Airport", "obj": "Doncaster"}
+{"sub": "Apple Attachment Unit Interface", "obj": "Apple"}
+{"sub": "Cuatro Vientos Airport", "obj": "Madrid"}
+{"sub": "Waterford Airport", "obj": "Waterford"}
+{"sub": "Milwaukee Mitchell International Airport", "obj": "Milwaukee"}
+{"sub": "Belgrade Nikola Tesla Airport", "obj": "Belgrade"}
+{"sub": "Carlton Football Club", "obj": "Carlton"}
+{"sub": "Ain", "obj": "Ain"}
+{"sub": "Beverly Municipal Airport", "obj": "Beverly"}
+{"sub": "Lincoln United F.C.", "obj": "Lincoln"}
+{"sub": "Star of David", "obj": "David"}
+{"sub": "Stafford railway station", "obj": "Stafford"}
+{"sub": "Burnley Central railway station", "obj": "Burnley"}
+{"sub": "Hyde Central railway station", "obj": "Hyde"}
+{"sub": "Banan District", "obj": "Ba"}
+{"sub": "GNU/Linux naming controversy", "obj": "Linux"}
+{"sub": "Bologna Process", "obj": "Bologna"}
+{"sub": "Tibetan Terrier", "obj": "Tibet"}
+{"sub": "BRIC", "obj": "Brazil"}
+{"sub": "Cologne Bonn Airport", "obj": "Bonn"}
+{"sub": "Livingston F.C.", "obj": "Livingston"}
+{"sub": "zincite", "obj": "zinc"}
+{"sub": "Christchurch International Airport", "obj": "Christchurch"}
+{"sub": "Phoenix Sky Harbor International Airport", "obj": "Phoenix"}
+{"sub": "County Antrim", "obj": "Antrim"}
+{"sub": "Mongolia", "obj": "Mongols"}
+{"sub": "Baghdad International Airport", "obj": "Baghdad"}
+{"sub": "Chester railway station", "obj": "Chester"}
+{"sub": "USS Connecticut", "obj": "Connecticut"}
+{"sub": "culture of Sindh", "obj": "Sindh"}
+{"sub": "Orlando International Airport", "obj": "Orlando"}
+{"sub": "2K12 Kub", "obj": "cube"}
+{"sub": "Pointe Coupee Parish", "obj": "French"}
+{"sub": "hepatic artery proper", "obj": "liver"}
+{"sub": "Guangzhou Baiyun International Airport", "obj": "Guangzhou"}
+{"sub": "Inverness Airport", "obj": "Inverness"}
+{"sub": "Hannover Airport", "obj": "Hanover"}
+{"sub": "Hobart International Airport", "obj": "Hobart"}
+{"sub": "Worcester City F.C.", "obj": "Worcester"}
+{"sub": "Hastings railway station", "obj": "Hastings"}
+{"sub": "Sarawak Stadium", "obj": "Sarawak"}
+{"sub": "Dubai International Airport", "obj": "Dubai"}
+{"sub": "Malta", "obj": "honey"}
+{"sub": "Fleet Town F.C.", "obj": "Fleet"}
+{"sub": "Great Britain", "obj": "Britannia"}
+{"sub": "Orange Catholic Bible", "obj": "Bible"}
+{"sub": "Wellington International Airport", "obj": "Wellington"}
+{"sub": "Boise Airport", "obj": "Boise"}
+{"sub": "Mira variable", "obj": "Mira"}
+{"sub": "Aston railway station", "obj": "Aston"}
+{"sub": "Wolverhampton Airport", "obj": "Wolverhampton"}
+{"sub": "Java coffee", "obj": "Java"}
+{"sub": "Shahjalal International Airport", "obj": "Dhaka"}
+{"sub": "Gloucestershire Airport", "obj": "Gloucestershire"}
+{"sub": "Mansfield Central railway station", "obj": "Mansfield"}
+{"sub": "Paris-Gare de Lyon", "obj": "Lyon"}
+{"sub": "caffeine", "obj": "coffee"}
+{"sub": "Lot-et-Garonne", "obj": "Lot"}
+{"sub": "hassium", "obj": "Hesse"}
+{"sub": "Bryn railway station", "obj": "Bryn"}
+{"sub": "Nokia", "obj": "Nokia"}
+{"sub": "Leeds Central railway station", "obj": "Leeds"}
+{"sub": "Abrahamic religion", "obj": "Abraham"}
+{"sub": "Vienna", "obj": "Wien"}
+{"sub": "Bangladesh", "obj": "Bengali"}
+{"sub": "USS Tacoma", "obj": "Tacoma"}
+{"sub": "Rochester railway station", "obj": "Rochester"}
+{"sub": "International Day for Biological Diversity", "obj": "biodiversity"}
+{"sub": "Eastwood Town F.C.", "obj": "Eastwood"}
+{"sub": "Beijing", "obj": "capital"}
+{"sub": "Adelaide Airport", "obj": "Adelaide"}
+{"sub": "USS Alabama", "obj": "Alabama"}
+{"sub": "CPython", "obj": "Python"}
+{"sub": "Geelong Football Club", "obj": "Geelong"}
+{"sub": "Newport railway station", "obj": "Newport"}
+{"sub": "Oxford railway station", "obj": "Oxford"}
+{"sub": "vanadium", "obj": "Freyja"}
+{"sub": "Knapsack problem", "obj": "backpack"}
+{"sub": "Tbilisi International Airport", "obj": "Tbilisi"}
+{"sub": "Cairns Airport", "obj": "Cairns"}
+{"sub": "Kazan International Airport", "obj": "Kazan"}
+{"sub": "Port Stanley Airport", "obj": "Stanley"}
+{"sub": "Pune Airport", "obj": "Pune"}
+{"sub": "588 Achilles", "obj": "Achilles"}
+{"sub": "molecule", "obj": "mole"}
+{"sub": "Windsor International Airport", "obj": "Windsor"}
+{"sub": "Tulsa County", "obj": "Tulsa"}
+{"sub": "Three Countries Bridge", "obj": "Switzerland"}
+{"sub": "Charlotte/Douglas International Airport", "obj": "Charlotte"}
+{"sub": "Orion Arm", "obj": "Orion"}
+{"sub": "Cretaceous", "obj": "chalk"}
+{"sub": "Wigan Central railway station", "obj": "Wigan"}
+{"sub": "Claremont Graduate University", "obj": "Claremont"}
+{"sub": "MV Arctic Sunrise", "obj": "Arctic"}
+{"sub": "Bangor International Airport", "obj": "Bangor"}
+{"sub": "Lublin Airport", "obj": "Lublin"}
+{"sub": "Derby railway station", "obj": "Derby"}
+{"sub": "burgomaster", "obj": "mayor"}
+{"sub": "Mysore Airport", "obj": "Mysore"}
+{"sub": "Florida International University", "obj": "Florida"}
+{"sub": "Greenwich", "obj": "Greenwich"}
+{"sub": "Oklahoma County", "obj": "Oklahoma"}
+{"sub": "Yaganti", "obj": "Shiva"}
+{"sub": "Bahrain International Airport", "obj": "Bahrain"}
+{"sub": "Ste. Genevieve County", "obj": "Genevieve"}
+{"sub": "Wien-Schwechat Airport", "obj": "Vienna"}
+{"sub": "Hippos", "obj": "horse"}
+{"sub": "Bourne railway station", "obj": "Bourne"}
+{"sub": "munster", "obj": "monastery"}
+{"sub": "Tours Val de Loire Airport", "obj": "Tours"}
+{"sub": "Edinburgh Airport", "obj": "Edinburgh"}
+{"sub": "Stone railway station", "obj": "Stone"}
+{"sub": "USS Missouri", "obj": "Missouri"}
+{"sub": "Hollywood Burbank Airport", "obj": "Hollywood"}
+{"sub": "Columbus Air Force Base", "obj": "Columbus"}
+{"sub": "Toyota Production System", "obj": "Toyota"}
+{"sub": "Liverpool John Lennon Airport", "obj": "Liverpool"}
+{"sub": "Marmaris", "obj": "marble"}
+{"sub": "Woodstock Festival", "obj": "Woodstock"}
+{"sub": "Port wine", "obj": "Porto"}
+{"sub": "Yorkshire Terrier", "obj": "Yorkshire"}
+{"sub": "P-700 Granit", "obj": "granite"}
+{"sub": "Trinidad and Tobago", "obj": "Tobago"}
+{"sub": "Albuquerque International Sunport", "obj": "Albuquerque"}
+{"sub": "Chesterfield railway station", "obj": "Chesterfield"}
+{"sub": "Taipei Songshan Airport", "obj": "Taipei"}

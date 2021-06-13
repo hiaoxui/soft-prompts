@@ -1,0 +1,954 @@
+{"sub": "Howard Florey", "obj": "London"}
+{"sub": "Enki Bilal", "obj": "Paris"}
+{"sub": "Pedro de Ribera", "obj": "Madrid"}
+{"sub": "Robert Raikes", "obj": "Gloucester"}
+{"sub": "Alberts Kviesis", "obj": "Riga"}
+{"sub": "Ramsay MacDonald", "obj": "London"}
+{"sub": "George Albertus Cox", "obj": "Ottawa"}
+{"sub": "Superpitcher", "obj": "Cologne"}
+{"sub": "Johan Christian Dahl", "obj": "Dresden"}
+{"sub": "Charles Jean Marie Barbaroux", "obj": "Paris"}
+{"sub": "Henry Calvert Simons", "obj": "Chicago"}
+{"sub": "Hinrich Wilhelm Kopf", "obj": "Hanover"}
+{"sub": "Cari Lekebusch", "obj": "Stockholm"}
+{"sub": "Michael Fitzhardinge Berkeley", "obj": "London"}
+{"sub": "George Reid", "obj": "London"}
+{"sub": "Christian Ude", "obj": "Munich"}
+{"sub": "Lucio Fontana", "obj": "Milan"}
+{"sub": "Emil Schallopp", "obj": "Berlin"}
+{"sub": "Giorgio Amendola", "obj": "Rome"}
+{"sub": "Antonio Magliabechi", "obj": "Florence"}
+{"sub": "Robert Bosch", "obj": "Stuttgart"}
+{"sub": "Hasekura Tsunenaga", "obj": "Rome"}
+{"sub": "Ernst Klee", "obj": "Frankfurt"}
+{"sub": "Abba Eban", "obj": "Jerusalem"}
+{"sub": "Freddie Mercury", "obj": "Munich"}
+{"sub": "Edgeworth David", "obj": "Sydney"}
+{"sub": "Giuseppe Motta", "obj": "Bern"}
+{"sub": "Juan March", "obj": "Madrid"}
+{"sub": "Albert Ballin", "obj": "Hamburg"}
+{"sub": "Francis Hagerup", "obj": "Oslo"}
+{"sub": "Jack Straw", "obj": "London"}
+{"sub": "Duncan Sandys", "obj": "London"}
+{"sub": "Robert Borden", "obj": "Ottawa"}
+{"sub": "Carla Bruni", "obj": "Paris"}
+{"sub": "Marie Fran\u00e7ois Oscar Bardy de Fourtou", "obj": "Paris"}
+{"sub": "Emil Adolf von Behring", "obj": "Berlin"}
+{"sub": "Werner von Blomberg", "obj": "Berlin"}
+{"sub": "Gustav Schreck", "obj": "Leipzig"}
+{"sub": "Georges Bidault", "obj": "Paris"}
+{"sub": "Simon Rattle", "obj": "Birmingham"}
+{"sub": "Ignaz von Born", "obj": "Vienna"}
+{"sub": "Edvard Hagerup Bull", "obj": "Oslo"}
+{"sub": "Adolphe Thiers", "obj": "Paris"}
+{"sub": "Paul Schultze-Naumburg", "obj": "Berlin"}
+{"sub": "Fritz Reiner", "obj": "Dresden"}
+{"sub": "George Glyn, 1st Baron Wolverton", "obj": "London"}
+{"sub": "Karl-August Fagerholm", "obj": "Helsinki"}
+{"sub": "Friedrich Hirzebruch", "obj": "Bonn"}
+{"sub": "Pehr Henrik Ling", "obj": "Stockholm"}
+{"sub": "Wilhelm Jensen", "obj": "Vienna"}
+{"sub": "Vladimir Putin", "obj": "Dresden"}
+{"sub": "Romain Rolland", "obj": "Paris"}
+{"sub": "Udo Lindenberg", "obj": "Hamburg"}
+{"sub": "Joan Ruddock", "obj": "London"}
+{"sub": "Clara Campoamor", "obj": "Madrid"}
+{"sub": "Pierre Trudeau", "obj": "Ottawa"}
+{"sub": "William Scott, 1st Baron Stowell", "obj": "London"}
+{"sub": "Yehudi Menuhin", "obj": "London"}
+{"sub": "Henry Colburn", "obj": "London"}
+{"sub": "Tom King, Baron King of Bridgwater", "obj": "London"}
+{"sub": "Bob Sinclar", "obj": "Paris"}
+{"sub": "Maktoum bin Rashid Al Maktoum", "obj": "Dubai"}
+{"sub": "Vlaho Bukovac", "obj": "Prague"}
+{"sub": "Vincent van Gogh", "obj": "Antwerp"}
+{"sub": "Gabriel Piemonte", "obj": "Boston"}
+{"sub": "Jean-Charles Pichegru", "obj": "Paris"}
+{"sub": "James Hannen, Baron Hannen", "obj": "London"}
+{"sub": "Lemuel Shaw", "obj": "Boston"}
+{"sub": "Pavlo Skoropadskyi", "obj": "Kiev"}
+{"sub": "Thomas G. Jones", "obj": "Montgomery"}
+{"sub": "Pierre Marie Auguste Broussonet", "obj": "Paris"}
+{"sub": "Egon Petri", "obj": "Berlin"}
+{"sub": "Adolfo Hohenstein", "obj": "Bonn"}
+{"sub": "Frederick Banbury, 1st Baron Banbury of Southam", "obj": "London"}
+{"sub": "Gianfranco Fini", "obj": "Rome"}
+{"sub": "Juho Kusti Paasikivi", "obj": "Helsinki"}
+{"sub": "Walter Long, 1st Viscount Long", "obj": "London"}
+{"sub": "Jodocus Hondius", "obj": "Amsterdam"}
+{"sub": "Justin Trudeau", "obj": "Ottawa"}
+{"sub": "Georges Cuvier", "obj": "Paris"}
+{"sub": "Spencer Cavendish, 8th Duke of Devonshire", "obj": "London"}
+{"sub": "Gerolamo Cardano", "obj": "Milan"}
+{"sub": "Robert James Manion", "obj": "Ottawa"}
+{"sub": "Robert Stanfield", "obj": "Ottawa"}
+{"sub": "Conrad Graf", "obj": "Vienna"}
+{"sub": "Walter Momper", "obj": "Berlin"}
+{"sub": "Jean Paul", "obj": "Berlin"}
+{"sub": "Shakira", "obj": "Barcelona"}
+{"sub": "Patti Smith", "obj": "Detroit"}
+{"sub": "Daniel Bernoulli", "obj": "Basel"}
+{"sub": "Henry Jacob Bigelow", "obj": "Boston"}
+{"sub": "Halvard Lange", "obj": "Oslo"}
+{"sub": "Saint Boniface", "obj": "Mainz"}
+{"sub": "Albert Einstein", "obj": "Bern"}
+{"sub": "Allison Nelson", "obj": "Atlanta"}
+{"sub": "Joseph Goebbels", "obj": "Berlin"}
+{"sub": "Ursula Dubosarsky", "obj": "Sydney"}
+{"sub": "Francis I, Holy Roman Emperor", "obj": "Vienna"}
+{"sub": "Nick Clegg", "obj": "London"}
+{"sub": "Auguste Champetier de Ribes", "obj": "Paris"}
+{"sub": "Tycho Brahe", "obj": "Prague"}
+{"sub": "Piet Mondrian", "obj": "Amsterdam"}
+{"sub": "Arthur Balfour", "obj": "London"}
+{"sub": "Leonhard Euler", "obj": "Berlin"}
+{"sub": "John Buchan, 1st Baron Tweedsmuir", "obj": "London"}
+{"sub": "Johann Christoph Wolf", "obj": "Hamburg"}
+{"sub": "Robert Sanders, 1st Baron Bayford", "obj": "London"}
+{"sub": "Gudrun Gut", "obj": "Berlin"}
+{"sub": "Johann van Beethoven", "obj": "Bonn"}
+{"sub": "Bali Rai", "obj": "Leicester"}
+{"sub": "Karl Wittgenstein", "obj": "Vienna"}
+{"sub": "Joachim von Sandrart", "obj": "Amsterdam"}
+{"sub": "Giulio Andreotti", "obj": "Rome"}
+{"sub": "Noel Pemberton Billing", "obj": "London"}
+{"sub": "Allen Shawn", "obj": "Vermont"}
+{"sub": "Alois Senefelder", "obj": "Munich"}
+{"sub": "Joseph Priestley", "obj": "Paris"}
+{"sub": "Arthur Meighen", "obj": "Ottawa"}
+{"sub": "Bob Rae", "obj": "Ottawa"}
+{"sub": "Arthur Wellesley, 1st Duke of Wellington", "obj": "London"}
+{"sub": "Paul Klee", "obj": "Munich"}
+{"sub": "Thomas van Erpe", "obj": "Leiden"}
+{"sub": "Wojciech Rubinowicz", "obj": "Lviv"}
+{"sub": "Renata Polverini", "obj": "Rome"}
+{"sub": "Aleksandr Maltsev", "obj": "Moscow"}
+{"sub": "Anthony Fisher", "obj": "Sydney"}
+{"sub": "Otto van Veen", "obj": "Antwerp"}
+{"sub": "Paul Ehrlich", "obj": "Frankfurt"}
+{"sub": "Massimo D'Alema", "obj": "Rome"}
+{"sub": "John Calvin", "obj": "Geneva"}
+{"sub": "William Home Lizars", "obj": "Edinburgh"}
+{"sub": "Jean-Louis Roux", "obj": "Ottawa"}
+{"sub": "Jean Sibelius", "obj": "Helsinki"}
+{"sub": "Lucio Colletti", "obj": "Rome"}
+{"sub": "John Prescott", "obj": "London"}
+{"sub": "Gloria Estefan", "obj": "Miami"}
+{"sub": "Adolf Hitler", "obj": "Vienna"}
+{"sub": "Marcus Musurus", "obj": "Venice"}
+{"sub": "Frederik Kaiser", "obj": "Leiden"}
+{"sub": "Fritz Reiner", "obj": "Cincinnati"}
+{"sub": "William Wilberforce", "obj": "London"}
+{"sub": "Golda Meir", "obj": "Jerusalem"}
+{"sub": "Gottfried August Homilius", "obj": "Dresden"}
+{"sub": "Pierre Mauroy", "obj": "Paris"}
+{"sub": "Menachem Begin", "obj": "Jerusalem"}
+{"sub": "Xavier Zubiri", "obj": "Madrid"}
+{"sub": "Herbert von Bismarck", "obj": "Berlin"}
+{"sub": "Christian Rudolph Wilhelm Wiedemann", "obj": "Kiel"}
+{"sub": "Adam Makowicz", "obj": "Toronto"}
+{"sub": "Pierre Audi", "obj": "Amsterdam"}
+{"sub": "Eduard Marxsen", "obj": "Hamburg"}
+{"sub": "Erasmus", "obj": "Rotterdam"}
+{"sub": "Tobias Rehberger", "obj": "Frankfurt"}
+{"sub": "Aldus Manutius", "obj": "Venice"}
+{"sub": "Jacques Gillot", "obj": "Paris"}
+{"sub": "Giacomo Devoto", "obj": "Florence"}
+{"sub": "Wilfrid Laurier", "obj": "Ottawa"}
+{"sub": "Ole Jacob Broch", "obj": "Oslo"}
+{"sub": "Pasquale Cicogna", "obj": "Venice"}
+{"sub": "Martin Carlin", "obj": "Paris"}
+{"sub": "Carolyn Christov-Bakargiev", "obj": "Turin"}
+{"sub": "John Munch", "obj": "Baltimore"}
+{"sub": "Ernest Picard", "obj": "Paris"}
+{"sub": "Nathan Appleton", "obj": "Boston"}
+{"sub": "Alfred Hettner", "obj": "Heidelberg"}
+{"sub": "Paul Bonatz", "obj": "Stuttgart"}
+{"sub": "Johan Theorin", "obj": "Gothenburg"}
+{"sub": "Adolf Brand", "obj": "Berlin"}
+{"sub": "Mac Harb", "obj": "Ottawa"}
+{"sub": "John Sparrow David Thompson", "obj": "Ottawa"}
+{"sub": "Pierre Laval", "obj": "Paris"}
+{"sub": "Athanase David", "obj": "Montreal"}
+{"sub": "Roland Orzabal", "obj": "Bath"}
+{"sub": "Jean-Victor Poncelet", "obj": "Metz"}
+{"sub": "David Maxwell Fyfe, 1st Earl of Kilmuir", "obj": "London"}
+{"sub": "Joseph Roth", "obj": "Berlin"}
+{"sub": "Taylor Swift", "obj": "Nashville"}
+{"sub": "William Wills, 1st Baron Winterstoke", "obj": "London"}
+{"sub": "James Watt", "obj": "Glasgow"}
+{"sub": "Peter Novick", "obj": "Chicago"}
+{"sub": "Otto Hauser", "obj": "Berlin"}
+{"sub": "Solange Fernex", "obj": "Strasbourg"}
+{"sub": "Magnus Hirschfeld", "obj": "Berlin"}
+{"sub": "John D. Rockefeller", "obj": "Cleveland"}
+{"sub": "Samuel Griswold Goodrich", "obj": "Boston"}
+{"sub": "Pablo Picasso", "obj": "Paris"}
+{"sub": "Arno Holz", "obj": "Berlin"}
+{"sub": "David Owen", "obj": "London"}
+{"sub": "Philipp Otto Runge", "obj": "Hamburg"}
+{"sub": "Reinhard Goebel", "obj": "Salzburg"}
+{"sub": "Dudley Marjoribanks, 1st Baron Tweedmouth", "obj": "London"}
+{"sub": "Rudolf Carnap", "obj": "Prague"}
+{"sub": "Arthur Griffith", "obj": "London"}
+{"sub": "William Tudor", "obj": "Boston"}
+{"sub": "Antonio Gava", "obj": "Rome"}
+{"sub": "Marcelo Caetano", "obj": "Portugal"}
+{"sub": "Josef Hofmann", "obj": "Philadelphia"}
+{"sub": "Laurent Cars", "obj": "Paris"}
+{"sub": "Philip Pullman", "obj": "Oxford"}
+{"sub": "Daniele Capezzone", "obj": "Rome"}
+{"sub": "George Walden", "obj": "London"}
+{"sub": "Reginald Maudling", "obj": "London"}
+{"sub": "Rosa Luxemburg", "obj": "Berlin"}
+{"sub": "Hilaire Belloc", "obj": "London"}
+{"sub": "Wolfgang Capito", "obj": "Basel"}
+{"sub": "Viktor Mikhailovich Vasnetsov", "obj": "Kiev"}
+{"sub": "Daniel Ernst Jablonski", "obj": "Berlin"}
+{"sub": "Hennes Weisweiler", "obj": "Cologne"}
+{"sub": "Davie Fulton", "obj": "Ottawa"}
+{"sub": "Antoine Coypel", "obj": "Paris"}
+{"sub": "Pierre Bayle", "obj": "Rotterdam"}
+{"sub": "Helle Thorning-Schmidt", "obj": "Copenhagen"}
+{"sub": "Hans Fallada", "obj": "Berlin"}
+{"sub": "Axel Honneth", "obj": "Frankfurt"}
+{"sub": "Gunnar Garbo", "obj": "Oslo"}
+{"sub": "Peter Walker, Baron Walker of Worcester", "obj": "London"}
+{"sub": "John Henry Newman", "obj": "Rome"}
+{"sub": "Ed Broadbent", "obj": "Ottawa"}
+{"sub": "Friedrich Gottlob Hayne", "obj": "Berlin"}
+{"sub": "William Primrose", "obj": "Philadelphia"}
+{"sub": "Kid Rock", "obj": "Detroit"}
+{"sub": "Raymond Flynn", "obj": "Boston"}
+{"sub": "Christian Lorenz", "obj": "Berlin"}
+{"sub": "Martin Buber", "obj": "Jerusalem"}
+{"sub": "Robert Keayne", "obj": "Boston"}
+{"sub": "Juliusz Kossak", "obj": "Paris"}
+{"sub": "Moshe Dayan", "obj": "Jerusalem"}
+{"sub": "Johann Heinrich Roos", "obj": "Frankfurt"}
+{"sub": "Heinrich Graetz", "obj": "Munich"}
+{"sub": "George Osborne", "obj": "London"}
+{"sub": "George Cadogan, 5th Earl Cadogan", "obj": "London"}
+{"sub": "John Hunt, Baron Hunt", "obj": "London"}
+{"sub": "Cesare Brandi", "obj": "Siena"}
+{"sub": "Joseph Whitworth", "obj": "Manchester"}
+{"sub": "Karl Farkas", "obj": "Vienna"}
+{"sub": "Lord George Russell", "obj": "London"}
+{"sub": "Roy Barnes", "obj": "Atlanta"}
+{"sub": "Sir Thomas Buxton, 1st Baronet", "obj": "London"}
+{"sub": "Hermann Schwarz", "obj": "Berlin"}
+{"sub": "Heinrich Simroth", "obj": "Leipzig"}
+{"sub": "Hermann Hesse", "obj": "Bern"}
+{"sub": "Karl May", "obj": "Dresden"}
+{"sub": "Franz Werfel", "obj": "Vienna"}
+{"sub": "Angela Merkel", "obj": "Berlin"}
+{"sub": "Jonathan Meese", "obj": "Hamburg"}
+{"sub": "Pascual Cervera y Topete", "obj": "Madrid"}
+{"sub": "Thorvald Stauning", "obj": "Copenhagen"}
+{"sub": "Vincent van Gogh", "obj": "Paris"}
+{"sub": "John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair", "obj": "London"}
+{"sub": "Marco Pannella", "obj": "Rome"}
+{"sub": "Edward Shortt", "obj": "London"}
+{"sub": "Jean-Baptiste Henri Lacordaire", "obj": "Paris"}
+{"sub": "Louis Jules Trochu", "obj": "Paris"}
+{"sub": "Yehuda Leib Maimon", "obj": "Jerusalem"}
+{"sub": "Carl Ritter", "obj": "Berlin"}
+{"sub": "Thomas Wynn, 1st Baron Newborough", "obj": "London"}
+{"sub": "Wolfgang Niedecken", "obj": "Cologne"}
+{"sub": "John A. Hanna", "obj": "Harrisburg"}
+{"sub": "Lionel Nathan de Rothschild", "obj": "London"}
+{"sub": "Asger Hamerik", "obj": "Copenhagen"}
+{"sub": "Tribuno Memmo", "obj": "Venice"}
+{"sub": "Johann Fust", "obj": "Mainz"}
+{"sub": "Samuel Brannan", "obj": "Sacramento"}
+{"sub": "Franz Xaver Gabelsberger", "obj": "Munich"}
+{"sub": "Pierre Soulages", "obj": "Paris"}
+{"sub": "Peder Anker", "obj": "Oslo"}
+{"sub": "Norbert Bisky", "obj": "Berlin"}
+{"sub": "John Redmond", "obj": "London"}
+{"sub": "Giovanni Bassano", "obj": "Venice"}
+{"sub": "George G. Siebels, Jr.", "obj": "Montgomery"}
+{"sub": "Julio Le Parc", "obj": "Paris"}
+{"sub": "Fouad Twal", "obj": "Jerusalem"}
+{"sub": "B.o.B", "obj": "Atlanta"}
+{"sub": "Pierre Joxe", "obj": "Paris"}
+{"sub": "Andrew Card", "obj": "Boston"}
+{"sub": "Jules Moch", "obj": "Paris"}
+{"sub": "Dietrich Brandis", "obj": "Bonn"}
+{"sub": "Simon Beckett", "obj": "Sheffield"}
+{"sub": "Joachim Murat", "obj": "Paris"}
+{"sub": "Eleftherios Venizelos", "obj": "Athens"}
+{"sub": "Gerard Mortier", "obj": "Paris"}
+{"sub": "Wolfgang Schuster", "obj": "Stuttgart"}
+{"sub": "Liutbert, Archbishop of Mainz", "obj": "Mainz"}
+{"sub": "Johan Christian Heuch", "obj": "Oslo"}
+{"sub": "Gaston d'Audiffret-Pasquier", "obj": "Paris"}
+{"sub": "Iain Macleod", "obj": "London"}
+{"sub": "Charles Clarke", "obj": "London"}
+{"sub": "Rosa Luxemburg", "obj": "Warsaw"}
+{"sub": "Robert Bellarmine", "obj": "Rome"}
+{"sub": "Mona Mur", "obj": "Berlin"}
+{"sub": "Archduke Franz Ferdinand", "obj": "Vienna"}
+{"sub": "Abraham Berliner", "obj": "Berlin"}
+{"sub": "Carl Gustav Carus", "obj": "Dresden"}
+{"sub": "Hans Litten", "obj": "Berlin"}
+{"sub": "Wols", "obj": "Paris"}
+{"sub": "Otto Harrassowitz", "obj": "Leipzig"}
+{"sub": "Vincent van Gogh", "obj": "Amsterdam"}
+{"sub": "Paulus Manutius", "obj": "Venice"}
+{"sub": "Hans Erich Apostel", "obj": "Vienna"}
+{"sub": "Robert Grosvenor, 1st Baron Ebury", "obj": "London"}
+{"sub": "Rory Stewart", "obj": "Kabul"}
+{"sub": "Georges Clemenceau", "obj": "Paris"}
+{"sub": "Roland Freisler", "obj": "Berlin"}
+{"sub": "Robby Maria", "obj": "Berlin"}
+{"sub": "Wojciech Roszkowski", "obj": "Warsaw"}
+{"sub": "Grand Duke Alexander Mikhailovich of Russia", "obj": "Paris"}
+{"sub": "Robert Charles Winthrop", "obj": "Boston"}
+{"sub": "Jean-Jacques Grunenwald", "obj": "Paris"}
+{"sub": "Hinrich Lichtenstein", "obj": "Berlin"}
+{"sub": "Elisabeth Kopp", "obj": "Bern"}
+{"sub": "Christian Birch-Reichenwald", "obj": "Oslo"}
+{"sub": "Christian Bohr", "obj": "Copenhagen"}
+{"sub": "Boris Nemtsov", "obj": "Moscow"}
+{"sub": "Sebastiano Timpanaro", "obj": "Florence"}
+{"sub": "Adolph Kolping", "obj": "Cologne"}
+{"sub": "Carl Flesch", "obj": "Berlin"}
+{"sub": "Ferdinand Brokoff", "obj": "Prague"}
+{"sub": "Alessandro Achillini", "obj": "Bologna"}
+{"sub": "Christoph Bernhard", "obj": "Dresden"}
+{"sub": "Eduard Devrient", "obj": "Dresden"}
+{"sub": "H. C. Artmann", "obj": "Vienna"}
+{"sub": "Baldur von Schirach", "obj": "Berlin"}
+{"sub": "Joseph Daul", "obj": "Strasbourg"}
+{"sub": "Georges Aperghis", "obj": "Paris"}
+{"sub": "Hieronymus Andreae", "obj": "Nuremberg"}
+{"sub": "Archie Hamilton, Baron Hamilton of Epsom", "obj": "London"}
+{"sub": "Robin Rhode", "obj": "Berlin"}
+{"sub": "Francesco Morosini", "obj": "Venice"}
+{"sub": "Isaac Casaubon", "obj": "Geneva"}
+{"sub": "Carl Mayer", "obj": "Berlin"}
+{"sub": "Jacques Auguste de Thou", "obj": "Paris"}
+{"sub": "James Joyce", "obj": "Paris"}
+{"sub": "Giovanni Dolfin", "obj": "Venice"}
+{"sub": "Theo Mackeben", "obj": "Berlin"}
+{"sub": "William Kentridge", "obj": "Johannesburg"}
+{"sub": "Mustafa Khalil", "obj": "Cairo"}
+{"sub": "Philipp Scheidemann", "obj": "Berlin"}
+{"sub": "Jean Alaux", "obj": "Rome"}
+{"sub": "Michael Gerard Bauer", "obj": "Brisbane"}
+{"sub": "Willie Whitelaw", "obj": "London"}
+{"sub": "Waldemar Kraft", "obj": "Bonn"}
+{"sub": "Nicolas Bergasse", "obj": "Paris"}
+{"sub": "Pieter Codde", "obj": "Amsterdam"}
+{"sub": "Antonio Francesco Gori", "obj": "Florence"}
+{"sub": "Harry Harkimo", "obj": "Helsinki"}
+{"sub": "Ferdinand Boberg", "obj": "Stockholm"}
+{"sub": "Emmanuel Servais", "obj": "Luxembourg"}
+{"sub": "Jonathan Kozol", "obj": "Boston"}
+{"sub": "Islamic State of Iraq", "obj": "Iraq"}
+{"sub": "Gyles Brandreth", "obj": "London"}
+{"sub": "Henry Brougham, 1st Baron Brougham and Vaux", "obj": "London"}
+{"sub": "Dimitrios Gounaris", "obj": "Athens"}
+{"sub": "Jean-Baptiste Teste", "obj": "Paris"}
+{"sub": "Kool Savas", "obj": "Berlin"}
+{"sub": "Friedrich Goldmann", "obj": "Berlin"}
+{"sub": "Bruno Kreisky", "obj": "Vienna"}
+{"sub": "Bastian Pastewka", "obj": "Cologne"}
+{"sub": "Hedda Hopper", "obj": "Hollywood"}
+{"sub": "Nikolai Nissen Paus", "obj": "Oslo"}
+{"sub": "Hildebold", "obj": "Cologne"}
+{"sub": "Jennifer Granholm", "obj": "Michigan"}
+{"sub": "Joseph Locke", "obj": "London"}
+{"sub": "Frans Floris I", "obj": "Antwerp"}
+{"sub": "Urwah ibn Zubayr", "obj": "Medina"}
+{"sub": "Javier Solana", "obj": "Madrid"}
+{"sub": "Michael Foot", "obj": "London"}
+{"sub": "Antonio Bertoloni", "obj": "Bologna"}
+{"sub": "John Engler", "obj": "Lansing"}
+{"sub": "Gustav Lindau", "obj": "Berlin"}
+{"sub": "Giovanni Battista Grassi", "obj": "Rome"}
+{"sub": "Josef Bohuslav Foerster", "obj": "Prague"}
+{"sub": "Francesco Rutelli", "obj": "Rome"}
+{"sub": "Walter Rothschild, 2nd Baron Rothschild", "obj": "London"}
+{"sub": "Ludwig Gies", "obj": "Berlin"}
+{"sub": "Albertus Magnus", "obj": "Cologne"}
+{"sub": "Samuel Naumbourg", "obj": "Paris"}
+{"sub": "Gerakan Pramuka Indonesia", "obj": "Indonesia"}
+{"sub": "Tullio De Mauro", "obj": "Rome"}
+{"sub": "Conrad von Soest", "obj": "Dortmund"}
+{"sub": "Johann Hinrich Wichern", "obj": "Hamburg"}
+{"sub": "Otto Suhr", "obj": "Berlin"}
+{"sub": "Fredrika Bremer", "obj": "Stockholm"}
+{"sub": "Karl Krumbacher", "obj": "Munich"}
+{"sub": "Otto von Bismarck", "obj": "Berlin"}
+{"sub": "William B. Hartsfield", "obj": "Atlanta"}
+{"sub": "Alexander von Nordmann", "obj": "Helsinki"}
+{"sub": "Francesco Guardi", "obj": "Venice"}
+{"sub": "Dominique Joseph Garat", "obj": "Paris"}
+{"sub": "Trilussa", "obj": "Rome"}
+{"sub": "Ferhat Abbas", "obj": "Paris"}
+{"sub": "Vladimir Putin", "obj": "Moscow"}
+{"sub": "Nancy Astor, Viscountess Astor", "obj": "London"}
+{"sub": "Nitzan Horowitz", "obj": "Jerusalem"}
+{"sub": "Andrew Lloyd Webber", "obj": "London"}
+{"sub": "Imke Duplitzer", "obj": "Bonn"}
+{"sub": "Joseph Fourier", "obj": "Paris"}
+{"sub": "Ashbel P. Willard", "obj": "Indianapolis"}
+{"sub": "Fritz Simrock", "obj": "Berlin"}
+{"sub": "Charles James Fox", "obj": "London"}
+{"sub": "Arvid Lindman", "obj": "Stockholm"}
+{"sub": "Christoph Willibald von Gluck", "obj": "Vienna"}
+{"sub": "Johann von Berenberg-Gossler", "obj": "Hamburg"}
+{"sub": "Karl von Habsburg", "obj": "Salzburg"}
+{"sub": "Marek Edelman", "obj": "Warsaw"}
+{"sub": "Shaul Mofaz", "obj": "Jerusalem"}
+{"sub": "Carl Philipp Emanuel Bach", "obj": "Hamburg"}
+{"sub": "Joseph Bergler the Younger", "obj": "Prague"}
+{"sub": "Cedric Drewe", "obj": "London"}
+{"sub": "Ernest Lapointe", "obj": "Ottawa"}
+{"sub": "Anton Heiller", "obj": "Vienna"}
+{"sub": "John William McCormack", "obj": "Boston"}
+{"sub": "Jacques Pierre Brissot", "obj": "Paris"}
+{"sub": "Johann Friedrich Reichardt", "obj": "Berlin"}
+{"sub": "Ernst Reuter", "obj": "Berlin"}
+{"sub": "Edward Blake", "obj": "London"}
+{"sub": "Joseph Helffrich", "obj": "Heidelberg"}
+{"sub": "Helmut Schmidt", "obj": "Berlin"}
+{"sub": "Litsa Spathi", "obj": "Heidelberg"}
+{"sub": "Luke Hansard", "obj": "Norwich"}
+{"sub": "Gustave Paul Cluseret", "obj": "Paris"}
+{"sub": "Christian Doppler", "obj": "Prague"}
+{"sub": "Bedford Master", "obj": "Paris"}
+{"sub": "Claudio Abbado", "obj": "Berlin"}
+{"sub": "Armand Marrast", "obj": "Paris"}
+{"sub": "Joan Lingard", "obj": "Edinburgh"}
+{"sub": "Jerzy Borejsza", "obj": "Warsaw"}
+{"sub": "Jacob Hamblin", "obj": "Utah"}
+{"sub": "Zhores Alfyorov", "obj": "Moscow"}
+{"sub": "Romano Prodi", "obj": "Rome"}
+{"sub": "Hussein Chalayan", "obj": "London"}
+{"sub": "George Cubitt, 1st Baron Ashcombe", "obj": "London"}
+{"sub": "Francisco Largo Caballero", "obj": "Madrid"}
+{"sub": "Gerald Mayr", "obj": "Frankfurt"}
+{"sub": "Merlin James", "obj": "Glasgow"}
+{"sub": "Willy Brandt", "obj": "Bonn"}
+{"sub": "Geert Lovink", "obj": "Amsterdam"}
+{"sub": "Carl Lindhagen", "obj": "Stockholm"}
+{"sub": "Simon Hughes", "obj": "London"}
+{"sub": "Napoleon III", "obj": "Paris"}
+{"sub": "Ignazio Danti", "obj": "Rome"}
+{"sub": "Ludolf von Krehl", "obj": "Heidelberg"}
+{"sub": "John Russell, 1st Earl Russell", "obj": "London"}
+{"sub": "Gottfried Helnwein", "obj": "Vienna"}
+{"sub": "Adam Bartsch", "obj": "Vienna"}
+{"sub": "Mohammad Hussein Fadlallah", "obj": "Beirut"}
+{"sub": "Walter Audisio", "obj": "Rome"}
+{"sub": "Edward Flatau", "obj": "Warsaw"}
+{"sub": "Javier de Burgos", "obj": "Madrid"}
+{"sub": "David Sainsbury, Baron Sainsbury of Turville", "obj": "London"}
+{"sub": "Henry Somerset, 7th Duke of Beaufort", "obj": "London"}
+{"sub": "Helmut Kohl", "obj": "Berlin"}
+{"sub": "Nils Hjalmar Odhner", "obj": "Stockholm"}
+{"sub": "Viktor Chernomyrdin", "obj": "Moscow"}
+{"sub": "Laura Bassi", "obj": "Bologna"}
+{"sub": "Johannes Schilling", "obj": "Dresden"}
+{"sub": "Kurt Tucholsky", "obj": "Berlin"}
+{"sub": "Adam Jerzy Czartoryski", "obj": "Paris"}
+{"sub": "Ilja Richter", "obj": "Berlin"}
+{"sub": "Ulrich Wilcken", "obj": "Berlin"}
+{"sub": "Ludger Lohmann", "obj": "Stuttgart"}
+{"sub": "Nicola Perscheid", "obj": "Leipzig"}
+{"sub": "Otto Hesse", "obj": "Heidelberg"}
+{"sub": "Ossip Bernstein", "obj": "Paris"}
+{"sub": "Henrik Lax", "obj": "Helsinki"}
+{"sub": "Paul Lensch", "obj": "Berlin"}
+{"sub": "Ana Mato Adrover", "obj": "Madrid"}
+{"sub": "Leonardo da Vinci", "obj": "Rome"}
+{"sub": "Richard Sharp", "obj": "London"}
+{"sub": "Henry Labouchere, 1st Baron Taunton", "obj": "London"}
+{"sub": "Harvie Andre", "obj": "Ottawa"}
+{"sub": "Theobald Boehm", "obj": "Munich"}
+{"sub": "Jacques Laffitte", "obj": "Paris"}
+{"sub": "Albert Einstein", "obj": "Berlin"}
+{"sub": "Herbert von Karajan", "obj": "Berlin"}
+{"sub": "G\u00e9rard Desargues", "obj": "Paris"}
+{"sub": "Eduardo Zaplana", "obj": "Madrid"}
+{"sub": "Fredrik Stang", "obj": "Oslo"}
+{"sub": "Josef Klaus", "obj": "Vienna"}
+{"sub": "Kili\u00e1n Ignaz Dientzenhofer", "obj": "Prague"}
+{"sub": "Robert Dale Owen", "obj": "Indianapolis"}
+{"sub": "Johann Froben", "obj": "Basel"}
+{"sub": "Adams George Archibald", "obj": "Ottawa"}
+{"sub": "Selig Brodetsky", "obj": "Jerusalem"}
+{"sub": "Kenneth Baker, Baron Baker of Dorking", "obj": "London"}
+{"sub": "Friedrich Engels", "obj": "Manchester"}
+{"sub": "William Henry Gladstone", "obj": "London"}
+{"sub": "Pietro Ziani", "obj": "Venice"}
+{"sub": "Alexander Mosolov", "obj": "Moscow"}
+{"sub": "Franco Zeffirelli", "obj": "Rome"}
+{"sub": "Moritz von Schwind", "obj": "Vienna"}
+{"sub": "Friedrich Nietzsche", "obj": "Leipzig"}
+{"sub": "Edmund Glaise-Horstenau", "obj": "Zagreb"}
+{"sub": "John Linder", "obj": "Atlanta"}
+{"sub": "Martin Bucer", "obj": "Strasbourg"}
+{"sub": "Gro Harlem Brundtland", "obj": "Oslo"}
+{"sub": "Alexander Duncan McRae", "obj": "Ottawa"}
+{"sub": "Johann Gottlieb Fichte", "obj": "Berlin"}
+{"sub": "Anton Cajetan Adlgasser", "obj": "Salzburg"}
+{"sub": "Jean Marc Gaspard Itard", "obj": "Paris"}
+{"sub": "Gloria Coates", "obj": "Munich"}
+{"sub": "Dominique Strauss-Kahn", "obj": "Paris"}
+{"sub": "Joachim Barrande", "obj": "Prague"}
+{"sub": "Karl Liebknecht", "obj": "Berlin"}
+{"sub": "Alfred Philippson", "obj": "Bonn"}
+{"sub": "Paul Hindemith", "obj": "Berlin"}
+{"sub": "Sir Sydney Waterlow, 1st Baronet", "obj": "London"}
+{"sub": "Cecil Harmsworth, 1st Baron Harmsworth", "obj": "London"}
+{"sub": "Greta Garbo", "obj": "Hollywood"}
+{"sub": "William Lyon Mackenzie King", "obj": "Ottawa"}
+{"sub": "Grand Duchess Xenia Alexandrovna of Russia", "obj": "Denmark"}
+{"sub": "Max Brauer", "obj": "Hamburg"}
+{"sub": "Renato Schifani", "obj": "Rome"}
+{"sub": "Beat Furrer", "obj": "Vienna"}
+{"sub": "John Major", "obj": "London"}
+{"sub": "Althea Garrison", "obj": "Boston"}
+{"sub": "Henri Marteau", "obj": "Berlin"}
+{"sub": "Friedrich Kalkbrenner", "obj": "Paris"}
+{"sub": "Margaret Atwood", "obj": "Toronto"}
+{"sub": "Ulrike Haage", "obj": "Berlin"}
+{"sub": "Nicolas Chopin", "obj": "Warsaw"}
+{"sub": "Hjalmar Frisk", "obj": "Gothenburg"}
+{"sub": "Edward Bulwer-Lytton", "obj": "London"}
+{"sub": "Dalia Rabin-Pelossof", "obj": "Jerusalem"}
+{"sub": "Thomas Crerar", "obj": "Ottawa"}
+{"sub": "Bernhard von Gudden", "obj": "Munich"}
+{"sub": "Tony Benn", "obj": "London"}
+{"sub": "Georg Hajdu", "obj": "Hamburg"}
+{"sub": "Jacob Bernoulli", "obj": "Geneva"}
+{"sub": "Jean-Marie Le Pen", "obj": "Strasbourg"}
+{"sub": "Theophil Hansen", "obj": "Vienna"}
+{"sub": "Abraham Hume, 2nd Baronet", "obj": "London"}
+{"sub": "James Milnes Gaskell", "obj": "London"}
+{"sub": "Francis Wurtz", "obj": "Strasbourg"}
+{"sub": "David Ben-Gurion", "obj": "Jerusalem"}
+{"sub": "Neil Finn", "obj": "Auckland"}
+{"sub": "Sebastian Ingrosso", "obj": "Stockholm"}
+{"sub": "Ferdinand Bruckner", "obj": "Berlin"}
+{"sub": "Per Ditlev-Simonsen", "obj": "Oslo"}
+{"sub": "Yigael Yadin", "obj": "Jerusalem"}
+{"sub": "Chris Philp", "obj": "London"}
+{"sub": "Bavaria", "obj": "Berlin"}
+{"sub": "Carl Philipp Emanuel Bach", "obj": "Berlin"}
+{"sub": "Urbain Le Verrier", "obj": "Paris"}
+{"sub": "Rudolf Steiner", "obj": "Berlin"}
+{"sub": "Evald Rygh", "obj": "Oslo"}
+{"sub": "Niels Treschow", "obj": "Oslo"}
+{"sub": "Ludwik Dorn", "obj": "Warsaw"}
+{"sub": "Claire Waldoff", "obj": "Berlin"}
+{"sub": "Carl Friedrich Goerdeler", "obj": "Leipzig"}
+{"sub": "Jean-Charles de Borda", "obj": "Paris"}
+{"sub": "Johann Andreas Schmeller", "obj": "Munich"}
+{"sub": "Yuri Shchekochikhin", "obj": "Moscow"}
+{"sub": "Peter Frederik Suhm", "obj": "Copenhagen"}
+{"sub": "Paul Gauguin", "obj": "Paris"}
+{"sub": "Ferdinand Hiller", "obj": "Cologne"}
+{"sub": "Edward Watkin", "obj": "London"}
+{"sub": "Otmar Suitner", "obj": "Berlin"}
+{"sub": "Lise Meitner", "obj": "Stockholm"}
+{"sub": "Henry Manners, 8th Duke of Rutland", "obj": "London"}
+{"sub": "Marsilio Ficino", "obj": "Florence"}
+{"sub": "William Lee Knous", "obj": "Denver"}
+{"sub": "George Newnes", "obj": "London"}
+{"sub": "Stefan Zweig", "obj": "Vienna"}
+{"sub": "Salomon Mayer von Rothschild", "obj": "Vienna"}
+{"sub": "Lionel Jospin", "obj": "Strasbourg"}
+{"sub": "Frederick Lindemann, 1st Viscount Cherwell", "obj": "London"}
+{"sub": "Eduardo De Filippo", "obj": "Rome"}
+{"sub": "Gordon Slynn, Baron Slynn of Hadley", "obj": "London"}
+{"sub": "Maurice Galbraith Cullen", "obj": "Montreal"}
+{"sub": "James Clerk Maxwell", "obj": "Cambridge"}
+{"sub": "Frank Pembleton", "obj": "Baltimore"}
+{"sub": "Olafur Eliasson", "obj": "Berlin"}
+{"sub": "Ehud Olmert", "obj": "Jerusalem"}
+{"sub": "James Callaghan", "obj": "London"}
+{"sub": "Fabrizio Cicchitto", "obj": "Rome"}
+{"sub": "Ali Sadikin", "obj": "Jakarta"}
+{"sub": "Francisco Silvela", "obj": "Madrid"}
+{"sub": "Anna Maria Luisa de' Medici", "obj": "Florence"}
+{"sub": "Louis Nicolas Vauquelin", "obj": "Paris"}
+{"sub": "Neo Rauch", "obj": "Leipzig"}
+{"sub": "Jean-Paul Marat", "obj": "Paris"}
+{"sub": "Karl Gruber", "obj": "Vienna"}
+{"sub": "George Elliott Clarke", "obj": "Toronto"}
+{"sub": "Daniel Bomberg", "obj": "Venice"}
+{"sub": "Peter Thomas Bauer", "obj": "London"}
+{"sub": "Fritz Haber", "obj": "Berlin"}
+{"sub": "Pino Rauti", "obj": "Rome"}
+{"sub": "Heinz-Christian Strache", "obj": "Vienna"}
+{"sub": "Carlo Azeglio Ciampi", "obj": "Rome"}
+{"sub": "Ruth Rendell", "obj": "London"}
+{"sub": "Pierre-Jean Mariette", "obj": "Paris"}
+{"sub": "Benjamin Britten", "obj": "London"}
+{"sub": "Albert Camus", "obj": "Paris"}
+{"sub": "Nicholas Fairbairn", "obj": "London"}
+{"sub": "Imre Nagy", "obj": "Budapest"}
+{"sub": "Rehavam Ze'evi", "obj": "Jerusalem"}
+{"sub": "Alfred Flechtheim", "obj": "Berlin"}
+{"sub": "Louis Riel", "obj": "Ottawa"}
+{"sub": "Sylvain Cambreling", "obj": "Stuttgart"}
+{"sub": "Christopher Tugendhat, Baron Tugendhat", "obj": "London"}
+{"sub": "Adele Faccio", "obj": "Rome"}
+{"sub": "Peter I. Blute", "obj": "Boston"}
+{"sub": "Nicolas Jenson", "obj": "Venice"}
+{"sub": "John Horbury Hunt", "obj": "Sydney"}
+{"sub": "Jules Ferry", "obj": "Paris"}
+{"sub": "Giuseppe Longhi", "obj": "Milan"}
+{"sub": "Jens Rohde", "obj": "Copenhagen"}
+{"sub": "Otto Blehr", "obj": "Oslo"}
+{"sub": "Nitish Kumar", "obj": "Bihar"}
+{"sub": "Daniel Auster", "obj": "Jerusalem"}
+{"sub": "Peter Andreas Heiberg", "obj": "Copenhagen"}
+{"sub": "Hedwig Dohm", "obj": "Berlin"}
+{"sub": "Georg Apenes", "obj": "Oslo"}
+{"sub": "Elizabeth Butler-Sloss, Baroness Butler-Sloss", "obj": "London"}
+{"sub": "Amnon Yariv", "obj": "Pasadena"}
+{"sub": "Varian Fry", "obj": "Marseille"}
+{"sub": "August Wilhelm Iffland", "obj": "Berlin"}
+{"sub": "Christiane F.", "obj": "Berlin"}
+{"sub": "Abraham Blooteling", "obj": "Amsterdam"}
+{"sub": "Friedrich Peter", "obj": "Vienna"}
+{"sub": "Vytautas Juozapaitis", "obj": "Vilnius"}
+{"sub": "Michael Dukakis", "obj": "Boston"}
+{"sub": "Amel Bent", "obj": "Paris"}
+{"sub": "Johann Sebastian Bach", "obj": "Leipzig"}
+{"sub": "Thomas Gibson Bowles", "obj": "London"}
+{"sub": "Ludwig Tieck", "obj": "Dresden"}
+{"sub": "Gianni Agnelli", "obj": "Rome"}
+{"sub": "Xavier Trias", "obj": "Barcelona"}
+{"sub": "Giambattista Bodoni", "obj": "Parma"}
+{"sub": "Heide Simonis", "obj": "Bonn"}
+{"sub": "Lewis Hayden", "obj": "Boston"}
+{"sub": "Veturia", "obj": "Rome"}
+{"sub": "Vladimir Zhirinovsky", "obj": "Moscow"}
+{"sub": "Adam Elsheimer", "obj": "Rome"}
+{"sub": "Tage Erlander", "obj": "Stockholm"}
+{"sub": "Cosimo de' Medici", "obj": "Florence"}
+{"sub": "Angelika Beer", "obj": "Kiel"}
+{"sub": "Brian Paddick", "obj": "London"}
+{"sub": "Svenn Stray", "obj": "Oslo"}
+{"sub": "Lajos Kossuth", "obj": "Budapest"}
+{"sub": "Sir James Whitehead, 1st Baronet", "obj": "London"}
+{"sub": "Philipp Jakob Spener", "obj": "Berlin"}
+{"sub": "Noam Chomsky", "obj": "Pennsylvania"}
+{"sub": "Charles Stewart Parnell", "obj": "London"}
+{"sub": "Fyodor Ivanovich Shalyapin", "obj": "Moscow"}
+{"sub": "Hubert Marischka", "obj": "Vienna"}
+{"sub": "Nigel Lawson", "obj": "London"}
+{"sub": "Stuart Pigott", "obj": "Berlin"}
+{"sub": "Ernst Ludwig von Gerlach", "obj": "Berlin"}
+{"sub": "Ernest Friedrich Gilg", "obj": "Berlin"}
+{"sub": "Antoni Brodowski", "obj": "Warsaw"}
+{"sub": "Erwin Blumenfeld", "obj": "Paris"}
+{"sub": "Simon Islip", "obj": "Canterbury"}
+{"sub": "Fred Wah", "obj": "Vancouver"}
+{"sub": "Vicki Baum", "obj": "Berlin"}
+{"sub": "Eugeniusz Baziak", "obj": "Lviv"}
+{"sub": "Jacobus Golius", "obj": "Leiden"}
+{"sub": "John Baskerville", "obj": "Birmingham"}
+{"sub": "Maurice Quentin de La Tour", "obj": "Paris"}
+{"sub": "Pierre Poilievre", "obj": "Ottawa"}
+{"sub": "Robert Haythorne", "obj": "Ottawa"}
+{"sub": "Willy Millowitsch", "obj": "Cologne"}
+{"sub": "Ellen Wilkinson", "obj": "London"}
+{"sub": "Jonathan Meese", "obj": "Berlin"}
+{"sub": "Wojciech Rubinowicz", "obj": "Warsaw"}
+{"sub": "Renzo Piano", "obj": "Rome"}
+{"sub": "John and Edith Kilbuck", "obj": "Alaska"}
+{"sub": "Charles, Prince of Wales", "obj": "London"}
+{"sub": "Billy Corgan", "obj": "Chicago"}
+{"sub": "John Morris, Baron Morris of Borth-y-Gest", "obj": "London"}
+{"sub": "Giovanni Giolitti", "obj": "Rome"}
+{"sub": "Diplo", "obj": "Philadelphia"}
+{"sub": "Adrien Albert Marie de Mun", "obj": "Paris"}
+{"sub": "Frank Markham", "obj": "London"}
+{"sub": "James Michael Curley", "obj": "Boston"}
+{"sub": "Yitzhak Ben-Zvi", "obj": "Jerusalem"}
+{"sub": "Paulus Manutius", "obj": "Rome"}
+{"sub": "Gaetano Rossi", "obj": "Venice"}
+{"sub": "Kristin Clemet", "obj": "Oslo"}
+{"sub": "Yuli Gusman", "obj": "Moscow"}
+{"sub": "Salentin IX of Isenburg-Grenzau", "obj": "Cologne"}
+{"sub": "Ture Nerman", "obj": "Stockholm"}
+{"sub": "Fritz Schramma", "obj": "Cologne"}
+{"sub": "Andrew Blayney, 11th Baron Blayney", "obj": "London"}
+{"sub": "Peter Planyavsky", "obj": "Vienna"}
+{"sub": "Louis Hjelmslev", "obj": "Copenhagen"}
+{"sub": "Samuel von Fischer", "obj": "Berlin"}
+{"sub": "John Goodsir", "obj": "Edinburgh"}
+{"sub": "Karl Marx", "obj": "Cologne"}
+{"sub": "Louis Blanc", "obj": "Paris"}
+{"sub": "Jean Papineau-Couture", "obj": "Montreal"}
+{"sub": "Indulis Emsis", "obj": "Riga"}
+{"sub": "Levi Eshkol", "obj": "Jerusalem"}
+{"sub": "Bruno Schmitz", "obj": "Leipzig"}
+{"sub": "Jules Paul Benjamin Delessert", "obj": "Paris"}
+{"sub": "James LaBrie", "obj": "Toronto"}
+{"sub": "Samuel Schmid", "obj": "Bern"}
+{"sub": "Alban Berg", "obj": "Vienna"}
+{"sub": "Harold Harmsworth, 1st Viscount Rothermere", "obj": "London"}
+{"sub": "Hans Hofmann", "obj": "Paris"}
+{"sub": "Henry Bentinck, 11th Earl of Portland", "obj": "London"}
+{"sub": "Eberhard Diepgen", "obj": "Berlin"}
+{"sub": "Santiago Carrillo", "obj": "Madrid"}
+{"sub": "Camilla de Rossi", "obj": "Vienna"}
+{"sub": "Guntars Krasts", "obj": "Riga"}
+{"sub": "Angelo Amato", "obj": "Rome"}
+{"sub": "Georges Darboy", "obj": "Paris"}
+{"sub": "Jakob Wimpfeling", "obj": "Strasbourg"}
+{"sub": "Alois Hudal", "obj": "Rome"}
+{"sub": "Lydie Polfer", "obj": "Luxembourg"}
+{"sub": "Andreas Peter Bernstorff", "obj": "Copenhagen"}
+{"sub": "Jules Favre", "obj": "Paris"}
+{"sub": "Georg Joseph Beer", "obj": "Vienna"}
+{"sub": "Walter Runciman, 1st Viscount Runciman of Doxford", "obj": "London"}
+{"sub": "Janet Ross", "obj": "Florence"}
+{"sub": "Carl August Walbrodt", "obj": "Berlin"}
+{"sub": "Alexander William Kinglake", "obj": "London"}
+{"sub": "Fridtjof Frank Gundersen", "obj": "Oslo"}
+{"sub": "Austen Henry Layard", "obj": "London"}
+{"sub": "Bruno Pittermann", "obj": "Vienna"}
+{"sub": "Ruth Berlau", "obj": "Berlin"}
+{"sub": "Ulrich Karger", "obj": "Berlin"}
+{"sub": "Georges Danton", "obj": "Paris"}
+{"sub": "Brian Mulroney", "obj": "Ottawa"}
+{"sub": "Guillaume Henri Dufour", "obj": "Geneva"}
+{"sub": "Galeazzo I Visconti", "obj": "Milan"}
+{"sub": "Thomas Browne", "obj": "Norwich"}
+{"sub": "Theodor Fritsch", "obj": "Berlin"}
+{"sub": "Anthony Steen", "obj": "London"}
+{"sub": "Rabih Alameddine", "obj": "Beirut"}
+{"sub": "Fritz Reiner", "obj": "Pittsburgh"}
+{"sub": "Rufus Isaacs, 1st Marquess of Reading", "obj": "London"}
+{"sub": "Emma Bonino", "obj": "Rome"}
+{"sub": "Reinhard Goebel", "obj": "Cologne"}
+{"sub": "Leser Landshuth", "obj": "Berlin"}
+{"sub": "Prince Franz de Paula of Liechtenstein", "obj": "Prague"}
+{"sub": "Leopold Auenbrugger", "obj": "Vienna"}
+{"sub": "Sebastian Coe", "obj": "London"}
+{"sub": "William Claflin", "obj": "Boston"}
+{"sub": "Henri de Toulouse-Lautrec", "obj": "Paris"}
+{"sub": "Olof Palme", "obj": "Stockholm"}
+{"sub": "Fritz Graebner", "obj": "Berlin"}
+{"sub": "Paul Citroen", "obj": "Amsterdam"}
+{"sub": "Mousse T.", "obj": "Hanover"}
+{"sub": "Marina Tsvetaeva", "obj": "Paris"}
+{"sub": "Selma Kurz", "obj": "Vienna"}
+{"sub": "Ingrid van Houten-Groeneveld", "obj": "Leiden"}
+{"sub": "William Waldegrave, Baron Waldegrave of North Hill", "obj": "London"}
+{"sub": "John Quincy Adams II", "obj": "Boston"}
+{"sub": "Ana Botella", "obj": "Madrid"}
+{"sub": "Lucian Bernhard", "obj": "Berlin"}
+{"sub": "Joseph de la Vega", "obj": "Amsterdam"}
+{"sub": "Leonardo Balada", "obj": "Pittsburgh"}
+{"sub": "Franz Petrak", "obj": "Vienna"}
+{"sub": "Ivan Vazov", "obj": "Sofia"}
+{"sub": "Donna Leon", "obj": "Venice"}
+{"sub": "Pietro III Candiano", "obj": "Venice"}
+{"sub": "Christian Egenolff", "obj": "Frankfurt"}
+{"sub": "Wilhelm Pieck", "obj": "Berlin"}
+{"sub": "Hans Freyer", "obj": "Leipzig"}
+{"sub": "Adolfo Farsari", "obj": "Yokohama"}
+{"sub": "Gleb Yakunin", "obj": "Moscow"}
+{"sub": "Christian Magnus Falsen", "obj": "Oslo"}
+{"sub": "Erich Mendelsohn", "obj": "Berlin"}
+{"sub": "David Cameron", "obj": "London"}
+{"sub": "Gottfried Semper", "obj": "Dresden"}
+{"sub": "Jan Petersen", "obj": "Oslo"}
+{"sub": "Norman Lamont", "obj": "London"}
+{"sub": "Alva Myrdal", "obj": "Stockholm"}
+{"sub": "Astrid Thors", "obj": "Helsinki"}
+{"sub": "Nikolaus Simrock", "obj": "Bonn"}
+{"sub": "Oliver Friggieri", "obj": "Malta"}
+{"sub": "Pierre-Jules Hetzel", "obj": "Paris"}
+{"sub": "Andy Burnham", "obj": "London"}
+{"sub": "Herbert Plumer, 1st Viscount Plumer", "obj": "London"}
+{"sub": "Cyril Smith", "obj": "London"}
+{"sub": "August Hirt", "obj": "Strasbourg"}
+{"sub": "Gabriel Riesser", "obj": "Hamburg"}
+{"sub": "Friedrich Harkort", "obj": "Berlin"}
+{"sub": "Paul Meurice", "obj": "Paris"}
+{"sub": "Philip Magnus", "obj": "London"}
+{"sub": "Diederik Wissels", "obj": "Belgium"}
+{"sub": "Christoph Willibald von Gluck", "obj": "Paris"}
+{"sub": "Wilhelm von Gloeden", "obj": "Italy"}
+{"sub": "Jeffrey Archer", "obj": "London"}
+{"sub": "Edvard Westermarck", "obj": "Helsinki"}
+{"sub": "Sergey Lukyanenko", "obj": "Moscow"}
+{"sub": "Juan Prim, 1st Marquis of los Castillejos", "obj": "Madrid"}
+{"sub": "Robertson Davies", "obj": "Toronto"}
+{"sub": "Arnold Goodman, Baron Goodman", "obj": "London"}
+{"sub": "Antoine-Louis Barye", "obj": "Paris"}
+{"sub": "Louise Schroeder", "obj": "Berlin"}
+{"sub": "Sebastian Henricpetri", "obj": "Basel"}
+{"sub": "David Salomons", "obj": "London"}
+{"sub": "Jean Tinguely", "obj": "Paris"}
+{"sub": "Dominik Duka", "obj": "Prague"}
+{"sub": "Bernard Haitink", "obj": "Amsterdam"}
+{"sub": "David Gaider", "obj": "Edmonton"}
+{"sub": "Kathryn Casey", "obj": "Houston"}
+{"sub": "Paul Gervais", "obj": "Paris"}
+{"sub": "Kurt Hessenberg", "obj": "Frankfurt"}
+{"sub": "Gustav Stresemann", "obj": "Berlin"}
+{"sub": "Gotthold Ephraim Lessing", "obj": "Hamburg"}
+{"sub": "Catherine Trautmann", "obj": "Strasbourg"}
+{"sub": "LeRoy Collins", "obj": "Florida"}
+{"sub": "Count Leopold Joseph von Daun", "obj": "Vienna"}
+{"sub": "Alcman", "obj": "Sparta"}
+{"sub": "Thomas Beaufort, Duke of Exeter", "obj": "London"}
+{"sub": "Anna Lindh", "obj": "Stockholm"}
+{"sub": "Vladimir Lenin", "obj": "Moscow"}
+{"sub": "Charles Kennedy", "obj": "London"}
+{"sub": "Otto Brahm", "obj": "Berlin"}
+{"sub": "Julius Friedrich Cohnheim", "obj": "Leipzig"}
+{"sub": "Johann Christoph Gottsched", "obj": "Leipzig"}
+{"sub": "Thomas Picton", "obj": "London"}
+{"sub": "Donald Kaberry, Baron Kaberry of Adel", "obj": "London"}
+{"sub": "Bahamas", "obj": "Toronto"}
+{"sub": "Ivan Franko", "obj": "Lviv"}
+{"sub": "Francisco Franco", "obj": "Madrid"}
+{"sub": "Heinrich Himmler", "obj": "Berlin"}
+{"sub": "Gaetano Donizetti", "obj": "Vienna"}
+{"sub": "Daniel Heinsius", "obj": "Leiden"}
+{"sub": "Zeng Fanzhi", "obj": "Beijing"}
+{"sub": "Gilles Duceppe", "obj": "Ottawa"}
+{"sub": "Annette Kolb", "obj": "Munich"}
+{"sub": "Moses Shapira", "obj": "Jerusalem"}
+{"sub": "Giovanni Valentini", "obj": "Vienna"}
+{"sub": "Jean Denis Attiret", "obj": "Beijing"}
+{"sub": "Nigel Nicolson", "obj": "London"}
+{"sub": "John Pye", "obj": "London"}
+{"sub": "Karl Barth", "obj": "Berlin"}
+{"sub": "Marco Minghetti", "obj": "Rome"}
+{"sub": "Jaan Poska", "obj": "Tallinn"}
+{"sub": "Tony Wilson", "obj": "Manchester"}
+{"sub": "Marie Charette-Poulin", "obj": "Ottawa"}
+{"sub": "Rudolf Hess", "obj": "Berlin"}
+{"sub": "George Curzon, 1st Marquess Curzon of Kedleston", "obj": "London"}
+{"sub": "Josiah Quincy, Jr.", "obj": "Boston"}
+{"sub": "Dietmar Feichtinger", "obj": "Paris"}
+{"sub": "Joseph Reinach", "obj": "Paris"}
+{"sub": "Carol I of Romania", "obj": "Bucharest"}
+{"sub": "Anatoly Karpov", "obj": "Moscow"}
+{"sub": "Max Brod", "obj": "Prague"}
+{"sub": "Louis Loucheur", "obj": "Paris"}
+{"sub": "Jacob Boreel", "obj": "Amsterdam"}
+{"sub": "Fanny Mendelssohn", "obj": "Berlin"}
+{"sub": "Abraham Ortelius", "obj": "Antwerp"}
+{"sub": "Thomas Cranmer", "obj": "Canterbury"}
+{"sub": "Bundestag of Germany", "obj": "Bonn"}
+{"sub": "Chaim Herzog", "obj": "Jerusalem"}
+{"sub": "Markus Feldmann", "obj": "Bern"}
+{"sub": "Stephen Harper", "obj": "Ottawa"}
+{"sub": "Heinrich Heine", "obj": "Hamburg"}
+{"sub": "Theuderic III", "obj": "Paris"}
+{"sub": "John Singer Sargent", "obj": "Paris"}
+{"sub": "Trine Skei Grande", "obj": "Oslo"}
+{"sub": "Stanley Baldwin", "obj": "London"}
+{"sub": "Gaspard Gourgaud", "obj": "Paris"}
+{"sub": "Nicolas Born", "obj": "Berlin"}
+{"sub": "Carlo Domeniconi", "obj": "Berlin"}
+{"sub": "Hadia Tajik", "obj": "Oslo"}
+{"sub": "George Auriol", "obj": "Paris"}
+{"sub": "Alexandre de Beauharnais", "obj": "Paris"}
+{"sub": "Wiz Khalifa", "obj": "Pittsburgh"}
+{"sub": "Jeff Tweedy", "obj": "Chicago"}
+{"sub": "Samuel Turell Armstrong", "obj": "Boston"}
+{"sub": "Edward Said", "obj": "Cairo"}
+{"sub": "Willy Brandt", "obj": "Berlin"}
+{"sub": "Sir Charles Cayzer, 1st Baronet", "obj": "London"}
+{"sub": "Charles Dupin", "obj": "Paris"}
+{"sub": "Embrik Strand", "obj": "Berlin"}
+{"sub": "Johann Christian Bach", "obj": "Milan"}
+{"sub": "Firmin Didot", "obj": "Paris"}
+{"sub": "Eminem", "obj": "Detroit"}
+{"sub": "Henry Brooke, Baron Brooke of Cumnor", "obj": "London"}
+{"sub": "Douglas Sirk", "obj": "Leipzig"}
+{"sub": "Steven Spielberg", "obj": "Hollywood"}
+{"sub": "David Mellor", "obj": "London"}
+{"sub": "Hugh Cairns, 1st Earl Cairns", "obj": "London"}
+{"sub": "Heinrich Schliemann", "obj": "Athens"}
+{"sub": "Giacomo Doria", "obj": "Rome"}
+{"sub": "Galina Starovoytova", "obj": "Moscow"}
+{"sub": "Otto Frank", "obj": "Amsterdam"}
+{"sub": "Ursula Caberta", "obj": "Hamburg"}
+{"sub": "Van Tran", "obj": "Sacramento"}
+{"sub": "Franz Baader", "obj": "Dresden"}
+{"sub": "Georges Couthon", "obj": "Paris"}
+{"sub": "Dominicus Custos", "obj": "Prague"}
+{"sub": "Marlene Dietrich", "obj": "Berlin"}
+{"sub": "Maria Reining", "obj": "Vienna"}
+{"sub": "Pierre Augereau", "obj": "Paris"}
+{"sub": "Anne Grant", "obj": "Scotland"}
+{"sub": "Francis Palmer Smith", "obj": "Atlanta"}
+{"sub": "Georges Ernest Boulanger", "obj": "Paris"}
+{"sub": "Daniel Vaillant", "obj": "Paris"}
+{"sub": "Conrad Schick", "obj": "Jerusalem"}
+{"sub": "Philippus van Limborch", "obj": "Amsterdam"}
+{"sub": "Paschal Grousset", "obj": "Paris"}
+{"sub": "Sir Francis Baring, 1st Baronet", "obj": "London"}
+{"sub": "Carl Theodor Zahle", "obj": "Copenhagen"}
+{"sub": "John Coleridge, 1st Baron Coleridge", "obj": "London"}
+{"sub": "Walter Ulbricht", "obj": "Berlin"}
+{"sub": "Tankred Dorst", "obj": "Munich"}
+{"sub": "Adam Friedrich Oeser", "obj": "Leipzig"}
+{"sub": "Charles Hale", "obj": "Boston"}
+{"sub": "Walter Schwimmer", "obj": "Vienna"}
+{"sub": "Newton Moore", "obj": "London"}
+{"sub": "Charles Joseph Hullmandel", "obj": "London"}
+{"sub": "Pasqual Maragall i Mira", "obj": "Barcelona"}
+{"sub": "Maine de Biran", "obj": "Paris"}
+{"sub": "Johannes Burman", "obj": "Amsterdam"}
+{"sub": "Jean Nicolas Pierre Hachette", "obj": "Paris"}
+{"sub": "Jorge Oteiza", "obj": "Madrid"}
+{"sub": "Jean Tiberi", "obj": "Paris"}
+{"sub": "Friedrich Christoph Perthes", "obj": "Hamburg"}
+{"sub": "Robert Stawell Ball", "obj": "Dublin"}
+{"sub": "Lewis Milestone", "obj": "Hollywood"}
+{"sub": "Thomas Birkett", "obj": "Ottawa"}
+{"sub": "Josef Tal", "obj": "Jerusalem"}
+{"sub": "Francisco Serrano, 1st Duke of la Torre", "obj": "Madrid"}
+{"sub": "Paul Deschanel", "obj": "Paris"}
+{"sub": "Carlos Cruz-D\u00edez", "obj": "Caracas"}
+{"sub": "Johann Friedrich Cotta", "obj": "Stuttgart"}
+{"sub": "Alfred Harmsworth, 1st Viscount Northcliffe", "obj": "London"}
+{"sub": "Hans Leo Hassler", "obj": "Nuremberg"}
+{"sub": "Max Richter", "obj": "Edinburgh"}
+{"sub": "Lynda Clark, Baroness Clark of Calton", "obj": "London"}
+{"sub": "T. Franklin Ahearn", "obj": "Ottawa"}
+{"sub": "Wilson Lumpkin", "obj": "Atlanta"}
+{"sub": "librarian", "obj": "library"}
+{"sub": "Karel Bendl", "obj": "Prague"}
+{"sub": "Aimo Cajander", "obj": "Helsinki"}
+{"sub": "Agostino Steffani", "obj": "Munich"}
+{"sub": "Armand Trousseau", "obj": "Paris"}
+{"sub": "Leo Mittler", "obj": "Paris"}
+{"sub": "Derek Conway", "obj": "London"}
+{"sub": "John Henry Newman", "obj": "Birmingham"}
+{"sub": "Mayer Carl von Rothschild", "obj": "Frankfurt"}
+{"sub": "Joseph Schmitt", "obj": "Amsterdam"}
+{"sub": "Jennie Lee, Baroness Lee of Asheridge", "obj": "London"}
+{"sub": "Henri Estienne", "obj": "Paris"}
+{"sub": "Lord Henry FitzGerald", "obj": "London"}
+{"sub": "Georg Sverdrup", "obj": "Oslo"}
+{"sub": "Oscar Troplowitz", "obj": "Hamburg"}
+{"sub": "Sir William Pearce, 1st Baronet", "obj": "London"}
+{"sub": "Richard Brinsley Sheridan", "obj": "London"}
+{"sub": "Hanns Heinz Ewers", "obj": "Berlin"}
+{"sub": "Reinhart Dozy", "obj": "Leiden"}
+{"sub": "William Pitt the Younger", "obj": "London"}
+{"sub": "Arthur Headlam", "obj": "Gloucester"}
+{"sub": "Salomon Stricker", "obj": "Vienna"}
+{"sub": "Carl Joseph Begas", "obj": "Berlin"}
+{"sub": "Eugen Roth", "obj": "Munich"}
+{"sub": "Joseph Chamberlain", "obj": "London"}

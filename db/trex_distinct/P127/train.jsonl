@@ -1,0 +1,550 @@
+{"sub": "Google Code Search", "obj": "Google"}
+{"sub": "Knol", "obj": "Google"}
+{"sub": "Google Keep", "obj": "Google"}
+{"sub": "Google Shopping", "obj": "Google"}
+{"sub": "111 Eighth Avenue", "obj": "Google"}
+{"sub": "Google Drive", "obj": "Google"}
+{"sub": "Orkut", "obj": "Google"}
+{"sub": "Google China", "obj": "Google"}
+{"sub": "Googleplex", "obj": "Google"}
+{"sub": "YouTube", "obj": "Google"}
+{"sub": "Google Answers", "obj": "Google"}
+{"sub": "Google AdSense", "obj": "Google"}
+{"sub": "Chrome Web Store", "obj": "Google"}
+{"sub": "Google Maps", "obj": "Google"}
+{"sub": "Google Marketing Platform", "obj": "Google"}
+{"sub": "DeepMind", "obj": "Google"}
+{"sub": "On2 Technologies", "obj": "Google"}
+{"sub": "Chromebook", "obj": "Google"}
+{"sub": "Google Scholar", "obj": "Google"}
+{"sub": "Google Translate", "obj": "Google"}
+{"sub": "Knowledge Graph", "obj": "Google"}
+{"sub": "FeedBurner", "obj": "Google"}
+{"sub": "Google Custom Search", "obj": "Google"}
+{"sub": "Google Image Labeler", "obj": "Google"}
+{"sub": "Google Developers", "obj": "Google"}
+{"sub": "Google Earth", "obj": "Google"}
+{"sub": "Google Cloud Storage", "obj": "Google"}
+{"sub": "Google Health", "obj": "Google"}
+{"sub": "Google Contacts", "obj": "Google"}
+{"sub": "Google Ads", "obj": "Google"}
+{"sub": "Google Labs", "obj": "Google"}
+{"sub": "Google Patents", "obj": "Google"}
+{"sub": "Metaweb", "obj": "Google"}
+{"sub": "Google Trends", "obj": "Google"}
+{"sub": "Google News", "obj": "Google"}
+{"sub": "Panoramio", "obj": "Google"}
+{"sub": "Google Person Finder", "obj": "Google"}
+{"sub": "Google Account", "obj": "Google"}
+{"sub": "Google Finance", "obj": "Google"}
+{"sub": "Gmail", "obj": "Google"}
+{"sub": "Google Fiber", "obj": "Google"}
+{"sub": "Google Arts & Culture", "obj": "Google"}
+{"sub": "Meebo", "obj": "Google"}
+{"sub": "Blogger", "obj": "Google"}
+{"sub": "Google Groups", "obj": "Google"}
+{"sub": "Google Street View", "obj": "Google"}
+{"sub": "Boston Dynamics", "obj": "Google"}
+{"sub": "Google Map Maker", "obj": "Google"}
+{"sub": "Google Reader", "obj": "Google"}
+{"sub": "Pyra Labs", "obj": "Google"}
+{"sub": "Google Books", "obj": "Google"}
+{"sub": "Google Videos", "obj": "Google"}
+{"sub": "Jaiku", "obj": "Google"}
+{"sub": "Google Sites", "obj": "Google"}
+{"sub": "Vevo", "obj": "Google"}
+{"sub": "iGoogle", "obj": "Google"}
+{"sub": "Google Images", "obj": "Google"}
+{"sub": "Google Now", "obj": "Google"}
+{"sub": "Google Alerts", "obj": "Google"}
+{"sub": "Google Search", "obj": "Google"}
+{"sub": "Google Pay Send", "obj": "Google"}
+{"sub": "Google Buzz", "obj": "Google"}
+{"sub": "Google Voice", "obj": "Google"}
+{"sub": "Bundesautobahn 81", "obj": "Germany"}
+{"sub": "Bundesautobahn 111", "obj": "Germany"}
+{"sub": "Bundesautobahn 13", "obj": "Germany"}
+{"sub": "Bundesautobahn 46", "obj": "Germany"}
+{"sub": "Deutsche Bundespost", "obj": "Germany"}
+{"sub": "Bundesautobahn 7", "obj": "Germany"}
+{"sub": "Bundesautobahn 40", "obj": "Germany"}
+{"sub": "Bundesautobahn 48", "obj": "Germany"}
+{"sub": "Bundesautobahn 44", "obj": "Germany"}
+{"sub": "Bundesautobahn 98", "obj": "Germany"}
+{"sub": "Bundesautobahn 70", "obj": "Germany"}
+{"sub": "Bundesautobahn 4", "obj": "Germany"}
+{"sub": "Bundesautobahn 17", "obj": "Germany"}
+{"sub": "Bundesautobahn 73", "obj": "Germany"}
+{"sub": "Deutsche Flugsicherung", "obj": "Germany"}
+{"sub": "Bundesautobahn 61", "obj": "Germany"}
+{"sub": "Bundesautobahn 65", "obj": "Germany"}
+{"sub": "Bundesautobahn 11", "obj": "Germany"}
+{"sub": "Bundesautobahn 43", "obj": "Germany"}
+{"sub": "Bundesautobahn 42", "obj": "Germany"}
+{"sub": "Bundesautobahn 38", "obj": "Germany"}
+{"sub": "Bundesautobahn 8", "obj": "Germany"}
+{"sub": "Bundesautobahn 59", "obj": "Germany"}
+{"sub": "Bundesautobahn 100", "obj": "Germany"}
+{"sub": "Bundesautobahn 6", "obj": "Germany"}
+{"sub": "Bundesautobahn 14", "obj": "Germany"}
+{"sub": "Bundesautobahn 67", "obj": "Germany"}
+{"sub": "Bundesautobahn 3", "obj": "Germany"}
+{"sub": "Bundesautobahn 9", "obj": "Germany"}
+{"sub": "Bundesautobahn 5", "obj": "Germany"}
+{"sub": "Bundesautobahn 45", "obj": "Germany"}
+{"sub": "Bundesautobahn 72", "obj": "Germany"}
+{"sub": "Bundesautobahn 71", "obj": "Germany"}
+{"sub": "Bundesautobahn 62", "obj": "Germany"}
+{"sub": "Bundesautobahn 52", "obj": "Germany"}
+{"sub": "Bundesautobahn 20", "obj": "Germany"}
+{"sub": "Deutsche Bahn", "obj": "Germany"}
+{"sub": "Bundesautobahn 24", "obj": "Germany"}
+{"sub": "Bundesautobahn 2", "obj": "Germany"}
+{"sub": "Bundesautobahn 99", "obj": "Germany"}
+{"sub": "Bundesautobahn 66", "obj": "Germany"}
+{"sub": "Bundesautobahn 60", "obj": "Germany"}
+{"sub": "Bundesautobahn 555", "obj": "Germany"}
+{"sub": "Bundesautobahn 113", "obj": "Germany"}
+{"sub": "Bundesautobahn 1", "obj": "Germany"}
+{"sub": "Bundesautobahn 63", "obj": "Germany"}
+{"sub": "Bundesautobahn 29", "obj": "Germany"}
+{"sub": "BBC Knowledge", "obj": "BBC"}
+{"sub": "BBC 2W", "obj": "BBC"}
+{"sub": "Broadcasting House", "obj": "BBC"}
+{"sub": "BBC Switch", "obj": "BBC"}
+{"sub": "Bitesize", "obj": "BBC"}
+{"sub": "BBC HD", "obj": "BBC"}
+{"sub": "BBC Records", "obj": "BBC"}
+{"sub": "BBC Radio 5 Live", "obj": "BBC"}
+{"sub": "BBC World News", "obj": "BBC"}
+{"sub": "BBC Weather", "obj": "BBC"}
+{"sub": "BBC Choice", "obj": "BBC"}
+{"sub": "BBC Radio 1", "obj": "BBC"}
+{"sub": "BBC Persian Television", "obj": "BBC"}
+{"sub": "BBC Alba", "obj": "BBC"}
+{"sub": "BBC Red Button", "obj": "BBC"}
+{"sub": "BBC Radio 4", "obj": "BBC"}
+{"sub": "BBC Archives", "obj": "BBC"}
+{"sub": "BBC Four", "obj": "BBC"}
+{"sub": "BBC Parliament", "obj": "BBC"}
+{"sub": "BBC One", "obj": "BBC"}
+{"sub": "BBC Domesday Reloaded", "obj": "BBC"}
+{"sub": "BBC News Online", "obj": "BBC"}
+{"sub": "BBC Worldwide", "obj": "BBC"}
+{"sub": "Pebble Mill Studios", "obj": "BBC"}
+{"sub": "BBC Three", "obj": "BBC"}
+{"sub": "BBC Films", "obj": "BBC"}
+{"sub": "BBC Radio 4 Extra", "obj": "BBC"}
+{"sub": "BBC Online", "obj": "BBC"}
+{"sub": "BBC Two", "obj": "BBC"}
+{"sub": "CBeebies", "obj": "BBC"}
+{"sub": "BBC Radio 3", "obj": "BBC"}
+{"sub": "BBC Radio 2", "obj": "BBC"}
+{"sub": "BBC Arabic Television", "obj": "BBC"}
+{"sub": "Freesat", "obj": "BBC"}
+{"sub": "BBC Music", "obj": "BBC"}
+{"sub": "BBC News", "obj": "BBC"}
+{"sub": "XDCAM", "obj": "Sony"}
+{"sub": "Sony Pictures Television", "obj": "Sony"}
+{"sub": "So-net", "obj": "Sony"}
+{"sub": "compact disc", "obj": "Sony"}
+{"sub": "SCE Studio Liverpool", "obj": "Sony"}
+{"sub": "DVD", "obj": "Sony"}
+{"sub": "U-matic", "obj": "Sony"}
+{"sub": "Sony Crackle", "obj": "Sony"}
+{"sub": "Columbia TriStar Motion Picture Group", "obj": "Sony"}
+{"sub": "AVCHD", "obj": "Sony"}
+{"sub": "Sony Pictures Entertainment Japan", "obj": "Sony"}
+{"sub": "Super Audio CD", "obj": "Sony"}
+{"sub": "Sony Pictures", "obj": "Sony"}
+{"sub": "Sony Music Entertainment Japan", "obj": "Sony"}
+{"sub": "DV", "obj": "Sony"}
+{"sub": "Video CD", "obj": "Sony"}
+{"sub": "ELP Communications", "obj": "Sony"}
+{"sub": "Sony/ATV Music Publishing", "obj": "Sony"}
+{"sub": "Aniplex", "obj": "Sony"}
+{"sub": "Digital Audio Stationary Head", "obj": "Sony"}
+{"sub": "Sucker Punch Productions", "obj": "Sony"}
+{"sub": "Compact Disc Digital Audio", "obj": "Sony"}
+{"sub": "Betacam", "obj": "Sony"}
+{"sub": "Sony Interactive Entertainment", "obj": "Sony"}
+{"sub": "Digital Audio Tape", "obj": "Sony"}
+{"sub": "HDCAM", "obj": "Sony"}
+{"sub": "OneDrive", "obj": "Microsoft"}
+{"sub": "Ensemble Studios", "obj": "Microsoft"}
+{"sub": "Powerset", "obj": "Microsoft"}
+{"sub": "Microsoft account", "obj": "Microsoft"}
+{"sub": "Cambria", "obj": "Microsoft"}
+{"sub": "MSN Games", "obj": "Microsoft"}
+{"sub": "MSN", "obj": "Microsoft"}
+{"sub": "Mojang", "obj": "Microsoft"}
+{"sub": "Outlook.com", "obj": "Microsoft"}
+{"sub": "Windows Media Player", "obj": "Microsoft"}
+{"sub": "Microsoft Developer Network", "obj": "Microsoft"}
+{"sub": "Xbox Game Studios", "obj": "Microsoft"}
+{"sub": "MSN Music", "obj": "Microsoft"}
+{"sub": "Office Online", "obj": "Microsoft"}
+{"sub": "CodePlex", "obj": "Microsoft"}
+{"sub": "Yammer", "obj": "Microsoft"}
+{"sub": "Microsoft TechNet", "obj": "Microsoft"}
+{"sub": "Revolution Analytics", "obj": "Microsoft"}
+{"sub": "Bing Videos", "obj": "Microsoft"}
+{"sub": "Xamarin", "obj": "Microsoft"}
+{"sub": "Skype Technologies", "obj": "Microsoft"}
+{"sub": "LinkedIn", "obj": "Microsoft"}
+{"sub": "Digital Anvil", "obj": "Microsoft"}
+{"sub": "Bing Maps", "obj": "Microsoft"}
+{"sub": "Xbox", "obj": "Microsoft"}
+{"sub": "Yahoo! Sports", "obj": "Yahoo"}
+{"sub": "Rivals.com", "obj": "Yahoo"}
+{"sub": "Yahoo! News", "obj": "Yahoo"}
+{"sub": "Yahoo! Music", "obj": "Yahoo"}
+{"sub": "Yahoo Games", "obj": "Yahoo"}
+{"sub": "Yahoo Answers", "obj": "Yahoo"}
+{"sub": "Yahoo! Tech", "obj": "Yahoo"}
+{"sub": "Yahoo Mail", "obj": "Yahoo"}
+{"sub": "Yahoo Search", "obj": "Yahoo"}
+{"sub": "Upcoming", "obj": "Yahoo"}
+{"sub": "Flickr", "obj": "Yahoo"}
+{"sub": "AltaVista", "obj": "Yahoo"}
+{"sub": "Yahoo! HotJobs", "obj": "Yahoo"}
+{"sub": "Tumblr", "obj": "Yahoo"}
+{"sub": "Yahoo! Groups", "obj": "Yahoo"}
+{"sub": "Sky Witness", "obj": "Sky"}
+{"sub": "Sky Sports", "obj": "Sky"}
+{"sub": "Sky Atlantic", "obj": "Sky"}
+{"sub": "Sky Sports F1", "obj": "Sky"}
+{"sub": "Sky Sports News", "obj": "Sky"}
+{"sub": "Sky2", "obj": "Sky"}
+{"sub": "Sky Sports Racing", "obj": "Sky"}
+{"sub": "Sky Cinema", "obj": "Sky"}
+{"sub": "Sky News", "obj": "Sky"}
+{"sub": "Amstrad", "obj": "Sky"}
+{"sub": "Sky Movies Box Office", "obj": "Sky"}
+{"sub": "Be Un Limited", "obj": "Sky"}
+{"sub": "Sky 1", "obj": "Sky"}
+{"sub": "Alexa Internet", "obj": "Amazon"}
+{"sub": "Amazon Kindle", "obj": "Amazon"}
+{"sub": "AbeBooks", "obj": "Amazon"}
+{"sub": "Amazon Web Services", "obj": "Amazon"}
+{"sub": "Internet Movie Database", "obj": "Amazon"}
+{"sub": "Goodreads", "obj": "Amazon"}
+{"sub": "Amazon Music", "obj": "Amazon"}
+{"sub": "Box Office Mojo", "obj": "Amazon"}
+{"sub": "Amazon S3", "obj": "Amazon"}
+{"sub": "Audible.com", "obj": "Amazon"}
+{"sub": "Westland Helicopters", "obj": "Leonardo"}
+{"sub": "Alenia Aermacchi", "obj": "Leonardo"}
+{"sub": "Aeritalia", "obj": "Leonardo"}
+{"sub": "Thales Alenia Space", "obj": "Leonardo"}
+{"sub": "Hitachi Rail Italy", "obj": "Leonardo"}
+{"sub": "Oto Melara", "obj": "Leonardo"}
+{"sub": "AgustaWestland", "obj": "Leonardo"}
+{"sub": "Telespazio", "obj": "Leonardo"}
+{"sub": "Agusta", "obj": "Leonardo"}
+{"sub": "Aermacchi", "obj": "Leonardo"}
+{"sub": "Hell Gate Bridge", "obj": "Amtrak"}
+{"sub": "East River Tunnels", "obj": "Amtrak"}
+{"sub": "Beech Grove Shops", "obj": "Amtrak"}
+{"sub": "30th Street Station", "obj": "Amtrak"}
+{"sub": "Harrisburg Transportation Center", "obj": "Amtrak"}
+{"sub": "Providence Station", "obj": "Amtrak"}
+{"sub": "North River Tunnels", "obj": "Amtrak"}
+{"sub": "Pennsylvania Station", "obj": "Amtrak"}
+{"sub": "BWI Rail Station", "obj": "Amtrak"}
+{"sub": "Nintendo Entertainment Analysis & Development", "obj": "Nintendo"}
+{"sub": "1-UP Studio", "obj": "Nintendo"}
+{"sub": "Monolith Soft", "obj": "Nintendo"}
+{"sub": "Nd Cube", "obj": "Nintendo"}
+{"sub": "Nintendo Network Service Development", "obj": "Nintendo"}
+{"sub": "HAL Laboratory", "obj": "Nintendo"}
+{"sub": "Nintendo Software Planning & Development", "obj": "Nintendo"}
+{"sub": "Retro Studios", "obj": "Nintendo"}
+{"sub": "Nintendo Software Technology", "obj": "Nintendo"}
+{"sub": "iTunes Radio", "obj": "Apple"}
+{"sub": "Beats Electronics", "obj": "Apple"}
+{"sub": "FileMaker, Inc.", "obj": "Apple"}
+{"sub": "iAd", "obj": "Apple"}
+{"sub": "Beats Music", "obj": "Apple"}
+{"sub": "Imagination Technologies", "obj": "Apple"}
+{"sub": "Apple Campus", "obj": "Apple"}
+{"sub": "iWork", "obj": "Apple"}
+{"sub": "Apple Store Online", "obj": "Apple"}
+{"sub": "Palace of Fontainebleau", "obj": "France"}
+{"sub": "Radio France", "obj": "France"}
+{"sub": "Stade de France", "obj": "France"}
+{"sub": "Joconde", "obj": "France"}
+{"sub": "Areva", "obj": "France"}
+{"sub": "Arte", "obj": "France"}
+{"sub": "Mona Lisa", "obj": "France"}
+{"sub": "Arc de Triomphe", "obj": "France"}
+{"sub": "Simca", "obj": "Fiat"}
+{"sub": "Fiat Aviazione", "obj": "Fiat"}
+{"sub": "Fiat Chrysler Automobiles", "obj": "Fiat"}
+{"sub": "Fiat Ferroviaria", "obj": "Fiat"}
+{"sub": "Autobianchi", "obj": "Fiat"}
+{"sub": "Abarth", "obj": "Fiat"}
+{"sub": "Boeing Helicopters", "obj": "Boeing"}
+{"sub": "Boeing Phantom Works", "obj": "Boeing"}
+{"sub": "Boeing Commercial Airplanes", "obj": "Boeing"}
+{"sub": "Boeing Defense, Space & Security", "obj": "Boeing"}
+{"sub": "United Launch Alliance", "obj": "Boeing"}
+{"sub": "Jeppesen", "obj": "Boeing"}
+{"sub": "World Championship Wrestling", "obj": "WWE"}
+{"sub": "WWE Classics on Demand", "obj": "WWE"}
+{"sub": "WWE NXT", "obj": "WWE"}
+{"sub": "WWE Studios", "obj": "WWE"}
+{"sub": "WWE Network", "obj": "WWE"}
+{"sub": "Florida Championship Wrestling", "obj": "WWE"}
+{"sub": "Sports Interactive", "obj": "Sega"}
+{"sub": "Sega Sports R&D", "obj": "Sega"}
+{"sub": "Sega Wow", "obj": "Sega"}
+{"sub": "SegaSoft", "obj": "Sega"}
+{"sub": "Camelot Software Planning", "obj": "Sega"}
+{"sub": "Sonic Team", "obj": "Sega"}
+{"sub": "Congress Hall", "obj": "Philadelphia"}
+{"sub": "Veterans Stadium", "obj": "Philadelphia"}
+{"sub": "Citizens Bank Park", "obj": "Philadelphia"}
+{"sub": "Lincoln Financial Field", "obj": "Philadelphia"}
+{"sub": "Philadelphia International Airport", "obj": "Philadelphia"}
+{"sub": "Lion", "obj": "Mitsubishi"}
+{"sub": "Mitsubishi Corporation", "obj": "Mitsubishi"}
+{"sub": "Mitsubishi Motors", "obj": "Mitsubishi"}
+{"sub": "Nikon", "obj": "Mitsubishi"}
+{"sub": "Princes", "obj": "Mitsubishi"}
+{"sub": "Winnipeg Route 42", "obj": "Winnipeg"}
+{"sub": "Winnipeg Route 90", "obj": "Winnipeg"}
+{"sub": "Canad Inns Stadium", "obj": "Winnipeg"}
+{"sub": "Winnipeg Route 85", "obj": "Winnipeg"}
+{"sub": "Winnipeg Route 52", "obj": "Winnipeg"}
+{"sub": "O'Hare International Airport", "obj": "Chicago"}
+{"sub": "Soldier Field", "obj": "Chicago"}
+{"sub": "Oak Street Beach", "obj": "Chicago"}
+{"sub": "Chicago Midway International Airport", "obj": "Chicago"}
+{"sub": "Exelon Pavilions", "obj": "Chicago"}
+{"sub": "California State Capitol", "obj": "California"}
+{"sub": "Fort Ross State Historic Park", "obj": "California"}
+{"sub": "Rancho Petaluma Adobe", "obj": "California"}
+{"sub": "Los Angeles Memorial Coliseum", "obj": "California"}
+{"sub": "Goat Rock Beach", "obj": "California"}
+{"sub": "ESPN Films", "obj": "ESPN"}
+{"sub": "ESPN FC", "obj": "ESPN"}
+{"sub": "Grantland", "obj": "ESPN"}
+{"sub": "ESPN.com", "obj": "ESPN"}
+{"sub": "FiveThirtyEight", "obj": "ESPN"}
+{"sub": "Bayerische Eisenbahngesellschaft", "obj": "Bavaria"}
+{"sub": "Schloss Johannisburg", "obj": "Bavaria"}
+{"sub": "Bavarian State Painting Collections", "obj": "Bavaria"}
+{"sub": "Bavarian State Library", "obj": "Bavaria"}
+{"sub": "Maruti Suzuki", "obj": "Suzuki"}
+{"sub": "Pak Suzuki Motors", "obj": "Suzuki"}
+{"sub": "CAMI Automotive", "obj": "Suzuki"}
+{"sub": "Magyar Suzuki", "obj": "Suzuki"}
+{"sub": "HBO Films", "obj": "HBO"}
+{"sub": "HBO Now", "obj": "HBO"}
+{"sub": "Cinemax", "obj": "HBO"}
+{"sub": "HBO Asia", "obj": "HBO"}
+{"sub": "Rolls-Royce Motor Cars", "obj": "BMW"}
+{"sub": "Mini", "obj": "BMW"}
+{"sub": "BMW M", "obj": "BMW"}
+{"sub": "BMW Motorrad", "obj": "BMW"}
+{"sub": "Market Square Arena", "obj": "Indianapolis"}
+{"sub": "Bush Stadium", "obj": "Indianapolis"}
+{"sub": "Bankers Life Fieldhouse", "obj": "Indianapolis"}
+{"sub": "Victory Field", "obj": "Indianapolis"}
+{"sub": "Day Software", "obj": "Adobe"}
+{"sub": "Scene7", "obj": "Adobe"}
+{"sub": "Behance", "obj": "Adobe"}
+{"sub": "Acrobat.com", "obj": "Adobe"}
+{"sub": "Telelogic", "obj": "IBM"}
+{"sub": "Mark sense", "obj": "IBM"}
+{"sub": "Lotus Software", "obj": "IBM"}
+{"sub": "Cognos", "obj": "IBM"}
+{"sub": "Red Rocks Amphitheatre", "obj": "Denver"}
+{"sub": "McNichols Sports Arena", "obj": "Denver"}
+{"sub": "Denver International Airport", "obj": "Denver"}
+{"sub": "Denver Auditorium Arena", "obj": "Denver"}
+{"sub": "ARCO", "obj": "BP"}
+{"sub": "Thunder Horse PDQ", "obj": "BP"}
+{"sub": "Amoco", "obj": "BP"}
+{"sub": "Castrol", "obj": "BP"}
+{"sub": "Doug Mitchell Thunderbird Sports Centre", "obj": "Vancouver"}
+{"sub": "Vancouver Forum", "obj": "Vancouver"}
+{"sub": "Vancouver City Hall", "obj": "Vancouver"}
+{"sub": "Pacific Coliseum", "obj": "Vancouver"}
+{"sub": "Sparrow Records", "obj": "EMI"}
+{"sub": "Cooltempo Records", "obj": "EMI"}
+{"sub": "Priority Records", "obj": "EMI"}
+{"sub": "EMI Classics", "obj": "EMI"}
+{"sub": "Nokia Networks", "obj": "Nokia"}
+{"sub": "Alcatel-Lucent", "obj": "Nokia"}
+{"sub": "Bell Labs", "obj": "Nokia"}
+{"sub": "Luxor AB", "obj": "Nokia"}
+{"sub": "Deutschlandhalle", "obj": "Berlin"}
+{"sub": "Olympiastadion Berlin", "obj": "Berlin"}
+{"sub": "Friedrich-Ludwig-Jahn-Sportpark", "obj": "Berlin"}
+{"sub": "Funkturm Berlin", "obj": "Berlin"}
+{"sub": "Clarke Stadium", "obj": "Edmonton"}
+{"sub": "Edmonton Gardens", "obj": "Edmonton"}
+{"sub": "RE/MAX Field", "obj": "Edmonton"}
+{"sub": "Rogers Place", "obj": "Edmonton"}
+{"sub": "Hamburg City Hall", "obj": "Hamburg"}
+{"sub": "Speicherstadt", "obj": "Hamburg"}
+{"sub": "Hamburger Hochbahn", "obj": "Hamburg"}
+{"sub": "Deutsches Schauspielhaus", "obj": "Hamburg"}
+{"sub": "OSRAM Licht AG", "obj": "Siemens"}
+{"sub": "Siemens Communications", "obj": "Siemens"}
+{"sub": "UGS Corp.", "obj": "Siemens"}
+{"sub": "Kramer Guitars", "obj": "Gibson"}
+{"sub": "Epiphone", "obj": "Gibson"}
+{"sub": "Baldwin Piano Company", "obj": "Gibson"}
+{"sub": "Ovcha Kupel Stadium", "obj": "Sofia"}
+{"sub": "Georgi Asparuhov Stadium", "obj": "Sofia"}
+{"sub": "Arena Armeec", "obj": "Sofia"}
+{"sub": "Sandringham House", "obj": "Victoria"}
+{"sub": "Royal Athletic Park", "obj": "Victoria"}
+{"sub": "Save-On-Foods Memorial Centre", "obj": "Victoria"}
+{"sub": "Zadar Airport", "obj": "Croatia"}
+{"sub": "Dubrovnik Airport", "obj": "Croatia"}
+{"sub": "Narodne novine", "obj": "Croatia"}
+{"sub": "William P. Hobby Airport", "obj": "Houston"}
+{"sub": "Lakewood Church Central Campus", "obj": "Houston"}
+{"sub": "George Bush Intercontinental Airport", "obj": "Houston"}
+{"sub": "Karaiskakis Stadium", "obj": "Greece"}
+{"sub": "Heraklion International Airport", "obj": "Greece"}
+{"sub": "Panathenaic Stadium", "obj": "Greece"}
+{"sub": "Cinema Center Films", "obj": "CBS"}
+{"sub": "Viacom", "obj": "CBS"}
+{"sub": "Showtime Networks", "obj": "CBS"}
+{"sub": "Renault Trucks", "obj": "Volvo"}
+{"sub": "Volvo Trucks", "obj": "Volvo"}
+{"sub": "UD Trucks", "obj": "Volvo"}
+{"sub": "Polish State Railways", "obj": "Poland"}
+{"sub": "PZL Mielec", "obj": "Poland"}
+{"sub": "LOT Polish Airlines", "obj": "Poland"}
+{"sub": "Ajinomoto Stadium", "obj": "Tokyo"}
+{"sub": "Ariake Coliseum", "obj": "Tokyo"}
+{"sub": "Ueno  Imperial Grant Park", "obj": "Tokyo"}
+{"sub": "Oyak-Renault", "obj": "Renault"}
+{"sub": "Dacia", "obj": "Renault"}
+{"sub": "Gordini", "obj": "Renault"}
+{"sub": "Monas, National Monument of Indonesia", "obj": "Indonesia"}
+{"sub": "Garuda Indonesia", "obj": "Indonesia"}
+{"sub": "Soewondo Air Force Base", "obj": "Indonesia"}
+{"sub": "Estadio Francisco Montaner", "obj": "Ponce"}
+{"sub": "Parque de Bombas", "obj": "Ponce"}
+{"sub": "Museum of Ponce History", "obj": "Ponce"}
+{"sub": "Honolulu International Airport", "obj": "Hawaii"}
+{"sub": "Hawaii State Capitol", "obj": "Hawaii"}
+{"sub": "Aloha Stadium", "obj": "Hawaii"}
+{"sub": "Fort Macomb", "obj": "Louisiana"}
+{"sub": "Mercedes-Benz Superdome", "obj": "Louisiana"}
+{"sub": "Louisiana State Capitol", "obj": "Louisiana"}
+{"sub": "Detroit City Hall", "obj": "Detroit"}
+{"sub": "Detroit Olympia", "obj": "Detroit"}
+{"sub": "Joe Louis Arena", "obj": "Detroit"}
+{"sub": "Turku Castle", "obj": "Finland"}
+{"sub": "Valtion lentokonetehdas", "obj": "Finland"}
+{"sub": "Ainola", "obj": "Finland"}
+{"sub": "Azienda Trasporti Milanesi", "obj": "Milan"}
+{"sub": "Arena Civica", "obj": "Milan"}
+{"sub": "Giuseppe Meazza Stadium (San Siro)", "obj": "Milan"}
+{"sub": "Velodrome Humbert I", "obj": "Turin"}
+{"sub": "Stadio delle Alpi", "obj": "Turin"}
+{"sub": "Stadio Olimpico Grande Torino", "obj": "Turin"}
+{"sub": "Stadio Nazionale PNF", "obj": "Rome"}
+{"sub": "Stadio Flaminio", "obj": "Rome"}
+{"sub": "Palazzetto dello Sport", "obj": "Rome"}
+{"sub": "Parc des Princes", "obj": "Paris"}
+{"sub": "Eiffel Tower", "obj": "Paris"}
+{"sub": "The Sleepers", "obj": "Paris"}
+{"sub": "Municipal House", "obj": "Prague"}
+{"sub": "Powder Tower", "obj": "Prague"}
+{"sub": "Strahov Stadium", "obj": "Prague"}
+{"sub": "Orlando Stadium", "obj": "Johannesburg"}
+{"sub": "Rand Stadium", "obj": "Johannesburg"}
+{"sub": "Ellis Park Stadium", "obj": "Johannesburg"}
+{"sub": "Mamer railway station", "obj": "Luxembourg"}
+{"sub": "Luxembourg railway station", "obj": "Luxembourg"}
+{"sub": "Lamborghini", "obj": "Audi"}
+{"sub": "Ducati Motor Holding S.p.A.", "obj": "Audi"}
+{"sub": "Kenmore Appliances", "obj": "Sears"}
+{"sub": "Willis Tower", "obj": "Sears"}
+{"sub": "Daihatsu", "obj": "Toyota"}
+{"sub": "Lexus", "obj": "Toyota"}
+{"sub": "Pinnacle Bank Arena", "obj": "Lincoln"}
+{"sub": "Pershing Center", "obj": "Lincoln"}
+{"sub": "KL Sports City", "obj": "Malaysia"}
+{"sub": "National Stadium, Bukit Jalil", "obj": "Malaysia"}
+{"sub": "Pennhurst State School and Hospital", "obj": "Pennsylvania"}
+{"sub": "Pennsylvania State Capitol", "obj": "Pennsylvania"}
+{"sub": "Dino", "obj": "Ferrari"}
+{"sub": "Galleria Ferrari", "obj": "Ferrari"}
+{"sub": "Hangar", "obj": "Lancaster"}
+{"sub": "Ashton Memorial", "obj": "Lancaster"}
+{"sub": "Sporting Clube de Goa", "obj": "Goa"}
+{"sub": "Dabolim Airport", "obj": "Goa"}
+{"sub": "Karlberg Palace", "obj": "Sweden"}
+{"sub": "Swedish National Rail Administration", "obj": "Sweden"}
+{"sub": "Target Center", "obj": "Minneapolis"}
+{"sub": "Metropolitan Stadium", "obj": "Minneapolis"}
+{"sub": "Coca-Cola Coliseum", "obj": "Toronto"}
+{"sub": "Centennial Park Stadium", "obj": "Toronto"}
+{"sub": "Hessische Landesbahn", "obj": "Hesse"}
+{"sub": "IG Farben Building", "obj": "Hesse"}
+{"sub": "Atari Interactive", "obj": "Atari"}
+{"sub": "Fox Interactive", "obj": "Atari"}
+{"sub": "Honda Center", "obj": "Anaheim"}
+{"sub": "Angel Stadium of Anaheim", "obj": "Anaheim"}
+{"sub": "National Cycling Centre", "obj": "Manchester"}
+{"sub": "National Indoor BMX Arena", "obj": "Manchester"}
+{"sub": "Mobile Civic Center", "obj": "Mobile"}
+{"sub": "Hank Aaron Stadium", "obj": "Mobile"}
+{"sub": "Telia 5G -areena", "obj": "Helsinki"}
+{"sub": "Helsinki City Transport", "obj": "Helsinki"}
+{"sub": "Jerusalem Arena", "obj": "Jerusalem"}
+{"sub": "Teddy Stadium", "obj": "Jerusalem"}
+{"sub": "Indoor Stadium Huamark", "obj": "Bangkok"}
+{"sub": "Rajadamnern Stadium", "obj": "Bangkok"}
+{"sub": "Citizens Business Bank Arena", "obj": "Ontario"}
+{"sub": "Liquor Control Board of Ontario", "obj": "Ontario"}
+{"sub": "Oracle Arena", "obj": "Oakland"}
+{"sub": "Oakland Coliseum", "obj": "Oakland"}
+{"sub": "TD Ameritrade Park Omaha", "obj": "Omaha"}
+{"sub": "CHI Health Center Omaha", "obj": "Omaha"}
+{"sub": "American Airlines Center", "obj": "Dallas"}
+{"sub": "Reunion Arena", "obj": "Dallas"}
+{"sub": "Tianmu Baseball Stadium", "obj": "Taipei"}
+{"sub": "Taipei Municipal Baseball Stadium", "obj": "Taipei"}
+{"sub": "Chrysler Europe", "obj": "Chrysler"}
+{"sub": "Eagle", "obj": "Chrysler"}
+{"sub": "Glamis Castle", "obj": "Scotland"}
+{"sub": "Drummond Castle", "obj": "Scotland"}
+{"sub": "FirstEnergy Stadium", "obj": "Cleveland"}
+{"sub": "Cleveland Stadium", "obj": "Cleveland"}
+{"sub": "Gangnam Station", "obj": "Seoul"}
+{"sub": "Seoul Subway Line 9", "obj": "Seoul"}
+{"sub": "Oboronprom", "obj": "Russia"}
+{"sub": "VTB Bank", "obj": "Russia"}
+{"sub": "Nismo", "obj": "Nissan"}
+{"sub": "Nissan Motor Manufacturing UK", "obj": "Nissan"}
+{"sub": "Mount Royal Cross", "obj": "Montreal"}
+{"sub": "Jarry Park Stadium", "obj": "Montreal"}
+{"sub": "\u0160tark Arena", "obj": "Belgrade"}
+{"sub": "Atelje 212", "obj": "Belgrade"}
+{"sub": "TD Place Stadium", "obj": "Ottawa"}
+{"sub": "Ottawa Civic Centre", "obj": "Ottawa"}
+{"sub": "T\u00fcrkiye Cumhuriyeti Devlet Demiryollar\u0131", "obj": "Turkey"}
+{"sub": "Uluburun shipwreck", "obj": "Turkey"}
+{"sub": "Nick.com", "obj": "Nickelodeon"}
+{"sub": "Holiday Inn Resort Orlando Suites - Waterpark", "obj": "Nickelodeon"}
+{"sub": "Gotthard Road Tunnel", "obj": "Switzerland"}
+{"sub": "RUAG", "obj": "Switzerland"}
+{"sub": "Chukchansi Park", "obj": "Fresno"}
+{"sub": "Selland Arena", "obj": "Fresno"}
+{"sub": "Yokohama Stadium", "obj": "Yokohama"}
+{"sub": "Nippatsu Mitsuzawa Stadium", "obj": "Yokohama"}
+{"sub": "bpost", "obj": "Belgium"}
+{"sub": "Meise Botanic Garden", "obj": "Belgium"}
+{"sub": "The Shard", "obj": "Qatar"}
+{"sub": "Qatar Airways", "obj": "Qatar"}

@@ -1,0 +1,592 @@
+{"sub": "MessagePad", "obj": "Apple"}
+{"sub": "macOS", "obj": "Apple"}
+{"sub": "iOS", "obj": "Apple"}
+{"sub": "Safari", "obj": "Apple"}
+{"sub": "iLife", "obj": "Apple"}
+{"sub": "iWork", "obj": "Apple"}
+{"sub": "PostScript", "obj": "Adobe"}
+{"sub": "IBM AIX", "obj": "IBM"}
+{"sub": "AppleTalk", "obj": "Apple"}
+{"sub": "Applesoft BASIC", "obj": "Microsoft"}
+{"sub": "Active Directory", "obj": "Microsoft"}
+{"sub": "Windows Vista", "obj": "Microsoft"}
+{"sub": "Internet Explorer", "obj": "Microsoft"}
+{"sub": "Outlook Express", "obj": "Microsoft"}
+{"sub": "Microsoft Outlook", "obj": "Microsoft"}
+{"sub": "B-17 Flying Fortress", "obj": "Boeing"}
+{"sub": "DirectX", "obj": "Microsoft"}
+{"sub": "Microsoft Windows", "obj": "Microsoft"}
+{"sub": "Xbox 360", "obj": "Microsoft"}
+{"sub": "Xbox One", "obj": "Microsoft"}
+{"sub": "Microsoft Internet Explorer 4", "obj": "Microsoft"}
+{"sub": "Itanium", "obj": "Intel"}
+{"sub": "MS-DOS", "obj": "Microsoft"}
+{"sub": "Fortran", "obj": "IBM"}
+{"sub": "GW-BASIC", "obj": "Microsoft"}
+{"sub": "Windows 1.0", "obj": "Microsoft"}
+{"sub": "ASIMO", "obj": "Honda"}
+{"sub": "Nintendo 2DS", "obj": "Nintendo"}
+{"sub": "Nintendo 3DS", "obj": "Nintendo"}
+{"sub": "Intel Threading Building Blocks", "obj": "Intel"}
+{"sub": "IA-32", "obj": "Intel"}
+{"sub": "Intel 8086", "obj": "Intel"}
+{"sub": "Intel 80386", "obj": "Intel"}
+{"sub": "Intel 80486SX", "obj": "Intel"}
+{"sub": "Intel 80486", "obj": "Intel"}
+{"sub": "Windows 10", "obj": "Microsoft"}
+{"sub": "IA-64", "obj": "Intel"}
+{"sub": "Pentium II", "obj": "Intel"}
+{"sub": "Lotus 1-2-3", "obj": "IBM"}
+{"sub": "Microsoft Excel", "obj": "Microsoft"}
+{"sub": "Microsoft Office", "obj": "Microsoft"}
+{"sub": "Microsoft Surface", "obj": "Microsoft"}
+{"sub": "MVS", "obj": "IBM"}
+{"sub": "Xenix", "obj": "Microsoft"}
+{"sub": "Microsoft Word", "obj": "Microsoft"}
+{"sub": "Mac OS", "obj": "Apple"}
+{"sub": "Mac OS 9", "obj": "Apple"}
+{"sub": "macOS Server", "obj": "Apple"}
+{"sub": "Final Fantasy V", "obj": "Square"}
+{"sub": "Windows Embedded Automotive", "obj": "Microsoft"}
+{"sub": "MSX-DOS", "obj": "Microsoft"}
+{"sub": "Windows 95", "obj": "Microsoft"}
+{"sub": "MiniDisc", "obj": "Sony"}
+{"sub": "Internet Information Services", "obj": "Microsoft"}
+{"sub": "Microsoft Visual Studio", "obj": "Microsoft"}
+{"sub": "Windows 98", "obj": "Microsoft"}
+{"sub": "Windows NT 4.0", "obj": "Microsoft"}
+{"sub": "Microsoft FrontPage", "obj": "Microsoft"}
+{"sub": "Mac OS X Panther", "obj": "Apple"}
+{"sub": "Pentium 4", "obj": "Intel"}
+{"sub": "ISPF", "obj": "IBM"}
+{"sub": "XEDIT", "obj": "IBM"}
+{"sub": "Yahoo! Messenger", "obj": "Yahoo"}
+{"sub": "Pentium M", "obj": "Intel"}
+{"sub": "Microsoft BASIC", "obj": "Microsoft"}
+{"sub": "Adobe Acrobat", "obj": "Adobe"}
+{"sub": "Portable Document Format", "obj": "Adobe"}
+{"sub": "Adobe GoLive", "obj": "Adobe"}
+{"sub": "Adobe Dreamweaver", "obj": "Adobe"}
+{"sub": "Adobe PageMaker", "obj": "Adobe"}
+{"sub": "MobileMe", "obj": "Apple"}
+{"sub": "Zaxxon", "obj": "Sega"}
+{"sub": "Windows NT", "obj": "Microsoft"}
+{"sub": "Visual Basic .NET", "obj": "Microsoft"}
+{"sub": "NetBurst", "obj": "Intel"}
+{"sub": "Core 2", "obj": "Intel"}
+{"sub": "Microsoft Internet Explorer 6", "obj": "Microsoft"}
+{"sub": "Adobe Flash", "obj": "Adobe"}
+{"sub": "Adobe Flash Builder", "obj": "Adobe"}
+{"sub": "Symbian", "obj": "Nokia"}
+{"sub": "Windows Phone", "obj": "Microsoft"}
+{"sub": "Mario franchise", "obj": "Nintendo"}
+{"sub": "Pentium", "obj": "Intel"}
+{"sub": "Adobe Photoshop", "obj": "Adobe"}
+{"sub": "Adobe Photoshop Elements", "obj": "Adobe"}
+{"sub": "Adobe Photoshop Lightroom", "obj": "Adobe"}
+{"sub": "MacPaint", "obj": "Apple"}
+{"sub": "QuickTime", "obj": "Apple"}
+{"sub": "Rich Text Format", "obj": "Microsoft"}
+{"sub": "Mac OS X 10.2", "obj": "Apple"}
+{"sub": "XScale", "obj": "Intel"}
+{"sub": "Wii U", "obj": "Nintendo"}
+{"sub": "Visual Basic Script", "obj": "Microsoft"}
+{"sub": "Microsoft Visio", "obj": "Microsoft"}
+{"sub": "Windows XP", "obj": "Microsoft"}
+{"sub": "Windows 2000", "obj": "Microsoft"}
+{"sub": "Windows Media Audio", "obj": "Microsoft"}
+{"sub": "Intel 80186", "obj": "Intel"}
+{"sub": "Intel 80286", "obj": "Intel"}
+{"sub": "Audio Video Interleave, version 1.0", "obj": "Microsoft"}
+{"sub": "NTFS", "obj": "Microsoft"}
+{"sub": "IBM System i", "obj": "IBM"}
+{"sub": "IBM i", "obj": "IBM"}
+{"sub": "Alex Kidd", "obj": "Sega"}
+{"sub": "Windows 8", "obj": "Microsoft"}
+{"sub": "ThinkPad", "obj": "IBM"}
+{"sub": "iPod", "obj": "Apple"}
+{"sub": "HyperTalk", "obj": "Apple"}
+{"sub": "HyperCard", "obj": "Apple"}
+{"sub": "The Legend of Zelda", "obj": "Nintendo"}
+{"sub": "Final Cut Pro", "obj": "Apple"}
+{"sub": "Apple Remote Desktop", "obj": "Apple"}
+{"sub": "Gmail", "obj": "Google"}
+{"sub": "Xcode", "obj": "Apple"}
+{"sub": "Mac OS X Snow Leopard", "obj": "Apple"}
+{"sub": "Microsoft Office 2007", "obj": "Microsoft"}
+{"sub": "EA-18G Growler", "obj": "Boeing"}
+{"sub": "High Level Shader Language", "obj": "Microsoft"}
+{"sub": "Microsoft PowerPoint", "obj": "Microsoft"}
+{"sub": "Xbox Live", "obj": "Microsoft"}
+{"sub": "Intel Core", "obj": "Intel"}
+{"sub": "Windows Embedded Compact", "obj": "Microsoft"}
+{"sub": "NTLDR", "obj": "Microsoft"}
+{"sub": "Windows Server 2003", "obj": "Microsoft"}
+{"sub": "Windows Server 2008", "obj": "Microsoft"}
+{"sub": "Google Maps", "obj": "Google"}
+{"sub": "G Suite", "obj": "Google"}
+{"sub": "Microsoft Picture It!", "obj": "Microsoft"}
+{"sub": "Nintendo DSi", "obj": "Nintendo"}
+{"sub": "REXX", "obj": "IBM"}
+{"sub": "Newsstand", "obj": "Apple"}
+{"sub": "Windows Live Messenger", "obj": "Microsoft"}
+{"sub": "CICS", "obj": "IBM"}
+{"sub": "Google Street View", "obj": "Google"}
+{"sub": "Soundtrack Pro", "obj": "Apple"}
+{"sub": "Super Monaco GP", "obj": "Sega"}
+{"sub": "Windows Media Player", "obj": "Microsoft"}
+{"sub": "Google Checkout", "obj": "Google"}
+{"sub": "Virtual Console", "obj": "Nintendo"}
+{"sub": "Google Pay Send", "obj": "Google"}
+{"sub": ".NET Framework", "obj": "Microsoft"}
+{"sub": "System 7", "obj": "Apple"}
+{"sub": "Chrono Trigger", "obj": "Square"}
+{"sub": "Windows Malicious Software Removal Tool", "obj": "Microsoft"}
+{"sub": "Windows Update", "obj": "Microsoft"}
+{"sub": "Final Cut Pro X", "obj": "Apple"}
+{"sub": "B-52 Stratofortress", "obj": "Boeing"}
+{"sub": "Google Account", "obj": "Google"}
+{"sub": "Google Groups", "obj": "Google"}
+{"sub": "Google File System", "obj": "Google"}
+{"sub": "Zune", "obj": "Microsoft"}
+{"sub": "Windows Phone 8", "obj": "Microsoft"}
+{"sub": "iTunes", "obj": "Apple"}
+{"sub": "Windows Genuine Advantage", "obj": "Microsoft"}
+{"sub": "Windows 2.0", "obj": "Microsoft"}
+{"sub": "FairPlay", "obj": "Apple"}
+{"sub": "iChat", "obj": "Apple"}
+{"sub": "Google Talk", "obj": "Google"}
+{"sub": "Windows Media Video", "obj": "Microsoft"}
+{"sub": "Windows Embedded", "obj": "Microsoft"}
+{"sub": "IBM Rational Unified Process", "obj": "IBM"}
+{"sub": "Zero configuration networking", "obj": "Apple"}
+{"sub": "Windows Internet Explorer 7", "obj": "Microsoft"}
+{"sub": "Adobe Illustrator", "obj": "Adobe"}
+{"sub": "Adobe Creative Suite", "obj": "Adobe"}
+{"sub": "Donkey Kong", "obj": "Nintendo"}
+{"sub": "Google AdSense", "obj": "Google"}
+{"sub": "Thunder Blade", "obj": "Sega"}
+{"sub": "Windows 7", "obj": "Microsoft"}
+{"sub": "Windows 8.1", "obj": "Microsoft"}
+{"sub": "Windows Server 2012", "obj": "Microsoft"}
+{"sub": "Dynamic-link library", "obj": "Microsoft"}
+{"sub": "B-29 Superfortress", "obj": "Boeing"}
+{"sub": "Test Drive Le Mans", "obj": "Atari"}
+{"sub": "Airbus A350", "obj": "Airbus"}
+{"sub": "SonicStage", "obj": "Sony"}
+{"sub": "IBM Type-III Library", "obj": "IBM"}
+{"sub": "TSS/360", "obj": "IBM"}
+{"sub": "Process Explorer", "obj": "Microsoft"}
+{"sub": "Apple DOS", "obj": "Apple"}
+{"sub": "Baku Baku Animal", "obj": "Sega"}
+{"sub": "Digital Negative", "obj": "Adobe"}
+{"sub": "Windows Live Writer", "obj": "Microsoft"}
+{"sub": "OS X Mountain Lion", "obj": "Apple"}
+{"sub": "OneDrive", "obj": "Microsoft"}
+{"sub": "Golden Axe", "obj": "Sega"}
+{"sub": "Altered Beast", "obj": "Sega"}
+{"sub": "Yakuza 2", "obj": "Sega"}
+{"sub": "Yakuza", "obj": "Sega"}
+{"sub": "Microsoft Exchange Server", "obj": "Microsoft"}
+{"sub": "Uniform Type Identifier", "obj": "Apple"}
+{"sub": "Time Sharing Option", "obj": "IBM"}
+{"sub": "Microsoft Office Mobile", "obj": "Microsoft"}
+{"sub": "iGoogle", "obj": "Google"}
+{"sub": "Google Desktop", "obj": "Google"}
+{"sub": "ASCI Red", "obj": "Intel"}
+{"sub": "Picasa", "obj": "Google"}
+{"sub": "IBM Db2", "obj": "IBM"}
+{"sub": "Google Earth", "obj": "Google"}
+{"sub": "Windows Live OneCare", "obj": "Microsoft"}
+{"sub": "Google Ads", "obj": "Google"}
+{"sub": "QuickTime VR", "obj": "Apple"}
+{"sub": "Microsoft Silverlight", "obj": "Microsoft"}
+{"sub": "iPod Touch", "obj": "Apple"}
+{"sub": "Synchronized Accessible Media Interchange", "obj": "Microsoft"}
+{"sub": "Microsoft Compiled HTML Help", "obj": "Microsoft"}
+{"sub": "OpenAFS", "obj": "IBM"}
+{"sub": "Andrew File System", "obj": "IBM"}
+{"sub": "iPod Mini", "obj": "Apple"}
+{"sub": "Sandy Bridge", "obj": "Intel"}
+{"sub": "Vector Markup Language", "obj": "Microsoft"}
+{"sub": "Amazon Fire TV", "obj": "Amazon"}
+{"sub": "IBM Tivoli Workload Scheduler", "obj": "IBM"}
+{"sub": "IBM Rational Rose XDE", "obj": "IBM"}
+{"sub": "YUI Library", "obj": "Yahoo"}
+{"sub": "IBM VisualAge", "obj": "IBM"}
+{"sub": "QuickDraw", "obj": "Apple"}
+{"sub": "ColorSync", "obj": "Apple"}
+{"sub": "AppleScript", "obj": "Apple"}
+{"sub": "OpenDoc", "obj": "Apple"}
+{"sub": "Meta Content Framework", "obj": "Apple"}
+{"sub": "Squeak", "obj": "Apple"}
+{"sub": "iPod shuffle", "obj": "Apple"}
+{"sub": "Windows Communication Foundation", "obj": "Microsoft"}
+{"sub": "Adobe Soundbooth", "obj": "Adobe"}
+{"sub": "Adobe Audition", "obj": "Adobe"}
+{"sub": "Heavyweight Champ", "obj": "Sega"}
+{"sub": "Virtual Telecommunications Access Method", "obj": "IBM"}
+{"sub": "Resource Access Control Facility", "obj": "IBM"}
+{"sub": "Adobe AIR", "obj": "Adobe"}
+{"sub": "Atari 8-bit family", "obj": "Atari"}
+{"sub": "IBM Network Control Program", "obj": "IBM"}
+{"sub": "Tamarin", "obj": "Adobe"}
+{"sub": "Adobe Flash Player", "obj": "Adobe"}
+{"sub": "Microsoft Plus!", "obj": "Microsoft"}
+{"sub": "Google Play", "obj": "Google"}
+{"sub": "iDisk", "obj": "Apple"}
+{"sub": "iCloud", "obj": "Apple"}
+{"sub": "OS X Yosemite", "obj": "Apple"}
+{"sub": "iOS 8", "obj": "Apple"}
+{"sub": "iMovie", "obj": "Apple"}
+{"sub": "GarageBand", "obj": "Apple"}
+{"sub": "Mac OS X Tiger", "obj": "Apple"}
+{"sub": "Advanced Systems Format", "obj": "Microsoft"}
+{"sub": "Metroid", "obj": "Nintendo"}
+{"sub": "AppleWorks", "obj": "Apple"}
+{"sub": "Siri", "obj": "Apple"}
+{"sub": "Apple Bandai Pippin", "obj": "Apple"}
+{"sub": "Super Audio CD", "obj": "Sony"}
+{"sub": "Microsoft Robotics Developer Studio", "obj": "Microsoft"}
+{"sub": "B-47 Stratojet", "obj": "Boeing"}
+{"sub": "Attached Support Processor", "obj": "IBM"}
+{"sub": "TypeScript", "obj": "Microsoft"}
+{"sub": "Pentium III", "obj": "Intel"}
+{"sub": "App Store", "obj": "Apple"}
+{"sub": "Adobe After Effects", "obj": "Adobe"}
+{"sub": "Adobe Premiere Pro", "obj": "Adobe"}
+{"sub": "iPod Nano", "obj": "Apple"}
+{"sub": "Microsoft Access", "obj": "Microsoft"}
+{"sub": "Google Patents", "obj": "Google"}
+{"sub": "Sega Smash Pack", "obj": "Sega"}
+{"sub": "IBM Generalized Markup Language", "obj": "IBM"}
+{"sub": "IBM WebSphere MQ", "obj": "IBM"}
+{"sub": "IBM RPG II", "obj": "IBM"}
+{"sub": "iTunes Radio", "obj": "Apple"}
+{"sub": "Apple Watch", "obj": "Apple"}
+{"sub": "CUPS", "obj": "Apple"}
+{"sub": "Bing Maps", "obj": "Microsoft"}
+{"sub": "iPod Classic", "obj": "Apple"}
+{"sub": "WinDbg", "obj": "Microsoft"}
+{"sub": "Journaled File System", "obj": "IBM"}
+{"sub": "IBM General Parallel File System", "obj": "IBM"}
+{"sub": "WebObjects", "obj": "Apple"}
+{"sub": "Microsoft Macro Assembler", "obj": "Microsoft"}
+{"sub": "Windows Installer", "obj": "Microsoft"}
+{"sub": "sRGB", "obj": "Microsoft"}
+{"sub": "Final Fantasy", "obj": "Square"}
+{"sub": "Microsoft SQL Server", "obj": "Microsoft"}
+{"sub": "Deckadance", "obj": "Gibson"}
+{"sub": "Intel Pentium Dual-Core", "obj": "Intel"}
+{"sub": "Books", "obj": "Apple"}
+{"sub": "Google Drive", "obj": "Google"}
+{"sub": "Google Hangouts", "obj": "Google"}
+{"sub": "Google Calendar", "obj": "Google"}
+{"sub": "Skype", "obj": "Microsoft"}
+{"sub": "Google Guice", "obj": "Google"}
+{"sub": "Mac OS X Leopard", "obj": "Apple"}
+{"sub": "Eternal Champions", "obj": "Sega"}
+{"sub": "Adobe InDesign", "obj": "Adobe"}
+{"sub": "Adobe Creative Cloud", "obj": "Adobe"}
+{"sub": "IntelliPoint", "obj": "Microsoft"}
+{"sub": "Google Health", "obj": "Google"}
+{"sub": "The Ocean Hunter", "obj": "Sega"}
+{"sub": "Open Packaging Conventions", "obj": "Microsoft"}
+{"sub": "Open XML Paper Specification", "obj": "Microsoft"}
+{"sub": "Google Marketing Platform", "obj": "Google"}
+{"sub": "Final Cut Studio", "obj": "Apple"}
+{"sub": "XDCAM", "obj": "Sony"}
+{"sub": "Adobe Media Player", "obj": "Adobe"}
+{"sub": "Adobe Digital Editions", "obj": "Adobe"}
+{"sub": "Windows Internet Explorer 8", "obj": "Microsoft"}
+{"sub": "ActiveSync", "obj": "Microsoft"}
+{"sub": "Microsoft OneNote", "obj": "Microsoft"}
+{"sub": "Final Fantasy III", "obj": "Square"}
+{"sub": "Transaction Processing Facility", "obj": "IBM"}
+{"sub": "IBM Connections", "obj": "IBM"}
+{"sub": "Office Open XML", "obj": "Microsoft"}
+{"sub": "Google Shopping", "obj": "Google"}
+{"sub": "Pilotwings 64", "obj": "Nintendo"}
+{"sub": "Gears", "obj": "Google"}
+{"sub": "Amazon Web Services", "obj": "Amazon"}
+{"sub": "Quick Look", "obj": "Apple"}
+{"sub": "Yorkfield", "obj": "Intel"}
+{"sub": "Amazon Simple Queue Service", "obj": "Amazon"}
+{"sub": "Google Buzz", "obj": "Google"}
+{"sub": "Pentium Pro", "obj": "Intel"}
+{"sub": "Adobe Premiere Elements", "obj": "Adobe"}
+{"sub": "PostScript Printer Description", "obj": "Adobe"}
+{"sub": "Windows RT", "obj": "Microsoft"}
+{"sub": "Microsoft Office XP", "obj": "Microsoft"}
+{"sub": "Windows 2.1x", "obj": "Microsoft"}
+{"sub": "X11.app", "obj": "Apple"}
+{"sub": "Mac OS X Lion", "obj": "Apple"}
+{"sub": "Logic Pro", "obj": "Apple"}
+{"sub": "A-10 Thunderbolt II", "obj": "Fairchild"}
+{"sub": "Microsoft Office 2000", "obj": "Microsoft"}
+{"sub": "MacsBug", "obj": "Apple"}
+{"sub": "Flicky", "obj": "Sega"}
+{"sub": "Apple Maps", "obj": "Apple"}
+{"sub": "Logic Studio", "obj": "Apple"}
+{"sub": "iOS 5", "obj": "Apple"}
+{"sub": "IBM Lotus Symphony", "obj": "IBM"}
+{"sub": "Windows Phone Store", "obj": "Microsoft"}
+{"sub": "Adobe Bridge", "obj": "Adobe"}
+{"sub": "Adobe Captivate", "obj": "Adobe"}
+{"sub": "Adobe FrameMaker", "obj": "Adobe"}
+{"sub": "Microsoft SharePoint", "obj": "Microsoft"}
+{"sub": "Microsoft HealthVault", "obj": "Microsoft"}
+{"sub": "IBM DeveloperWorks", "obj": "IBM"}
+{"sub": "Golden Axe", "obj": "Sega"}
+{"sub": "Internet Explorer 5", "obj": "Microsoft"}
+{"sub": "Microsoft Store", "obj": "Microsoft"}
+{"sub": "Tizen", "obj": "Intel"}
+{"sub": "IBM 4690 OS", "obj": "IBM"}
+{"sub": "BBC iPlayer", "obj": "BBC"}
+{"sub": "Project Ara", "obj": "Google"}
+{"sub": "Eclipse", "obj": "IBM"}
+{"sub": "IBM System R", "obj": "IBM"}
+{"sub": "Intel iAPX 432", "obj": "Intel"}
+{"sub": "Intel i960", "obj": "Intel"}
+{"sub": "Microsoft Mail", "obj": "Microsoft"}
+{"sub": "PowerShell", "obj": "Microsoft"}
+{"sub": "AppleShare", "obj": "Apple"}
+{"sub": "WebKit", "obj": "Apple"}
+{"sub": "Intel MCS-51", "obj": "Intel"}
+{"sub": "Mac OS X 10.0", "obj": "Apple"}
+{"sub": "Mac OS X 10.1", "obj": "Apple"}
+{"sub": "Mac OS 8", "obj": "Apple"}
+{"sub": "IBM Airline Control Program", "obj": "IBM"}
+{"sub": "Programmed Airline Reservations System", "obj": "IBM"}
+{"sub": "Microsoft Bob", "obj": "Microsoft"}
+{"sub": "Final Fantasy X", "obj": "Square"}
+{"sub": "Hierarchical File System", "obj": "Apple"}
+{"sub": "Interface Builder", "obj": "Apple"}
+{"sub": "IBM System Object Model", "obj": "IBM"}
+{"sub": "Blogger", "obj": "Google"}
+{"sub": "IBM Tivoli Storage Manager", "obj": "IBM"}
+{"sub": "Microsoft XNA", "obj": "Microsoft"}
+{"sub": "Windows Server 2008 R2", "obj": "Microsoft"}
+{"sub": "Windows Virtual PC", "obj": "Microsoft"}
+{"sub": "Windows Internet Explorer 9", "obj": "Microsoft"}
+{"sub": "Windows Easy Transfer", "obj": "Microsoft"}
+{"sub": "Douglas X-3 Stiletto", "obj": "Douglas"}
+{"sub": "Chrome OS", "obj": "Google"}
+{"sub": "Google Web Toolkit", "obj": "Google"}
+{"sub": "Microsoft Dynamics", "obj": "Microsoft"}
+{"sub": "Xgrid", "obj": "Apple"}
+{"sub": "IBM PC DOS", "obj": "IBM"}
+{"sub": "Apple Pippin", "obj": "Apple"}
+{"sub": "Mitsubishi G4M", "obj": "Mitsubishi"}
+{"sub": "Boeing X-37", "obj": "Boeing"}
+{"sub": "UNIX System Services", "obj": "IBM"}
+{"sub": "HFS Plus", "obj": "Apple"}
+{"sub": "Google Map Maker", "obj": "Google"}
+{"sub": "XNU", "obj": "Apple"}
+{"sub": "IBM TopView", "obj": "IBM"}
+{"sub": "Mario Bros.", "obj": "Nintendo"}
+{"sub": "Report Program Generator", "obj": "IBM"}
+{"sub": "Google Toolbar", "obj": "Google"}
+{"sub": "IBM ViaVoice", "obj": "IBM"}
+{"sub": "Advanced Function Presentation", "obj": "IBM"}
+{"sub": "Google Chrome", "obj": "Google"}
+{"sub": "Chromecast", "obj": "Google"}
+{"sub": "Microsoft Entourage", "obj": "Microsoft"}
+{"sub": "Active Server Pages", "obj": "Microsoft"}
+{"sub": "Front Mission 3", "obj": "Square"}
+{"sub": "Front Mission", "obj": "Square"}
+{"sub": "Clang", "obj": "Sony"}
+{"sub": "Adobe Fireworks", "obj": "Adobe"}
+{"sub": "Microsoft Publisher", "obj": "Microsoft"}
+{"sub": "Small Web Format", "obj": "Adobe"}
+{"sub": "Microsoft Works", "obj": "Microsoft"}
+{"sub": "Intel Parallel Studio", "obj": "Intel"}
+{"sub": "SPSS Modeler", "obj": "IBM"}
+{"sub": "Statistical Package for the Social Sciences", "obj": "IBM"}
+{"sub": "Google Finance", "obj": "Google"}
+{"sub": "Fantasy Zone", "obj": "Sega"}
+{"sub": "KC-767", "obj": "Boeing"}
+{"sub": "Apple Lossless", "obj": "Apple"}
+{"sub": "Google Translate", "obj": "Google"}
+{"sub": "Google Latitude", "obj": "Google"}
+{"sub": "Apple Filing Protocol", "obj": "Apple"}
+{"sub": "Time Machine (macOS)", "obj": "Apple"}
+{"sub": "Adobe RGB (1998)", "obj": "Adobe"}
+{"sub": "V8", "obj": "Google"}
+{"sub": "Boeing F-15SE Silent Eagle", "obj": "Boeing"}
+{"sub": "Virtual Hard Disk", "obj": "Microsoft"}
+{"sub": "BBeB", "obj": "Sony"}
+{"sub": "Fonz", "obj": "Sega"}
+{"sub": "Bing Maps Platform", "obj": "Microsoft"}
+{"sub": "Wii MotionPlus", "obj": "Nintendo"}
+{"sub": "IBM Systems Application Architecture", "obj": "IBM"}
+{"sub": "File Explorer", "obj": "Microsoft"}
+{"sub": "Clockwork Knight", "obj": "Sega"}
+{"sub": "Boeing 747 Large Cargo Freighter", "obj": "Boeing"}
+{"sub": "Adobe FreeHand", "obj": "Adobe"}
+{"sub": "Windows NT 3.1", "obj": "Microsoft"}
+{"sub": "Rational Team Concert", "obj": "IBM"}
+{"sub": "Airbus A320neo family", "obj": "Airbus"}
+{"sub": "Clang", "obj": "Apple"}
+{"sub": "Windows Live Mesh", "obj": "Microsoft"}
+{"sub": "Tizen", "obj": "Samsung"}
+{"sub": "SPDY", "obj": "Google"}
+{"sub": "MXML", "obj": "Adobe"}
+{"sub": "IBM Lotus Word Pro", "obj": "IBM"}
+{"sub": "Apache Traffic Server", "obj": "Yahoo"}
+{"sub": "Google Glass", "obj": "Google"}
+{"sub": "DVD Studio Pro", "obj": "Apple"}
+{"sub": "Motion", "obj": "Apple"}
+{"sub": "Apple A4", "obj": "Apple"}
+{"sub": "Google Reader", "obj": "Google"}
+{"sub": "Microsoft Office 2003", "obj": "Microsoft"}
+{"sub": "Microsoft Reader", "obj": "Microsoft"}
+{"sub": "Macintosh File System", "obj": "Apple"}
+{"sub": "Resource Interchange File Format", "obj": "Microsoft"}
+{"sub": "Audio Interchange File Format", "obj": "Apple"}
+{"sub": "Windows Mobile", "obj": "Microsoft"}
+{"sub": "OpenSearch", "obj": "Amazon"}
+{"sub": "Windows Me", "obj": "Microsoft"}
+{"sub": "High Performance File System", "obj": "IBM"}
+{"sub": "High Performance File System", "obj": "Microsoft"}
+{"sub": "IBM Business System 12", "obj": "IBM"}
+{"sub": "General Transit Feed Specification", "obj": "Google"}
+{"sub": "Microsoft Dynamics NAV", "obj": "Microsoft"}
+{"sub": "Nintendo Video", "obj": "Nintendo"}
+{"sub": "IBM WebSphere Application Server", "obj": "IBM"}
+{"sub": "IBM System Management Facilities", "obj": "IBM"}
+{"sub": "Intel 80486DX2", "obj": "Intel"}
+{"sub": "Windows NT 3.51", "obj": "Microsoft"}
+{"sub": "Windows NT 3.5", "obj": "Microsoft"}
+{"sub": "MacApp", "obj": "Apple"}
+{"sub": "IBM 4300", "obj": "IBM"}
+{"sub": "Windows Embedded CE 6.0", "obj": "Microsoft"}
+{"sub": "Minecraft", "obj": "Microsoft"}
+{"sub": "App Inventor for Android", "obj": "Google"}
+{"sub": "Google Contacts", "obj": "Google"}
+{"sub": "Clang", "obj": "Microsoft"}
+{"sub": "Airbus Beluga", "obj": "Airbus"}
+{"sub": "Congo Bongo", "obj": "Sega"}
+{"sub": "Mitsubishi A5M", "obj": "Mitsubishi"}
+{"sub": "Microsoft Project", "obj": "Microsoft"}
+{"sub": "WebP Lossless", "obj": "Google"}
+{"sub": "WebM", "obj": "Google"}
+{"sub": "Samsung Kies", "obj": "Samsung"}
+{"sub": "Shining Hearts", "obj": "Sega"}
+{"sub": "Universal Media Disc", "obj": "Sony"}
+{"sub": "IBM Workplace OS", "obj": "IBM"}
+{"sub": "Newton OS", "obj": "Apple"}
+{"sub": "Robocopy", "obj": "Microsoft"}
+{"sub": "Apple A5", "obj": "Apple"}
+{"sub": "iOS 7", "obj": "Apple"}
+{"sub": "CarPlay", "obj": "Apple"}
+{"sub": "Internet Explorer 10", "obj": "Microsoft"}
+{"sub": "Mitsubishi F1M", "obj": "Mitsubishi"}
+{"sub": "Schema.org", "obj": "Google"}
+{"sub": "Schema.org", "obj": "Yahoo"}
+{"sub": "Channel Definition Format", "obj": "Microsoft"}
+{"sub": "Windows Aero", "obj": "Microsoft"}
+{"sub": "Apple Thunderbolt Display", "obj": "Apple"}
+{"sub": "Amazon Silk", "obj": "Amazon"}
+{"sub": "Microsoft Expression Blend", "obj": "Microsoft"}
+{"sub": "Shining Blade", "obj": "Sega"}
+{"sub": "IBM Parallel Sysplex", "obj": "IBM"}
+{"sub": "Internet Explorer 11", "obj": "Microsoft"}
+{"sub": "Adobe Muse", "obj": "Adobe"}
+{"sub": "iBooks Author", "obj": "Apple"}
+{"sub": "WriteNow", "obj": "Apple"}
+{"sub": "Clang", "obj": "Intel"}
+{"sub": "Google Now", "obj": "Google"}
+{"sub": "Apple A6", "obj": "Apple"}
+{"sub": "iPad 3", "obj": "Apple"}
+{"sub": "Windows Messaging", "obj": "Microsoft"}
+{"sub": "Sonic Drift 2", "obj": "Sega"}
+{"sub": "Sonic Drift", "obj": "Sega"}
+{"sub": "Microsoft InfoPath", "obj": "Microsoft"}
+{"sub": "Microsoft Office 97", "obj": "Microsoft"}
+{"sub": "Binary Synchronous Communications", "obj": "IBM"}
+{"sub": "iOS 6", "obj": "Apple"}
+{"sub": "Android Jelly Bean", "obj": "Google"}
+{"sub": "Google Cloud Platform", "obj": "Google"}
+{"sub": "Apple A7", "obj": "Apple"}
+{"sub": "NetFront", "obj": "Access"}
+{"sub": "Cloud Spanner", "obj": "Google"}
+{"sub": "Wii U system software", "obj": "Nintendo"}
+{"sub": "Windows Phone 8.1", "obj": "Microsoft"}
+{"sub": "Apple Pay", "obj": "Apple"}
+{"sub": "FS-1015", "obj": "NATO"}
+{"sub": "The Revenge of Shinobi", "obj": "Sega"}
+{"sub": "Object REXX", "obj": "IBM"}
+{"sub": "Xsan", "obj": "Apple"}
+{"sub": "Microsoft Windows SDK", "obj": "Microsoft"}
+{"sub": "IBM OfficeVision", "obj": "IBM"}
+{"sub": "VP9", "obj": "Google"}
+{"sub": "Amiibo", "obj": "Nintendo"}
+{"sub": "IBM Rational ClearCase", "obj": "IBM"}
+{"sub": "Google Keep", "obj": "Google"}
+{"sub": "Microsoft Digital Video Recording", "obj": "Microsoft"}
+{"sub": "Windows XP Media Center Edition", "obj": "Microsoft"}
+{"sub": "Windows Movie Maker", "obj": "Microsoft"}
+{"sub": "Microsoft Money", "obj": "Microsoft"}
+{"sub": "Silvermont", "obj": "Intel"}
+{"sub": "OS X Mavericks", "obj": "Apple"}
+{"sub": "Mother 3", "obj": "Nintendo"}
+{"sub": "iPad Mini 3", "obj": "Apple"}
+{"sub": "Apple A8", "obj": "Apple"}
+{"sub": "Apple A8X", "obj": "Apple"}
+{"sub": "Intel Quark", "obj": "Intel"}
+{"sub": "iBeacon", "obj": "Apple"}
+{"sub": "Google Hummingbird", "obj": "Google"}
+{"sub": "Nokia Lumia 2520", "obj": "Nokia"}
+{"sub": "Windows Mobile 6.5", "obj": "Microsoft"}
+{"sub": "Adobe Encore", "obj": "Adobe"}
+{"sub": "Wear OS", "obj": "Google"}
+{"sub": "Windows Mixed Reality", "obj": "Microsoft"}
+{"sub": "Event Viewer", "obj": "Microsoft"}
+{"sub": "Android TV", "obj": "Google"}
+{"sub": "Android Runtime", "obj": "Google"}
+{"sub": "Android Auto", "obj": "Google"}
+{"sub": "New Nintendo 3DS", "obj": "Nintendo"}
+{"sub": "Gear VR", "obj": "Samsung"}
+{"sub": "Amazon Echo", "obj": "Amazon"}
+{"sub": "Glyph Bitmap Distribution Format", "obj": "Adobe"}
+{"sub": "Dynix", "obj": "IBM"}
+{"sub": "Yoshi's Universal Gravitation", "obj": "Nintendo"}
+{"sub": "VoiceOver", "obj": "Apple"}
+{"sub": "TextEdit", "obj": "Apple"}
+{"sub": "Microsoft Security Essentials", "obj": "Microsoft"}
+{"sub": "Microsoft Internet Explorer 3", "obj": "Microsoft"}
+{"sub": "application bundle", "obj": "Apple"}
+{"sub": "Final Fantasy Legend III", "obj": "Square"}
+{"sub": "Final Fantasy Legend II", "obj": "Square"}
+{"sub": "Internet Explorer Mobile", "obj": "Microsoft"}
+{"sub": "Disk Utility", "obj": "Apple"}
+{"sub": "MSX BASIC", "obj": "Microsoft"}
+{"sub": "Adobe Connect", "obj": "Adobe"}
+{"sub": "Microsoft Forefront Threat Management Gateway", "obj": "Microsoft"}
+{"sub": "Atari DOS", "obj": "Atari"}
+{"sub": "Dashboard", "obj": "Apple"}
+{"sub": "Astron Belt", "obj": "Sega"}
+{"sub": "Asteroids Deluxe", "obj": "Atari"}
+{"sub": "Windows Setup Information File", "obj": "Microsoft"}
+{"sub": "Photo Booth", "obj": "Apple"}
+{"sub": "Fatal Labyrinth", "obj": "Sega"}
+{"sub": "Intel i860", "obj": "Intel"}
+{"sub": "Microsoft Office Live", "obj": "Microsoft"}
+{"sub": "Alien Storm", "obj": "Sega"}
+{"sub": "Apple Icon Image format", "obj": "Apple"}
+{"sub": "IBM Rational Application Developer", "obj": "IBM"}
+{"sub": "IBM Information Management System", "obj": "IBM"}
+{"sub": "Windows Media Encoder", "obj": "Microsoft"}
+{"sub": "Gran Trak 10", "obj": "Atari"}
+{"sub": "Google Pack", "obj": "Google"}
+{"sub": "Windows Driver Frameworks", "obj": "Microsoft"}
+{"sub": "Tetris DS", "obj": "Nintendo"}
+{"sub": "IBM Lotus SmartSuite", "obj": "IBM"}
+{"sub": "Apple Open Directory", "obj": "Apple"}
+{"sub": "Microsoft Schedule Plus", "obj": "Microsoft"}
+{"sub": "Shadow Dancer", "obj": "Sega"}
+{"sub": "Microsoft Write", "obj": "Microsoft"}
+{"sub": "Cyberdog", "obj": "Apple"}
+{"sub": "Adobe Illustrator Artwork", "obj": "Adobe"}
+{"sub": "Gain Ground", "obj": "Sega"}

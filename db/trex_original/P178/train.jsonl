@@ -1,0 +1,448 @@
+{"sub": "LEXX", "obj": "IBM"}
+{"sub": "EAIF", "obj": "Nokia"}
+{"sub": "Boeing 314", "obj": "Boeing"}
+{"sub": "IBM 8100 DPCX", "obj": "IBM"}
+{"sub": "Integrated Language Environment", "obj": "IBM"}
+{"sub": "Rational Publishing Engine", "obj": "IBM"}
+{"sub": "QuickC", "obj": "Microsoft"}
+{"sub": "Internet Explorer for Mac OS X", "obj": "Microsoft"}
+{"sub": "Cognos Reportnet", "obj": "IBM"}
+{"sub": "Action Fighter", "obj": "Sega"}
+{"sub": "Google Flights", "obj": "Google"}
+{"sub": "Super Audio CD", "obj": "Philips"}
+{"sub": "Zektor", "obj": "Sega"}
+{"sub": "millipede memory", "obj": "IBM"}
+{"sub": "Guardians of the 'Hood", "obj": "Atari"}
+{"sub": "Puyopuyo!! Quest", "obj": "Sega"}
+{"sub": "OpenJ9", "obj": "IBM"}
+{"sub": "SoulPad", "obj": "IBM"}
+{"sub": "IBM Rational Software Modeler", "obj": "IBM"}
+{"sub": "Galaxy Force", "obj": "Sega"}
+{"sub": "Document Content Architecture", "obj": "IBM"}
+{"sub": "Tac/Scan", "obj": "Sega"}
+{"sub": "Tasman", "obj": "Microsoft"}
+{"sub": "Postfix", "obj": "IBM"}
+{"sub": "Ayrton Senna's Super Monaco GP II", "obj": "Sega"}
+{"sub": "Golden Axe: The Duel", "obj": "Sega"}
+{"sub": "Waveform Audio File Format", "obj": "IBM"}
+{"sub": "OS/390", "obj": "IBM"}
+{"sub": "Google Native Client", "obj": "Google"}
+{"sub": "CIMD", "obj": "Nokia"}
+{"sub": "Avatar: The Last Airbender - Into the Inferno", "obj": "Nickelodeon"}
+{"sub": "Monaco GP", "obj": "Sega"}
+{"sub": "World Cup Italia '90", "obj": "Sega"}
+{"sub": "Clarkdale", "obj": "Intel"}
+{"sub": "Shell Scrap Object File", "obj": "Microsoft"}
+{"sub": "Planet Ring", "obj": "Sega"}
+{"sub": "Windows Mobile 2003", "obj": "Microsoft"}
+{"sub": "doc", "obj": "Microsoft"}
+{"sub": "Dominos", "obj": "Atari"}
+{"sub": "Business Catalyst", "obj": "Adobe"}
+{"sub": "MicroB", "obj": "Nokia"}
+{"sub": "The Conveni 200X", "obj": "masterpiece"}
+{"sub": "Microsoft Research Image Composite Editor", "obj": "Microsoft"}
+{"sub": "Keyhole Markup Language", "obj": "Google"}
+{"sub": "Wonder Boy in Monster Land", "obj": "Sega"}
+{"sub": "ALF", "obj": "Sega"}
+{"sub": "Borderline", "obj": "Sega"}
+{"sub": "Yahoo! Music Jukebox", "obj": "Yahoo"}
+{"sub": "Outlaw", "obj": "Atari"}
+{"sub": "World Championship Soccer", "obj": "Sega"}
+{"sub": "Clutch Hitter", "obj": "Sega"}
+{"sub": "IBM Rational Service Tester", "obj": "IBM"}
+{"sub": "Star Wars: Return of the Jedi", "obj": "Atari"}
+{"sub": "IBM Rational ClearQuest", "obj": "IBM"}
+{"sub": "Yonah", "obj": "Intel"}
+{"sub": "Major Havoc", "obj": "Atari"}
+{"sub": "Yakuza 3", "obj": "Sega"}
+{"sub": "Virtua Tennis Challenge", "obj": "Sega"}
+{"sub": "IBM 1401 Symbolic Programming System", "obj": "IBM"}
+{"sub": "Visual Test", "obj": "Microsoft"}
+{"sub": "ThinkVantage Technologies", "obj": "IBM"}
+{"sub": "Superman", "obj": "Atari"}
+{"sub": "Microsoft Vizact", "obj": "Microsoft"}
+{"sub": "Hatsune Miku: Project DIVA Extend", "obj": "Sega"}
+{"sub": "The Legend of Zelda: A Link to the Past and Four Swords", "obj": "Nintendo"}
+{"sub": "Super Bug", "obj": "Atari"}
+{"sub": "Criminal Reduction Utilising Statistical History", "obj": "IBM"}
+{"sub": "zFS", "obj": "IBM"}
+{"sub": "IBM Scalable Architecture for Financial Reporting", "obj": "IBM"}
+{"sub": "SmartDrive", "obj": "Microsoft"}
+{"sub": "Qwak!", "obj": "Atari"}
+{"sub": "Steeplechase", "obj": "Atari"}
+{"sub": "Hummer", "obj": "Sega"}
+{"sub": "IBM LUM", "obj": "IBM"}
+{"sub": "Mozc", "obj": "Google"}
+{"sub": "FxCop", "obj": "Microsoft"}
+{"sub": "Dungeons & Dragons: Heroes", "obj": "Atari"}
+{"sub": "Space Duel", "obj": "Atari"}
+{"sub": "Windows Animated Cursor", "obj": "Microsoft"}
+{"sub": "Hi-way", "obj": "Atari"}
+{"sub": "APL", "obj": "IBM"}
+{"sub": "Video Olympics", "obj": "Atari"}
+{"sub": "OS/360", "obj": "IBM"}
+{"sub": "Boeing Calc", "obj": "Boeing"}
+{"sub": "Intel 80486SL", "obj": "Intel"}
+{"sub": "Miyasato Miyoshi Kyoudai Naizou: Sega Golf Club", "obj": "Sega"}
+{"sub": "Chocobo Racing", "obj": "Square"}
+{"sub": "Columns", "obj": "Sega"}
+{"sub": "Autocoder", "obj": "IBM"}
+{"sub": "Program database", "obj": "Microsoft"}
+{"sub": "Adobe Story", "obj": "Adobe"}
+{"sub": "Devil World", "obj": "Nintendo"}
+{"sub": "Pacbase", "obj": "IBM"}
+{"sub": "Tivoli Service Automation Manager", "obj": "IBM"}
+{"sub": "Opa-opa", "obj": "Sega"}
+{"sub": "Cgidev2", "obj": "IBM"}
+{"sub": "Le Mans 24", "obj": "Sega"}
+{"sub": "Windows Live FrameIt", "obj": "Microsoft"}
+{"sub": "Tornado", "obj": "Facebook"}
+{"sub": "PACT", "obj": "IBM"}
+{"sub": "Starship 1", "obj": "Atari"}
+{"sub": "Adobe Shockwave", "obj": "Adobe"}
+{"sub": "Primeval Hunt", "obj": "Sega"}
+{"sub": "Accelerator", "obj": "Microsoft"}
+{"sub": "Castle of Illusion Starring Mickey Mouse", "obj": "Sega"}
+{"sub": "IBM Software Configuration and Library Manager", "obj": "IBM"}
+{"sub": "Up'n Down", "obj": "Sega"}
+{"sub": "Object Data Manager", "obj": "IBM"}
+{"sub": "Super Thunder Blade", "obj": "Sega"}
+{"sub": "Adobe Atmosphere", "obj": "Adobe"}
+{"sub": "IBM OpenDX", "obj": "IBM"}
+{"sub": "ExtendScript", "obj": "Adobe"}
+{"sub": "IBM PL/S", "obj": "IBM"}
+{"sub": "IBM WebSphere Process Server", "obj": "IBM"}
+{"sub": "The G.G. Shinobi II: The Silent Fury", "obj": "Sega"}
+{"sub": "Dark Edge", "obj": "Sega"}
+{"sub": "OS/2", "obj": "IBM"}
+{"sub": "Open Blueprint", "obj": "IBM"}
+{"sub": "IBM HTTP Server", "obj": "IBM"}
+{"sub": "Microsoft Small Basic", "obj": "Microsoft"}
+{"sub": "Google Moon", "obj": "Google"}
+{"sub": "Great Ice Hockey", "obj": "Sega"}
+{"sub": "Astro Blaster", "obj": "Sega"}
+{"sub": "IBM RFID Information Center", "obj": "IBM"}
+{"sub": "Cyber Police ESWAT", "obj": "Sega"}
+{"sub": "IBM Tivoli Access Manager", "obj": "IBM"}
+{"sub": "IBM Lotus Expeditor", "obj": "IBM"}
+{"sub": "IBM High Level Assembler", "obj": "IBM"}
+{"sub": "Jaql", "obj": "Google"}
+{"sub": "Head On", "obj": "Sega"}
+{"sub": "Internet Explorer for UNIX", "obj": "Microsoft"}
+{"sub": "LANC", "obj": "Sony"}
+{"sub": "Triple Hunt", "obj": "Atari"}
+{"sub": "IBM Graphical Data Display Manager", "obj": "IBM"}
+{"sub": "SCRIPT", "obj": "IBM"}
+{"sub": "Streets of Rage", "obj": "Sega"}
+{"sub": "Deep Blue", "obj": "IBM"}
+{"sub": "Phantasy Star II", "obj": "Sega"}
+{"sub": "Photo Dojo", "obj": "Nintendo"}
+{"sub": "Zyll", "obj": "IBM"}
+{"sub": "IBM System/38", "obj": "IBM"}
+{"sub": "Ry\u016b ga Gotoku Ishin!", "obj": "Sega"}
+{"sub": "Microsoft Personal Web Server", "obj": "Microsoft"}
+{"sub": "Crash 'N Score", "obj": "Atari"}
+{"sub": "Shinobi Legions", "obj": "Sega"}
+{"sub": "Windows Live Agents", "obj": "Microsoft"}
+{"sub": "Doctor Pong", "obj": "Atari"}
+{"sub": "Cyborg Hunter", "obj": "Sega"}
+{"sub": "Star Trek: Strategic Operations Simulator", "obj": "Sega"}
+{"sub": "Business Rules Markup Language", "obj": "IBM"}
+{"sub": "Racing Aces", "obj": "Sega"}
+{"sub": "Slot Racers", "obj": "Atari"}
+{"sub": "DOS/360", "obj": "IBM"}
+{"sub": "Spider-Man: The Video Game", "obj": "Sega"}
+{"sub": "Blackjack", "obj": "Atari"}
+{"sub": "NetRexx", "obj": "IBM"}
+{"sub": "Hatsune Miku: Project DIVA Arcade", "obj": "Sega"}
+{"sub": "Lynnfield", "obj": "Intel"}
+{"sub": "Pocket Paint", "obj": "Microsoft"}
+{"sub": "Nokia Booklet 3G", "obj": "Nokia"}
+{"sub": "Hamtaro: Ham-Ham Heartbreak", "obj": "Nintendo"}
+{"sub": "YUI Rich Text Editor", "obj": "Yahoo"}
+{"sub": "IUCV", "obj": "IBM"}
+{"sub": "Minimum Teleprocessing Control System", "obj": "IBM"}
+{"sub": "Fine Artist", "obj": "Microsoft"}
+{"sub": "SMP/E", "obj": "IBM"}
+{"sub": "2 Spicy", "obj": "Sega"}
+{"sub": "IBM History Flow tool", "obj": "IBM"}
+{"sub": "Intel Fortran Compiler", "obj": "Intel"}
+{"sub": "Alex Kidd: High-Tech World", "obj": "Sega"}
+{"sub": "Repulse", "obj": "Sega"}
+{"sub": "Art Alive!", "obj": "Sega"}
+{"sub": "Arnold Palmer Tournament Golf", "obj": "Sega"}
+{"sub": "IBM DISOSS", "obj": "IBM"}
+{"sub": "Akai Ito", "obj": "Success"}
+{"sub": "Kenseiden", "obj": "Sega"}
+{"sub": "Sakura Wars: So Long, My Love", "obj": "Sega"}
+{"sub": "Microsoft Expression Design", "obj": "Microsoft"}
+{"sub": "DXL", "obj": "IBM"}
+{"sub": "F1 Challenge", "obj": "Sega"}
+{"sub": "Suish\u014d no Dragon", "obj": "Square"}
+{"sub": "Tournament Table", "obj": "Atari"}
+{"sub": "Office Open XML file formats", "obj": "Microsoft"}
+{"sub": "IBM Omnifind", "obj": "IBM"}
+{"sub": "IBM WebSphere eXtreme Scale", "obj": "IBM"}
+{"sub": "Rent-A-Hero", "obj": "Sega"}
+{"sub": "IBM ALP", "obj": "IBM"}
+{"sub": "Wild Woody", "obj": "Sega"}
+{"sub": "Clang", "obj": "Google"}
+{"sub": "Intel i750", "obj": "Intel"}
+{"sub": "Golden Axe III", "obj": "Sega"}
+{"sub": "Last Battle", "obj": "Sega"}
+{"sub": "Jewelpet: The Glittering Magical Jewel Box", "obj": "Sega"}
+{"sub": "NFL '97", "obj": "Sega"}
+{"sub": "OS/VS2", "obj": "IBM"}
+{"sub": "O3D", "obj": "Google"}
+{"sub": "Valkyria Chronicles II", "obj": "Sega"}
+{"sub": "Remote Spooling Communications Subsystem", "obj": "IBM"}
+{"sub": "z/VM", "obj": "IBM"}
+{"sub": "IBM DisplayWrite", "obj": "IBM"}
+{"sub": "Crystal's Pony Tale", "obj": "Sega"}
+{"sub": "IBM Cross System Product", "obj": "IBM"}
+{"sub": "SabreTalk", "obj": "IBM"}
+{"sub": "Star Fox 2", "obj": "Nintendo"}
+{"sub": "z/OS", "obj": "IBM"}
+{"sub": "Initial D Extreme Stage", "obj": "Sega"}
+{"sub": "Indy 800", "obj": "Atari"}
+{"sub": "World of Illusion Starring Mickey Mouse and Donald Duck", "obj": "Sega"}
+{"sub": "Galactic Protector", "obj": "Sega"}
+{"sub": "IBM SAN File System", "obj": "IBM"}
+{"sub": "Windows Live Favorites", "obj": "Microsoft"}
+{"sub": "E", "obj": "IBM"}
+{"sub": "Wii Chess", "obj": "Nintendo"}
+{"sub": "Web Slice", "obj": "Microsoft"}
+{"sub": "Battle Out Run", "obj": "Sega"}
+{"sub": "Maximo", "obj": "IBM"}
+{"sub": "IBM Open Class", "obj": "IBM"}
+{"sub": "Chakan: The Forever Man", "obj": "Sega"}
+{"sub": "IBM Works", "obj": "IBM"}
+{"sub": "Intel 80386EX", "obj": "Intel"}
+{"sub": "Adobe InCopy", "obj": "Adobe"}
+{"sub": "Microsoft Mouse and Keyboard Center", "obj": "Microsoft"}
+{"sub": "System Center Data Protection Manager", "obj": "Microsoft"}
+{"sub": "Clockwork Knight 2", "obj": "Sega"}
+{"sub": "Windows Live Video Messages", "obj": "Microsoft"}
+{"sub": "Bonanza Bros.", "obj": "Sega"}
+{"sub": "Skylake", "obj": "Intel"}
+{"sub": "Advanced Stream Redirector", "obj": "Microsoft"}
+{"sub": "IBM Basic Programming Support", "obj": "IBM"}
+{"sub": "IBM Tivoli Identity Manager", "obj": "IBM"}
+{"sub": "XML Data Package", "obj": "Adobe"}
+{"sub": "EHLLAPI", "obj": "IBM"}
+{"sub": "Pulsar", "obj": "Sega"}
+{"sub": "Alex Kidd in Shinobi World", "obj": "Sega"}
+{"sub": "Nokia Fastlane", "obj": "Nokia"}
+{"sub": "Laser Ghost", "obj": "Sega"}
+{"sub": "Tough Turf", "obj": "Sega"}
+{"sub": "Super Locomotive", "obj": "Sega"}
+{"sub": "Astro Warrior", "obj": "Sega"}
+{"sub": "Golden Axe: The Revenge of Death Adder", "obj": "Sega"}
+{"sub": "Quantum", "obj": "Atari"}
+{"sub": "PL/I preprocessor", "obj": "IBM"}
+{"sub": "IBM Rational Purify", "obj": "IBM"}
+{"sub": "Intel Timna", "obj": "Intel"}
+{"sub": "Sega Water Ski", "obj": "Sega"}
+{"sub": "Google Guava", "obj": "Google"}
+{"sub": "Microsoft Office 2010", "obj": "Microsoft"}
+{"sub": "Yakuza 4", "obj": "Sega"}
+{"sub": "Intel MCS-96", "obj": "Intel"}
+{"sub": "iMAX 432", "obj": "Intel"}
+{"sub": "Psyvariar", "obj": "Success"}
+{"sub": "BootVis", "obj": "Microsoft"}
+{"sub": "IBM LU6.2", "obj": "IBM"}
+{"sub": "Crystal Warriors", "obj": "Sega"}
+{"sub": "IBM Tivoli Server-free backup", "obj": "IBM"}
+{"sub": "Tempest", "obj": "Atari"}
+{"sub": "Rise of Nightmares", "obj": "Sega"}
+{"sub": "RealThings", "obj": "IBM"}
+{"sub": "D. D. Crew", "obj": "Sega"}
+{"sub": "Google Classroom", "obj": "Google"}
+{"sub": "Data Language Interface", "obj": "IBM"}
+{"sub": "Windows Installer CleanUp Utility", "obj": "Microsoft"}
+{"sub": "IBM Rational Automation Framework", "obj": "IBM"}
+{"sub": "K42", "obj": "IBM"}
+{"sub": "N-Sub", "obj": "Sega"}
+{"sub": "Retro Atari Classics", "obj": "Atari"}
+{"sub": "Common Base Event", "obj": "IBM"}
+{"sub": "Haswell", "obj": "Intel"}
+{"sub": "Mystaria: The Realms of Lore", "obj": "Sega"}
+{"sub": "Project 575", "obj": "Sega"}
+{"sub": "Xbox 360 HD DVD Player", "obj": "Microsoft"}
+{"sub": "Ry\u016b ga Gotoku Kenzan!", "obj": "Sega"}
+{"sub": "Hatsune Miku: Project DIVA F 2nd", "obj": "Sega"}
+{"sub": "Shinobi III: Return of the Ninja Master", "obj": "Sega"}
+{"sub": "Intel DX4", "obj": "Intel"}
+{"sub": "Tejas and Jayhawk", "obj": "Intel"}
+{"sub": "Psy-Phi", "obj": "Sega"}
+{"sub": "CICS Transaction Gateway", "obj": "IBM"}
+{"sub": "Demons to Diamonds", "obj": "Atari"}
+{"sub": "Dark Wizard", "obj": "Sega"}
+{"sub": "Wolfdale", "obj": "Intel"}
+{"sub": "Dragon Crystal", "obj": "Sega"}
+{"sub": "IBM Administrative Terminal System", "obj": "IBM"}
+{"sub": "Adobe eLearning Suite", "obj": "Adobe"}
+{"sub": "Alex Kidd: The Lost Stars", "obj": "Sega"}
+{"sub": "Cairo", "obj": "Microsoft"}
+{"sub": "IBM OMEGAMON", "obj": "IBM"}
+{"sub": "Merom", "obj": "Intel"}
+{"sub": "Wrestle War", "obj": "Sega"}
+{"sub": "Clutter", "obj": "Intel"}
+{"sub": "A Game of Concentration", "obj": "Atari"}
+{"sub": "Bahamut Senki", "obj": "Sega"}
+{"sub": "CodeView", "obj": "Microsoft"}
+{"sub": "Rebound", "obj": "Atari"}
+{"sub": "The Final Fantasy Legend", "obj": "Square"}
+{"sub": "Communications Controller for Linux", "obj": "IBM"}
+{"sub": "CLEVER project", "obj": "IBM"}
+{"sub": "Windows Recorded TV Show", "obj": "Microsoft"}
+{"sub": "Gizzard", "obj": "Twitter"}
+{"sub": "Shadow Dancer: The Secret of Shinobi", "obj": "Sega"}
+{"sub": "IBM LAN Server", "obj": "IBM"}
+{"sub": "IBM BLU Acceleration", "obj": "IBM"}
+{"sub": "Windows Live Alerts", "obj": "Microsoft"}
+{"sub": "Compound File Binary File Format", "obj": "Microsoft"}
+{"sub": "Bowling", "obj": "Atari"}
+{"sub": "Nokia Asha platform", "obj": "Microsoft"}
+{"sub": "XPages", "obj": "IBM"}
+{"sub": "Special Force", "obj": "Iran"}
+{"sub": "HomeOS", "obj": "Microsoft"}
+{"sub": "Visual C++", "obj": "Microsoft"}
+{"sub": "IBM Cognos 8 Business Intelligence", "obj": "IBM"}
+{"sub": "Cell", "obj": "IBM"}
+{"sub": "IBM WebSphere Application Server Community Edition", "obj": "IBM"}
+{"sub": "Rational Functional Tester", "obj": "IBM"}
+{"sub": "Star Wars", "obj": "Atari"}
+{"sub": "Pocket Kingdom: Own the World", "obj": "Sega"}
+{"sub": "Mixed Object: Document Content Architecture", "obj": "IBM"}
+{"sub": "My Phone", "obj": "Microsoft"}
+{"sub": "Space Harrier 3-D", "obj": "Sega"}
+{"sub": "GXA", "obj": "Microsoft"}
+{"sub": "Eliminator", "obj": "Sega"}
+{"sub": "Family BASIC", "obj": "Nintendo"}
+{"sub": "Visual Basic Extension", "obj": "Microsoft"}
+{"sub": "Hatsune Miku: Project Mirai 2", "obj": "Sega"}
+{"sub": "IBM 709/90 9PAC", "obj": "IBM"}
+{"sub": "005", "obj": "Sega"}
+{"sub": "IBM Lotus Freelance Graphics", "obj": "IBM"}
+{"sub": "Windows Live TV", "obj": "Microsoft"}
+{"sub": "WWF Royal Rumble", "obj": "Sega"}
+{"sub": "BS Super Mario USA Power Challenge", "obj": "Nintendo"}
+{"sub": "Fight for Life", "obj": "Atari"}
+{"sub": "Windows Marketplace for Mobile", "obj": "Microsoft"}
+{"sub": "Microsoft Private Folder", "obj": "Microsoft"}
+{"sub": "Adobe Photoshop Express", "obj": "Adobe"}
+{"sub": "Bio-Hazard Battle", "obj": "Sega"}
+{"sub": "Windows Live Expo", "obj": "Microsoft"}
+{"sub": "Fantasy Zone II: The Tears of Opa-Opa", "obj": "Sega"}
+{"sub": "Pepsi Invaders", "obj": "Atari"}
+{"sub": "Sound Fantasy", "obj": "Nintendo"}
+{"sub": "Pole's Big Adventure", "obj": "Sega"}
+{"sub": "Wanted", "obj": "Sega"}
+{"sub": "Microsoft Internet Explorer 2", "obj": "Microsoft"}
+{"sub": "Intel P6", "obj": "Intel"}
+{"sub": "Blade Eagle 3-D", "obj": "Sega"}
+{"sub": "IBM 7090/94 IBSYS", "obj": "IBM"}
+{"sub": "MSSTYLES", "obj": "Microsoft"}
+{"sub": "Amazon Prime Air", "obj": "Amazon"}
+{"sub": "IBM Office/36", "obj": "IBM"}
+{"sub": "IBM Rational Performance Tester", "obj": "IBM"}
+{"sub": "Google Mashup Editor", "obj": "Google"}
+{"sub": "SubRoc-3D", "obj": "Sega"}
+{"sub": "WinUSB", "obj": "Microsoft"}
+{"sub": "Xbox One system software", "obj": "Microsoft"}
+{"sub": "Super Columns", "obj": "Sega"}
+{"sub": "Jet Fighter", "obj": "Atari"}
+{"sub": "Top Skater", "obj": "Sega"}
+{"sub": "The Death Trap", "obj": "Square"}
+{"sub": "Sega Rally 2006", "obj": "Sega"}
+{"sub": "Sega Game Pack 4 in 1", "obj": "Sega"}
+{"sub": "Double Dunk", "obj": "Atari"}
+{"sub": "Carnival", "obj": "Sega"}
+{"sub": "Hanagumi Taisen Columns", "obj": "Sega"}
+{"sub": "Line of Fire", "obj": "Sega"}
+{"sub": "Cell", "obj": "Sony"}
+{"sub": "Speedcoding", "obj": "IBM"}
+{"sub": "Android", "obj": "Google"}
+{"sub": "IBM cassette tape", "obj": "IBM"}
+{"sub": "The Pinball of the Dead", "obj": "Sega"}
+{"sub": "Oshare Majo: Love and Berry", "obj": "Sega"}
+{"sub": "ESWAT: City Under Siege", "obj": "Sega"}
+{"sub": "Garfield: Caught in the Act", "obj": "Sega"}
+{"sub": "Tesseract", "obj": "Google"}
+{"sub": "Windows Imaging Format", "obj": "Microsoft"}
+{"sub": "The Bouncer", "obj": "Square"}
+{"sub": "IBM Director", "obj": "IBM"}
+{"sub": "Adobe Wallaby", "obj": "Adobe"}
+{"sub": "IBM WebFountain", "obj": "IBM"}
+{"sub": "IBM Rational AppScan", "obj": "IBM"}
+{"sub": "IBM Rational solution for Collaborative Lifecycle Management", "obj": "IBM"}
+{"sub": "Metroid: Other M", "obj": "Nintendo"}
+{"sub": "Ghost House", "obj": "Sega"}
+{"sub": "Microsoft Office 2001", "obj": "Microsoft"}
+{"sub": "Google Chrome for Android", "obj": "Google"}
+{"sub": "Hover!", "obj": "Microsoft"}
+{"sub": "Sky Target", "obj": "Sega"}
+{"sub": "High Performance Storage System", "obj": "IBM"}
+{"sub": "Windows Mobile 6.0", "obj": "Microsoft"}
+{"sub": "IT Manager 3: Unseen Forces", "obj": "Intel"}
+{"sub": "The Cyber Shinobi", "obj": "Sega"}
+{"sub": "RMX", "obj": "Intel"}
+{"sub": "IBM Unica NetInsight", "obj": "IBM"}
+{"sub": "Golden Axe II", "obj": "Sega"}
+{"sub": "Microsoft Network Monitor", "obj": "Microsoft"}
+{"sub": "Peter Pack Rat", "obj": "Atari"}
+{"sub": "Maker Interchange Format", "obj": "Adobe"}
+{"sub": "Golf", "obj": "Atari"}
+{"sub": "XAVC", "obj": "Sony"}
+{"sub": "Phantasy Star", "obj": "Sega"}
+{"sub": "Hot Rod", "obj": "Sega"}
+{"sub": "Atari Video Cube", "obj": "Atari"}
+{"sub": "SDI", "obj": "Sega"}
+{"sub": "Google Domains", "obj": "Google"}
+{"sub": "Xbox App", "obj": "Microsoft"}
+{"sub": "IBM Tivoli Directory Server", "obj": "IBM"}
+{"sub": "Waveform Audio File Format", "obj": "Microsoft"}
+{"sub": "Freddy's Rescue Roundup", "obj": "IBM"}
+{"sub": "Nokia Lifeblog", "obj": "Nokia"}
+{"sub": "IBM Hardware Management Console", "obj": "IBM"}
+{"sub": "Donkey Kong", "obj": "Nintendo"}
+{"sub": "Intel LANSpool", "obj": "Intel"}
+{"sub": "Arrow Flash", "obj": "Sega"}
+{"sub": "Super Monkey Ball: Step & Roll", "obj": "Sega"}
+{"sub": "Boeing 2707", "obj": "Boeing"}
+{"sub": "Spider Solitaire", "obj": "Microsoft"}
+{"sub": "Windows Embedded Compact 7", "obj": "Microsoft"}
+{"sub": "IBM Operational Decision Management", "obj": "IBM"}
+{"sub": "Google Apps Script", "obj": "Google"}
+{"sub": "AppLocale", "obj": "Microsoft"}
+{"sub": "Yoshi's Island DS", "obj": "Nintendo"}
+{"sub": "Quartet", "obj": "Sega"}
+{"sub": "Columns II", "obj": "Sega"}
+{"sub": "Pit Pot", "obj": "Sega"}
+{"sub": "Microsoft Messaging Passing Interface", "obj": "Microsoft"}
+{"sub": "Ali Baba and 40 Thieves", "obj": "Sega"}
+{"sub": "Panic!", "obj": "Sega"}
+{"sub": "Microsoft Video 1", "obj": "Microsoft"}
+{"sub": "Adobe Technical Communication Suite", "obj": "Adobe"}
+{"sub": "VSE", "obj": "IBM"}
+{"sub": "Microsoft Virtual Server", "obj": "Microsoft"}
+{"sub": "ALCS transaction monitor", "obj": "IBM"}
+{"sub": "LG NEXUS 5", "obj": "Google"}
+{"sub": "CU-RTC-WEB", "obj": "Microsoft"}
+{"sub": "IBM 8100 DPPX", "obj": "IBM"}
+{"sub": "IBM TXSeries", "obj": "IBM"}
+{"sub": "IBM CityOne", "obj": "IBM"}
+{"sub": "Sandcastle", "obj": "Microsoft"}
+{"sub": "Motor Raid", "obj": "Sega"}
+{"sub": "Shadow the Hedgehog", "obj": "Sega"}
+{"sub": "Windows Neptune", "obj": "Microsoft"}
+{"sub": "IBM Tivoli Configuration and Change Management Database", "obj": "IBM"}
+{"sub": "Air Rescue", "obj": "Sega"}
+{"sub": "SaGa Frontier 2", "obj": "Square"}
+{"sub": "Microsoft Mathematics", "obj": "Microsoft"}
+{"sub": "IBM Rational SQABasic", "obj": "IBM"}
+{"sub": "IBM System/34 and System/36 Screen Design Aid", "obj": "IBM"}
+{"sub": "IBM Lotus Web Content Management", "obj": "IBM"}
+{"sub": "Rambo: First Blood Part II", "obj": "Sega"}
+{"sub": "Microsoft Dangerous Creatures", "obj": "Microsoft"}

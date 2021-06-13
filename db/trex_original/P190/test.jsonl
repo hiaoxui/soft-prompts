@@ -1,0 +1,995 @@
+{"sub": "Valencia", "obj": "Mainz"}
+{"sub": "Istanbul", "obj": "Athens"}
+{"sub": "Bangkok", "obj": "Lausanne"}
+{"sub": "Kiev", "obj": "Budapest"}
+{"sub": "Budapest", "obj": "Frankfurt"}
+{"sub": "Seattle", "obj": "Christchurch"}
+{"sub": "Algiers", "obj": "Caracas"}
+{"sub": "Uzhhorod", "obj": "Moscow"}
+{"sub": "Shanghai", "obj": "Yokohama"}
+{"sub": "Oslo", "obj": "Warsaw"}
+{"sub": "Los Angeles", "obj": "Beirut"}
+{"sub": "San Francisco", "obj": "Paris"}
+{"sub": "Rimini", "obj": "Venice"}
+{"sub": "Cologne", "obj": "Barcelona"}
+{"sub": "Windhoek", "obj": "Havana"}
+{"sub": "Vilnius", "obj": "Warsaw"}
+{"sub": "Oslo", "obj": "Stockholm"}
+{"sub": "Casablanca", "obj": "Tokyo"}
+{"sub": "Cleveland", "obj": "Taipei"}
+{"sub": "New York City", "obj": "Jakarta"}
+{"sub": "Kyoto", "obj": "Boston"}
+{"sub": "Madrid", "obj": "Sarajevo"}
+{"sub": "Ashgabat", "obj": "Athens"}
+{"sub": "Busan", "obj": "Chicago"}
+{"sub": "Warsaw", "obj": "Vilnius"}
+{"sub": "Beijing", "obj": "Madrid"}
+{"sub": "Saint Petersburg", "obj": "Turin"}
+{"sub": "Tel Aviv", "obj": "Frankfurt"}
+{"sub": "Buenos Aires", "obj": "Kiev"}
+{"sub": "Chicago", "obj": "Warsaw"}
+{"sub": "Hanoi", "obj": "Warsaw"}
+{"sub": "Taipei", "obj": "Houston"}
+{"sub": "Lyon", "obj": "Beirut"}
+{"sub": "Buenos Aires", "obj": "Barcelona"}
+{"sub": "Chicago", "obj": "Belgrade"}
+{"sub": "Lyon", "obj": "Frankfurt"}
+{"sub": "Hamburg", "obj": "Chicago"}
+{"sub": "Podgorica", "obj": "Belgrade"}
+{"sub": "\u014csaka", "obj": "Chicago"}
+{"sub": "Ljubljana", "obj": "Tbilisi"}
+{"sub": "Ankara", "obj": "Sarajevo"}
+{"sub": "Dubai", "obj": "Geneva"}
+{"sub": "Warsaw", "obj": "Athens"}
+{"sub": "Yerevan", "obj": "Lyon"}
+{"sub": "Belgrade", "obj": "Chicago"}
+{"sub": "Jeddah", "obj": "Alexandria"}
+{"sub": "Rabat", "obj": "Baghdad"}
+{"sub": "Saint Petersburg", "obj": "Kiev"}
+{"sub": "Sarajevo", "obj": "Athens"}
+{"sub": "Manila", "obj": "Shanghai"}
+{"sub": "Madrid", "obj": "Moscow"}
+{"sub": "Rio de Janeiro", "obj": "Adelaide"}
+{"sub": "London", "obj": "Zagreb"}
+{"sub": "Kiev", "obj": "Ankara"}
+{"sub": "Bremen", "obj": "Haifa"}
+{"sub": "Taipei", "obj": "Boston"}
+{"sub": "Prague", "obj": "Sofia"}
+{"sub": "Istanbul", "obj": "Guangzhou"}
+{"sub": "Rotterdam", "obj": "Turin"}
+{"sub": "Delhi", "obj": "Chicago"}
+{"sub": "Ljubljana", "obj": "Parma"}
+{"sub": "Athens", "obj": "Havana"}
+{"sub": "Saint Petersburg", "obj": "Beijing"}
+{"sub": "Dublin", "obj": "Milan"}
+{"sub": "Kaohsiung", "obj": "Brisbane"}
+{"sub": "Stockholm", "obj": "Vilnius"}
+{"sub": "Southampton", "obj": "Hampton"}
+{"sub": "Florence", "obj": "Athens"}
+{"sub": "Tbilisi", "obj": "Kiev"}
+{"sub": "Strasbourg", "obj": "Stuttgart"}
+{"sub": "Bangalore", "obj": "Cleveland"}
+{"sub": "La Paz", "obj": "Caracas"}
+{"sub": "Damascus", "obj": "Cairo"}
+{"sub": "Taipei", "obj": "Warsaw"}
+{"sub": "Sofia", "obj": "Moscow"}
+{"sub": "Mexico City", "obj": "Stockholm"}
+{"sub": "Helsinki", "obj": "Kiev"}
+{"sub": "Prague", "obj": "Naples"}
+{"sub": "Bristol", "obj": "Bordeaux"}
+{"sub": "Hanoi", "obj": "Ankara"}
+{"sub": "\u014csaka Prefecture", "obj": "Shanghai"}
+{"sub": "Antwerp", "obj": "Haifa"}
+{"sub": "Bucharest", "obj": "Istanbul"}
+{"sub": "Beirut", "obj": "Istanbul"}
+{"sub": "Phnom Penh", "obj": "London"}
+{"sub": "Karachi", "obj": "Kolkata"}
+{"sub": "Madrid", "obj": "Bordeaux"}
+{"sub": "Stuttgart", "obj": "Mumbai"}
+{"sub": "Jeddah", "obj": "Karachi"}
+{"sub": "Shanghai", "obj": "Antwerp"}
+{"sub": "Busan", "obj": "Shanghai"}
+{"sub": "Plovdiv", "obj": "Thessaloniki"}
+{"sub": "Dublin", "obj": "Budapest"}
+{"sub": "Kaliningrad", "obj": "Yerevan"}
+{"sub": "Tel Aviv", "obj": "Venice"}
+{"sub": "Saint Petersburg", "obj": "Montevideo"}
+{"sub": "Surabaya", "obj": "Guangzhou"}
+{"sub": "Auckland", "obj": "Tonga"}
+{"sub": "Sarajevo", "obj": "Ankara"}
+{"sub": "Stockholm", "obj": "Copenhagen"}
+{"sub": "Lagos", "obj": "Tbilisi"}
+{"sub": "Perugia", "obj": "Bratislava"}
+{"sub": "Warsaw", "obj": "Berlin"}
+{"sub": "Beirut", "obj": "Moscow"}
+{"sub": "Panama City", "obj": "Madrid"}
+{"sub": "Moscow", "obj": "Beirut"}
+{"sub": "Tunis", "obj": "Montreal"}
+{"sub": "Birmingham", "obj": "Leipzig"}
+{"sub": "Warsaw", "obj": "Madrid"}
+{"sub": "Cairo", "obj": "Paris"}
+{"sub": "Bratislava", "obj": "Vilnius"}
+{"sub": "Mumbai", "obj": "Karachi"}
+{"sub": "Vilnius", "obj": "Toronto"}
+{"sub": "Karachi", "obj": "Chicago"}
+{"sub": "Atlanta", "obj": "Athens"}
+{"sub": "Los Angeles", "obj": "Tehran"}
+{"sub": "Jakarta", "obj": "Moscow"}
+{"sub": "Thessaloniki", "obj": "Bologna"}
+{"sub": "Esch-sur-Alzette", "obj": "Cologne"}
+{"sub": "Frankfurt", "obj": "Leipzig"}
+{"sub": "Manila", "obj": "Moscow"}
+{"sub": "Edinburgh", "obj": "Florence"}
+{"sub": "Nice", "obj": "Manila"}
+{"sub": "Bangkok", "obj": "Jakarta"}
+{"sub": "Hanover", "obj": "Leipzig"}
+{"sub": "Mexico City", "obj": "Chicago"}
+{"sub": "Kiev", "obj": "Tallinn"}
+{"sub": "Kiev", "obj": "Moscow"}
+{"sub": "Istanbul", "obj": "Amsterdam"}
+{"sub": "Abu Dhabi", "obj": "Madrid"}
+{"sub": "Frankfurt", "obj": "Cairo"}
+{"sub": "Wellington", "obj": "Sydney"}
+{"sub": "Madrid", "obj": "Caracas"}
+{"sub": "Lisbon", "obj": "Montevideo"}
+{"sub": "Alexandria", "obj": "Odessa"}
+{"sub": "Seville", "obj": "Havana"}
+{"sub": "Coventry", "obj": "Dresden"}
+{"sub": "Marseille", "obj": "Yerevan"}
+{"sub": "Galway", "obj": "Chicago"}
+{"sub": "Jakarta", "obj": "Tokyo"}
+{"sub": "Montreal", "obj": "Manila"}
+{"sub": "Chicago", "obj": "Delhi"}
+{"sub": "Charleroi", "obj": "Pittsburgh"}
+{"sub": "Salisbury", "obj": "Salisbury"}
+{"sub": "Casablanca", "obj": "Shanghai"}
+{"sub": "Moscow", "obj": "Riga"}
+{"sub": "Antalya", "obj": "Vladimir"}
+{"sub": "Tehran", "obj": "Moscow"}
+{"sub": "Oran", "obj": "Bordeaux"}
+{"sub": "Skopje", "obj": "Sarajevo"}
+{"sub": "Strasbourg", "obj": "Vilnius"}
+{"sub": "Turin", "obj": "Cologne"}
+{"sub": "Jeddah", "obj": "Baghdad"}
+{"sub": "Magdeburg", "obj": "Brunswick"}
+{"sub": "Saint Petersburg", "obj": "Istanbul"}
+{"sub": "Amsterdam", "obj": "Athens"}
+{"sub": "Copenhagen", "obj": "Helsinki"}
+{"sub": "Vilnius", "obj": "Kiev"}
+{"sub": "Salisbury", "obj": "Salisbury"}
+{"sub": "Islamabad", "obj": "Jakarta"}
+{"sub": "Sarajevo", "obj": "Tirana"}
+{"sub": "Yerevan", "obj": "Odessa"}
+{"sub": "Rio de Janeiro", "obj": "Vancouver"}
+{"sub": "Istanbul", "obj": "Florence"}
+{"sub": "Manila", "obj": "Montreal"}
+{"sub": "Esch-sur-Alzette", "obj": "Rotterdam"}
+{"sub": "Tehran", "obj": "Kabul"}
+{"sub": "Istanbul", "obj": "Bucharest"}
+{"sub": "Nur-Sultan", "obj": "Vilnius"}
+{"sub": "Vilnius", "obj": "Stockholm"}
+{"sub": "New York City", "obj": "Jerusalem"}
+{"sub": "Saint Petersburg", "obj": "Minsk"}
+{"sub": "Buenos Aires", "obj": "Istanbul"}
+{"sub": "Milan", "obj": "Montreal"}
+{"sub": "Vilnius", "obj": "Riga"}
+{"sub": "Athens", "obj": "Barcelona"}
+{"sub": "Nice", "obj": "Thessaloniki"}
+{"sub": "Riga", "obj": "Kiev"}
+{"sub": "Los Angeles", "obj": "Mumbai"}
+{"sub": "Beijing", "obj": "Seoul"}
+{"sub": "Bangkok", "obj": "Guangzhou"}
+{"sub": "Lorient", "obj": "Galway"}
+{"sub": "Budapest", "obj": "Lviv"}
+{"sub": "Venice", "obj": "Nice"}
+{"sub": "Las Palmas de Gran Canaria", "obj": "Rotterdam"}
+{"sub": "Yerevan", "obj": "Venice"}
+{"sub": "Prague", "obj": "Kyoto"}
+{"sub": "Tel Aviv", "obj": "Milan"}
+{"sub": "Yerevan", "obj": "Montreal"}
+{"sub": "Mashhad", "obj": "Lahore"}
+{"sub": "Rio de Janeiro", "obj": "Lagos"}
+{"sub": "Athens", "obj": "Prague"}
+{"sub": "Dnipro", "obj": "Vilnius"}
+{"sub": "Chaozhou", "obj": "Bangkok"}
+{"sub": "Belgrade", "obj": "Ljubljana"}
+{"sub": "Rabat", "obj": "Seville"}
+{"sub": "Prague", "obj": "Nuremberg"}
+{"sub": "Rome", "obj": "Seville"}
+{"sub": "Hamburg", "obj": "Marseille"}
+{"sub": "Amman", "obj": "Beijing"}
+{"sub": "Cali", "obj": "Miami"}
+{"sub": "Dubai", "obj": "Istanbul"}
+{"sub": "Beijing", "obj": "Johannesburg"}
+{"sub": "Lutsk", "obj": "Brest"}
+{"sub": "Mada'in Saleh", "obj": "Petra"}
+{"sub": "Graz", "obj": "Ljubljana"}
+{"sub": "Venice", "obj": "Tirana"}
+{"sub": "Antalya", "obj": "Kazan"}
+{"sub": "Moscow", "obj": "Cairo"}
+{"sub": "Rio de Janeiro", "obj": "Nairobi"}
+{"sub": "Okinawa Prefecture", "obj": "Hawaii"}
+{"sub": "Saint Petersburg", "obj": "Alexandria"}
+{"sub": "London", "obj": "Bucharest"}
+{"sub": "Nizhny Novgorod", "obj": "Philadelphia"}
+{"sub": "Jeddah", "obj": "Taipei"}
+{"sub": "Durban", "obj": "Johannesburg"}
+{"sub": "Bordeaux", "obj": "Casablanca"}
+{"sub": "Copenhagen", "obj": "Marseille"}
+{"sub": "Tbilisi", "obj": "Ankara"}
+{"sub": "Saint Petersburg", "obj": "Barcelona"}
+{"sub": "Kuala Lumpur", "obj": "Ankara"}
+{"sub": "Beijing", "obj": "Tehran"}
+{"sub": "Limassol", "obj": "Prague"}
+{"sub": "Busan", "obj": "Istanbul"}
+{"sub": "Seoul", "obj": "Sydney"}
+{"sub": "Newcastle upon Tyne", "obj": "Atlanta"}
+{"sub": "Marseille", "obj": "Odessa"}
+{"sub": "Tokyo", "obj": "Rome"}
+{"sub": "Islamabad", "obj": "Sydney"}
+{"sub": "Madrid", "obj": "Athens"}
+{"sub": "Tehran", "obj": "Manila"}
+{"sub": "Quebec City", "obj": "Albany"}
+{"sub": "Beijing", "obj": "Santiago"}
+{"sub": "Plovdiv", "obj": "Leipzig"}
+{"sub": "Kassel", "obj": "Florence"}
+{"sub": "Vienna", "obj": "Budapest"}
+{"sub": "Bern", "obj": "Vienna"}
+{"sub": "Athens", "obj": "Amsterdam"}
+{"sub": "Rosario", "obj": "Montevideo"}
+{"sub": "Vienna", "obj": "Ljubljana"}
+{"sub": "Vienna", "obj": "Belgrade"}
+{"sub": "Damascus", "obj": "Ankara"}
+{"sub": "Montreal", "obj": "Athens"}
+{"sub": "Toronto", "obj": "Milan"}
+{"sub": "Toronto", "obj": "Istanbul"}
+{"sub": "Nicosia", "obj": "Athens"}
+{"sub": "Lisbon", "obj": "Madrid"}
+{"sub": "Istanbul", "obj": "Cairo"}
+{"sub": "Tokyo", "obj": "Moscow"}
+{"sub": "Buenos Aires", "obj": "Santiago"}
+{"sub": "Mexico City", "obj": "Houston"}
+{"sub": "Acapulco", "obj": "Manila"}
+{"sub": "Ljubljana", "obj": "Zagreb"}
+{"sub": "Incheon", "obj": "Manila"}
+{"sub": "Damascus", "obj": "Toledo"}
+{"sub": "Mogadishu", "obj": "Ankara"}
+{"sub": "Nuremberg", "obj": "Venice"}
+{"sub": "Salzburg", "obj": "Dresden"}
+{"sub": "Yerevan", "obj": "Bratislava"}
+{"sub": "Bukhara", "obj": "Lahore"}
+{"sub": "Istanbul", "obj": "Lahore"}
+{"sub": "Kiev", "obj": "Beijing"}
+{"sub": "Jeddah", "obj": "Odessa"}
+{"sub": "Beijing", "obj": "Tirana"}
+{"sub": "Leipzig", "obj": "Bologna"}
+{"sub": "Helsinki", "obj": "Sofia"}
+{"sub": "Marseille", "obj": "Beirut"}
+{"sub": "Boston", "obj": "Melbourne"}
+{"sub": "Patras", "obj": "Bari"}
+{"sub": "Tunis", "obj": "Vienna"}
+{"sub": "Melbourne", "obj": "Thessaloniki"}
+{"sub": "Stockholm", "obj": "Istanbul"}
+{"sub": "Buenos Aires", "obj": "Belgrade"}
+{"sub": "Beersheba", "obj": "Montreal"}
+{"sub": "K\u014dbe", "obj": "Marseille"}
+{"sub": "Dortmund", "obj": "Leeds"}
+{"sub": "Tianjin", "obj": "Bangkok"}
+{"sub": "Seoul", "obj": "Paris"}
+{"sub": "Toulouse", "obj": "Kiev"}
+{"sub": "Stuttgart", "obj": "Cairo"}
+{"sub": "Lisbon", "obj": "Macau"}
+{"sub": "Los Angeles", "obj": "Manchester"}
+{"sub": "Tabriz", "obj": "Baku"}
+{"sub": "Kiev", "obj": "Toulouse"}
+{"sub": "Pristina", "obj": "Tirana"}
+{"sub": "Mannheim", "obj": "Haifa"}
+{"sub": "Beirut", "obj": "Damascus"}
+{"sub": "Tehran", "obj": "Jerusalem"}
+{"sub": "Madrid", "obj": "Havana"}
+{"sub": "Havana", "obj": "Barcelona"}
+{"sub": "Tirana", "obj": "Turin"}
+{"sub": "Nantes", "obj": "Cardiff"}
+{"sub": "Minneapolis", "obj": "Santiago"}
+{"sub": "Zagreb", "obj": "Warsaw"}
+{"sub": "Tirana", "obj": "Florence"}
+{"sub": "Vienna", "obj": "Istanbul"}
+{"sub": "Prague", "obj": "Jerusalem"}
+{"sub": "Rabat", "obj": "Damascus"}
+{"sub": "Tirana", "obj": "Vilnius"}
+{"sub": "Chicago", "obj": "Prague"}
+{"sub": "Abu Dhabi", "obj": "Jakarta"}
+{"sub": "Santiago", "obj": "Miami"}
+{"sub": "Tokyo", "obj": "Jakarta"}
+{"sub": "Athens", "obj": "Madrid"}
+{"sub": "Valencia", "obj": "Valencia"}
+{"sub": "Amsterdam", "obj": "Beijing"}
+{"sub": "Detroit", "obj": "Dubai"}
+{"sub": "Beijing", "obj": "Wellington"}
+{"sub": "Tel Aviv", "obj": "Budapest"}
+{"sub": "Riga", "obj": "Moscow"}
+{"sub": "Sofia", "obj": "Bucharest"}
+{"sub": "New Delhi", "obj": "Tokyo"}
+{"sub": "Kiel", "obj": "Tallinn"}
+{"sub": "Belgrade", "obj": "Kiev"}
+{"sub": "Nur-Sultan", "obj": "Kazan"}
+{"sub": "Rosario", "obj": "Barcelona"}
+{"sub": "Leeds", "obj": "Lille"}
+{"sub": "Benevento", "obj": "Rome"}
+{"sub": "Kotka", "obj": "Tallinn"}
+{"sub": "Salisbury", "obj": "Salisbury"}
+{"sub": "Busan", "obj": "Bangkok"}
+{"sub": "Karachi", "obj": "Mumbai"}
+{"sub": "Yerevan", "obj": "Moscow"}
+{"sub": "Tunis", "obj": "Stockholm"}
+{"sub": "Lyon", "obj": "Manila"}
+{"sub": "Bari", "obj": "Bologna"}
+{"sub": "Los Angeles", "obj": "Yerevan"}
+{"sub": "Baku", "obj": "Kiev"}
+{"sub": "Mexico City", "obj": "Beijing"}
+{"sub": "Madrid", "obj": "Warsaw"}
+{"sub": "Kuwait City", "obj": "Cannes"}
+{"sub": "Riga", "obj": "Minsk"}
+{"sub": "Baltimore", "obj": "Rotterdam"}
+{"sub": "London", "obj": "Sofia"}
+{"sub": "Faisalabad", "obj": "Manchester"}
+{"sub": "Rotterdam", "obj": "Bratislava"}
+{"sub": "Sydney", "obj": "Portsmouth"}
+{"sub": "Moscow", "obj": "Amsterdam"}
+{"sub": "Parma", "obj": "Ljubljana"}
+{"sub": "Bucharest", "obj": "Sofia"}
+{"sub": "Kuwait City", "obj": "Tehran"}
+{"sub": "London", "obj": "Jakarta"}
+{"sub": "Cairo", "obj": "Moscow"}
+{"sub": "Denver", "obj": "Brest"}
+{"sub": "Grenoble", "obj": "Cairo"}
+{"sub": "Varna", "obj": "Odessa"}
+{"sub": "Melbourne", "obj": "Milan"}
+{"sub": "San Francisco", "obj": "Shanghai"}
+{"sub": "Seoul", "obj": "Cairo"}
+{"sub": "Beijing", "obj": "Athens"}
+{"sub": "Siedlce", "obj": "Brest"}
+{"sub": "Sofia", "obj": "Milan"}
+{"sub": "Quebec City", "obj": "Calgary"}
+{"sub": "Istanbul", "obj": "Toronto"}
+{"sub": "Volgograd", "obj": "Coventry"}
+{"sub": "Seoul", "obj": "Tirana"}
+{"sub": "Istanbul", "obj": "Cologne"}
+{"sub": "Tehran", "obj": "Beijing"}
+{"sub": "Christchurch", "obj": "Seattle"}
+{"sub": "Beit She'an", "obj": "Cleveland"}
+{"sub": "Birmingham", "obj": "Chicago"}
+{"sub": "Prague", "obj": "Copenhagen"}
+{"sub": "Galway", "obj": "Auckland"}
+{"sub": "Warsaw", "obj": "Oslo"}
+{"sub": "Frankfurt", "obj": "Toronto"}
+{"sub": "Dubai", "obj": "Casablanca"}
+{"sub": "Auckland", "obj": "Brisbane"}
+{"sub": "Daejeon", "obj": "Brisbane"}
+{"sub": "Bucharest", "obj": "London"}
+{"sub": "Saint Petersburg", "obj": "Baku"}
+{"sub": "Istanbul", "obj": "Vilnius"}
+{"sub": "Saint Petersburg", "obj": "Bangkok"}
+{"sub": "Portsmouth", "obj": "Portsmouth"}
+{"sub": "Vienna", "obj": "Moscow"}
+{"sub": "Vilnius", "obj": "Lviv"}
+{"sub": "Beirut", "obj": "Karachi"}
+{"sub": "Riga", "obj": "Santiago"}
+{"sub": "New York City", "obj": "Cairo"}
+{"sub": "Mexico City", "obj": "Montevideo"}
+{"sub": "Macau", "obj": "Porto"}
+{"sub": "Montreal", "obj": "Yerevan"}
+{"sub": "Manila", "obj": "Tehran"}
+{"sub": "Kolkata", "obj": "Karachi"}
+{"sub": "Porto Alegre", "obj": "Paris"}
+{"sub": "Athens", "obj": "Damascus"}
+{"sub": "Madrid", "obj": "Prague"}
+{"sub": "Dhaka", "obj": "Guangzhou"}
+{"sub": "Baku", "obj": "Sarajevo"}
+{"sub": "Athens", "obj": "Florence"}
+{"sub": "Prague", "obj": "Berlin"}
+{"sub": "Beijing", "obj": "Copenhagen"}
+{"sub": "Quezon City", "obj": "Taipei"}
+{"sub": "Bangkok", "obj": "Ankara"}
+{"sub": "Santo Domingo", "obj": "Montevideo"}
+{"sub": "Munich", "obj": "Verona"}
+{"sub": "Zagreb", "obj": "Shanghai"}
+{"sub": "Irkutsk", "obj": "Vilnius"}
+{"sub": "Santiago", "obj": "Madrid"}
+{"sub": "Dublin", "obj": "Liverpool"}
+{"sub": "Cairo", "obj": "Casablanca"}
+{"sub": "Bursa", "obj": "Sarajevo"}
+{"sub": "Kiev", "obj": "Minsk"}
+{"sub": "Shanghai", "obj": "Marseille"}
+{"sub": "Praia", "obj": "Macau"}
+{"sub": "Barcelona", "obj": "Cairo"}
+{"sub": "Sfax", "obj": "Casablanca"}
+{"sub": "Pretoria", "obj": "Kiev"}
+{"sub": "Tirana", "obj": "Barcelona"}
+{"sub": "Minsk", "obj": "Vilnius"}
+{"sub": "Maputo", "obj": "Lagos"}
+{"sub": "Mexico City", "obj": "Lima"}
+{"sub": "Strasbourg", "obj": "Dresden"}
+{"sub": "London", "obj": "Beijing"}
+{"sub": "Prague", "obj": "Athens"}
+{"sub": "Warsaw", "obj": "Riga"}
+{"sub": "Mexico City", "obj": "Seoul"}
+{"sub": "Nur-Sultan", "obj": "Kiev"}
+{"sub": "Beijing", "obj": "Jakarta"}
+{"sub": "Prague", "obj": "Frankfurt"}
+{"sub": "Yerevan", "obj": "Tbilisi"}
+{"sub": "Saint Petersburg", "obj": "Warsaw"}
+{"sub": "Tel Aviv", "obj": "Toulouse"}
+{"sub": "Kuala Lumpur", "obj": "Jakarta"}
+{"sub": "Atlanta", "obj": "Lagos"}
+{"sub": "Cincinnati", "obj": "Munich"}
+{"sub": "Phnom Penh", "obj": "Shanghai"}
+{"sub": "Shanghai", "obj": "Colombo"}
+{"sub": "Chicago", "obj": "Karachi"}
+{"sub": "Salzburg", "obj": "Shanghai"}
+{"sub": "Istanbul", "obj": "Sarajevo"}
+{"sub": "Subotica", "obj": "Budapest"}
+{"sub": "Manchester", "obj": "Amsterdam"}
+{"sub": "Shanghai", "obj": "Quebec"}
+{"sub": "Warsaw", "obj": "Taipei"}
+{"sub": "Taipei", "obj": "Riga"}
+{"sub": "Erfurt", "obj": "Vilnius"}
+{"sub": "Rivne", "obj": "Lublin"}
+{"sub": "Salzburg", "obj": "Verona"}
+{"sub": "Rio de Janeiro", "obj": "Geneva"}
+{"sub": "Pittsburgh", "obj": "Sheffield"}
+{"sub": "Cali", "obj": "Guadalajara"}
+{"sub": "Jakarta", "obj": "Beijing"}
+{"sub": "Tallinn", "obj": "Venice"}
+{"sub": "Yerevan", "obj": "Beirut"}
+{"sub": "Islamabad", "obj": "Beijing"}
+{"sub": "Thessaloniki", "obj": "Alexandria"}
+{"sub": "Hanoi", "obj": "Beijing"}
+{"sub": "Montreal", "obj": "Amsterdam"}
+{"sub": "Thessaloniki", "obj": "Kolkata"}
+{"sub": "Milan", "obj": "Sydney"}
+{"sub": "Shenyang", "obj": "Turin"}
+{"sub": "Sarajevo", "obj": "Stockholm"}
+{"sub": "Prague", "obj": "Vilnius"}
+{"sub": "Warsaw", "obj": "Chicago"}
+{"sub": "\u014csaka", "obj": "Hamburg"}
+{"sub": "Bangkok", "obj": "Budapest"}
+{"sub": "Brno", "obj": "Vienna"}
+{"sub": "Manila", "obj": "Taipei"}
+{"sub": "Buenos Aires", "obj": "Beijing"}
+{"sub": "Beijing", "obj": "Algiers"}
+{"sub": "Jakarta", "obj": "London"}
+{"sub": "Boston", "obj": "Taipei"}
+{"sub": "Barcelona", "obj": "Havana"}
+{"sub": "Northampton", "obj": "Indianapolis"}
+{"sub": "Birmingham", "obj": "Frankfurt"}
+{"sub": "Santo Domingo", "obj": "Lisbon"}
+{"sub": "San Francisco", "obj": "Bangalore"}
+{"sub": "Saint Petersburg", "obj": "Oslo"}
+{"sub": "Queensland", "obj": "Shanghai"}
+{"sub": "Podgorica", "obj": "Tirana"}
+{"sub": "Belgrade", "obj": "Stockholm"}
+{"sub": "Barcelona", "obj": "Shanghai"}
+{"sub": "Rome", "obj": "Johannesburg"}
+{"sub": "Tel Aviv", "obj": "Philadelphia"}
+{"sub": "Algiers", "obj": "Amsterdam"}
+{"sub": "Shanghai", "obj": "London"}
+{"sub": "Belo Horizonte", "obj": "Lisbon"}
+{"sub": "Tallinn", "obj": "Vilnius"}
+{"sub": "Amman", "obj": "Moscow"}
+{"sub": "London", "obj": "Algiers"}
+{"sub": "Barcelona", "obj": "Dublin"}
+{"sub": "Bizerte", "obj": "Palermo"}
+{"sub": "Chicago", "obj": "Hamburg"}
+{"sub": "Rio de Janeiro", "obj": "Barcelona"}
+{"sub": "Rotterdam", "obj": "Shanghai"}
+{"sub": "Rehovot", "obj": "Heidelberg"}
+{"sub": "Sofia", "obj": "Prague"}
+{"sub": "Riga", "obj": "Vilnius"}
+{"sub": "Oslo", "obj": "Shanghai"}
+{"sub": "Frankfurt", "obj": "Lyon"}
+{"sub": "London", "obj": "Amsterdam"}
+{"sub": "Gothenburg", "obj": "Shanghai"}
+{"sub": "Taipei", "obj": "Dallas"}
+{"sub": "Cologne", "obj": "Lille"}
+{"sub": "Konya", "obj": "Baku"}
+{"sub": "Mindelo", "obj": "Porto"}
+{"sub": "Stralsund", "obj": "Kiel"}
+{"sub": "Beijing", "obj": "Ankara"}
+{"sub": "Luanda", "obj": "Macau"}
+{"sub": "Cairo", "obj": "Seoul"}
+{"sub": "Vilnius", "obj": "Moscow"}
+{"sub": "Nur-Sultan", "obj": "Warsaw"}
+{"sub": "Athens", "obj": "Athens"}
+{"sub": "Mexico City", "obj": "Havana"}
+{"sub": "Limassol", "obj": "Alexandria"}
+{"sub": "Santiago", "obj": "Minneapolis"}
+{"sub": "Sofia", "obj": "Ankara"}
+{"sub": "Ljubljana", "obj": "Athens"}
+{"sub": "Saint Petersburg", "obj": "Manchester"}
+{"sub": "Nur-Sultan", "obj": "Dubai"}
+{"sub": "Maracaibo", "obj": "Bremen"}
+{"sub": "Lahore", "obj": "Istanbul"}
+{"sub": "Bucharest", "obj": "Ankara"}
+{"sub": "Santo Domingo", "obj": "Milan"}
+{"sub": "New Delhi", "obj": "London"}
+{"sub": "Marseille", "obj": "Naples"}
+{"sub": "Sarajevo", "obj": "Naples"}
+{"sub": "Jakarta", "obj": "Amsterdam"}
+{"sub": "Tehran", "obj": "Havana"}
+{"sub": "Tripoli", "obj": "Algiers"}
+{"sub": "Zagreb", "obj": "Budapest"}
+{"sub": "Oslo", "obj": "Copenhagen"}
+{"sub": "Barcelona", "obj": "Athens"}
+{"sub": "Florence", "obj": "Budapest"}
+{"sub": "Ostrava", "obj": "Dresden"}
+{"sub": "Recife", "obj": "Amsterdam"}
+{"sub": "Porto", "obj": "Shanghai"}
+{"sub": "Leipzig", "obj": "Kiev"}
+{"sub": "New Delhi", "obj": "Yerevan"}
+{"sub": "Bucharest", "obj": "Damascus"}
+{"sub": "Lisbon", "obj": "Venice"}
+{"sub": "Stockholm", "obj": "Sarajevo"}
+{"sub": "Cologne", "obj": "Thessaloniki"}
+{"sub": "Wellington", "obj": "Beijing"}
+{"sub": "Khartoum", "obj": "Tehran"}
+{"sub": "Beirut", "obj": "Cairo"}
+{"sub": "Trier", "obj": "Metz"}
+{"sub": "Baku", "obj": "Venice"}
+{"sub": "Mexico City", "obj": "Kiev"}
+{"sub": "Sydney", "obj": "Seoul"}
+{"sub": "Cairo", "obj": "Istanbul"}
+{"sub": "Algiers", "obj": "Montreal"}
+{"sub": "Mexico City", "obj": "Madrid"}
+{"sub": "Shanghai", "obj": "Milan"}
+{"sub": "Mexico City", "obj": "Toronto"}
+{"sub": "Seville", "obj": "Berlin"}
+{"sub": "Madrid", "obj": "Montevideo"}
+{"sub": "Beirut", "obj": "Baghdad"}
+{"sub": "Havana", "obj": "Istanbul"}
+{"sub": "Tallinn", "obj": "Stockholm"}
+{"sub": "Bologna", "obj": "Zagreb"}
+{"sub": "Honolulu", "obj": "Seoul"}
+{"sub": "Sarajevo", "obj": "Budapest"}
+{"sub": "Stockholm", "obj": "Tirana"}
+{"sub": "Istanbul", "obj": "Stockholm"}
+{"sub": "Zagreb", "obj": "Sarajevo"}
+{"sub": "Helsinki", "obj": "Oslo"}
+{"sub": "Manila", "obj": "Madrid"}
+{"sub": "Taipei", "obj": "Guam"}
+{"sub": "Athens", "obj": "Kiev"}
+{"sub": "Shanghai", "obj": "Casablanca"}
+{"sub": "Pittsburgh", "obj": "Zagreb"}
+{"sub": "Sapporo", "obj": "Munich"}
+{"sub": "Brno", "obj": "Stuttgart"}
+{"sub": "Tirana", "obj": "Kiev"}
+{"sub": "Beijing", "obj": "London"}
+{"sub": "Los Angeles", "obj": "Vancouver"}
+{"sub": "Ankara", "obj": "Damascus"}
+{"sub": "Dushanbe", "obj": "Boulder"}
+{"sub": "Almaty", "obj": "Riga"}
+{"sub": "Istanbul", "obj": "Beirut"}
+{"sub": "Guadalajara", "obj": "Guadalajara"}
+{"sub": "Podgorica", "obj": "Yerevan"}
+{"sub": "Buenos Aires", "obj": "Warsaw"}
+{"sub": "Shanghai", "obj": "Barcelona"}
+{"sub": "Schifferstadt", "obj": "Frederick"}
+{"sub": "Shanghai", "obj": "Karachi"}
+{"sub": "Tunis", "obj": "Belgrade"}
+{"sub": "Belgrade", "obj": "Beijing"}
+{"sub": "Mexico City", "obj": "Caracas"}
+{"sub": "Milan", "obj": "Chicago"}
+{"sub": "Odessa", "obj": "Yerevan"}
+{"sub": "Vilnius", "obj": "Prague"}
+{"sub": "Moscow", "obj": "Ljubljana"}
+{"sub": "Leeds", "obj": "Dortmund"}
+{"sub": "Bucharest", "obj": "Budapest"}
+{"sub": "London", "obj": "Tehran"}
+{"sub": "Havana", "obj": "Seville"}
+{"sub": "Vilnius", "obj": "Minsk"}
+{"sub": "Kiev", "obj": "Chicago"}
+{"sub": "La Paz", "obj": "Moscow"}
+{"sub": "Cologne", "obj": "Beijing"}
+{"sub": "Manila", "obj": "Guam"}
+{"sub": "Bratislava", "obj": "Ljubljana"}
+{"sub": "Dijon", "obj": "Dallas"}
+{"sub": "Manila", "obj": "Guangzhou"}
+{"sub": "Kiev", "obj": "Yerevan"}
+{"sub": "Washington, D.C.", "obj": "Oslo"}
+{"sub": "Guayaquil", "obj": "Santiago"}
+{"sub": "Vilnius", "obj": "Salzburg"}
+{"sub": "Ljubljana", "obj": "Vienna"}
+{"sub": "Auckland", "obj": "Samoa"}
+{"sub": "Kiev", "obj": "Toronto"}
+{"sub": "Cleveland", "obj": "Cleveland"}
+{"sub": "Manila", "obj": "Nice"}
+{"sub": "Milan", "obj": "Naples"}
+{"sub": "Lyon", "obj": "Leipzig"}
+{"sub": "Toulouse", "obj": "Bristol"}
+{"sub": "Skopje", "obj": "Istanbul"}
+{"sub": "Dieppe", "obj": "Brighton"}
+{"sub": "Rio de Janeiro", "obj": "Jerusalem"}
+{"sub": "Seoul", "obj": "Ankara"}
+{"sub": "Saint Petersburg", "obj": "Sofia"}
+{"sub": "Saint Petersburg", "obj": "Edinburgh"}
+{"sub": "Frankfurt", "obj": "Budapest"}
+{"sub": "San Salvador", "obj": "Caracas"}
+{"sub": "Warsaw", "obj": "Vienna"}
+{"sub": "Barcelona", "obj": "Istanbul"}
+{"sub": "Dakar", "obj": "Algiers"}
+{"sub": "Tirana", "obj": "Athens"}
+{"sub": "Rotterdam", "obj": "Istanbul"}
+{"sub": "Montreal", "obj": "Casablanca"}
+{"sub": "Prague", "obj": "Istanbul"}
+{"sub": "Vilnius", "obj": "Edinburgh"}
+{"sub": "Washington, D.C.", "obj": "Seoul"}
+{"sub": "Skopje", "obj": "Zagreb"}
+{"sub": "Kiev", "obj": "Belgrade"}
+{"sub": "Guangzhou", "obj": "Lyon"}
+{"sub": "Shanghai", "obj": "Montreal"}
+{"sub": "Jeddah", "obj": "Stuttgart"}
+{"sub": "Guangzhou", "obj": "Bangkok"}
+{"sub": "Inverness", "obj": "Augsburg"}
+{"sub": "K\u014dbe", "obj": "Brisbane"}
+{"sub": "Pyongyang", "obj": "Jakarta"}
+{"sub": "Manila", "obj": "Beijing"}
+{"sub": "Mexico City", "obj": "Istanbul"}
+{"sub": "Islamabad", "obj": "Toronto"}
+{"sub": "Cairo", "obj": "Houston"}
+{"sub": "Cape Town", "obj": "Johannesburg"}
+{"sub": "Kharkiv", "obj": "Warsaw"}
+{"sub": "Amsterdam", "obj": "Istanbul"}
+{"sub": "London", "obj": "Baku"}
+{"sub": "Bristol", "obj": "Toulouse"}
+{"sub": "Verona", "obj": "Munich"}
+{"sub": "Budapest", "obj": "Zagreb"}
+{"sub": "Sofia", "obj": "Helsinki"}
+{"sub": "Tunis", "obj": "Marseille"}
+{"sub": "Turin", "obj": "Lille"}
+{"sub": "Vilnius", "obj": "Guangzhou"}
+{"sub": "Damascus", "obj": "Yerevan"}
+{"sub": "Montreal", "obj": "Algiers"}
+{"sub": "Stockholm", "obj": "Tallinn"}
+{"sub": "Cologne", "obj": "Turin"}
+{"sub": "Washington, D.C.", "obj": "Ankara"}
+{"sub": "London", "obj": "Karachi"}
+{"sub": "Wuhan", "obj": "Bangkok"}
+{"sub": "Algiers", "obj": "Beijing"}
+{"sub": "Tehran", "obj": "London"}
+{"sub": "Budapest", "obj": "Kiev"}
+{"sub": "Weimar", "obj": "Siena"}
+{"sub": "Tehran", "obj": "Caracas"}
+{"sub": "Porto", "obj": "Bristol"}
+{"sub": "Leipzig", "obj": "Lyon"}
+{"sub": "Alicante", "obj": "Nice"}
+{"sub": "Tirana", "obj": "Thessaloniki"}
+{"sub": "Taranto", "obj": "Sparta"}
+{"sub": "Rio de Janeiro", "obj": "Atlanta"}
+{"sub": "Amman", "obj": "Baghdad"}
+{"sub": "Bucharest", "obj": "Lagos"}
+{"sub": "Islamabad", "obj": "Ankara"}
+{"sub": "Luanda", "obj": "Houston"}
+{"sub": "Tirana", "obj": "Beijing"}
+{"sub": "Buenos Aires", "obj": "Miami"}
+{"sub": "Hokkaid\u014d", "obj": "Alberta"}
+{"sub": "Bucharest", "obj": "Montreal"}
+{"sub": "Rotterdam", "obj": "Lille"}
+{"sub": "San Diego", "obj": "Edinburgh"}
+{"sub": "Tianjin", "obj": "Philadelphia"}
+{"sub": "Buenos Aires", "obj": "Prague"}
+{"sub": "Montreal", "obj": "Shanghai"}
+{"sub": "Mexico City", "obj": "Lisbon"}
+{"sub": "Stockholm", "obj": "Belgrade"}
+{"sub": "Manila", "obj": "Bangkok"}
+{"sub": "Chicago", "obj": "Toronto"}
+{"sub": "Saint Petersburg", "obj": "Mumbai"}
+{"sub": "City of Kisumu", "obj": "Cheltenham"}
+{"sub": "New Delhi", "obj": "Chicago"}
+{"sub": "Milan", "obj": "Beijing"}
+{"sub": "Toronto", "obj": "Warsaw"}
+{"sub": "Istanbul", "obj": "Dubai"}
+{"sub": "Seoul", "obj": "Jakarta"}
+{"sub": "Piraeus", "obj": "Shanghai"}
+{"sub": "Chongqing", "obj": "Seattle"}
+{"sub": "Santo Domingo", "obj": "Barcelona"}
+{"sub": "Damascus", "obj": "Budapest"}
+{"sub": "Amman", "obj": "Tokyo"}
+{"sub": "Beijing", "obj": "Moscow"}
+{"sub": "Mexico City", "obj": "Rosario"}
+{"sub": "San Francisco", "obj": "Sydney"}
+{"sub": "Mexico City", "obj": "Nagoya"}
+{"sub": "Nicosia", "obj": "Amsterdam"}
+{"sub": "Istanbul", "obj": "Vienna"}
+{"sub": "Lille", "obj": "Leeds"}
+{"sub": "Saint Petersburg", "obj": "Casablanca"}
+{"sub": "Manama", "obj": "Karachi"}
+{"sub": "Helsinki", "obj": "Prague"}
+{"sub": "Rio de Janeiro", "obj": "Seoul"}
+{"sub": "Shanghai", "obj": "Hamburg"}
+{"sub": "Khartoum", "obj": "Cairo"}
+{"sub": "Istanbul", "obj": "Tbilisi"}
+{"sub": "Madrid", "obj": "Sofia"}
+{"sub": "Beijing", "obj": "Bangkok"}
+{"sub": "Houston", "obj": "Cairo"}
+{"sub": "Marseille", "obj": "Shanghai"}
+{"sub": "Sofia", "obj": "Bratislava"}
+{"sub": "Istanbul", "obj": "Tirana"}
+{"sub": "Nablus", "obj": "Dundee"}
+{"sub": "Seoul", "obj": "Taipei"}
+{"sub": "Almaty", "obj": "Istanbul"}
+{"sub": "Chicago", "obj": "Athens"}
+{"sub": "Budapest", "obj": "Vienna"}
+{"sub": "Rabat", "obj": "Istanbul"}
+{"sub": "Jeddah", "obj": "Cairo"}
+{"sub": "Dubrovnik", "obj": "Sarajevo"}
+{"sub": "Saint Petersburg", "obj": "Tallinn"}
+{"sub": "San Francisco", "obj": "Thessaloniki"}
+{"sub": "Rotterdam", "obj": "Jakarta"}
+{"sub": "Rome", "obj": "Tokyo"}
+{"sub": "Istanbul", "obj": "Warsaw"}
+{"sub": "Algiers", "obj": "London"}
+{"sub": "Hanover", "obj": "Bristol"}
+{"sub": "Tirana", "obj": "Bucharest"}
+{"sub": "Miskolc", "obj": "Cleveland"}
+{"sub": "Accra", "obj": "Chicago"}
+{"sub": "Rio de Janeiro", "obj": "Bucharest"}
+{"sub": "Dresden", "obj": "Hamburg"}
+{"sub": "Rotterdam", "obj": "Oslo"}
+{"sub": "Skopje", "obj": "Ljubljana"}
+{"sub": "Nicosia", "obj": "Bucharest"}
+{"sub": "Johannesburg", "obj": "Taipei"}
+{"sub": "Tashkent", "obj": "Istanbul"}
+{"sub": "Saint Petersburg", "obj": "Riga"}
+{"sub": "Guam", "obj": "Taipei"}
+{"sub": "Tel Aviv", "obj": "Oslo"}
+{"sub": "Montevideo", "obj": "Madrid"}
+{"sub": "Skopje", "obj": "Sofia"}
+{"sub": "Busan", "obj": "Dubai"}
+{"sub": "Dubai", "obj": "Tripoli"}
+{"sub": "Jeddah", "obj": "Casablanca"}
+{"sub": "Prague", "obj": "Chicago"}
+{"sub": "Riga", "obj": "Tallinn"}
+{"sub": "Guam", "obj": "Seoul"}
+{"sub": "Warsaw", "obj": "Kiev"}
+{"sub": "Nairobi", "obj": "Denver"}
+{"sub": "Sofia", "obj": "Madrid"}
+{"sub": "Santo Domingo", "obj": "Berlin"}
+{"sub": "Tehran", "obj": "Bangkok"}
+{"sub": "Luanda", "obj": "Porto"}
+{"sub": "Stockholm", "obj": "Kiev"}
+{"sub": "Vancouver", "obj": "Yokohama"}
+{"sub": "Mexico City", "obj": "Sydney"}
+{"sub": "Sheffield", "obj": "Pittsburgh"}
+{"sub": "Ghent", "obj": "Nottingham"}
+{"sub": "Nur-Sultan", "obj": "Ankara"}
+{"sub": "Vienna", "obj": "Bratislava"}
+{"sub": "Munich", "obj": "Bordeaux"}
+{"sub": "Assisi", "obj": "Bethlehem"}
+{"sub": "Miami", "obj": "Ankara"}
+{"sub": "Auckland", "obj": "Galway"}
+{"sub": "Buenos Aires", "obj": "Madrid"}
+{"sub": "Prague", "obj": "Bratislava"}
+{"sub": "Tel Aviv", "obj": "Warsaw"}
+{"sub": "Moscow", "obj": "Jerusalem"}
+{"sub": "Jeddah", "obj": "Jakarta"}
+{"sub": "Athens", "obj": "Athens"}
+{"sub": "Edinburgh", "obj": "Vancouver"}
+{"sub": "Shanghai", "obj": "Dubai"}
+{"sub": "Saint Petersburg", "obj": "Tbilisi"}
+{"sub": "Prague", "obj": "Taipei"}
+{"sub": "Tel Aviv", "obj": "Barcelona"}
+{"sub": "London", "obj": "Oslo"}
+{"sub": "Saint Petersburg", "obj": "Havana"}
+{"sub": "Beijing", "obj": "Canberra"}
+{"sub": "Boston", "obj": "Kyoto"}
+{"sub": "Singapore", "obj": "Gibraltar"}
+{"sub": "Tartu", "obj": "Riga"}
+{"sub": "Nur-Sultan", "obj": "Seoul"}
+{"sub": "Odessa", "obj": "Yokohama"}
+{"sub": "Delhi", "obj": "Tokyo"}
+{"sub": "Saint Petersburg", "obj": "Hamburg"}
+{"sub": "Bishkek", "obj": "Ankara"}
+{"sub": "London", "obj": "Tokyo"}
+{"sub": "Oran", "obj": "Strasbourg"}
+{"sub": "Tirana", "obj": "Sofia"}
+{"sub": "Mexico City", "obj": "Athens"}
+{"sub": "Miami", "obj": "Lisbon"}
+{"sub": "Addis Ababa", "obj": "Stockholm"}
+{"sub": "Ankara", "obj": "Sofia"}
+{"sub": "Cambridge", "obj": "Cambridge"}
+{"sub": "Hamburg", "obj": "Auckland"}
+{"sub": "Marseille", "obj": "Copenhagen"}
+{"sub": "Milan", "obj": "Bethlehem"}
+{"sub": "New Orleans", "obj": "Caracas"}
+{"sub": "Caen", "obj": "Portsmouth"}
+{"sub": "Odessa", "obj": "Haifa"}
+{"sub": "Kiev", "obj": "Stockholm"}
+{"sub": "Florence", "obj": "Dresden"}
+{"sub": "Auckland", "obj": "Guangzhou"}
+{"sub": "Hanoi", "obj": "Bangkok"}
+{"sub": "Seoul", "obj": "Bangkok"}
+{"sub": "Ankara", "obj": "Moscow"}
+{"sub": "Saint Petersburg", "obj": "Dresden"}
+{"sub": "Havana", "obj": "Madrid"}
+{"sub": "Donetsk", "obj": "Moscow"}
+{"sub": "Washington, D.C.", "obj": "Beijing"}
+{"sub": "Palermo", "obj": "Vilnius"}
+{"sub": "San Francisco", "obj": "Lisbon"}
+{"sub": "Turin", "obj": "Detroit"}
+{"sub": "Moscow", "obj": "Seoul"}
+{"sub": "Berlin", "obj": "Budapest"}
+{"sub": "Denver", "obj": "Nairobi"}
+{"sub": "Beijing", "obj": "Milan"}
+{"sub": "Cologne", "obj": "Istanbul"}
+{"sub": "Tirana", "obj": "Zagreb"}
+{"sub": "Moscow", "obj": "Vilnius"}
+{"sub": "Beirut", "obj": "Lyon"}
+{"sub": "Sydney", "obj": "Florence"}
+{"sub": "Saint Petersburg", "obj": "Stockholm"}
+{"sub": "Kharkiv", "obj": "Moscow"}
+{"sub": "Naples", "obj": "Sarajevo"}
+{"sub": "Milan", "obj": "Sofia"}
+{"sub": "Bucharest", "obj": "Beijing"}
+{"sub": "Warsaw", "obj": "Seoul"}
+{"sub": "Budapest", "obj": "Sarajevo"}
+{"sub": "Larnaca", "obj": "Bratislava"}
+{"sub": "Taipei", "obj": "Prague"}
+{"sub": "Vientiane", "obj": "Bangkok"}
+{"sub": "Tirana", "obj": "Stockholm"}
+{"sub": "Johannesburg", "obj": "London"}
+{"sub": "Lisbon", "obj": "Casablanca"}
+{"sub": "Venice", "obj": "Thessaloniki"}
+{"sub": "Durban", "obj": "Alexandria"}
+{"sub": "Liverpool", "obj": "Rotterdam"}
+{"sub": "Guangzhou", "obj": "Manila"}
+{"sub": "Bucharest", "obj": "Athens"}
+{"sub": "Yerevan", "obj": "Sofia"}
+{"sub": "Berlin", "obj": "Prague"}
+{"sub": "Johannesburg", "obj": "Rome"}
+{"sub": "Milan", "obj": "Lyon"}
+{"sub": "Moscow", "obj": "Berlin"}
+{"sub": "Ankara", "obj": "Miami"}
+{"sub": "Accra", "obj": "Johannesburg"}
+{"sub": "Moscow", "obj": "Brest"}
+{"sub": "Bordeaux", "obj": "Madrid"}
+{"sub": "New York City", "obj": "Tokyo"}
+{"sub": "Amman", "obj": "Miami"}
+{"sub": "Ljubljana", "obj": "Bratislava"}
+{"sub": "Lagos", "obj": "Bucharest"}
+{"sub": "Varna", "obj": "Barcelona"}
+{"sub": "Rostov-on-Don", "obj": "Yerevan"}
+{"sub": "Seoul", "obj": "Tokyo"}
+{"sub": "Santo Domingo", "obj": "Santiago"}
+{"sub": "Shanghai", "obj": "Istanbul"}
+{"sub": "Lima", "obj": "Miami"}
+{"sub": "Miami", "obj": "Lima"}
+{"sub": "Houston", "obj": "Istanbul"}
+{"sub": "Naples", "obj": "Budapest"}
+{"sub": "Lisbon", "obj": "Zagreb"}
+{"sub": "Prague", "obj": "Moscow"}
+{"sub": "Sarajevo", "obj": "Baku"}
+{"sub": "Florence", "obj": "Edinburgh"}
+{"sub": "Mexico City", "obj": "Guadalajara"}
+{"sub": "Montreal", "obj": "Hanover"}
+{"sub": "Dresden", "obj": "Florence"}
+{"sub": "Gibraltar", "obj": "Singapore"}
+{"sub": "Ljubljana", "obj": "Belgrade"}
+{"sub": "Moscow", "obj": "Algiers"}
+{"sub": "Kiev", "obj": "Vienna"}
+{"sub": "Mexico City", "obj": "Jakarta"}
+{"sub": "Newcastle upon Tyne", "obj": "Newcastle"}
+{"sub": "Moscow", "obj": "Tirana"}
+{"sub": "Shenyang", "obj": "Chicago"}
+{"sub": "Dresden", "obj": "Rotterdam"}
+{"sub": "Athens", "obj": "Yerevan"}
+{"sub": "Portsmouth", "obj": "Sydney"}
+{"sub": "Cleveland", "obj": "Bangalore"}
+{"sub": "Bnei Brak", "obj": "Brooklyn"}
+{"sub": "Chicago", "obj": "Vilnius"}
+{"sub": "Lublin", "obj": "Lviv"}
+{"sub": "Venice", "obj": "Yerevan"}
+{"sub": "Riga", "obj": "Amsterdam"}
+{"sub": "Athens", "obj": "Sarajevo"}
+{"sub": "Tirana", "obj": "Seoul"}
+{"sub": "Toulouse", "obj": "Atlanta"}
+{"sub": "Caracas", "obj": "Madrid"}
+{"sub": "Tbilisi", "obj": "Vilnius"}
+{"sub": "Calais", "obj": "Dover"}
+{"sub": "Mar del Plata", "obj": "Havana"}
+{"sub": "Karachi", "obj": "Beirut"}
+{"sub": "Podgorica", "obj": "Zagreb"}
+{"sub": "Ljubljana", "obj": "Vilnius"}
+{"sub": "Tirana", "obj": "Istanbul"}
+{"sub": "Casablanca", "obj": "Alexandria"}
+{"sub": "Miami-Dade County", "obj": "Bahamas"}
+{"sub": "Copenhagen", "obj": "Oslo"}
+{"sub": "Edinburgh", "obj": "Kiev"}
+{"sub": "Salt Lake City", "obj": "Turin"}
+{"sub": "Edinburgh", "obj": "Nice"}
+{"sub": "Lausanne", "obj": "Moscow"}
+{"sub": "Abruzzo", "obj": "Philadelphia"}
+{"sub": "Athens", "obj": "Seoul"}
+{"sub": "Kiev", "obj": "Tbilisi"}
+{"sub": "Moscow", "obj": "Beijing"}
+{"sub": "Boston", "obj": "Athens"}
+{"sub": "Budapest", "obj": "Berlin"}
+{"sub": "Buenos Aires", "obj": "Cairo"}
+{"sub": "Prague", "obj": "Tirana"}
+{"sub": "Kuala Lumpur", "obj": "London"}
+{"sub": "Tirana", "obj": "Moscow"}
+{"sub": "Taipei", "obj": "Manila"}
+{"sub": "Guangzhou", "obj": "Birmingham"}
+{"sub": "Erfurt", "obj": "Mainz"}
+{"sub": "Vilnius", "obj": "Tirana"}
+{"sub": "Ganja", "obj": "Moscow"}
+{"sub": "Jakarta", "obj": "Seoul"}
+{"sub": "Prague", "obj": "Madrid"}
+{"sub": "Bratislava", "obj": "Vienna"}
+{"sub": "Pyongyang", "obj": "Moscow"}
+{"sub": "Mecca", "obj": "Medina"}
+{"sub": "Mumbai", "obj": "London"}
+{"sub": "New Delhi", "obj": "Sydney"}
+{"sub": "Santo Domingo", "obj": "Havana"}
+{"sub": "Rio de Janeiro", "obj": "Athens"}
+{"sub": "Fukuoka", "obj": "Bangkok"}
+{"sub": "Sarajevo", "obj": "Barcelona"}
+{"sub": "Thessaloniki", "obj": "Melbourne"}
+{"sub": "Sofia", "obj": "Athens"}
+{"sub": "Bratislava", "obj": "Yerevan"}
+{"sub": "Damascus", "obj": "Florence"}
+{"sub": "Dallas", "obj": "Taipei"}
+{"sub": "Athens", "obj": "Chicago"}
+{"sub": "Panama City", "obj": "Guadalajara"}
+{"sub": "Ankara", "obj": "Seoul"}
+{"sub": "Volgograd", "obj": "Hiroshima"}
+{"sub": "Tabriz", "obj": "Istanbul"}
+{"sub": "Cairo", "obj": "Damascus"}
+{"sub": "Athens", "obj": "Santiago"}
+{"sub": "Sofia", "obj": "Kiev"}
+{"sub": "Perpignan", "obj": "Barcelona"}
+{"sub": "Mexico City", "obj": "Beirut"}
+{"sub": "Istanbul", "obj": "Baku"}
+{"sub": "Beijing", "obj": "Minsk"}
+{"sub": "Montevideo", "obj": "Montevideo"}
+{"sub": "Kiev", "obj": "Athens"}
+{"sub": "Kaliningrad", "obj": "Hamburg"}
+{"sub": "Genoa", "obj": "Athens"}
+{"sub": "Canberra", "obj": "Beijing"}
+{"sub": "Atlanta", "obj": "Salzburg"}
+{"sub": "Kanpur", "obj": "Manchester"}
+{"sub": "Bangkok", "obj": "Beijing"}
+{"sub": "London", "obj": "Delhi"}
+{"sub": "Tel Aviv", "obj": "Moscow"}
+{"sub": "San Francisco", "obj": "Naples"}
+{"sub": "Athens", "obj": "Istanbul"}
+{"sub": "Vladivostok", "obj": "Shanghai"}
+{"sub": "Colombo", "obj": "Shanghai"}
+{"sub": "Vilnius", "obj": "Ljubljana"}
+{"sub": "Stockholm", "obj": "Riga"}
+{"sub": "Dubai", "obj": "Baghdad"}
+{"sub": "Riga", "obj": "Florence"}
+{"sub": "Algiers", "obj": "Tripoli"}
+{"sub": "Bratislava", "obj": "Thessaloniki"}
+{"sub": "Warsaw", "obj": "Budapest"}
+{"sub": "Auckland", "obj": "Hamburg"}
+{"sub": "Tallinn", "obj": "Kiel"}
+{"sub": "La Paz", "obj": "Santiago"}
+{"sub": "Houston", "obj": "Aberdeen"}
+{"sub": "Seoul", "obj": "Tehran"}
+{"sub": "Karachi", "obj": "Dhaka"}
+{"sub": "Los Angeles", "obj": "Bordeaux"}
+{"sub": "Miami", "obj": "Palermo"}
+{"sub": "Los Angeles", "obj": "Nagoya"}
+{"sub": "Dakar", "obj": "Milan"}
+{"sub": "Havana", "obj": "Tehran"}
+{"sub": "Trento", "obj": "Prague"}
+{"sub": "Rio de Janeiro", "obj": "Caracas"}
+{"sub": "Macau", "obj": "Lisbon"}
+{"sub": "Tel Aviv", "obj": "Vienna"}
+{"sub": "Brno", "obj": "Leipzig"}
+{"sub": "Yerevan", "obj": "Athens"}
+{"sub": "Augsburg", "obj": "Inverness"}
+{"sub": "Bratislava", "obj": "Prague"}
+{"sub": "Toronto", "obj": "Kiev"}
+{"sub": "Bratislava", "obj": "Dublin"}
+{"sub": "Istanbul", "obj": "Casablanca"}

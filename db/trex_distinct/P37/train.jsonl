@@ -1,0 +1,781 @@
+{"sub": "Keuruu", "obj": "Finnish"}
+{"sub": "Alavus", "obj": "Finnish"}
+{"sub": "Hyrynsalmi", "obj": "Finnish"}
+{"sub": "Hirvensalmi", "obj": "Finnish"}
+{"sub": "Kotka", "obj": "Finnish"}
+{"sub": "Liperi", "obj": "Finnish"}
+{"sub": "Lieto", "obj": "Finnish"}
+{"sub": "Kangasniemi", "obj": "Finnish"}
+{"sub": "Parkano", "obj": "Finnish"}
+{"sub": "Joensuu", "obj": "Finnish"}
+{"sub": "Kajaani", "obj": "Finnish"}
+{"sub": "Kiruna Municipality", "obj": "Finnish"}
+{"sub": "Huittinen", "obj": "Finnish"}
+{"sub": "Salla", "obj": "Finnish"}
+{"sub": "Iisalmi", "obj": "Finnish"}
+{"sub": "Kitee", "obj": "Finnish"}
+{"sub": "Suonenjoki", "obj": "Finnish"}
+{"sub": "Kannonkoski", "obj": "Finnish"}
+{"sub": "Lemi", "obj": "Finnish"}
+{"sub": "Savonlinna", "obj": "Finnish"}
+{"sub": "Finnish Orthodox Church", "obj": "Finnish"}
+{"sub": "Virolahti", "obj": "Finnish"}
+{"sub": "Sastamala", "obj": "Finnish"}
+{"sub": "Liminka", "obj": "Finnish"}
+{"sub": "Karvia", "obj": "Finnish"}
+{"sub": "Isojoki", "obj": "Finnish"}
+{"sub": "Posio", "obj": "Finnish"}
+{"sub": "Lieksa", "obj": "Finnish"}
+{"sub": "Lohja", "obj": "Finnish"}
+{"sub": "Vihti", "obj": "Finnish"}
+{"sub": "European Union", "obj": "Finnish"}
+{"sub": "Janakkala", "obj": "Finnish"}
+{"sub": "Haparanda Municipality", "obj": "Finnish"}
+{"sub": "Sotkamo", "obj": "Finnish"}
+{"sub": "Karijoki", "obj": "Finnish"}
+{"sub": "Viitasaari", "obj": "Finnish"}
+{"sub": "Kuhmoinen", "obj": "Finnish"}
+{"sub": "Laukaa", "obj": "Finnish"}
+{"sub": "Espoo", "obj": "Finnish"}
+{"sub": "Jokioinen", "obj": "Finnish"}
+{"sub": "Mikkeli", "obj": "Finnish"}
+{"sub": "Lapinlahti", "obj": "Finnish"}
+{"sub": "Hollola", "obj": "Finnish"}
+{"sub": "Naantali", "obj": "Finnish"}
+{"sub": "Keminmaa", "obj": "Finnish"}
+{"sub": "Kangasala", "obj": "Finnish"}
+{"sub": "Kontiolahti", "obj": "Finnish"}
+{"sub": "Oulainen", "obj": "Finnish"}
+{"sub": "Ruokolahti", "obj": "Finnish"}
+{"sub": "Karkkila", "obj": "Finnish"}
+{"sub": "Finland", "obj": "Finnish"}
+{"sub": "Teuva", "obj": "Finnish"}
+{"sub": "Ikaalinen", "obj": "Finnish"}
+{"sub": "Pirkkala", "obj": "Finnish"}
+{"sub": "Vaasa", "obj": "Finnish"}
+{"sub": "Siikainen", "obj": "Finnish"}
+{"sub": "Raseborg", "obj": "Finnish"}
+{"sub": "Tuusula", "obj": "Finnish"}
+{"sub": "Kuopio", "obj": "Finnish"}
+{"sub": "Nakkila", "obj": "Finnish"}
+{"sub": "Oulu", "obj": "Finnish"}
+{"sub": "Korpo", "obj": "Finnish"}
+{"sub": "Turku", "obj": "Finnish"}
+{"sub": "Varkaus", "obj": "Finnish"}
+{"sub": "Rovaniemi", "obj": "Finnish"}
+{"sub": "Laitila", "obj": "Finnish"}
+{"sub": "Savukoski", "obj": "Finnish"}
+{"sub": "Utsjoki", "obj": "Finnish"}
+{"sub": "Porvoo", "obj": "Finnish"}
+{"sub": "Imatra", "obj": "Finnish"}
+{"sub": "Humppila", "obj": "Finnish"}
+{"sub": "Sweden", "obj": "Finnish"}
+{"sub": "Virrat", "obj": "Finnish"}
+{"sub": "Kristinestad", "obj": "Finnish"}
+{"sub": "Kauhava", "obj": "Finnish"}
+{"sub": "Kaskinen", "obj": "Finnish"}
+{"sub": "Kaavi", "obj": "Finnish"}
+{"sub": "Kerava", "obj": "Finnish"}
+{"sub": "Tampere", "obj": "Finnish"}
+{"sub": "Tervola", "obj": "Finnish"}
+{"sub": "Vesanto", "obj": "Finnish"}
+{"sub": "Maaninka", "obj": "Finnish"}
+{"sub": "Pelkosenniemi", "obj": "Finnish"}
+{"sub": "Valkeakoski", "obj": "Finnish"}
+{"sub": "Vantaa", "obj": "Finnish"}
+{"sub": "Kolari", "obj": "Finnish"}
+{"sub": "Lapua", "obj": "Finnish"}
+{"sub": "Hankasalmi", "obj": "Finnish"}
+{"sub": "Eura", "obj": "Finnish"}
+{"sub": "Pajala Municipality", "obj": "Finnish"}
+{"sub": "Kemi", "obj": "Finnish"}
+{"sub": "Siuntio", "obj": "Finnish"}
+{"sub": "Merikarvia", "obj": "Finnish"}
+{"sub": "Eurajoki", "obj": "Finnish"}
+{"sub": "Russian Empire", "obj": "Finnish"}
+{"sub": "Iitti", "obj": "Finnish"}
+{"sub": "Nastola", "obj": "Finnish"}
+{"sub": "Kokkola", "obj": "Finnish"}
+{"sub": "Kalix Municipality", "obj": "Finnish"}
+{"sub": "Kiuruvesi", "obj": "Finnish"}
+{"sub": "Hamina", "obj": "Finnish"}
+{"sub": "Sipoo", "obj": "Finnish"}
+{"sub": "Kuhmo", "obj": "Finnish"}
+{"sub": "Loviisa", "obj": "Finnish"}
+{"sub": "Pori", "obj": "Finnish"}
+{"sub": "Ilomantsi", "obj": "Finnish"}
+{"sub": "Suomussalmi", "obj": "Finnish"}
+{"sub": "Kaustinen", "obj": "Finnish"}
+{"sub": "Kurikka", "obj": "Finnish"}
+{"sub": "Nousiainen", "obj": "Finnish"}
+{"sub": "Juankoski", "obj": "Finnish"}
+{"sub": "Malax", "obj": "Finnish"}
+{"sub": "Kirkkonummi", "obj": "Finnish"}
+{"sub": "Loppi", "obj": "Finnish"}
+{"sub": "Ranua", "obj": "Finnish"}
+{"sub": "Orimattila", "obj": "Finnish"}
+{"sub": "Orivesi", "obj": "Finnish"}
+{"sub": "Ulvila", "obj": "Finnish"}
+{"sub": "Raahe", "obj": "Finnish"}
+{"sub": "Trosa Municipality", "obj": "Finnish"}
+{"sub": "Masku", "obj": "Finnish"}
+{"sub": "Ilmajoki", "obj": "Finnish"}
+{"sub": "Kronoby", "obj": "Finnish"}
+{"sub": "Akaa", "obj": "Finnish"}
+{"sub": "Kouvola", "obj": "Finnish"}
+{"sub": "Kauniainen", "obj": "Finnish"}
+{"sub": "Hailuoto", "obj": "Finnish"}
+{"sub": "Kuusamo", "obj": "Finnish"}
+{"sub": "Juva", "obj": "Finnish"}
+{"sub": "Kauhajoki", "obj": "Finnish"}
+{"sub": "Helsinki", "obj": "Finnish"}
+{"sub": "Pomarkku", "obj": "Finnish"}
+{"sub": "Vaala", "obj": "Finnish"}
+{"sub": "Somero", "obj": "Finnish"}
+{"sub": "Muonio", "obj": "Finnish"}
+{"sub": "Asikkala", "obj": "Finnish"}
+{"sub": "Paimio", "obj": "Finnish"}
+{"sub": "Loimaa", "obj": "Finnish"}
+{"sub": "Siikajoki", "obj": "Finnish"}
+{"sub": "Heinola", "obj": "Finnish"}
+{"sub": "Padasjoki", "obj": "Finnish"}
+{"sub": "Uusikaupunki", "obj": "Finnish"}
+{"sub": "Vimpeli", "obj": "Finnish"}
+{"sub": "Kaarina", "obj": "Finnish"}
+{"sub": "Kalajoki", "obj": "Finnish"}
+{"sub": "Paltamo", "obj": "Finnish"}
+{"sub": "Nykarleby", "obj": "Finnish"}
+{"sub": "Pargas", "obj": "Finnish"}
+{"sub": "Ruovesi", "obj": "Finnish"}
+{"sub": "Lappeenranta", "obj": "Finnish"}
+{"sub": "Nokia", "obj": "Finnish"}
+{"sub": "Lahti", "obj": "Finnish"}
+{"sub": "Suomenniemi", "obj": "Finnish"}
+{"sub": "Jakobstad", "obj": "Finnish"}
+{"sub": "Haukipudas", "obj": "Finnish"}
+{"sub": "Ylitornio", "obj": "Finnish"}
+{"sub": "Korsholm", "obj": "Finnish"}
+{"sub": "Hanko", "obj": "Finnish"}
+{"sub": "Outokumpu", "obj": "Finnish"}
+{"sub": "Tornio", "obj": "Finnish"}
+{"sub": "Raisio", "obj": "Finnish"}
+{"sub": "Kiiminki", "obj": "Finnish"}
+{"sub": "Parikkala", "obj": "Finnish"}
+{"sub": "Forssa", "obj": "Finnish"}
+{"sub": "Puerto Rico", "obj": "English"}
+{"sub": "Bermuda", "obj": "English"}
+{"sub": "Saint Lucia", "obj": "English"}
+{"sub": "Trinidad and Tobago", "obj": "English"}
+{"sub": "Gambia", "obj": "English"}
+{"sub": "Botswana", "obj": "English"}
+{"sub": "Iowa", "obj": "English"}
+{"sub": "Prince Edward Island", "obj": "English"}
+{"sub": "Jersey", "obj": "English"}
+{"sub": "Kenya", "obj": "English"}
+{"sub": "Solomon Islands", "obj": "English"}
+{"sub": "England", "obj": "English"}
+{"sub": "European Space Agency", "obj": "English"}
+{"sub": "Mississippi", "obj": "English"}
+{"sub": "New Jersey", "obj": "English"}
+{"sub": "Netherlands Antilles", "obj": "English"}
+{"sub": "Fiji", "obj": "English"}
+{"sub": "Tonga", "obj": "English"}
+{"sub": "Falkland Islands", "obj": "English"}
+{"sub": "Arkansas", "obj": "English"}
+{"sub": "Alaska", "obj": "English"}
+{"sub": "Cook Islands", "obj": "English"}
+{"sub": "Norfolk Island", "obj": "English"}
+{"sub": "Singapore", "obj": "English"}
+{"sub": "Saint Kitts and Nevis", "obj": "English"}
+{"sub": "Saint Vincent and the Grenadines", "obj": "English"}
+{"sub": "Antigua and Barbuda", "obj": "English"}
+{"sub": "Isle of Man", "obj": "English"}
+{"sub": "Indiana", "obj": "English"}
+{"sub": "New Hampshire", "obj": "English"}
+{"sub": "Saba", "obj": "English"}
+{"sub": "Ghana", "obj": "English"}
+{"sub": "Kansas", "obj": "English"}
+{"sub": "Royal Society of British Artists", "obj": "English"}
+{"sub": "Kerala", "obj": "English"}
+{"sub": "South Dakota", "obj": "English"}
+{"sub": "Kentucky", "obj": "English"}
+{"sub": "Seychelles", "obj": "English"}
+{"sub": "Guernsey", "obj": "English"}
+{"sub": "Illinois", "obj": "English"}
+{"sub": "Guyana", "obj": "English"}
+{"sub": "Vanuatu", "obj": "English"}
+{"sub": "Philippines", "obj": "English"}
+{"sub": "Alderney", "obj": "English"}
+{"sub": "Saskatchewan", "obj": "English"}
+{"sub": "Rwanda", "obj": "English"}
+{"sub": "Palau", "obj": "English"}
+{"sub": "Wales", "obj": "English"}
+{"sub": "Malawi", "obj": "English"}
+{"sub": "Nigeria", "obj": "English"}
+{"sub": "Nebraska", "obj": "English"}
+{"sub": "Tanzania", "obj": "English"}
+{"sub": "Sudan", "obj": "English"}
+{"sub": "Mauritius", "obj": "English"}
+{"sub": "Nunavut", "obj": "English"}
+{"sub": "Jamshedpur", "obj": "English"}
+{"sub": "Western Cape", "obj": "English"}
+{"sub": "Northern Ireland", "obj": "English"}
+{"sub": "Sierra Leone", "obj": "English"}
+{"sub": "Wappo people", "obj": "English"}
+{"sub": "Ontario", "obj": "English"}
+{"sub": "Virginia", "obj": "English"}
+{"sub": "Lucknow", "obj": "English"}
+{"sub": "Manitoba", "obj": "English"}
+{"sub": "North Dakota", "obj": "English"}
+{"sub": "County Cork", "obj": "English"}
+{"sub": "Eritrea", "obj": "English"}
+{"sub": "Brunei", "obj": "English"}
+{"sub": "British Columbia", "obj": "English"}
+{"sub": "Guam", "obj": "English"}
+{"sub": "Governor-General of Australia", "obj": "English"}
+{"sub": "Akrotiri and Dhekelia", "obj": "English"}
+{"sub": "Cameroon", "obj": "English"}
+{"sub": "South Georgia and the South Sandwich Islands", "obj": "English"}
+{"sub": "Caribbean Netherlands", "obj": "English"}
+{"sub": "Meghalaya", "obj": "English"}
+{"sub": "Marshall Islands", "obj": "English"}
+{"sub": "South Africa", "obj": "English"}
+{"sub": "Florida", "obj": "English"}
+{"sub": "Miss Universe", "obj": "English"}
+{"sub": "Army Public School Peshawar", "obj": "English"}
+{"sub": "International Association of Athletics Federations", "obj": "English"}
+{"sub": "Pitcairn Islands", "obj": "English"}
+{"sub": "Cayman Islands", "obj": "English"}
+{"sub": "Burundi", "obj": "English"}
+{"sub": "International Organization for Standardization", "obj": "English"}
+{"sub": "Azad Kashmir", "obj": "English"}
+{"sub": "Delhi", "obj": "English"}
+{"sub": "Tuvalu", "obj": "English"}
+{"sub": "Bahamas", "obj": "English"}
+{"sub": "Liberia", "obj": "English"}
+{"sub": "South Sudan", "obj": "English"}
+{"sub": "Organisation for Economic Co-operation and Development", "obj": "English"}
+{"sub": "United Kingdom", "obj": "English"}
+{"sub": "Eswatini", "obj": "English"}
+{"sub": "NATO", "obj": "English"}
+{"sub": "Wyoming", "obj": "English"}
+{"sub": "American Samoa", "obj": "English"}
+{"sub": "North Carolina", "obj": "English"}
+{"sub": "Torfaen", "obj": "English"}
+{"sub": "International Academy of Sciences San Marino", "obj": "English"}
+{"sub": "manually coded English", "obj": "English"}
+{"sub": "Belize", "obj": "English"}
+{"sub": "Hawaii", "obj": "English"}
+{"sub": "Montana", "obj": "English"}
+{"sub": "Ireland", "obj": "English"}
+{"sub": "Idaho", "obj": "English"}
+{"sub": "Yukon", "obj": "English"}
+{"sub": "Sint Maarten", "obj": "English"}
+{"sub": "United States of America", "obj": "English"}
+{"sub": "Dominica", "obj": "English"}
+{"sub": "Zimbabwe", "obj": "English"}
+{"sub": "United States Virgin Islands", "obj": "English"}
+{"sub": "Alabama", "obj": "English"}
+{"sub": "South Carolina", "obj": "English"}
+{"sub": "Newfoundland and Labrador", "obj": "English"}
+{"sub": "Hong Kong", "obj": "English"}
+{"sub": "European Union", "obj": "English"}
+{"sub": "Federated States of Micronesia", "obj": "English"}
+{"sub": "India", "obj": "English"}
+{"sub": "Alberta", "obj": "English"}
+{"sub": "English plural", "obj": "English"}
+{"sub": "British Antarctic Territory", "obj": "English"}
+{"sub": "Niue", "obj": "English"}
+{"sub": "Utah", "obj": "English"}
+{"sub": "Central Visayas", "obj": "English"}
+{"sub": "Montserrat", "obj": "English"}
+{"sub": "Australia", "obj": "English"}
+{"sub": "Papua New Guinea", "obj": "English"}
+{"sub": "Mandatory Palestine", "obj": "English"}
+{"sub": "Oklahoma", "obj": "English"}
+{"sub": "International Olympic Committee", "obj": "English"}
+{"sub": "Nova Scotia", "obj": "English"}
+{"sub": "Malaysia", "obj": "English"}
+{"sub": "Malta", "obj": "English"}
+{"sub": "Northern Mariana Islands", "obj": "English"}
+{"sub": "Uganda", "obj": "English"}
+{"sub": "Sint Eustatius", "obj": "English"}
+{"sub": "Nauru", "obj": "English"}
+{"sub": "World Health Organization", "obj": "English"}
+{"sub": "United Nations", "obj": "English"}
+{"sub": "Namibia", "obj": "English"}
+{"sub": "Anguilla", "obj": "English"}
+{"sub": "New Brunswick", "obj": "English"}
+{"sub": "Colorado", "obj": "English"}
+{"sub": "Gibraltar", "obj": "English"}
+{"sub": "Cebu", "obj": "English"}
+{"sub": "Barbados", "obj": "English"}
+{"sub": "Scotland", "obj": "English"}
+{"sub": "Northwest Territories", "obj": "English"}
+{"sub": "Grenada", "obj": "English"}
+{"sub": "California", "obj": "English"}
+{"sub": "Zambia", "obj": "English"}
+{"sub": "National Film Board of Canada", "obj": "English"}
+{"sub": "Tennessee", "obj": "English"}
+{"sub": "Samoa", "obj": "English"}
+{"sub": "Dundee", "obj": "English"}
+{"sub": "Union of European Football Associations", "obj": "English"}
+{"sub": "Lesotho", "obj": "English"}
+{"sub": "Pakistan", "obj": "English"}
+{"sub": "Canada", "obj": "English"}
+{"sub": "Arizona", "obj": "English"}
+{"sub": "Canton of Valais", "obj": "French"}
+{"sub": "NATO", "obj": "French"}
+{"sub": "Chardonne", "obj": "French"}
+{"sub": "French Polynesia", "obj": "French"}
+{"sub": "Senegal", "obj": "French"}
+{"sub": "United Nations", "obj": "French"}
+{"sub": "Tavannes", "obj": "French"}
+{"sub": "Saint Pierre and Miquelon", "obj": "French"}
+{"sub": "Monaco", "obj": "French"}
+{"sub": "France", "obj": "French"}
+{"sub": "Canton of Geneva", "obj": "French"}
+{"sub": "Burkina Faso", "obj": "French"}
+{"sub": "Nunavut", "obj": "French"}
+{"sub": "French Guiana", "obj": "French"}
+{"sub": "Grand-Saconnex", "obj": "French"}
+{"sub": "Royal 22e R\u00e9giment", "obj": "French"}
+{"sub": "Lutry", "obj": "French"}
+{"sub": "Blonay", "obj": "French"}
+{"sub": "Morges", "obj": "French"}
+{"sub": "Brussels-Capital Region", "obj": "French"}
+{"sub": "Yverdon-les-Bains", "obj": "French"}
+{"sub": "International Criminal Court", "obj": "French"}
+{"sub": "Aigle", "obj": "French"}
+{"sub": "Togo", "obj": "French"}
+{"sub": "Seychelles", "obj": "French"}
+{"sub": "canton of Bern", "obj": "French"}
+{"sub": "International Olympic Committee", "obj": "French"}
+{"sub": "Carouge", "obj": "French"}
+{"sub": "Cologny", "obj": "French"}
+{"sub": "Mali", "obj": "French"}
+{"sub": "Chad", "obj": "French"}
+{"sub": "Vichy France", "obj": "French"}
+{"sub": "Paris Commune", "obj": "French"}
+{"sub": "Payerne", "obj": "French"}
+{"sub": "European Union", "obj": "French"}
+{"sub": "Le Locle", "obj": "French"}
+{"sub": "Vallorbe", "obj": "French"}
+{"sub": "Canton of Jura", "obj": "French"}
+{"sub": "Mauritius", "obj": "French"}
+{"sub": "Djibouti", "obj": "French"}
+{"sub": "Cameroon", "obj": "French"}
+{"sub": "Orbe", "obj": "French"}
+{"sub": "Gabon", "obj": "French"}
+{"sub": "French immersion", "obj": "French"}
+{"sub": "L'Isle", "obj": "French"}
+{"sub": "French Southern and Antarctic Lands", "obj": "French"}
+{"sub": "Democratic Republic of the Congo", "obj": "French"}
+{"sub": "Benin", "obj": "French"}
+{"sub": "Switzerland", "obj": "French"}
+{"sub": "Saskatchewan", "obj": "French"}
+{"sub": "Comoros", "obj": "French"}
+{"sub": "Burundi", "obj": "French"}
+{"sub": "Republic of the Congo", "obj": "French"}
+{"sub": "Collonge-Bellerive", "obj": "French"}
+{"sub": "Canton of Vaud", "obj": "French"}
+{"sub": "Jersey", "obj": "French"}
+{"sub": "Niger", "obj": "French"}
+{"sub": "Biel/Bienne", "obj": "French"}
+{"sub": "Swiss Federal Constitution", "obj": "French"}
+{"sub": "Porrentruy", "obj": "French"}
+{"sub": "International Organization for Standardization", "obj": "French"}
+{"sub": "Organization for Security and Co-operation in Europe", "obj": "French"}
+{"sub": "Canada", "obj": "French"}
+{"sub": "Organisation for Economic Co-operation and Development", "obj": "French"}
+{"sub": "French Community of Belgium", "obj": "French"}
+{"sub": "Perroy", "obj": "French"}
+{"sub": "Haiti", "obj": "French"}
+{"sub": "L'Abbaye", "obj": "French"}
+{"sub": "European Space Agency", "obj": "French"}
+{"sub": "Vanuatu", "obj": "French"}
+{"sub": "Geneva", "obj": "French"}
+{"sub": "Guernsey", "obj": "French"}
+{"sub": "Bernese Jura", "obj": "French"}
+{"sub": "Pully", "obj": "French"}
+{"sub": "Sonvilier", "obj": "French"}
+{"sub": "Canton of Fribourg", "obj": "French"}
+{"sub": "Moudon", "obj": "French"}
+{"sub": "Cossonay", "obj": "French"}
+{"sub": "Vevey", "obj": "French"}
+{"sub": "Union of European Football Associations", "obj": "French"}
+{"sub": "Central African Republic", "obj": "French"}
+{"sub": "Quebec", "obj": "French"}
+{"sub": "Lausanne", "obj": "French"}
+{"sub": "Versoix", "obj": "French"}
+{"sub": "Meyrin", "obj": "French"}
+{"sub": "Provence", "obj": "French"}
+{"sub": "Nyon", "obj": "French"}
+{"sub": "Quebec City", "obj": "French"}
+{"sub": "Veyrier", "obj": "French"}
+{"sub": "Ivory Coast", "obj": "French"}
+{"sub": "history of Limousin", "obj": "French"}
+{"sub": "International Commission on Illumination", "obj": "French"}
+{"sub": "Bex", "obj": "French"}
+{"sub": "Les Bois", "obj": "French"}
+{"sub": "Zaire", "obj": "French"}
+{"sub": "Guinea", "obj": "French"}
+{"sub": "Luxembourg", "obj": "French"}
+{"sub": "Rwanda", "obj": "French"}
+{"sub": "Ouchy", "obj": "French"}
+{"sub": "World Trade Organization", "obj": "French"}
+{"sub": "National Film Board of Canada", "obj": "French"}
+{"sub": "Wallonia", "obj": "French"}
+{"sub": "La Chaux-de-Fonds", "obj": "French"}
+{"sub": "International Association of Athletics Federations", "obj": "French"}
+{"sub": "Savoy", "obj": "French"}
+{"sub": "World Health Organization", "obj": "French"}
+{"sub": "Economic Community of West African States", "obj": "French"}
+{"sub": "Equatorial Guinea", "obj": "French"}
+{"sub": "Belgium", "obj": "French"}
+{"sub": "Renens", "obj": "French"}
+{"sub": "Benelux", "obj": "French"}
+{"sub": "Prilly", "obj": "French"}
+{"sub": "Sakha Republic", "obj": "Russian"}
+{"sub": "Udmurt Autonomous Oblast", "obj": "Russian"}
+{"sub": "Republic of Adygea", "obj": "Russian"}
+{"sub": "Commonwealth of Independent States", "obj": "Russian"}
+{"sub": "Donetsk Oblast", "obj": "Russian"}
+{"sub": "Stavropol Krai", "obj": "Russian"}
+{"sub": "Republic of North Ossetia-Alania", "obj": "Russian"}
+{"sub": "Luhansk People's Republic", "obj": "Russian"}
+{"sub": "Moscow Mathematical Society", "obj": "Russian"}
+{"sub": "Russian Empire", "obj": "Russian"}
+{"sub": "Russian Soviet Federative Socialist Republic", "obj": "Russian"}
+{"sub": "Tsardom of Russia", "obj": "Russian"}
+{"sub": "Karachay-Cherkess Republic", "obj": "Russian"}
+{"sub": "Pervomaysky District, Yaroslavl Oblast", "obj": "Russian"}
+{"sub": "VASKhNIL", "obj": "Russian"}
+{"sub": "Congress Poland", "obj": "Russian"}
+{"sub": "Republic of Khakassia", "obj": "Russian"}
+{"sub": "Snezhinsk", "obj": "Russian"}
+{"sub": "Donetsk People's Republic", "obj": "Russian"}
+{"sub": "Altai Republic", "obj": "Russian"}
+{"sub": "Shanghai Cooperation Organisation", "obj": "Russian"}
+{"sub": "Krasnodar Krai", "obj": "Russian"}
+{"sub": "Melitopol", "obj": "Russian"}
+{"sub": "Shakhunya", "obj": "Russian"}
+{"sub": "Republic of Mordovia", "obj": "Russian"}
+{"sub": "Republic of Buryatia", "obj": "Russian"}
+{"sub": "Tolyatti", "obj": "Russian"}
+{"sub": "Collective Security Treaty Organisation", "obj": "Russian"}
+{"sub": "Udmurt Republic", "obj": "Russian"}
+{"sub": "Yamalo-Nenets Autonomous Okrug", "obj": "Russian"}
+{"sub": "Republic of Tatarstan", "obj": "Russian"}
+{"sub": "Abkhazia", "obj": "Russian"}
+{"sub": "Mari El Republic", "obj": "Russian"}
+{"sub": "Republic of Karelia", "obj": "Russian"}
+{"sub": "Republic of Kalmykia", "obj": "Russian"}
+{"sub": "Yalta", "obj": "Russian"}
+{"sub": "Azerbaijan Soviet Socialist Republic", "obj": "Russian"}
+{"sub": "Altai Krai", "obj": "Russian"}
+{"sub": "Republic of Ingushetia", "obj": "Russian"}
+{"sub": "Republic of Dagestan", "obj": "Russian"}
+{"sub": "Grand Duchy of Moscow", "obj": "Russian"}
+{"sub": "Petrozavodsk", "obj": "Russian"}
+{"sub": "Khanty-Mansi Autonomous Okrug", "obj": "Russian"}
+{"sub": "Udmurt Autonomous Soviet Socialist Republic", "obj": "Russian"}
+{"sub": "Turkmenistan", "obj": "Russian"}
+{"sub": "Mykolaiv Oblast", "obj": "Russian"}
+{"sub": "Neklinovsky District", "obj": "Russian"}
+{"sub": "International Organization for Standardization", "obj": "Russian"}
+{"sub": "Odessa Oblast", "obj": "Russian"}
+{"sub": "Chukotka Autonomous Okrug", "obj": "Russian"}
+{"sub": "Donetsk", "obj": "Russian"}
+{"sub": "Nenets Autonomous Okrug", "obj": "Russian"}
+{"sub": "Organization for Security and Co-operation in Europe", "obj": "Russian"}
+{"sub": "Komi Republic", "obj": "Russian"}
+{"sub": "World Health Organization", "obj": "Russian"}
+{"sub": "Krasnoyarsk Krai", "obj": "Russian"}
+{"sub": "Luhansk Oblast", "obj": "Russian"}
+{"sub": "International Atomic Energy Agency", "obj": "Russian"}
+{"sub": "Jewish Autonomous Oblast", "obj": "Russian"}
+{"sub": "Chechen Republic", "obj": "Russian"}
+{"sub": "Gagauzia", "obj": "Russian"}
+{"sub": "Transnistria", "obj": "Russian"}
+{"sub": "United Nations", "obj": "Russian"}
+{"sub": "Autonomous Republic of Crimea", "obj": "Russian"}
+{"sub": "Reichskommissariat Moskowien", "obj": "Russian"}
+{"sub": "Kyrgyzstan", "obj": "Russian"}
+{"sub": "Perm Krai", "obj": "Russian"}
+{"sub": "Republic of Bashkortostan", "obj": "Russian"}
+{"sub": "Byelorussian Soviet Socialist Republic", "obj": "Russian"}
+{"sub": "Tuva Republic", "obj": "Russian"}
+{"sub": "Belarus", "obj": "Russian"}
+{"sub": "Zhovti Vody", "obj": "Russian"}
+{"sub": "International Civil Aviation Organization", "obj": "Russian"}
+{"sub": "Khabarovsk Krai", "obj": "Russian"}
+{"sub": "Kamchatka Krai", "obj": "Russian"}
+{"sub": "South Ossetia", "obj": "Russian"}
+{"sub": "Chuvash Republic", "obj": "Russian"}
+{"sub": "Soviet Union", "obj": "Russian"}
+{"sub": "Kabardino-Balkar Republic", "obj": "Russian"}
+{"sub": "Ukrainian Soviet Socialist Republic", "obj": "Russian"}
+{"sub": "Russia", "obj": "Russian"}
+{"sub": "Zabaykalsky Krai", "obj": "Russian"}
+{"sub": "Kalix Municipality", "obj": "Swedish"}
+{"sub": "Haparanda Municipality", "obj": "Swedish"}
+{"sub": "Nykarleby", "obj": "Swedish"}
+{"sub": "Kauniainen", "obj": "Swedish"}
+{"sub": "Sipoo", "obj": "Swedish"}
+{"sub": "Karlskoga Municipality", "obj": "Swedish"}
+{"sub": "Lemland", "obj": "Swedish"}
+{"sub": "Hammarland", "obj": "Swedish"}
+{"sub": "Gothenburg Municipality", "obj": "Swedish"}
+{"sub": "Korsholm", "obj": "Swedish"}
+{"sub": "Helsinki", "obj": "Swedish"}
+{"sub": "Huddinge Municipality", "obj": "Swedish"}
+{"sub": "Swedish Empire", "obj": "Swedish"}
+{"sub": "Sundsvall Municipality", "obj": "Swedish"}
+{"sub": "Arjeplog Municipality", "obj": "Swedish"}
+{"sub": "Upplands-Bro Municipality", "obj": "Swedish"}
+{"sub": "Stockholm Municipality", "obj": "Swedish"}
+{"sub": "Kirkkonummi", "obj": "Swedish"}
+{"sub": "Jomala", "obj": "Swedish"}
+{"sub": "Saltvik", "obj": "Swedish"}
+{"sub": "Botkyrka Municipality", "obj": "Swedish"}
+{"sub": "Kristinestad", "obj": "Swedish"}
+{"sub": "Surahammar Municipality", "obj": "Swedish"}
+{"sub": "Pajala Municipality", "obj": "Swedish"}
+{"sub": "Union between Sweden and Norway", "obj": "Swedish"}
+{"sub": "Solna Municipality", "obj": "Swedish"}
+{"sub": "Russian Empire", "obj": "Swedish"}
+{"sub": "Jokkmokk Municipality", "obj": "Swedish"}
+{"sub": "European Union", "obj": "Swedish"}
+{"sub": "Kumlinge", "obj": "Swedish"}
+{"sub": "Tierp Municipality", "obj": "Swedish"}
+{"sub": "Berg Municipality", "obj": "Swedish"}
+{"sub": "Storuman Municipality", "obj": "Swedish"}
+{"sub": "Eskilstuna Municipality", "obj": "Swedish"}
+{"sub": "Uddevalla Municipality", "obj": "Swedish"}
+{"sub": "Arvidsjaur Municipality", "obj": "Swedish"}
+{"sub": "Kokkola", "obj": "Swedish"}
+{"sub": "Mariehamn", "obj": "Swedish"}
+{"sub": "Turku", "obj": "Swedish"}
+{"sub": "Uppsala Municipality", "obj": "Swedish"}
+{"sub": "Porvoo", "obj": "Swedish"}
+{"sub": "Siuntio", "obj": "Swedish"}
+{"sub": "Lohja", "obj": "Swedish"}
+{"sub": "Jakobstad", "obj": "Swedish"}
+{"sub": "Krokom Municipality", "obj": "Swedish"}
+{"sub": "Vaasa", "obj": "Swedish"}
+{"sub": "Loviisa", "obj": "Swedish"}
+{"sub": "Sundbyberg Municipality", "obj": "Swedish"}
+{"sub": "Kiruna Municipality", "obj": "Swedish"}
+{"sub": "Espoo", "obj": "Swedish"}
+{"sub": "Haninge Municipality", "obj": "Swedish"}
+{"sub": "Finland", "obj": "Swedish"}
+{"sub": "Sigtuna Municipality", "obj": "Swedish"}
+{"sub": "Kaskinen", "obj": "Swedish"}
+{"sub": "Hanko", "obj": "Swedish"}
+{"sub": "Sweden", "obj": "Swedish"}
+{"sub": "Vantaa", "obj": "Swedish"}
+{"sub": "Kronoby", "obj": "Swedish"}
+{"sub": "Raseborg", "obj": "Swedish"}
+{"sub": "Stockholm County Council", "obj": "Swedish"}
+{"sub": "Spanish Texas", "obj": "Spanish"}
+{"sub": "United Nations", "obj": "Spanish"}
+{"sub": "Formentera", "obj": "Spanish"}
+{"sub": "Puerto Rico", "obj": "Spanish"}
+{"sub": "Enlightenment in Spain", "obj": "Spanish"}
+{"sub": "Venezuela", "obj": "Spanish"}
+{"sub": "Honduras", "obj": "Spanish"}
+{"sub": "North American Free Trade Agreement", "obj": "Spanish"}
+{"sub": "President of the Basque Autonomous Community", "obj": "Spanish"}
+{"sub": "Costa Rica", "obj": "Spanish"}
+{"sub": "Canary Islands", "obj": "Spanish"}
+{"sub": "Organization for Security and Co-operation in Europe", "obj": "Spanish"}
+{"sub": "Colombia", "obj": "Spanish"}
+{"sub": "Malabo", "obj": "Spanish"}
+{"sub": "Quetzaltenango", "obj": "Spanish"}
+{"sub": "Nuevo Santander", "obj": "Spanish"}
+{"sub": "Argentina", "obj": "Spanish"}
+{"sub": "Catalonia", "obj": "Spanish"}
+{"sub": "Navarre", "obj": "Spanish"}
+{"sub": "Paraguay", "obj": "Spanish"}
+{"sub": "Ecuador", "obj": "Spanish"}
+{"sub": "Asturias", "obj": "Spanish"}
+{"sub": "Chile", "obj": "Spanish"}
+{"sub": "Val d'Aran", "obj": "Spanish"}
+{"sub": "Saint Vincent and the Grenadines", "obj": "Spanish"}
+{"sub": "Molina de Segura", "obj": "Spanish"}
+{"sub": "Uruguay", "obj": "Spanish"}
+{"sub": "Majorca", "obj": "Spanish"}
+{"sub": "Spanish Empire", "obj": "Spanish"}
+{"sub": "Ibiza", "obj": "Spanish"}
+{"sub": "European Union", "obj": "Spanish"}
+{"sub": "Rabinal", "obj": "Spanish"}
+{"sub": "Aracena", "obj": "Spanish"}
+{"sub": "El Salvador", "obj": "Spanish"}
+{"sub": "Southern Common Market", "obj": "Spanish"}
+{"sub": "Easter Island", "obj": "Spanish"}
+{"sub": "Valencian Community", "obj": "Spanish"}
+{"sub": "Spain", "obj": "Spanish"}
+{"sub": "Dominican Republic", "obj": "Spanish"}
+{"sub": "Menorca", "obj": "Spanish"}
+{"sub": "Bolivia", "obj": "Spanish"}
+{"sub": "Panama", "obj": "Spanish"}
+{"sub": "Nicaragua", "obj": "Spanish"}
+{"sub": "Peru", "obj": "Spanish"}
+{"sub": "Equatorial Guinea", "obj": "Spanish"}
+{"sub": "Izabal Department", "obj": "Spanish"}
+{"sub": "La Gomera", "obj": "Spanish"}
+{"sub": "Guatemala", "obj": "Spanish"}
+{"sub": "Aragon", "obj": "Spanish"}
+{"sub": "Alta Verapaz Department", "obj": "Spanish"}
+{"sub": "Couto Misto", "obj": "Spanish"}
+{"sub": "Mexico", "obj": "Spanish"}
+{"sub": "Sahrawi Arab Democratic Republic", "obj": "Spanish"}
+{"sub": "Pacific Alliance", "obj": "Spanish"}
+{"sub": "Alicante", "obj": "Spanish"}
+{"sub": "Cuba", "obj": "Spanish"}
+{"sub": "Campione d'Italia", "obj": "Italian"}
+{"sub": "Republic of Venice", "obj": "Italian"}
+{"sub": "Vacallo", "obj": "Italian"}
+{"sub": "Mistretta", "obj": "Italian"}
+{"sub": "Locarno", "obj": "Italian"}
+{"sub": "Vatican City", "obj": "Italian"}
+{"sub": "Organization for Security and Co-operation in Europe", "obj": "Italian"}
+{"sub": "Bedano", "obj": "Italian"}
+{"sub": "Kingdom of Jerusalem", "obj": "Italian"}
+{"sub": "Swiss Federal Constitution", "obj": "Italian"}
+{"sub": "Ligornetto", "obj": "Italian"}
+{"sub": "Faido", "obj": "Italian"}
+{"sub": "Caslano", "obj": "Italian"}
+{"sub": "Italy", "obj": "Italian"}
+{"sub": "European Union", "obj": "Italian"}
+{"sub": "Brissago", "obj": "Italian"}
+{"sub": "Sorengo", "obj": "Italian"}
+{"sub": "San Marino", "obj": "Italian"}
+{"sub": "Bosco Gurin", "obj": "Italian"}
+{"sub": "Biasca", "obj": "Italian"}
+{"sub": "Lamone", "obj": "Italian"}
+{"sub": "Kingdom of Tavolara", "obj": "Italian"}
+{"sub": "Chiasso", "obj": "Italian"}
+{"sub": "Ronco sopra Ascona", "obj": "Italian"}
+{"sub": "Lugano", "obj": "Italian"}
+{"sub": "Switzerland", "obj": "Italian"}
+{"sub": "Cadenazzo", "obj": "Italian"}
+{"sub": "Camorino", "obj": "Italian"}
+{"sub": "Bellinzona", "obj": "Italian"}
+{"sub": "Mendrisio", "obj": "Italian"}
+{"sub": "Tolmezzo", "obj": "Italian"}
+{"sub": "South Tyrol", "obj": "Italian"}
+{"sub": "Ticino", "obj": "Italian"}
+{"sub": "Biel/Bienne", "obj": "German"}
+{"sub": "Brugg", "obj": "German"}
+{"sub": "Luxembourg", "obj": "German"}
+{"sub": "Eupen", "obj": "German"}
+{"sub": "Basel-Landschaft", "obj": "German"}
+{"sub": "Canton of Fribourg", "obj": "German"}
+{"sub": "West Germany", "obj": "German"}
+{"sub": "Liestal", "obj": "German"}
+{"sub": "Austria", "obj": "German"}
+{"sub": "Dietikon", "obj": "German"}
+{"sub": "Prussia", "obj": "German"}
+{"sub": "Engelberg", "obj": "German"}
+{"sub": "Aargau", "obj": "German"}
+{"sub": "Belgium", "obj": "German"}
+{"sub": "Lucerne", "obj": "German"}
+{"sub": "Germany", "obj": "German"}
+{"sub": "Liechtenstein", "obj": "German"}
+{"sub": "Wetzikon", "obj": "German"}
+{"sub": "Nazi Germany", "obj": "German"}
+{"sub": "German-speaking Community of Belgium", "obj": "German"}
+{"sub": "Bernese Oberland", "obj": "German"}
+{"sub": "Basel-Stadt", "obj": "German"}
+{"sub": "South Tyrol", "obj": "German"}
+{"sub": "Basel", "obj": "German"}
+{"sub": "Aarau", "obj": "German"}
+{"sub": "Bern", "obj": "German"}
+{"sub": "European Union", "obj": "German"}
+{"sub": "Canton of Lucerne", "obj": "German"}
+{"sub": "Switzerland", "obj": "German"}
+{"sub": "Spiez", "obj": "German"}
+{"sub": "canton of Bern", "obj": "German"}
+{"sub": "Flemish Community", "obj": "Dutch"}
+{"sub": "Brussels-Capital Region", "obj": "Dutch"}
+{"sub": "Sint Maarten", "obj": "Dutch"}
+{"sub": "South African Republic", "obj": "Dutch"}
+{"sub": "Stellaland", "obj": "Dutch"}
+{"sub": "Dutch Language Union", "obj": "Dutch"}
+{"sub": "Caribbean Netherlands", "obj": "Dutch"}
+{"sub": "Kingdom of the Netherlands", "obj": "Dutch"}
+{"sub": "Suriname", "obj": "Dutch"}
+{"sub": "Saba", "obj": "Dutch"}
+{"sub": "Orange Free State", "obj": "Dutch"}
+{"sub": "Sint Eustatius", "obj": "Dutch"}
+{"sub": "Netherlands", "obj": "Dutch"}
+{"sub": "Friesland", "obj": "Dutch"}
+{"sub": "Bonaire", "obj": "Dutch"}
+{"sub": "European Union", "obj": "Dutch"}
+{"sub": "Benelux", "obj": "Dutch"}
+{"sub": "Union of South Africa", "obj": "Dutch"}
+{"sub": "Aruba", "obj": "Dutch"}
+{"sub": "Flanders", "obj": "Dutch"}
+{"sub": "Netherlands Antilles", "obj": "Dutch"}
+{"sub": "Flemish Region", "obj": "Dutch"}
+{"sub": "Belgium", "obj": "Dutch"}
+{"sub": "Bahia", "obj": "Portuguese"}
+{"sub": "Portugal", "obj": "Portuguese"}
+{"sub": "Brazil", "obj": "Portuguese"}
+{"sub": "Southern Common Market", "obj": "Portuguese"}
+{"sub": "Mozambique", "obj": "Portuguese"}
+{"sub": "Angola", "obj": "Portuguese"}
+{"sub": "A Ver-o-Mar", "obj": "Portuguese"}
+{"sub": "Guinea-Bissau", "obj": "Portuguese"}
+{"sub": "Macau", "obj": "Portuguese"}
+{"sub": "Equatorial Guinea", "obj": "Portuguese"}
+{"sub": "East Timor", "obj": "Portuguese"}
+{"sub": "European Union", "obj": "Portuguese"}
+{"sub": "State of Brazil", "obj": "Portuguese"}
+{"sub": "Bolama", "obj": "Portuguese"}
+{"sub": "Couto Misto", "obj": "Portuguese"}
+{"sub": "Cape Verde", "obj": "Portuguese"}
+{"sub": "Luhansk People's Republic", "obj": "Ukrainian"}
+{"sub": "Zhovti Vody", "obj": "Ukrainian"}
+{"sub": "Mykolaiv Oblast", "obj": "Ukrainian"}
+{"sub": "Donetsk Oblast", "obj": "Ukrainian"}
+{"sub": "Russia", "obj": "Ukrainian"}
+{"sub": "Autonomous Republic of Crimea", "obj": "Ukrainian"}
+{"sub": "Odessa Oblast", "obj": "Ukrainian"}
+{"sub": "Donetsk", "obj": "Ukrainian"}
+{"sub": "Transnistria", "obj": "Ukrainian"}
+{"sub": "Ukrainian Soviet Socialist Republic", "obj": "Ukrainian"}
+{"sub": "Ukraine", "obj": "Ukrainian"}
+{"sub": "Sambir", "obj": "Ukrainian"}
+{"sub": "Donetsk People's Republic", "obj": "Ukrainian"}
+{"sub": "Melitopol", "obj": "Ukrainian"}
+{"sub": "Sevastopol", "obj": "Ukrainian"}
+{"sub": "Luhansk Oblast", "obj": "Ukrainian"}
+{"sub": "Kingdom of Jerusalem", "obj": "Latin"}
+{"sub": "Roman Empire", "obj": "Latin"}
+{"sub": "Kingdom of Asturias", "obj": "Latin"}
+{"sub": "Byzantine Empire", "obj": "Latin"}
+{"sub": "Holy See", "obj": "Latin"}
+{"sub": "Exarchate of Ravenna", "obj": "Latin"}
+{"sub": "Republic of Venice", "obj": "Latin"}
+{"sub": "Crown of Arag\u00f3n", "obj": "Latin"}
+{"sub": "Sovereign Military Order of Malta", "obj": "Latin"}
+{"sub": "Kingdom of the Lombards", "obj": "Latin"}
+{"sub": "Kingdom of Sicily", "obj": "Latin"}
+{"sub": "Republic of Florence", "obj": "Latin"}
+{"sub": "Kingdom of Mercia", "obj": "Latin"}
+{"sub": "Andorra", "obj": "Catalan"}
+{"sub": "Aragon", "obj": "Catalan"}
+{"sub": "Institut d'Estudis Catalans", "obj": "Catalan"}
+{"sub": "Spain", "obj": "Catalan"}
+{"sub": "Crown of Arag\u00f3n", "obj": "Catalan"}
+{"sub": "Formentera", "obj": "Catalan"}
+{"sub": "Val d'Aran", "obj": "Catalan"}
+{"sub": "Valencian Community", "obj": "Catalan"}
+{"sub": "Menorca", "obj": "Catalan"}
+{"sub": "Majorca", "obj": "Catalan"}
+{"sub": "Catalonia", "obj": "Catalan"}
+{"sub": "County of Ribagorza", "obj": "Catalan"}
+{"sub": "Ibiza", "obj": "Catalan"}

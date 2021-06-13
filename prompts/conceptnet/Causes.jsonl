@@ -1,0 +1,11 @@
+{"template": "Sometimes [X] causes [Y]."}
+{"template": "The effect of [X] is [Y]."}
+{"template": "Something that might happen as a consequence of [X] is [Y]."}
+{"template": "Sometimes [X] someone causes [Y]."}
+{"template": "Sometimes [X] something causes [Y]."}
+{"template": "The effect of [X] someone is [Y]."}
+{"template": "The effect of a [X] is [Y]."}
+{"template": "Sometimes [X] causes a [Y]."}
+{"template": "The effect of [X] is a [Y]."}
+{"template": "Sometimes [X] causes an [Y]."}
+{"template": "Something that might happen as a consequence of [X] someone is [Y]."}

@@ -1,0 +1,969 @@
+{"sub": "Iginio Ugo Tarchetti", "obj": "Italian"}
+{"sub": "Juan Carlos Garrido", "obj": "Spanish"}
+{"sub": "Michael Hutchence", "obj": "English"}
+{"sub": "Aitor Karanka", "obj": "Spanish"}
+{"sub": "Charles Bronson", "obj": "English"}
+{"sub": "Giovanni Ruffini", "obj": "Italian"}
+{"sub": "Guy Maddin", "obj": "English"}
+{"sub": "Alfred Cort Haddon", "obj": "English"}
+{"sub": "Ioannis Kasoulidis", "obj": "Greek"}
+{"sub": "Itzik Zohar", "obj": "Hebrew"}
+{"sub": "Abraham Isaac Kook", "obj": "Hebrew"}
+{"sub": "William James", "obj": "English"}
+{"sub": "Rajit Kapur", "obj": "Hindi"}
+{"sub": "Bernardino Ochino", "obj": "Italian"}
+{"sub": "Benito Arias Montano", "obj": "Spanish"}
+{"sub": "Erna Solberg", "obj": "Norwegian"}
+{"sub": "Gilles Groulx", "obj": "English"}
+{"sub": "Bernardo Dovizi", "obj": "Italian"}
+{"sub": "Leonhard Christian Borchgrevink Holmboe", "obj": "Norwegian"}
+{"sub": "Henry Maudsley", "obj": "English"}
+{"sub": "Mick Lally", "obj": "Irish"}
+{"sub": "Felisa Mary", "obj": "Spanish"}
+{"sub": "Olavi Paavolainen", "obj": "Finnish"}
+{"sub": "Joseph Milner", "obj": "English"}
+{"sub": "Basarab Nicolescu", "obj": "French"}
+{"sub": "Henry Warburton", "obj": "English"}
+{"sub": "Sextus Pompeius Festus", "obj": "Latin"}
+{"sub": "Thomas Sturge Moore", "obj": "English"}
+{"sub": "Alexander Bulatovich", "obj": "Russian"}
+{"sub": "Walter Laqueur", "obj": "English"}
+{"sub": "Ephraim Katzir", "obj": "Hebrew"}
+{"sub": "Park Chan-wook", "obj": "Korean"}
+{"sub": "Anil Kapoor", "obj": "Hindi"}
+{"sub": "Erkki Karu", "obj": "Finnish"}
+{"sub": "Jean-Pierre Claris de Florian", "obj": "French"}
+{"sub": "Elena Valenciano", "obj": "Spanish"}
+{"sub": "Huangfu Mi", "obj": "Chinese"}
+{"sub": "Nathaniel Hawthorne", "obj": "English"}
+{"sub": "Paul Tortelier", "obj": "French"}
+{"sub": "Paul Ramadier", "obj": "French"}
+{"sub": "James Earl Jones", "obj": "English"}
+{"sub": "Wordsworth Donisthorpe", "obj": "English"}
+{"sub": "Zhang Zhidong", "obj": "Chinese"}
+{"sub": "Gustav Frederik Holm", "obj": "Danish"}
+{"sub": "Eadweard Muybridge", "obj": "English"}
+{"sub": "Maurice Merleau-Ponty", "obj": "French"}
+{"sub": "Claudio Baglioni", "obj": "Italian"}
+{"sub": "Robert Naunton", "obj": "English"}
+{"sub": "Nino Bravo", "obj": "Spanish"}
+{"sub": "Sallust", "obj": "Latin"}
+{"sub": "Peter Benchley", "obj": "English"}
+{"sub": "Louis Comfort Tiffany", "obj": "English"}
+{"sub": "Ion Cristoiu", "obj": "Romanian"}
+{"sub": "Georgios Lassanis", "obj": "Greek"}
+{"sub": "Giambattista Nolli", "obj": "Italian"}
+{"sub": "Martin Koolhoven", "obj": "Dutch"}
+{"sub": "Mario Scelba", "obj": "Italian"}
+{"sub": "Arantxa Parra Santonja", "obj": "Spanish"}
+{"sub": "Giovanni Bertati", "obj": "Italian"}
+{"sub": "Thor Heyerdahl", "obj": "Norwegian"}
+{"sub": "David Blondel", "obj": "French"}
+{"sub": "Asser", "obj": "Welsh"}
+{"sub": "Chester Kallman", "obj": "English"}
+{"sub": "Anna Mouglalis", "obj": "French"}
+{"sub": "Jean Lhermitte", "obj": "French"}
+{"sub": "Antony Thomas", "obj": "English"}
+{"sub": "Marius Constant", "obj": "French"}
+{"sub": "James Sully", "obj": "English"}
+{"sub": "George Dance the Younger", "obj": "English"}
+{"sub": "Karan Razdan", "obj": "Hindi"}
+{"sub": "Lafcadio Hearn", "obj": "English"}
+{"sub": "Jason Statham", "obj": "English"}
+{"sub": "Mary Wollstonecraft", "obj": "French"}
+{"sub": "Lennart Geijer", "obj": "Swedish"}
+{"sub": "Raquel Morell", "obj": "Spanish"}
+{"sub": "Maria Petrovykh", "obj": "Russian"}
+{"sub": "Eric de Kuyper", "obj": "Dutch"}
+{"sub": "Ivan Mazepa", "obj": "Ukrainian"}
+{"sub": "Carl Bildt", "obj": "Swedish"}
+{"sub": "Sombhu Mitra", "obj": "Bengali"}
+{"sub": "Manuel Dorrego", "obj": "Spanish"}
+{"sub": "Shantideva", "obj": "Sanskrit"}
+{"sub": "Frida Kahlo", "obj": "Spanish"}
+{"sub": "Goswin de Stassart", "obj": "French"}
+{"sub": "Giulio Donadio", "obj": "Italian"}
+{"sub": "Carl Jakob Sundevall", "obj": "Swedish"}
+{"sub": "Boris Stomakhin", "obj": "Russian"}
+{"sub": "Jeanne Moreau", "obj": "French"}
+{"sub": "Peter Englund", "obj": "Swedish"}
+{"sub": "Gunnar Staalesen", "obj": "Norwegian"}
+{"sub": "Sanghavi", "obj": "Hindi"}
+{"sub": "Santiago Segura", "obj": "Spanish"}
+{"sub": "Sven Elvestad", "obj": "Norwegian"}
+{"sub": "Rose Caron", "obj": "French"}
+{"sub": "Patrick Chamoiseau", "obj": "French"}
+{"sub": "Nadia Boulanger", "obj": "French"}
+{"sub": "Hermenegildo Anglada Camarasa", "obj": "Spanish"}
+{"sub": "Ferdinando Fontana", "obj": "Italian"}
+{"sub": "Duygu Asena", "obj": "Turkish"}
+{"sub": "Ramon Llull", "obj": "Catalan"}
+{"sub": "Bas Jan Ader", "obj": "Dutch"}
+{"sub": "Pascal Dagnan-Bouveret", "obj": "French"}
+{"sub": "William Didier-Pouget", "obj": "French"}
+{"sub": "Avram Iancu", "obj": "Romanian"}
+{"sub": "Victoria Silvstedt", "obj": "French"}
+{"sub": "Amal Nasser el-Din", "obj": "Hebrew"}
+{"sub": "Jean Debucourt", "obj": "French"}
+{"sub": "Jim Wright", "obj": "English"}
+{"sub": "Jean Daive", "obj": "French"}
+{"sub": "Victor Jacquemont", "obj": "French"}
+{"sub": "Heikki Siren", "obj": "Finnish"}
+{"sub": "Ji Kang", "obj": "Chinese"}
+{"sub": "Giacinto Scelsi", "obj": "Italian"}
+{"sub": "Gregor von Rezzori", "obj": "German"}
+{"sub": "George Shaw", "obj": "English"}
+{"sub": "Hussniya Jabara", "obj": "Hebrew"}
+{"sub": "Alfred Russel Wallace", "obj": "English"}
+{"sub": "Kadi Burhan al-Din", "obj": "Azerbaijani"}
+{"sub": "Hector Guimard", "obj": "French"}
+{"sub": "Seebohm Rowntree", "obj": "English"}
+{"sub": "Zacharie Astruc", "obj": "French"}
+{"sub": "Anne Curry", "obj": "English"}
+{"sub": "Cecilia Bartoli", "obj": "Italian"}
+{"sub": "Pierre Etchebaster", "obj": "French"}
+{"sub": "Raquel Meller", "obj": "Spanish"}
+{"sub": "Giovanni Morone", "obj": "Italian"}
+{"sub": "Arthur Dupont", "obj": "French"}
+{"sub": "Ramesses II", "obj": "Egyptian"}
+{"sub": "Jean-Pierre Petit", "obj": "French"}
+{"sub": "Paul Antoine Fleuriot de Langle", "obj": "French"}
+{"sub": "Alain Jessua", "obj": "French"}
+{"sub": "Stuart A. Staples", "obj": "English"}
+{"sub": "Parvin E'tesami", "obj": "Persian"}
+{"sub": "Coluche", "obj": "French"}
+{"sub": "Hakan Fidan", "obj": "Turkish"}
+{"sub": "Valerius of Saragossa", "obj": "Spanish"}
+{"sub": "Derick Thomson", "obj": "English"}
+{"sub": "Christoph Willibald von Gluck", "obj": "German"}
+{"sub": "Luigi Boccherini", "obj": "Italian"}
+{"sub": "Franciscus Donders", "obj": "Dutch"}
+{"sub": "Tabish Khair", "obj": "English"}
+{"sub": "Janet Street-Porter", "obj": "English"}
+{"sub": "Carl Sigismund Kunth", "obj": "Latin"}
+{"sub": "Samson Occom", "obj": "English"}
+{"sub": "Keith Wood", "obj": "Irish"}
+{"sub": "Matthew Waterhouse", "obj": "English"}
+{"sub": "Abraham de Moivre", "obj": "English"}
+{"sub": "A. N. Wilson", "obj": "English"}
+{"sub": "Ehud Barak", "obj": "English"}
+{"sub": "Oreste Biancoli", "obj": "Italian"}
+{"sub": "Yakov Sverdlov", "obj": "Russian"}
+{"sub": "Leopoldo Lugones", "obj": "Spanish"}
+{"sub": "Vanessa Beecroft", "obj": "Italian"}
+{"sub": "Romualdo Marenco", "obj": "Italian"}
+{"sub": "Jehuda Cresques", "obj": "Catalan"}
+{"sub": "Edith Maude Hull", "obj": "English"}
+{"sub": "Gopi Chand Narang", "obj": "Urdu"}
+{"sub": "Arthur Hallam", "obj": "English"}
+{"sub": "Alexander William Kinglake", "obj": "English"}
+{"sub": "Jules de Polignac", "obj": "French"}
+{"sub": "Glamourina", "obj": "Ukrainian"}
+{"sub": "Lin Huiyin", "obj": "Chinese"}
+{"sub": "Dino Cazares", "obj": "Spanish"}
+{"sub": "Marcus Licinius Crassus", "obj": "Latin"}
+{"sub": "Maria Bellonci", "obj": "Italian"}
+{"sub": "Jean-Jacques Annaud", "obj": "French"}
+{"sub": "Alfred Sutro", "obj": "English"}
+{"sub": "Yu-seon", "obj": "Korean"}
+{"sub": "Mikiel Anton Vassalli", "obj": "Maltese"}
+{"sub": "Francis Blanche", "obj": "French"}
+{"sub": "Ugo Falena", "obj": "Italian"}
+{"sub": "Arturo Issel", "obj": "Italian"}
+{"sub": "Bruno Tabacci", "obj": "Italian"}
+{"sub": "Xavier Bertrand", "obj": "French"}
+{"sub": "Dirk Bogarde", "obj": "English"}
+{"sub": "Sreekanth", "obj": "Tamil"}
+{"sub": "Benvenuto Rambaldi da Imola", "obj": "Latin"}
+{"sub": "Josep Llimona i Bruguera", "obj": "Catalan"}
+{"sub": "Edward Kimber", "obj": "English"}
+{"sub": "Ahmad Karimi-Hakkak", "obj": "Persian"}
+{"sub": "Elizabeth Eastlake", "obj": "English"}
+{"sub": "Henri Queuille", "obj": "French"}
+{"sub": "Oriol Junqueras", "obj": "Catalan"}
+{"sub": "Virgil", "obj": "Latin"}
+{"sub": "Annie Ernaux", "obj": "French"}
+{"sub": "Mother Teresa", "obj": "English"}
+{"sub": "Ivana Baquero", "obj": "Spanish"}
+{"sub": "Russian Red", "obj": "Spanish"}
+{"sub": "Charles Louis Auguste Fouquet, duc de Belle-Isle", "obj": "French"}
+{"sub": "Steve Biko", "obj": "English"}
+{"sub": "Sybil Ruscoe", "obj": "English"}
+{"sub": "Italo Bocchino", "obj": "Italian"}
+{"sub": "Adriana Russo", "obj": "Italian"}
+{"sub": "Nicolas Perrenot de Granvelle", "obj": "French"}
+{"sub": "Patrick J. Kennedy", "obj": "English"}
+{"sub": "Hossein Amini", "obj": "Persian"}
+{"sub": "Paul Keres", "obj": "Estonian"}
+{"sub": "Hieronymus Fabricius", "obj": "Latin"}
+{"sub": "Giuseppe Bossi", "obj": "Italian"}
+{"sub": "Dick King-Smith", "obj": "English"}
+{"sub": "Raimonds Pauls", "obj": "Russian"}
+{"sub": "Vita Sackville-West", "obj": "English"}
+{"sub": "Jayakanthan", "obj": "Tamil"}
+{"sub": "Timo Koivusalo", "obj": "Finnish"}
+{"sub": "Malbim", "obj": "Hebrew"}
+{"sub": "William Blandowski", "obj": "English"}
+{"sub": "J. Thomas Looney", "obj": "English"}
+{"sub": "Christiaan Huygens", "obj": "Latin"}
+{"sub": "James Ussher", "obj": "English"}
+{"sub": "Jacques Nicolas Augustin Thierry", "obj": "French"}
+{"sub": "Rossano Brazzi", "obj": "Italian"}
+{"sub": "Ben Myers", "obj": "English"}
+{"sub": "Giovanni Lindo Ferretti", "obj": "Italian"}
+{"sub": "Francis de Croisset", "obj": "French"}
+{"sub": "Claire Croiza", "obj": "French"}
+{"sub": "Victor Horta", "obj": "Dutch"}
+{"sub": "Giorgio Almirante", "obj": "Italian"}
+{"sub": "Edward Martyn", "obj": "English"}
+{"sub": "Claude Henri de Rouvroy, comte de Saint-Simon", "obj": "French"}
+{"sub": "Cipriano Mera", "obj": "Spanish"}
+{"sub": "Gianni Letta", "obj": "Italian"}
+{"sub": "George Goring, Lord Goring", "obj": "English"}
+{"sub": "Peter Rogers", "obj": "English"}
+{"sub": "Christopher Dresser", "obj": "English"}
+{"sub": "Paul Viiding", "obj": "Estonian"}
+{"sub": "Jean-Baptiste Tuby", "obj": "French"}
+{"sub": "Francisco Coloane", "obj": "Spanish"}
+{"sub": "Pierre Chenal", "obj": "French"}
+{"sub": "Antonio Basoli", "obj": "Italian"}
+{"sub": "Maria Valtorta", "obj": "Italian"}
+{"sub": "Jacques Rouffio", "obj": "French"}
+{"sub": "Alexandra Marinina", "obj": "Russian"}
+{"sub": "Infante Juan, Count of Barcelona", "obj": "Spanish"}
+{"sub": "Samuel Coster", "obj": "Dutch"}
+{"sub": "Boris Shaposhnikov", "obj": "Russian"}
+{"sub": "Rosanna Fratello", "obj": "Italian"}
+{"sub": "Henry Brougham, 1st Baron Brougham and Vaux", "obj": "English"}
+{"sub": "Enric Prat de la Riba", "obj": "Catalan"}
+{"sub": "Emanuel Tov", "obj": "Hebrew"}
+{"sub": "George Michael", "obj": "English"}
+{"sub": "Thomas Seccombe", "obj": "English"}
+{"sub": "George Howard Earle III", "obj": "English"}
+{"sub": "Giuseppe Peano", "obj": "Italian"}
+{"sub": "Alberto Lora", "obj": "Spanish"}
+{"sub": "Vinu Mohan", "obj": "Malayalam"}
+{"sub": "Suzanne Malherbe", "obj": "French"}
+{"sub": "Alexandre de Marenches", "obj": "French"}
+{"sub": "Arvo Tuominen", "obj": "Finnish"}
+{"sub": "Jiang Qinqin", "obj": "Chinese"}
+{"sub": "Andrea Bianchi", "obj": "Italian"}
+{"sub": "James Bainham", "obj": "English"}
+{"sub": "Alex Levac", "obj": "Hebrew"}
+{"sub": "Orna Banai", "obj": "Hebrew"}
+{"sub": "Bernard Griffin", "obj": "English"}
+{"sub": "Valerio Evangelisti", "obj": "Italian"}
+{"sub": "Petter Dass", "obj": "Norwegian"}
+{"sub": "Agnolo Firenzuola", "obj": "Italian"}
+{"sub": "Willem-Alexander of the Netherlands", "obj": "Dutch"}
+{"sub": "Kenneth Hurlstone Jackson", "obj": "English"}
+{"sub": "Maurice Dekobra", "obj": "French"}
+{"sub": "Alain de Benoist", "obj": "French"}
+{"sub": "Peter Brook", "obj": "English"}
+{"sub": "Tristan Tzara", "obj": "French"}
+{"sub": "Laura Gore", "obj": "Italian"}
+{"sub": "Bertrand Tavernier", "obj": "French"}
+{"sub": "Orchidea De Santis", "obj": "Italian"}
+{"sub": "Robert Jan van Pelt", "obj": "Dutch"}
+{"sub": "Piero Manzoni", "obj": "Italian"}
+{"sub": "Louis Petit de Bachaumont", "obj": "French"}
+{"sub": "Raymond van Barneveld", "obj": "Dutch"}
+{"sub": "Richard Arkwright", "obj": "English"}
+{"sub": "Umberto Spadaro", "obj": "Italian"}
+{"sub": "Pep Guardiola", "obj": "Spanish"}
+{"sub": "Melvyn Bragg", "obj": "English"}
+{"sub": "Emilio Lussu", "obj": "Italian"}
+{"sub": "Patrizia Toia", "obj": "Italian"}
+{"sub": "Pierre Carniti", "obj": "Italian"}
+{"sub": "Jean-Baptiste Boussingault", "obj": "French"}
+{"sub": "Sarah Waters", "obj": "Welsh"}
+{"sub": "Anastasia Volochkova", "obj": "Russian"}
+{"sub": "Joaquin Mir Trinxet", "obj": "Spanish"}
+{"sub": "Rafael Jofresa", "obj": "Spanish"}
+{"sub": "Anders Sunesen", "obj": "Latin"}
+{"sub": "Imre Nagy", "obj": "Hungarian"}
+{"sub": "Johann Gerhard", "obj": "German"}
+{"sub": "Calixto Bieito", "obj": "Spanish"}
+{"sub": "Saxo Grammaticus", "obj": "Latin"}
+{"sub": "Ernest William Hornung", "obj": "English"}
+{"sub": "Michel Duchaussoy", "obj": "French"}
+{"sub": "Renzo Novatore", "obj": "Italian"}
+{"sub": "Kulbhushan Kharbanda", "obj": "Hindi"}
+{"sub": "Debashree Roy", "obj": "Bengali"}
+{"sub": "Willem Einthoven", "obj": "Dutch"}
+{"sub": "Ferrante Gonzaga", "obj": "Italian"}
+{"sub": "Kadiri Venkata Reddy", "obj": "Telugu"}
+{"sub": "Margrethe II of Denmark", "obj": "Swedish"}
+{"sub": "Antoine Arnauld", "obj": "French"}
+{"sub": "Aleksey Pisemsky", "obj": "Russian"}
+{"sub": "Jean Marais", "obj": "French"}
+{"sub": "Nicolaus Olahus", "obj": "Latin"}
+{"sub": "Georgius Agricola", "obj": "Latin"}
+{"sub": "Maxence Caron", "obj": "French"}
+{"sub": "Andrea Carandini", "obj": "Italian"}
+{"sub": "Satyendra Nath Bose", "obj": "English"}
+{"sub": "Christopher Logue", "obj": "English"}
+{"sub": "Didier Haudepin", "obj": "French"}
+{"sub": "Jean Bobet", "obj": "French"}
+{"sub": "Francis Veber", "obj": "French"}
+{"sub": "Pu Songling", "obj": "Chinese"}
+{"sub": "Michael Atherton", "obj": "English"}
+{"sub": "David Warrilow", "obj": "English"}
+{"sub": "Petras Klimas", "obj": "Lithuanian"}
+{"sub": "Mythili", "obj": "Malayalam"}
+{"sub": "Dino Dvornik", "obj": "Croatian"}
+{"sub": "Hamid Algar", "obj": "English"}
+{"sub": "Leonard Plugge", "obj": "English"}
+{"sub": "Fermin", "obj": "Spanish"}
+{"sub": "Ernest Shackleton", "obj": "English"}
+{"sub": "Jorge Glusberg", "obj": "Spanish"}
+{"sub": "David Van Reybrouck", "obj": "Dutch"}
+{"sub": "Bernard Lewis", "obj": "English"}
+{"sub": "Nikolai Myaskovsky", "obj": "Russian"}
+{"sub": "Salvador Allende", "obj": "Spanish"}
+{"sub": "Jan Matejko", "obj": "Polish"}
+{"sub": "David Foster Wallace", "obj": "English"}
+{"sub": "Leonora Fani", "obj": "Italian"}
+{"sub": "Yury Grigorovich", "obj": "Russian"}
+{"sub": "Agoston Haraszthy", "obj": "Hungarian"}
+{"sub": "Guido Pieters", "obj": "Dutch"}
+{"sub": "Ebenezer Howard", "obj": "English"}
+{"sub": "Yotam Halperin", "obj": "Hebrew"}
+{"sub": "Niels Arestrup", "obj": "French"}
+{"sub": "Imadaddin Nasimi", "obj": "Azerbaijani"}
+{"sub": "Tharika", "obj": "Tamil"}
+{"sub": "Nikolai Leskov", "obj": "Russian"}
+{"sub": "Mirza Basheer-ud-Din Mahmood Ahmad", "obj": "English"}
+{"sub": "Mervyn Peake", "obj": "English"}
+{"sub": "Victor Emmanuel II of Savoy", "obj": "Italian"}
+{"sub": "Zuber Usman", "obj": "Indonesian"}
+{"sub": "Pierre Boucher", "obj": "French"}
+{"sub": "Ivan Vasilenko", "obj": "Russian"}
+{"sub": "Bozorg Alavi", "obj": "Persian"}
+{"sub": "Juraj Herz", "obj": "Czech"}
+{"sub": "Bo Lundgren", "obj": "Swedish"}
+{"sub": "Daniel Owen", "obj": "Welsh"}
+{"sub": "Georges Polti", "obj": "French"}
+{"sub": "Edmund Waller", "obj": "English"}
+{"sub": "Eiliv Skard", "obj": "Norwegian"}
+{"sub": "James Pennethorne", "obj": "English"}
+{"sub": "Mia Couto", "obj": "Portuguese"}
+{"sub": "Christine Angot", "obj": "French"}
+{"sub": "Marc Bloch", "obj": "French"}
+{"sub": "Jean-Baptiste Lebas", "obj": "French"}
+{"sub": "George Enescu", "obj": "Romanian"}
+{"sub": "Anton Pann", "obj": "Romanian"}
+{"sub": "Lodovico Agostini", "obj": "Italian"}
+{"sub": "Aleksander Griboyedov", "obj": "Russian"}
+{"sub": "Eleanor Steber", "obj": "English"}
+{"sub": "Yves Bonnefoy", "obj": "French"}
+{"sub": "Gloria Estefan", "obj": "Spanish"}
+{"sub": "Emmanuelle Bercot", "obj": "French"}
+{"sub": "Kaviyoor Ponnamma", "obj": "Malayalam"}
+{"sub": "Eleanor Bron", "obj": "English"}
+{"sub": "Michel Godard", "obj": "French"}
+{"sub": "Eleanor Marx", "obj": "English"}
+{"sub": "Michael Moore", "obj": "English"}
+{"sub": "Manuel De Sica", "obj": "Italian"}
+{"sub": "Pierre-Charles Villeneuve", "obj": "French"}
+{"sub": "William Johnson Cory", "obj": "English"}
+{"sub": "Vytautas Petrulis", "obj": "Lithuanian"}
+{"sub": "Pietro Bellotti", "obj": "Italian"}
+{"sub": "Marina Ripa di Meana", "obj": "Italian"}
+{"sub": "Michel Etcheverry", "obj": "French"}
+{"sub": "Adolphe Joseph Thomas Monticelli", "obj": "French"}
+{"sub": "Rafael Pascual", "obj": "Spanish"}
+{"sub": "Dennis Wilson", "obj": "English"}
+{"sub": "Ion Vianu", "obj": "Romanian"}
+{"sub": "Yvette Giraud", "obj": "French"}
+{"sub": "Jacques Callot", "obj": "French"}
+{"sub": "Max Blecher", "obj": "Romanian"}
+{"sub": "Jean-Baptiste Marchand", "obj": "French"}
+{"sub": "Pierre Beaumarchais", "obj": "French"}
+{"sub": "Benedetto Croce", "obj": "Italian"}
+{"sub": "Miguel A. Torres", "obj": "Spanish"}
+{"sub": "Lucrezia Bori", "obj": "Spanish"}
+{"sub": "Joseph Oller", "obj": "Catalan"}
+{"sub": "Bruno Racine", "obj": "French"}
+{"sub": "Ravi Shankar", "obj": "English"}
+{"sub": "Jorge Lanata", "obj": "Spanish"}
+{"sub": "Colin MacInnes", "obj": "English"}
+{"sub": "Philip Nel", "obj": "English"}
+{"sub": "Roy Orbison", "obj": "English"}
+{"sub": "Hariharananda Giri", "obj": "Bengali"}
+{"sub": "Claude Chappe", "obj": "French"}
+{"sub": "Cathi Unsworth", "obj": "English"}
+{"sub": "Costache Negri", "obj": "Romanian"}
+{"sub": "John Willie", "obj": "English"}
+{"sub": "Vilhelm Ekelund", "obj": "Swedish"}
+{"sub": "Vittorio De Sisti", "obj": "Italian"}
+{"sub": "Georges Guibourg", "obj": "French"}
+{"sub": "Sam Mendes", "obj": "English"}
+{"sub": "Chrisye", "obj": "Indonesian"}
+{"sub": "Denis Verdini", "obj": "Italian"}
+{"sub": "Ivan Bunin", "obj": "Russian"}
+{"sub": "Roger Caillois", "obj": "French"}
+{"sub": "Jacques Grange", "obj": "French"}
+{"sub": "Samuel Purchas", "obj": "English"}
+{"sub": "Albert Willemetz", "obj": "French"}
+{"sub": "Maria Elena Kiriakou", "obj": "Greek"}
+{"sub": "John Skelton", "obj": "English"}
+{"sub": "Angelica Balabanoff", "obj": "Russian"}
+{"sub": "Jean Marot", "obj": "French"}
+{"sub": "Rose Tremain", "obj": "English"}
+{"sub": "Jacques Poulin", "obj": "French"}
+{"sub": "Francesc Eiximenis", "obj": "Catalan"}
+{"sub": "Amaia Salamanca", "obj": "Spanish"}
+{"sub": "Nathalie Kosciusko-Morizet", "obj": "French"}
+{"sub": "Kiran Kumar", "obj": "Hindi"}
+{"sub": "Jonas Mekas", "obj": "English"}
+{"sub": "Vytautas Barkauskas", "obj": "Lithuanian"}
+{"sub": "Jacques Pills", "obj": "French"}
+{"sub": "Louis Pergaud", "obj": "French"}
+{"sub": "Itay Tiran", "obj": "Hebrew"}
+{"sub": "Jacobus de Voragine", "obj": "Latin"}
+{"sub": "Humberto Delgado", "obj": "Portuguese"}
+{"sub": "John Diefenbaker", "obj": "English"}
+{"sub": "Jagapati Babu", "obj": "Telugu"}
+{"sub": "Johan Gottschalk Wallerius", "obj": "Swedish"}
+{"sub": "Piero Gobetti", "obj": "Italian"}
+{"sub": "Giacomo Luigi Ciamician", "obj": "Italian"}
+{"sub": "Gaston Palewski", "obj": "French"}
+{"sub": "Paul Personne", "obj": "French"}
+{"sub": "Auguste de Marmont", "obj": "French"}
+{"sub": "Johanne Luise Heiberg", "obj": "Danish"}
+{"sub": "Jorge Arvizu", "obj": "Spanish"}
+{"sub": "Martin Lowry", "obj": "English"}
+{"sub": "Abulhassan Banisadr", "obj": "Persian"}
+{"sub": "Paul Philippoteaux", "obj": "French"}
+{"sub": "Giovanni Falcone", "obj": "Italian"}
+{"sub": "Ivano Staccioli", "obj": "Italian"}
+{"sub": "Sharon Osbourne", "obj": "English"}
+{"sub": "Anggun", "obj": "Indonesian"}
+{"sub": "Mercedes Valdivieso", "obj": "Spanish"}
+{"sub": "Jennifer Pareja", "obj": "Spanish"}
+{"sub": "Nick Cave", "obj": "English"}
+{"sub": "William Henry Flower", "obj": "English"}
+{"sub": "Carlo Porta", "obj": "Italian"}
+{"sub": "Diego de Landa", "obj": "Spanish"}
+{"sub": "Luc Moullet", "obj": "French"}
+{"sub": "Giulio Questi", "obj": "Italian"}
+{"sub": "Alain Touraine", "obj": "French"}
+{"sub": "Kazimierz Wyka", "obj": "Polish"}
+{"sub": "Sergey Uvarov", "obj": "Russian"}
+{"sub": "Clark Gable", "obj": "English"}
+{"sub": "Johannes Bugenhagen", "obj": "German"}
+{"sub": "Auguste Chevalier", "obj": "French"}
+{"sub": "Ricardo Bofill", "obj": "Spanish"}
+{"sub": "Yordi", "obj": "Spanish"}
+{"sub": "Lon Chaney", "obj": "English"}
+{"sub": "Caroline Alice Elgar", "obj": "English"}
+{"sub": "Jacques Lacan", "obj": "French"}
+{"sub": "Olivier Baroux", "obj": "French"}
+{"sub": "Ian McShane", "obj": "English"}
+{"sub": "Natasha Parry", "obj": "English"}
+{"sub": "Jean Rollin", "obj": "French"}
+{"sub": "James Garner", "obj": "English"}
+{"sub": "Johannes Sikkar", "obj": "Estonian"}
+{"sub": "Jon Juaristi", "obj": "Basque"}
+{"sub": "Alex Benno", "obj": "Dutch"}
+{"sub": "Pascal Quignard", "obj": "French"}
+{"sub": "Melvin Van Peebles", "obj": "English"}
+{"sub": "Constantijn Huygens", "obj": "Dutch"}
+{"sub": "Musa Manarov", "obj": "Russian"}
+{"sub": "Antonio Margheriti", "obj": "Italian"}
+{"sub": "Gaston Defferre", "obj": "French"}
+{"sub": "Maria de Medeiros", "obj": "French"}
+{"sub": "Sajjad Ali", "obj": "English"}
+{"sub": "Zygmunt Bauman", "obj": "English"}
+{"sub": "Gilad Shalit", "obj": "Hebrew"}
+{"sub": "Cedar Paul", "obj": "English"}
+{"sub": "Shahu Modak", "obj": "Hindi"}
+{"sub": "Henry Louis Gates", "obj": "English"}
+{"sub": "Gilbert Romme", "obj": "French"}
+{"sub": "Paco Rabanne", "obj": "Spanish"}
+{"sub": "Pier Luigi Nervi", "obj": "Italian"}
+{"sub": "Matt Greenhalgh", "obj": "English"}
+{"sub": "Henry Winter", "obj": "English"}
+{"sub": "Manuel Valls", "obj": "Spanish"}
+{"sub": "Riccardo Freda", "obj": "Italian"}
+{"sub": "John McEnery", "obj": "English"}
+{"sub": "Willie Nelson", "obj": "English"}
+{"sub": "Dominic Behan", "obj": "Irish"}
+{"sub": "Nassau William Senior", "obj": "English"}
+{"sub": "John Jervis, 1st Earl of St Vincent", "obj": "English"}
+{"sub": "Abbas Kiarostami", "obj": "Persian"}
+{"sub": "Joseph Albo", "obj": "Hebrew"}
+{"sub": "Henry Clay Frick", "obj": "English"}
+{"sub": "Remy de Gourmont", "obj": "French"}
+{"sub": "Jan Kruis", "obj": "Dutch"}
+{"sub": "Valmiki", "obj": "Sanskrit"}
+{"sub": "John V. Evans", "obj": "English"}
+{"sub": "Christophe Barratier", "obj": "French"}
+{"sub": "George Bentham", "obj": "English"}
+{"sub": "Rui Naiwei", "obj": "Chinese"}
+{"sub": "Jean Benguigui", "obj": "French"}
+{"sub": "Zevulun Hammer", "obj": "Hebrew"}
+{"sub": "Ahn Byeong-ki", "obj": "Korean"}
+{"sub": "Gheorghe Ciuhandu", "obj": "Romanian"}
+{"sub": "Aamani", "obj": "Telugu"}
+{"sub": "Alaska", "obj": "Spanish"}
+{"sub": "Francisco Silvela", "obj": "Spanish"}
+{"sub": "Jean-Baptiste Willermoz", "obj": "French"}
+{"sub": "William Alfred Fowler", "obj": "English"}
+{"sub": "Ferrante Pallavicino", "obj": "Italian"}
+{"sub": "William Eugene Stanley, Sr.", "obj": "English"}
+{"sub": "Suchitra Sen", "obj": "Bengali"}
+{"sub": "Pompiliu Constantinescu", "obj": "Romanian"}
+{"sub": "Mario Monticelli", "obj": "Italian"}
+{"sub": "Otto Tief", "obj": "Estonian"}
+{"sub": "Pierre Berbizier", "obj": "French"}
+{"sub": "Michiel Hazewinkel", "obj": "Dutch"}
+{"sub": "Safiye Ayla", "obj": "Turkish"}
+{"sub": "Julia Lovell", "obj": "English"}
+{"sub": "Abraham Fraenkel", "obj": "Hebrew"}
+{"sub": "Lawrence Beesley", "obj": "English"}
+{"sub": "Alberto Bueno", "obj": "Spanish"}
+{"sub": "Shafi Inamdar", "obj": "Hindi"}
+{"sub": "Oliver Cromwell", "obj": "English"}
+{"sub": "Gray Davis", "obj": "English"}
+{"sub": "Girish Chandra Sen", "obj": "Bengali"}
+{"sub": "Andoni Iraola", "obj": "Spanish"}
+{"sub": "Denise Robins", "obj": "English"}
+{"sub": "Jack Ralite", "obj": "French"}
+{"sub": "Louis Loucheur", "obj": "French"}
+{"sub": "Sylvain Chomet", "obj": "French"}
+{"sub": "James Burnett, Lord Monboddo", "obj": "English"}
+{"sub": "Liv Ullmann", "obj": "English"}
+{"sub": "Jean Joseph Marie Amiot", "obj": "French"}
+{"sub": "John Hutton, Baron Hutton of Furness", "obj": "English"}
+{"sub": "Willem Wilmink", "obj": "Dutch"}
+{"sub": "John Edwin Sandys", "obj": "English"}
+{"sub": "William Wycherley", "obj": "English"}
+{"sub": "Augusto Pinochet", "obj": "Spanish"}
+{"sub": "Florian Henckel von Donnersmarck", "obj": "German"}
+{"sub": "Paul Ulrich Villard", "obj": "French"}
+{"sub": "Ivan Shmelyov", "obj": "Russian"}
+{"sub": "Christa Theret", "obj": "French"}
+{"sub": "Gajanan Madhav Muktibodh", "obj": "Hindi"}
+{"sub": "Derrick Sherwin", "obj": "English"}
+{"sub": "Jean Crotti", "obj": "French"}
+{"sub": "Robert Nivelle", "obj": "French"}
+{"sub": "Francis Poulenc", "obj": "French"}
+{"sub": "Jean Cassou", "obj": "French"}
+{"sub": "Romain Grosjean", "obj": "French"}
+{"sub": "Aharon Barak", "obj": "Hebrew"}
+{"sub": "Talish", "obj": "Urdu"}
+{"sub": "Louise Lawler", "obj": "English"}
+{"sub": "Maria Fiore", "obj": "Italian"}
+{"sub": "Claude Closky", "obj": "French"}
+{"sub": "Han Han", "obj": "Chinese"}
+{"sub": "Kallu Chidambaram", "obj": "Telugu"}
+{"sub": "Mateo Flecha", "obj": "Spanish"}
+{"sub": "Enzo Cannavale", "obj": "Italian"}
+{"sub": "Manoj Bharathiraja", "obj": "Tamil"}
+{"sub": "Jules Massenet", "obj": "French"}
+{"sub": "Jorge Juan y Santacilia", "obj": "Spanish"}
+{"sub": "Gerrit Paape", "obj": "Dutch"}
+{"sub": "Thomas Phillipps", "obj": "English"}
+{"sub": "Carlos Marchena", "obj": "Spanish"}
+{"sub": "Charles M. Hudson", "obj": "English"}
+{"sub": "Ventura Pons", "obj": "Spanish"}
+{"sub": "Cevdet Sunay", "obj": "Turkish"}
+{"sub": "Edward Bond", "obj": "English"}
+{"sub": "Nanni Moretti", "obj": "Italian"}
+{"sub": "Ram Pothineni", "obj": "Telugu"}
+{"sub": "Philip Henry Wicksteed", "obj": "English"}
+{"sub": "Cid Corman", "obj": "English"}
+{"sub": "Yoav Gelber", "obj": "Hebrew"}
+{"sub": "Sava Mrkalj", "obj": "Serbian"}
+{"sub": "Max Velthuijs", "obj": "Dutch"}
+{"sub": "Silvio Orlando", "obj": "Italian"}
+{"sub": "Pattimandram Raja", "obj": "Tamil"}
+{"sub": "Charles Incledon", "obj": "English"}
+{"sub": "Manu Chao", "obj": "French"}
+{"sub": "Georges Marchais", "obj": "French"}
+{"sub": "Amilcare Cipriani", "obj": "Italian"}
+{"sub": "Dilip Kumar", "obj": "Hindi"}
+{"sub": "Jean Gruault", "obj": "French"}
+{"sub": "Mariano Gonzalvo", "obj": "Spanish"}
+{"sub": "Madhavapeddi Satyam", "obj": "Telugu"}
+{"sub": "Piers Paul Read", "obj": "English"}
+{"sub": "Francis Robortello", "obj": "Italian"}
+{"sub": "Ze'ev Jabotinsky", "obj": "Russian"}
+{"sub": "Stephen Orgel", "obj": "English"}
+{"sub": "Roger Quilter", "obj": "English"}
+{"sub": "Nitzan Horowitz", "obj": "Hebrew"}
+{"sub": "Leone Caetani", "obj": "Italian"}
+{"sub": "Isaac Baer Levinsohn", "obj": "Hebrew"}
+{"sub": "Nando Parrado", "obj": "Spanish"}
+{"sub": "Krikor Zohrab", "obj": "Armenian"}
+{"sub": "Pedro de Heredia", "obj": "Spanish"}
+{"sub": "Haim Ramon", "obj": "Hebrew"}
+{"sub": "Malik Zidi", "obj": "French"}
+{"sub": "Jabr Muadi", "obj": "Hebrew"}
+{"sub": "Georges Ohnet", "obj": "French"}
+{"sub": "Aleksandar Zograf", "obj": "Serbian"}
+{"sub": "Stephen Gosson", "obj": "English"}
+{"sub": "Olga Vittoria Gentilli", "obj": "Italian"}
+{"sub": "Alfred Watkins", "obj": "English"}
+{"sub": "John Clopton", "obj": "English"}
+{"sub": "Lakshmi Rai", "obj": "Telugu"}
+{"sub": "Nahum Sokolow", "obj": "Hebrew"}
+{"sub": "Henri Massis", "obj": "French"}
+{"sub": "Mukesh Tiwari", "obj": "Tamil"}
+{"sub": "Louis de Cahusac", "obj": "French"}
+{"sub": "T. H. Parry-Williams", "obj": "Welsh"}
+{"sub": "L. L. Zamenhof", "obj": "English"}
+{"sub": "John Le Gay Brereton", "obj": "English"}
+{"sub": "Costache Conachi", "obj": "Romanian"}
+{"sub": "Paul Mattick", "obj": "English"}
+{"sub": "Charles de Morny, Duke of Morny", "obj": "French"}
+{"sub": "Josep Trueta", "obj": "Catalan"}
+{"sub": "Gevorg Emin", "obj": "Armenian"}
+{"sub": "Camille Bulcke", "obj": "Hindi"}
+{"sub": "Pierre Daniel Huet", "obj": "French"}
+{"sub": "Olivier Dahan", "obj": "French"}
+{"sub": "David Burliuk", "obj": "Russian"}
+{"sub": "Josep Maria Jujol", "obj": "Catalan"}
+{"sub": "Nicolas Oudinot", "obj": "French"}
+{"sub": "Alicia Markova", "obj": "English"}
+{"sub": "Heribert Rosweyde", "obj": "Latin"}
+{"sub": "Muhammad Ali", "obj": "English"}
+{"sub": "Gabino Diego", "obj": "Spanish"}
+{"sub": "Alfred Madsen", "obj": "Norwegian"}
+{"sub": "Jing Boran", "obj": "Chinese"}
+{"sub": "Chandra Lakshman", "obj": "Malayalam"}
+{"sub": "Martin Burrell", "obj": "English"}
+{"sub": "Estelle Skornik", "obj": "French"}
+{"sub": "Hubert Latham", "obj": "French"}
+{"sub": "Edward Heyman", "obj": "English"}
+{"sub": "Martin Lamotte", "obj": "French"}
+{"sub": "Auguste Couder", "obj": "French"}
+{"sub": "Juan Bautista de Anza", "obj": "Spanish"}
+{"sub": "Mart Raud", "obj": "Estonian"}
+{"sub": "Tanya Savicheva", "obj": "Russian"}
+{"sub": "Letizia Moratti", "obj": "Italian"}
+{"sub": "Eva Cantarella", "obj": "Italian"}
+{"sub": "Rajendra Prasad", "obj": "Telugu"}
+{"sub": "Osvaldo Soriano", "obj": "Spanish"}
+{"sub": "Pierre Vaneck", "obj": "French"}
+{"sub": "Sami Michael", "obj": "Hebrew"}
+{"sub": "Anna Magnani", "obj": "Italian"}
+{"sub": "George-Daniel de Monfreid", "obj": "French"}
+{"sub": "ABBA", "obj": "Swedish"}
+{"sub": "Sambhavana Sheth", "obj": "Hindi"}
+{"sub": "J. G. Ballard", "obj": "English"}
+{"sub": "Baal Shem of London", "obj": "Hebrew"}
+{"sub": "Samuel Parr", "obj": "English"}
+{"sub": "Tom Mann", "obj": "English"}
+{"sub": "Allan Warren", "obj": "English"}
+{"sub": "Jesus Christ", "obj": "Hebrew"}
+{"sub": "Shriya Saran", "obj": "Hindi"}
+{"sub": "Pere Gimferrer", "obj": "Spanish"}
+{"sub": "Romesh Sharma", "obj": "Hindi"}
+{"sub": "Imre Makovecz", "obj": "Hungarian"}
+{"sub": "Jayabharathi", "obj": "Malayalam"}
+{"sub": "Jean-Pierre Dionnet", "obj": "French"}
+{"sub": "Lau Kar-leung", "obj": "Chinese"}
+{"sub": "Philippa Gregory", "obj": "English"}
+{"sub": "Dominic Guard", "obj": "English"}
+{"sub": "Howard Vaughton", "obj": "English"}
+{"sub": "Giuseppe Tornatore", "obj": "Italian"}
+{"sub": "Jacques-Nicolas Colbert", "obj": "French"}
+{"sub": "Gwen Stefani", "obj": "English"}
+{"sub": "Thambi Ramaiah", "obj": "Tamil"}
+{"sub": "Tecla Scarano", "obj": "Italian"}
+{"sub": "Michel-Dimitri Calvocoressi", "obj": "French"}
+{"sub": "Robert Garnier", "obj": "French"}
+{"sub": "Antoine Bourseiller", "obj": "French"}
+{"sub": "Pentti Linkola", "obj": "Finnish"}
+{"sub": "Tacitus", "obj": "Latin"}
+{"sub": "Hemant Birje", "obj": "Hindi"}
+{"sub": "Shilpa Shetty", "obj": "Hindi"}
+{"sub": "Alanis Morissette", "obj": "English"}
+{"sub": "Domenico Bartolucci", "obj": "Italian"}
+{"sub": "Berengaria of Castile", "obj": "Spanish"}
+{"sub": "Edward J. King", "obj": "English"}
+{"sub": "Vicente Espinel", "obj": "Spanish"}
+{"sub": "Margarethe von Trotta", "obj": "German"}
+{"sub": "Rajendra Prasad", "obj": "Hindi"}
+{"sub": "Anatoly Sagalevich", "obj": "Russian"}
+{"sub": "Wojciech Jaruzelski", "obj": "Polish"}
+{"sub": "Kylie Minogue", "obj": "English"}
+{"sub": "Krste Misirkov", "obj": "Macedonian"}
+{"sub": "Quintin Hogg, Baron Hailsham of St Marylebone", "obj": "English"}
+{"sub": "Carlos Fuentes", "obj": "Spanish"}
+{"sub": "Mauro Zani", "obj": "Italian"}
+{"sub": "Chandrasekhar", "obj": "Tamil"}
+{"sub": "Willem Oltmans", "obj": "Dutch"}
+{"sub": "Salvatore Accardo", "obj": "Italian"}
+{"sub": "Christiern Pedersen", "obj": "Danish"}
+{"sub": "Michel Portal", "obj": "French"}
+{"sub": "Yigal Hurvitz", "obj": "Hebrew"}
+{"sub": "Pasquale Villari", "obj": "Italian"}
+{"sub": "Henri Salvador", "obj": "French"}
+{"sub": "Patrick McGoohan", "obj": "English"}
+{"sub": "Gabriel Scott", "obj": "Norwegian"}
+{"sub": "Ailyn", "obj": "Spanish"}
+{"sub": "Dwight D. Eisenhower", "obj": "English"}
+{"sub": "Michele Ruggieri", "obj": "Italian"}
+{"sub": "Johan Jongkind", "obj": "Dutch"}
+{"sub": "Thomas Piketty", "obj": "French"}
+{"sub": "Pierre de Marca", "obj": "French"}
+{"sub": "Pasupathy", "obj": "Tamil"}
+{"sub": "Marcel Achard", "obj": "French"}
+{"sub": "Aleksey Brusilov", "obj": "Russian"}
+{"sub": "Lev Kamenev", "obj": "Russian"}
+{"sub": "Charles Edward Grey", "obj": "English"}
+{"sub": "Henri Rol-Tanguy", "obj": "French"}
+{"sub": "Jayant Vishnu Narlikar", "obj": "Marathi"}
+{"sub": "Anacharsis Cloots", "obj": "French"}
+{"sub": "Pedro Paterno", "obj": "Spanish"}
+{"sub": "Nino Rota", "obj": "Italian"}
+{"sub": "Jean Guitton", "obj": "French"}
+{"sub": "Peter Mayle", "obj": "English"}
+{"sub": "Laure Duthilleul", "obj": "French"}
+{"sub": "Ernst Jaakson", "obj": "Estonian"}
+{"sub": "Granville Sharp", "obj": "English"}
+{"sub": "Aldo Lado", "obj": "Italian"}
+{"sub": "Alexander Shirvanzade", "obj": "Armenian"}
+{"sub": "Francis James Child", "obj": "English"}
+{"sub": "John Updike", "obj": "English"}
+{"sub": "Anne Parillaud", "obj": "French"}
+{"sub": "Rajesh Khanna", "obj": "Hindi"}
+{"sub": "Deep Dhillon", "obj": "Hindi"}
+{"sub": "Patricia Kaas", "obj": "French"}
+{"sub": "Philip V of Spain", "obj": "Spanish"}
+{"sub": "George Gurdjieff", "obj": "Armenian"}
+{"sub": "Andrew Carnegie", "obj": "English"}
+{"sub": "Laura Adani", "obj": "Italian"}
+{"sub": "Thomas Overbury", "obj": "English"}
+{"sub": "Jacques Rivette", "obj": "French"}
+{"sub": "Peter Quennell", "obj": "English"}
+{"sub": "Marjane Satrapi", "obj": "French"}
+{"sub": "Thomas Robinson, 1st Baron Grantham", "obj": "English"}
+{"sub": "Sharof Rashidov", "obj": "Russian"}
+{"sub": "Emmanuelle Seigner", "obj": "French"}
+{"sub": "Jean Cruveilhier", "obj": "French"}
+{"sub": "Helen Dunmore", "obj": "English"}
+{"sub": "Ernest Rutherford", "obj": "English"}
+{"sub": "Javier Espinosa", "obj": "Spanish"}
+{"sub": "Margaret Forster", "obj": "English"}
+{"sub": "Einar Englund", "obj": "Finnish"}
+{"sub": "Gilles de Robien", "obj": "French"}
+{"sub": "Giovanni Ricordi", "obj": "Italian"}
+{"sub": "Corrado Segre", "obj": "Italian"}
+{"sub": "Eugene O'Neill", "obj": "English"}
+{"sub": "Ronny Levy", "obj": "Hebrew"}
+{"sub": "Ralph McInerny", "obj": "English"}
+{"sub": "Roldano Lupi", "obj": "Italian"}
+{"sub": "Jernej Kopitar", "obj": "Slovene"}
+{"sub": "Abhirami", "obj": "Malayalam"}
+{"sub": "Hans Nielsen Hauge", "obj": "Norwegian"}
+{"sub": "Gilad Atzmon", "obj": "Hebrew"}
+{"sub": "William Thomson, 1st Baron Kelvin", "obj": "English"}
+{"sub": "Krishnam Raju", "obj": "Telugu"}
+{"sub": "Pedro Caro, 3rd Marquis of la Romana", "obj": "Spanish"}
+{"sub": "Osvaldo Genazzani", "obj": "Italian"}
+{"sub": "Abraham Mateo", "obj": "Spanish"}
+{"sub": "Dominique Perben", "obj": "French"}
+{"sub": "Michael Winner", "obj": "English"}
+{"sub": "Italo Svevo", "obj": "Italian"}
+{"sub": "Nescio", "obj": "Dutch"}
+{"sub": "George Hardinge", "obj": "English"}
+{"sub": "Karel van Mander I", "obj": "Dutch"}
+{"sub": "Thomas Moult", "obj": "English"}
+{"sub": "Joseph Hume", "obj": "English"}
+{"sub": "Gildo Bocci", "obj": "Italian"}
+{"sub": "Nicci French", "obj": "English"}
+{"sub": "Marie de France", "obj": "French"}
+{"sub": "Jennifer Hudson", "obj": "English"}
+{"sub": "Xiong Qinglai", "obj": "Chinese"}
+{"sub": "Juan J. Campanella", "obj": "Spanish"}
+{"sub": "Louis Riel", "obj": "French"}
+{"sub": "Vincent d'Indy", "obj": "French"}
+{"sub": "Susan McClary", "obj": "English"}
+{"sub": "Ferdinand Hoefer", "obj": "French"}
+{"sub": "Henry Sidgwick", "obj": "English"}
+{"sub": "James Hardiman", "obj": "English"}
+{"sub": "Donald Davie", "obj": "English"}
+{"sub": "Yitzhak Arad", "obj": "Hebrew"}
+{"sub": "Ferruccio Busoni", "obj": "Italian"}
+{"sub": "Antonio Maura", "obj": "Spanish"}
+{"sub": "Maurice Tourneur", "obj": "French"}
+{"sub": "Beau Billingslea", "obj": "English"}
+{"sub": "Aleksei Losev", "obj": "Russian"}
+{"sub": "Jean-Louis Murat", "obj": "French"}
+{"sub": "Moshe Feiglin", "obj": "Hebrew"}
+{"sub": "Jean De Briac", "obj": "French"}
+{"sub": "Henry Kissinger", "obj": "English"}
+{"sub": "Karl Lachmann", "obj": "German"}
+{"sub": "Clifford Grey", "obj": "English"}
+{"sub": "Pierre Marie", "obj": "French"}
+{"sub": "Ellen Wilkinson", "obj": "English"}
+{"sub": "Harold Laski", "obj": "English"}
+{"sub": "Mechell", "obj": "Welsh"}
+{"sub": "Pius X", "obj": "Latin"}
+{"sub": "Jean Villard Gilles", "obj": "French"}
+{"sub": "Jacques Dufilho", "obj": "French"}
+{"sub": "John Glynn", "obj": "English"}
+{"sub": "Lior Eliyahu", "obj": "Hebrew"}
+{"sub": "Uzeyir Hajibeyov", "obj": "Azerbaijani"}
+{"sub": "Roger Holeindre", "obj": "French"}
+{"sub": "Henry Martin Jackson", "obj": "English"}
+{"sub": "Sir John Rose, 1st Baronet", "obj": "English"}
+{"sub": "Craig Raine", "obj": "English"}
+{"sub": "Palito Ortega", "obj": "Spanish"}
+{"sub": "Bernard Musson", "obj": "French"}
+{"sub": "Shaan Shahid", "obj": "English"}
+{"sub": "Shlomo Avineri", "obj": "Hebrew"}
+{"sub": "Juvenal", "obj": "Latin"}
+{"sub": "Milo Manara", "obj": "Italian"}
+{"sub": "Francis Toye", "obj": "English"}
+{"sub": "Lodovico Castelvetro", "obj": "Italian"}
+{"sub": "Robert Campin", "obj": "Dutch"}
+{"sub": "Natalia Lafourcade", "obj": "Spanish"}
+{"sub": "Niki de Saint Phalle", "obj": "French"}
+{"sub": "Charles du Fresne, sieur du Cange", "obj": "Latin"}
+{"sub": "Alberto Mazzucato", "obj": "Italian"}
+{"sub": "Charles Cressent", "obj": "French"}
+{"sub": "Margaret Roper", "obj": "English"}
+{"sub": "Jean Hyppolite", "obj": "French"}
+{"sub": "Livia Turco", "obj": "Italian"}
+{"sub": "Raghu Kunche", "obj": "Telugu"}
+{"sub": "Thomas Hobbes", "obj": "Latin"}
+{"sub": "Giacomo Balla", "obj": "Italian"}
+{"sub": "Natalia Shvedova", "obj": "Russian"}
+{"sub": "Adrianus Valerius", "obj": "Dutch"}
+{"sub": "Maurice Herzog", "obj": "French"}
+{"sub": "Giuseppe Sarti", "obj": "Italian"}
+{"sub": "Zhu Xi", "obj": "Chinese"}
+{"sub": "Yandamuri Veerendranath", "obj": "Telugu"}
+{"sub": "Matthew Henry", "obj": "English"}
+{"sub": "Kartar Singh Duggal", "obj": "Punjabi"}
+{"sub": "Mohammad Hatta", "obj": "Indonesian"}
+{"sub": "Joachim Lebreton", "obj": "French"}
+{"sub": "Plamen Oresharski", "obj": "Bulgarian"}
+{"sub": "Kenneth Anger", "obj": "English"}
+{"sub": "Anita Shapira", "obj": "Hebrew"}
+{"sub": "Sergo Kldiashvili", "obj": "Georgian"}
+{"sub": "Ch'ien Mu", "obj": "Chinese"}
+{"sub": "Herman Branover", "obj": "Russian"}
+{"sub": "Michel Peissel", "obj": "French"}
+{"sub": "Giovanni Valentini", "obj": "Italian"}
+{"sub": "Louis-Joseph de Montcalm", "obj": "French"}
+{"sub": "Yuval Steinitz", "obj": "Hebrew"}
+{"sub": "Jostein Pedersen", "obj": "Norwegian"}
+{"sub": "Louis Jouvet", "obj": "French"}
+{"sub": "Edmund Castell", "obj": "English"}
+{"sub": "Kalairani", "obj": "Tamil"}
+{"sub": "Eric Partridge", "obj": "English"}
+{"sub": "John Anstis", "obj": "English"}
+{"sub": "Olivier Weber", "obj": "French"}
+{"sub": "Laurent Brochard", "obj": "French"}
+{"sub": "Gila Almagor", "obj": "Hebrew"}
+{"sub": "Kamalika Banerjee", "obj": "Bengali"}
+{"sub": "Giovanni Borgia, 2nd Duke of Gandia", "obj": "Catalan"}
+{"sub": "Vico Magistretti", "obj": "Italian"}
+{"sub": "Paul McCarthy", "obj": "English"}
+{"sub": "Juan Bautista Villalpando", "obj": "Spanish"}
+{"sub": "Anne Marie Milan Desguillons", "obj": "French"}
+{"sub": "Luca Romagnoli", "obj": "Italian"}
+{"sub": "Corinne Calvet", "obj": "French"}
+{"sub": "Uri Malmilian", "obj": "Hebrew"}
+{"sub": "William W. Hallo", "obj": "English"}
+{"sub": "Gad Elmaleh", "obj": "French"}
+{"sub": "Natalia Pushkina", "obj": "Russian"}
+{"sub": "Vimala Raman", "obj": "Tamil"}
+{"sub": "Emilio de' Cavalieri", "obj": "Italian"}
+{"sub": "Rama Prabha", "obj": "Telugu"}
+{"sub": "Albert Riera", "obj": "Spanish"}
+{"sub": "Aharon Zisling", "obj": "Hebrew"}
+{"sub": "Jean-Yves Girard", "obj": "French"}
+{"sub": "Alfonso Sastre", "obj": "Spanish"}
+{"sub": "Antonio Moreno", "obj": "Spanish"}
+{"sub": "Propertius", "obj": "Latin"}
+{"sub": "August Strindberg", "obj": "Swedish"}
+{"sub": "Paul-Armand Challemel-Lacour", "obj": "French"}
+{"sub": "Keren Peles", "obj": "Hebrew"}
+{"sub": "Errico Petrella", "obj": "Italian"}
+{"sub": "Andrei Bitov", "obj": "Russian"}
+{"sub": "Stein Rokkan", "obj": "Norwegian"}
+{"sub": "Yizhar Harari", "obj": "Hebrew"}
+{"sub": "Yardena Arazi", "obj": "Hebrew"}
+{"sub": "Kristin Scott Thomas", "obj": "French"}
+{"sub": "Ronald N. Bracewell", "obj": "English"}
+{"sub": "Thomas Hardy", "obj": "English"}
+{"sub": "Peter Cowie", "obj": "English"}
+{"sub": "Eliot Weinberger", "obj": "English"}
+{"sub": "Friedrich Georg Wilhelm von Struve", "obj": "Latin"}
+{"sub": "Brahmaji", "obj": "Telugu"}
+{"sub": "Roberto Gerhard", "obj": "Catalan"}
+{"sub": "Walter Cronkite", "obj": "English"}
+{"sub": "Natalia Barbu", "obj": "English"}
+{"sub": "Moshe ben Maimon", "obj": "Hebrew"}
+{"sub": "Apostolo Zeno", "obj": "Italian"}
+{"sub": "Shulamit Aloni", "obj": "Hebrew"}
+{"sub": "Zhou Fohai", "obj": "Chinese"}
+{"sub": "Arnold Chikobava", "obj": "Georgian"}
+{"sub": "Peter Mark Roget", "obj": "English"}
+{"sub": "Jean-Michel Jarre", "obj": "French"}
+{"sub": "Johan Cruyff", "obj": "Dutch"}
+{"sub": "Conrad Busken Huet", "obj": "Dutch"}
+{"sub": "Sergei Diaghilev", "obj": "Russian"}
+{"sub": "James Howell", "obj": "English"}
+{"sub": "Olivier Megaton", "obj": "French"}
+{"sub": "Vajiravudh", "obj": "Thai"}
+{"sub": "Gao Xingjian", "obj": "Chinese"}
+{"sub": "Yunjin Kim", "obj": "Korean"}
+{"sub": "Pierre C. Cartier", "obj": "French"}
+{"sub": "Mikhail Khodorkovsky", "obj": "Russian"}
+{"sub": "Giuseppe Saronni", "obj": "Italian"}
+{"sub": "Alexandra Pascalidou", "obj": "Swedish"}
+{"sub": "Henry Drummond Wolff", "obj": "English"}
+{"sub": "Claude Miller", "obj": "French"}
+{"sub": "Adolfo Marsillach", "obj": "Spanish"}
+{"sub": "Nena", "obj": "English"}
+{"sub": "Giorgio Albertazzi", "obj": "Italian"}
+{"sub": "Deirdre McCloskey", "obj": "English"}
+{"sub": "Sergei Nilus", "obj": "Russian"}
+{"sub": "Jean Sibelius", "obj": "Finnish"}
+{"sub": "George Meredith", "obj": "English"}
+{"sub": "Abigail Child", "obj": "English"}
+{"sub": "Antonio Soler", "obj": "Spanish"}
+{"sub": "Garry Disher", "obj": "English"}
+{"sub": "Jean-Roger Caussimon", "obj": "French"}
+{"sub": "Louis Bonaparte", "obj": "French"}
+{"sub": "Olinto Cristina", "obj": "Italian"}
+{"sub": "El General", "obj": "Spanish"}
+{"sub": "L. L. Zamenhof", "obj": "Russian"}
+{"sub": "Anders Fager", "obj": "Swedish"}
+{"sub": "Agostino Rocca", "obj": "Italian"}
+{"sub": "Aleksandr Kaleri", "obj": "Russian"}
+{"sub": "Jean-Louis Bourlanges", "obj": "French"}
+{"sub": "Freeman Dyson", "obj": "English"}
+{"sub": "Henri Storck", "obj": "French"}
+{"sub": "Madeleine Robinson", "obj": "French"}
+{"sub": "Michel Camdessus", "obj": "French"}
+{"sub": "Sergey Ryazansky", "obj": "Russian"}
+{"sub": "Fulvio Tomizza", "obj": "Italian"}
+{"sub": "Eugenio Corti", "obj": "Italian"}
+{"sub": "Antoine Laurent de Jussieu", "obj": "French"}
+{"sub": "Sayat-Nova", "obj": "Armenian"}
+{"sub": "Andrei Sinyavsky", "obj": "Russian"}
+{"sub": "Albert Camus", "obj": "French"}
+{"sub": "Jean-Baptiste-Louis Gresset", "obj": "French"}
+{"sub": "Michael van Gerwen", "obj": "Dutch"}
+{"sub": "William Fitzwilliam, 4th Earl Fitzwilliam", "obj": "English"}
+{"sub": "Vibius Sequester", "obj": "Latin"}
+{"sub": "Frederick Ashton", "obj": "English"}
+{"sub": "Edward Yang", "obj": "Chinese"}
+{"sub": "Jean Bourdichon", "obj": "French"}
+{"sub": "Fyodor Mikhaylovich Reshetnikov", "obj": "Russian"}
+{"sub": "Michael A. Smith", "obj": "English"}
+{"sub": "Achille Campanile", "obj": "Italian"}
+{"sub": "Paal-Helge Haugen", "obj": "Norwegian"}
+{"sub": "Virginio Merola", "obj": "Italian"}
+{"sub": "Gomes Eanes de Zurara", "obj": "Portuguese"}
+{"sub": "Karl Bodmer", "obj": "French"}

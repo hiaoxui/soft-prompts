@@ -1,0 +1,738 @@
+{"sub": "Val-de-Marne", "obj": "Paris"}
+{"sub": "Pantin", "obj": "Paris"}
+{"sub": "Bagnolet", "obj": "Paris"}
+{"sub": "Saint-Cloud", "obj": "Paris"}
+{"sub": "Hauts-de-Seine", "obj": "Paris"}
+{"sub": "Boulogne-Billancourt", "obj": "Paris"}
+{"sub": "Charenton-le-Pont", "obj": "Paris"}
+{"sub": "Vincennes", "obj": "Paris"}
+{"sub": "Nogent-sur-Marne", "obj": "Paris"}
+{"sub": "Malakoff", "obj": "Paris"}
+{"sub": "Montrouge", "obj": "Paris"}
+{"sub": "Levallois-Perret", "obj": "Paris"}
+{"sub": "Ivry-sur-Seine", "obj": "Paris"}
+{"sub": "Vanves", "obj": "Paris"}
+{"sub": "Neuilly-sur-Seine", "obj": "Paris"}
+{"sub": "Frascati", "obj": "Rome"}
+{"sub": "Palestrina", "obj": "Rome"}
+{"sub": "Campagnano di Roma", "obj": "Rome"}
+{"sub": "Mentana", "obj": "Rome"}
+{"sub": "Zagarolo", "obj": "Rome"}
+{"sub": "Monte Compatri", "obj": "Rome"}
+{"sub": "Trevignano Romano", "obj": "Rome"}
+{"sub": "Grottaferrata", "obj": "Rome"}
+{"sub": "Anguillara Sabazia", "obj": "Rome"}
+{"sub": "Guidonia Montecelio", "obj": "Rome"}
+{"sub": "North Korea", "obj": "Russia"}
+{"sub": "Abkhazia", "obj": "Russia"}
+{"sub": "Luhansk People's Republic", "obj": "Russia"}
+{"sub": "Chechen Republic of Ichkeria", "obj": "Russia"}
+{"sub": "Ukraine", "obj": "Russia"}
+{"sub": "Finland", "obj": "Russia"}
+{"sub": "Poland", "obj": "Russia"}
+{"sub": "Estonia", "obj": "Russia"}
+{"sub": "European Union", "obj": "Russia"}
+{"sub": "Donetsk People's Republic", "obj": "Russia"}
+{"sub": "Buskerud", "obj": "Oslo"}
+{"sub": "Nittedal", "obj": "Oslo"}
+{"sub": "Nesodden", "obj": "Oslo"}
+{"sub": "Skedsmo", "obj": "Oslo"}
+{"sub": "Oppland", "obj": "Oslo"}
+{"sub": "Akershus", "obj": "Oslo"}
+{"sub": "Ski", "obj": "Oslo"}
+{"sub": "Enebakk", "obj": "Oslo"}
+{"sub": "Lunner", "obj": "Oslo"}
+{"sub": "Belgium", "obj": "France"}
+{"sub": "Kingdom of the Netherlands", "obj": "France"}
+{"sub": "Venezuela", "obj": "France"}
+{"sub": "Catalonia", "obj": "France"}
+{"sub": "Kingdom of Westphalia", "obj": "France"}
+{"sub": "Andorra", "obj": "France"}
+{"sub": "Spain", "obj": "France"}
+{"sub": "Luxembourg", "obj": "France"}
+{"sub": "Netherlands Antilles", "obj": "France"}
+{"sub": "Soviet Union", "obj": "Poland"}
+{"sub": "Slovakia", "obj": "Poland"}
+{"sub": "Germany", "obj": "Poland"}
+{"sub": "Volyn Oblast", "obj": "Poland"}
+{"sub": "Ukraine", "obj": "Poland"}
+{"sub": "Lviv Oblast", "obj": "Poland"}
+{"sub": "Lithuania", "obj": "Poland"}
+{"sub": "Russia", "obj": "Poland"}
+{"sub": "German Democratic Republic", "obj": "Poland"}
+{"sub": "Iran", "obj": "Turkey"}
+{"sub": "European Union", "obj": "Turkey"}
+{"sub": "Nakhchivan Autonomous Republic", "obj": "Turkey"}
+{"sub": "Soviet Union", "obj": "Turkey"}
+{"sub": "Azerbaijan", "obj": "Turkey"}
+{"sub": "Arab League", "obj": "Turkey"}
+{"sub": "Kingdom of Bulgaria", "obj": "Turkey"}
+{"sub": "Liechtenstein", "obj": "Austria"}
+{"sub": "Slovenia", "obj": "Austria"}
+{"sub": "Czechoslovakia", "obj": "Austria"}
+{"sub": "Slovakia", "obj": "Austria"}
+{"sub": "Czech Republic", "obj": "Austria"}
+{"sub": "Switzerland", "obj": "Austria"}
+{"sub": "Yugoslavia", "obj": "Austria"}
+{"sub": "Trinidad and Tobago", "obj": "Venezuela"}
+{"sub": "Dominican Republic", "obj": "Venezuela"}
+{"sub": "Colombia", "obj": "Venezuela"}
+{"sub": "Guyana", "obj": "Venezuela"}
+{"sub": "Grenada", "obj": "Venezuela"}
+{"sub": "Kingdom of the Netherlands", "obj": "Venezuela"}
+{"sub": "Brazil", "obj": "Venezuela"}
+{"sub": "Sassello", "obj": "Genoa"}
+{"sub": "Montoggio", "obj": "Genoa"}
+{"sub": "Tiglieto", "obj": "Genoa"}
+{"sub": "Masone", "obj": "Genoa"}
+{"sub": "Campomorone", "obj": "Genoa"}
+{"sub": "Bogliasco", "obj": "Genoa"}
+{"sub": "Bosio", "obj": "Genoa"}
+{"sub": "Nebraska", "obj": "Missouri"}
+{"sub": "Tennessee", "obj": "Missouri"}
+{"sub": "Iowa", "obj": "Missouri"}
+{"sub": "Kentucky", "obj": "Missouri"}
+{"sub": "Illinois", "obj": "Missouri"}
+{"sub": "Arkansas", "obj": "Missouri"}
+{"sub": "Oklahoma", "obj": "Missouri"}
+{"sub": "Netherlands", "obj": "Germany"}
+{"sub": "Karlovy Vary Region", "obj": "Germany"}
+{"sub": "Luxembourg", "obj": "Germany"}
+{"sub": "Benelux", "obj": "Germany"}
+{"sub": "Switzerland", "obj": "Germany"}
+{"sub": "Poland", "obj": "Germany"}
+{"sub": "Saar Protectorate", "obj": "Germany"}
+{"sub": "Uruguay", "obj": "Brazil"}
+{"sub": "Venezuela", "obj": "Brazil"}
+{"sub": "Bolivia", "obj": "Brazil"}
+{"sub": "Argentina", "obj": "Brazil"}
+{"sub": "European Union", "obj": "Brazil"}
+{"sub": "Suriname", "obj": "Brazil"}
+{"sub": "Peru", "obj": "Brazil"}
+{"sub": "Isernhagen", "obj": "Hanover"}
+{"sub": "Seelze", "obj": "Hanover"}
+{"sub": "Lehrte", "obj": "Hanover"}
+{"sub": "Sehnde", "obj": "Hanover"}
+{"sub": "Gehrden", "obj": "Hanover"}
+{"sub": "Laatzen", "obj": "Hanover"}
+{"sub": "Punjab", "obj": "Haryana"}
+{"sub": "Uttarakhand", "obj": "Haryana"}
+{"sub": "Rajasthan", "obj": "Haryana"}
+{"sub": "Himachal Pradesh", "obj": "Haryana"}
+{"sub": "Delhi", "obj": "Haryana"}
+{"sub": "Chandigarh", "obj": "Haryana"}
+{"sub": "Germany", "obj": "Switzerland"}
+{"sub": "Liechtenstein", "obj": "Switzerland"}
+{"sub": "European Union", "obj": "Switzerland"}
+{"sub": "Austria-Hungary", "obj": "Switzerland"}
+{"sub": "Italy", "obj": "Switzerland"}
+{"sub": "France", "obj": "Switzerland"}
+{"sub": "Anderlecht", "obj": "Brussels"}
+{"sub": "Saint-Gilles - Sint-Gillis", "obj": "Brussels"}
+{"sub": "Zaventem", "obj": "Brussels"}
+{"sub": "Vilvoorde", "obj": "Brussels"}
+{"sub": "Etterbeek", "obj": "Brussels"}
+{"sub": "Ixelles", "obj": "Brussels"}
+{"sub": "Ukraine", "obj": "Hungary"}
+{"sub": "Austria", "obj": "Hungary"}
+{"sub": "European Union", "obj": "Hungary"}
+{"sub": "Serbia", "obj": "Hungary"}
+{"sub": "Czechoslovakia", "obj": "Hungary"}
+{"sub": "Romania", "obj": "Hungary"}
+{"sub": "Cologno Monzese", "obj": "Milan"}
+{"sub": "Sesto San Giovanni", "obj": "Milan"}
+{"sub": "Peschiera Borromeo", "obj": "Milan"}
+{"sub": "Buccinasco", "obj": "Milan"}
+{"sub": "Trezzano sul Naviglio", "obj": "Milan"}
+{"sub": "San Donato Milanese", "obj": "Milan"}
+{"sub": "Algeria", "obj": "Mali"}
+{"sub": "Senegal", "obj": "Mali"}
+{"sub": "Mauritania", "obj": "Mali"}
+{"sub": "Guinea", "obj": "Mali"}
+{"sub": "Niger", "obj": "Mali"}
+{"sub": "Burkina Faso", "obj": "Mali"}
+{"sub": "Romania", "obj": "Serbia"}
+{"sub": "Croatia", "obj": "Serbia"}
+{"sub": "Albania", "obj": "Serbia"}
+{"sub": "European Union", "obj": "Serbia"}
+{"sub": "Montenegro", "obj": "Serbia"}
+{"sub": "Hungary", "obj": "Serbia"}
+{"sub": "Guangxi Zhuang Autonomous Region", "obj": "Yunnan"}
+{"sub": "Kachin State", "obj": "Yunnan"}
+{"sub": "Phongsaly Province", "obj": "Yunnan"}
+{"sub": "Sichuan", "obj": "Yunnan"}
+{"sub": "Tibet Autonomous Region", "obj": "Yunnan"}
+{"sub": "Guizhou", "obj": "Yunnan"}
+{"sub": "Luhansk People's Republic", "obj": "Ukraine"}
+{"sub": "Moldova", "obj": "Ukraine"}
+{"sub": "Romania", "obj": "Ukraine"}
+{"sub": "Poland", "obj": "Ukraine"}
+{"sub": "Slovakia", "obj": "Ukraine"}
+{"sub": "Hungary", "obj": "Ukraine"}
+{"sub": "Unna", "obj": "Dortmund"}
+{"sub": "Castrop-Rauxel", "obj": "Dortmund"}
+{"sub": "Hagen", "obj": "Dortmund"}
+{"sub": "Holzwickede", "obj": "Dortmund"}
+{"sub": "Witten", "obj": "Dortmund"}
+{"sub": "Herdecke", "obj": "Dortmund"}
+{"sub": "Wiltshire", "obj": "Oxfordshire"}
+{"sub": "Berkshire", "obj": "Oxfordshire"}
+{"sub": "Gloucestershire", "obj": "Oxfordshire"}
+{"sub": "Northamptonshire", "obj": "Oxfordshire"}
+{"sub": "Warwickshire", "obj": "Oxfordshire"}
+{"sub": "Kosovo", "obj": "Albania"}
+{"sub": "Yugoslavia", "obj": "Albania"}
+{"sub": "Greece", "obj": "Albania"}
+{"sub": "North Macedonia", "obj": "Albania"}
+{"sub": "Serbia", "obj": "Albania"}
+{"sub": "Indiana", "obj": "Kentucky"}
+{"sub": "Tennessee", "obj": "Kentucky"}
+{"sub": "Illinois", "obj": "Kentucky"}
+{"sub": "West Virginia", "obj": "Kentucky"}
+{"sub": "Virginia", "obj": "Kentucky"}
+{"sub": "Nunavut", "obj": "Ontario"}
+{"sub": "Michigan", "obj": "Ontario"}
+{"sub": "Manitoba", "obj": "Ontario"}
+{"sub": "Quebec", "obj": "Ontario"}
+{"sub": "Pennsylvania", "obj": "Ontario"}
+{"sub": "Pakistan", "obj": "Iran"}
+{"sub": "Armenia", "obj": "Iran"}
+{"sub": "Afghanistan", "obj": "Iran"}
+{"sub": "Soviet Union", "obj": "Iran"}
+{"sub": "Iraq", "obj": "Iran"}
+{"sub": "Misilmeri", "obj": "Palermo"}
+{"sub": "Villabate", "obj": "Palermo"}
+{"sub": "Bagheria", "obj": "Palermo"}
+{"sub": "Belmonte Mezzagno", "obj": "Palermo"}
+{"sub": "Monreale", "obj": "Palermo"}
+{"sub": "Tres Cantos", "obj": "Madrid"}
+{"sub": "Hoyo de Manzanares", "obj": "Madrid"}
+{"sub": "San Fernando de Henares", "obj": "Madrid"}
+{"sub": "Paracuellos de Jarama", "obj": "Madrid"}
+{"sub": "Torrelodones", "obj": "Madrid"}
+{"sub": "Staffordshire", "obj": "Shropshire"}
+{"sub": "Denbighshire", "obj": "Shropshire"}
+{"sub": "Radnorshire", "obj": "Shropshire"}
+{"sub": "Cheshire", "obj": "Shropshire"}
+{"sub": "Herefordshire", "obj": "Shropshire"}
+{"sub": "Rutland", "obj": "Lincolnshire"}
+{"sub": "Norfolk", "obj": "Lincolnshire"}
+{"sub": "Leicestershire", "obj": "Lincolnshire"}
+{"sub": "East Riding of Yorkshire", "obj": "Lincolnshire"}
+{"sub": "South Yorkshire", "obj": "Lincolnshire"}
+{"sub": "Serbia", "obj": "Bulgaria"}
+{"sub": "Romania", "obj": "Bulgaria"}
+{"sub": "Yugoslavia", "obj": "Bulgaria"}
+{"sub": "Turkey", "obj": "Bulgaria"}
+{"sub": "European Union", "obj": "Bulgaria"}
+{"sub": "Sommacampagna", "obj": "Verona"}
+{"sub": "Bussolengo", "obj": "Verona"}
+{"sub": "San Giovanni Lupatoto", "obj": "Verona"}
+{"sub": "Negrar", "obj": "Verona"}
+{"sub": "Tregnago", "obj": "Verona"}
+{"sub": "Sindh", "obj": "Gujarat"}
+{"sub": "Maharashtra", "obj": "Gujarat"}
+{"sub": "Daman and Diu", "obj": "Gujarat"}
+{"sub": "Madhya Pradesh", "obj": "Gujarat"}
+{"sub": "Rajasthan", "obj": "Gujarat"}
+{"sub": "Wijnegem", "obj": "Antwerp"}
+{"sub": "Hemiksem", "obj": "Antwerp"}
+{"sub": "North Brabant", "obj": "Antwerp"}
+{"sub": "Schoten", "obj": "Antwerp"}
+{"sub": "Edegem", "obj": "Antwerp"}
+{"sub": "Egypt", "obj": "Sudan"}
+{"sub": "Eritrea", "obj": "Sudan"}
+{"sub": "Bry land", "obj": "Sudan"}
+{"sub": "Central African Republic", "obj": "Sudan"}
+{"sub": "Democratic Republic of the Congo", "obj": "Sudan"}
+{"sub": "Katwijk", "obj": "Leiden"}
+{"sub": "Wassenaar", "obj": "Leiden"}
+{"sub": "Leidschendam-Voorburg", "obj": "Leiden"}
+{"sub": "Teylingen", "obj": "Leiden"}
+{"sub": "Oegstgeest", "obj": "Leiden"}
+{"sub": "Mecklenburg-Vorpommern", "obj": "Brandenburg"}
+{"sub": "Berlin", "obj": "Brandenburg"}
+{"sub": "West Pomeranian Voivodeship", "obj": "Brandenburg"}
+{"sub": "Saxony-Anhalt", "obj": "Brandenburg"}
+{"sub": "Lower Saxony", "obj": "Brandenburg"}
+{"sub": "Tripura", "obj": "Assam"}
+{"sub": "Meghalaya", "obj": "Assam"}
+{"sub": "Mizoram", "obj": "Assam"}
+{"sub": "Manipur", "obj": "Assam"}
+{"sub": "West Bengal", "obj": "Assam"}
+{"sub": "West Virginia", "obj": "Pennsylvania"}
+{"sub": "New Jersey", "obj": "Pennsylvania"}
+{"sub": "Maryland", "obj": "Pennsylvania"}
+{"sub": "Ontario", "obj": "Pennsylvania"}
+{"sub": "Delaware", "obj": "Pennsylvania"}
+{"sub": "Democratic Republic of the Congo", "obj": "Zambia"}
+{"sub": "Botswana", "obj": "Zambia"}
+{"sub": "Namibia", "obj": "Zambia"}
+{"sub": "Tanzania", "obj": "Zambia"}
+{"sub": "Malawi", "obj": "Zambia"}
+{"sub": "Punjab", "obj": "Punjab"}
+{"sub": "Chandigarh", "obj": "Punjab"}
+{"sub": "Rajasthan", "obj": "Punjab"}
+{"sub": "Himachal Pradesh", "obj": "Punjab"}
+{"sub": "Haryana", "obj": "Punjab"}
+{"sub": "Mali", "obj": "Niger"}
+{"sub": "Libya", "obj": "Niger"}
+{"sub": "Algeria", "obj": "Niger"}
+{"sub": "Burkina Faso", "obj": "Niger"}
+{"sub": "Chad", "obj": "Niger"}
+{"sub": "Wetteraukreis", "obj": "Frankfurt"}
+{"sub": "Main-Kinzig-Kreis", "obj": "Frankfurt"}
+{"sub": "Main-Taunus-Kreis", "obj": "Frankfurt"}
+{"sub": "Hochtaunuskreis", "obj": "Frankfurt"}
+{"sub": "Andhra Pradesh", "obj": "Telangana"}
+{"sub": "Chhattisgarh", "obj": "Telangana"}
+{"sub": "Maharashtra", "obj": "Telangana"}
+{"sub": "Karnataka", "obj": "Telangana"}
+{"sub": "Campi Bisenzio", "obj": "Florence"}
+{"sub": "Impruneta", "obj": "Florence"}
+{"sub": "Scandicci", "obj": "Florence"}
+{"sub": "Fiesole", "obj": "Florence"}
+{"sub": "Kosovo", "obj": "Montenegro"}
+{"sub": "European Union", "obj": "Montenegro"}
+{"sub": "Croatia", "obj": "Montenegro"}
+{"sub": "Serbia", "obj": "Montenegro"}
+{"sub": "Sudan", "obj": "Chad"}
+{"sub": "Arab League", "obj": "Chad"}
+{"sub": "Central African Republic", "obj": "Chad"}
+{"sub": "Libya", "obj": "Chad"}
+{"sub": "Cercola", "obj": "Naples"}
+{"sub": "Pozzuoli", "obj": "Naples"}
+{"sub": "Melito di Napoli", "obj": "Naples"}
+{"sub": "Marano di Napoli", "obj": "Naples"}
+{"sub": "Chad", "obj": "Cameroon"}
+{"sub": "Nigeria", "obj": "Cameroon"}
+{"sub": "Central African Republic", "obj": "Cameroon"}
+{"sub": "Gabon", "obj": "Cameroon"}
+{"sub": "Alpes-Maritimes", "obj": "Piedmont"}
+{"sub": "Lombardy", "obj": "Piedmont"}
+{"sub": "Emilia-Romagna", "obj": "Piedmont"}
+{"sub": "Alpes-de-Haute-Provence", "obj": "Piedmont"}
+{"sub": "West Sussex", "obj": "Surrey"}
+{"sub": "Hampshire", "obj": "Surrey"}
+{"sub": "Kent", "obj": "Surrey"}
+{"sub": "Greater London", "obj": "Surrey"}
+{"sub": "Arab League", "obj": "Spain"}
+{"sub": "Morocco", "obj": "Spain"}
+{"sub": "Gibraltar", "obj": "Spain"}
+{"sub": "Couto Misto", "obj": "Spain"}
+{"sub": "Norfolk", "obj": "Cambridgeshire"}
+{"sub": "Suffolk", "obj": "Cambridgeshire"}
+{"sub": "Essex", "obj": "Cambridgeshire"}
+{"sub": "Bedfordshire", "obj": "Cambridgeshire"}
+{"sub": "Iowa", "obj": "Nebraska"}
+{"sub": "South Dakota", "obj": "Nebraska"}
+{"sub": "Missouri", "obj": "Nebraska"}
+{"sub": "Wyoming", "obj": "Nebraska"}
+{"sub": "Nebraska", "obj": "Iowa"}
+{"sub": "Wisconsin", "obj": "Iowa"}
+{"sub": "Missouri", "obj": "Iowa"}
+{"sub": "Minnesota", "obj": "Iowa"}
+{"sub": "Brazil", "obj": "Peru"}
+{"sub": "Ecuador", "obj": "Peru"}
+{"sub": "Bolivia", "obj": "Peru"}
+{"sub": "Chile", "obj": "Peru"}
+{"sub": "Alabama", "obj": "Mississippi"}
+{"sub": "Arkansas", "obj": "Mississippi"}
+{"sub": "Louisiana", "obj": "Mississippi"}
+{"sub": "Tennessee", "obj": "Mississippi"}
+{"sub": "Zelzate", "obj": "Ghent"}
+{"sub": "Lochristi", "obj": "Ghent"}
+{"sub": "Sint-Martens-Latem", "obj": "Ghent"}
+{"sub": "Evergem", "obj": "Ghent"}
+{"sub": "Bulgaria", "obj": "Romania"}
+{"sub": "Moldova", "obj": "Romania"}
+{"sub": "European Union", "obj": "Romania"}
+{"sub": "Hungary", "obj": "Romania"}
+{"sub": "Lithuania", "obj": "Belarus"}
+{"sub": "Ukraine", "obj": "Belarus"}
+{"sub": "European Union", "obj": "Belarus"}
+{"sub": "Latvia", "obj": "Belarus"}
+{"sub": "Berkshire", "obj": "Wiltshire"}
+{"sub": "Hampshire", "obj": "Wiltshire"}
+{"sub": "Gloucestershire", "obj": "Wiltshire"}
+{"sub": "Somerset", "obj": "Wiltshire"}
+{"sub": "Idaho", "obj": "Montana"}
+{"sub": "South Dakota", "obj": "Montana"}
+{"sub": "North Dakota", "obj": "Montana"}
+{"sub": "Alberta", "obj": "Montana"}
+{"sub": "Goa", "obj": "Karnataka"}
+{"sub": "Tamil Nadu", "obj": "Karnataka"}
+{"sub": "Andhra Pradesh", "obj": "Karnataka"}
+{"sub": "Maharashtra", "obj": "Karnataka"}
+{"sub": "Nottinghamshire", "obj": "Leicestershire"}
+{"sub": "Warwickshire", "obj": "Leicestershire"}
+{"sub": "Lincolnshire", "obj": "Leicestershire"}
+{"sub": "Derbyshire", "obj": "Leicestershire"}
+{"sub": "Newfoundland and Labrador", "obj": "Quebec"}
+{"sub": "Nunavut", "obj": "Quebec"}
+{"sub": "Maine", "obj": "Quebec"}
+{"sub": "New Hampshire", "obj": "Quebec"}
+{"sub": "Alboraia", "obj": "Valencia"}
+{"sub": "Dumaguete", "obj": "Valencia"}
+{"sub": "Paterna", "obj": "Valencia"}
+{"sub": "Mislata", "obj": "Valencia"}
+{"sub": "West Virginia", "obj": "Maryland"}
+{"sub": "Virginia", "obj": "Maryland"}
+{"sub": "Delaware", "obj": "Maryland"}
+{"sub": "Pennsylvania", "obj": "Maryland"}
+{"sub": "Illinois", "obj": "Indiana"}
+{"sub": "Kentucky", "obj": "Indiana"}
+{"sub": "Ohio", "obj": "Indiana"}
+{"sub": "Michigan", "obj": "Indiana"}
+{"sub": "Korneuburg District", "obj": "Vienna"}
+{"sub": "Purkersdorf", "obj": "Vienna"}
+{"sub": "Mauerbach", "obj": "Vienna"}
+{"sub": "Lower Austria", "obj": "Vienna"}
+{"sub": "Haryana", "obj": "Rajasthan"}
+{"sub": "Gujarat", "obj": "Rajasthan"}
+{"sub": "Punjab", "obj": "Rajasthan"}
+{"sub": "Madhya Pradesh", "obj": "Rajasthan"}
+{"sub": "Merseyside", "obj": "Cheshire"}
+{"sub": "Flintshire", "obj": "Cheshire"}
+{"sub": "Shropshire", "obj": "Cheshire"}
+{"sub": "Staffordshire", "obj": "Cheshire"}
+{"sub": "Israel", "obj": "Syria"}
+{"sub": "Turkey", "obj": "Syria"}
+{"sub": "Jordan", "obj": "Syria"}
+{"sub": "Lebanon", "obj": "Syria"}
+{"sub": "Azerbaijan", "obj": "Armenia"}
+{"sub": "Nakhchivan Autonomous Republic", "obj": "Armenia"}
+{"sub": "Iran", "obj": "Armenia"}
+{"sub": "Turkey", "obj": "Armenia"}
+{"sub": "South Korea", "obj": "Japan"}
+{"sub": "North Korea", "obj": "Japan"}
+{"sub": "Russia", "obj": "Japan"}
+{"sub": "Karnataka", "obj": "Maharashtra"}
+{"sub": "Goa", "obj": "Maharashtra"}
+{"sub": "Madhya Pradesh", "obj": "Maharashtra"}
+{"sub": "Singapore", "obj": "Indonesia"}
+{"sub": "Papua New Guinea", "obj": "Indonesia"}
+{"sub": "Malaysia", "obj": "Indonesia"}
+{"sub": "Berkshire", "obj": "Buckinghamshire"}
+{"sub": "Oxfordshire", "obj": "Buckinghamshire"}
+{"sub": "Northamptonshire", "obj": "Buckinghamshire"}
+{"sub": "Belarus", "obj": "Latvia"}
+{"sub": "Russia", "obj": "Latvia"}
+{"sub": "Lithuania", "obj": "Latvia"}
+{"sub": "Essex", "obj": "Kent"}
+{"sub": "Surrey", "obj": "Kent"}
+{"sub": "Greater London", "obj": "Kent"}
+{"sub": "Oregon", "obj": "Idaho"}
+{"sub": "Nevada", "obj": "Idaho"}
+{"sub": "Montana", "obj": "Idaho"}
+{"sub": "Delmenhorst", "obj": "Bremen"}
+{"sub": "Osterholz", "obj": "Bremen"}
+{"sub": "Wesermarsch", "obj": "Bremen"}
+{"sub": "Zambia", "obj": "Zimbabwe"}
+{"sub": "Botswana", "obj": "Zimbabwe"}
+{"sub": "South Africa", "obj": "Zimbabwe"}
+{"sub": "Arab League", "obj": "Ethiopia"}
+{"sub": "Somalia", "obj": "Ethiopia"}
+{"sub": "Djibouti", "obj": "Ethiopia"}
+{"sub": "Nazi Germany", "obj": "Belgium"}
+{"sub": "Netherlands", "obj": "Belgium"}
+{"sub": "Germany", "obj": "Belgium"}
+{"sub": "Colomars", "obj": "Nice"}
+{"sub": "Villefranche-sur-Mer", "obj": "Nice"}
+{"sub": "Falicon", "obj": "Nice"}
+{"sub": "Pest County", "obj": "Budapest"}
+{"sub": "Kistarcsa", "obj": "Budapest"}
+{"sub": "Budakeszi", "obj": "Budapest"}
+{"sub": "European Union", "obj": "Moldova"}
+{"sub": "Romania", "obj": "Moldova"}
+{"sub": "Transnistria", "obj": "Moldova"}
+{"sub": "Sabah", "obj": "Sarawak"}
+{"sub": "East Kalimantan", "obj": "Sarawak"}
+{"sub": "North Kalimantan", "obj": "Sarawak"}
+{"sub": "Grandate", "obj": "Como"}
+{"sub": "Montano Lucino", "obj": "Como"}
+{"sub": "Cernobbio", "obj": "Como"}
+{"sub": "Burundi", "obj": "Rwanda"}
+{"sub": "Democratic Republic of the Congo", "obj": "Rwanda"}
+{"sub": "Uganda", "obj": "Rwanda"}
+{"sub": "Vietnam", "obj": "Cambodia"}
+{"sub": "Thailand", "obj": "Cambodia"}
+{"sub": "Laos", "obj": "Cambodia"}
+{"sub": "Prilly", "obj": "Lausanne"}
+{"sub": "Renens", "obj": "Lausanne"}
+{"sub": "Pully", "obj": "Lausanne"}
+{"sub": "Leicestershire", "obj": "Derbyshire"}
+{"sub": "Nottinghamshire", "obj": "Derbyshire"}
+{"sub": "South Yorkshire", "obj": "Derbyshire"}
+{"sub": "South Africa", "obj": "Botswana"}
+{"sub": "Zambia", "obj": "Botswana"}
+{"sub": "Zimbabwe", "obj": "Botswana"}
+{"sub": "Saudi Arabia", "obj": "Oman"}
+{"sub": "United Arab Emirates", "obj": "Oman"}
+{"sub": "Yemen", "obj": "Oman"}
+{"sub": "Niger", "obj": "Nigeria"}
+{"sub": "Cameroon", "obj": "Nigeria"}
+{"sub": "Chad", "obj": "Nigeria"}
+{"sub": "Dorset", "obj": "Hampshire"}
+{"sub": "Wiltshire", "obj": "Hampshire"}
+{"sub": "West Sussex", "obj": "Hampshire"}
+{"sub": "Iowa", "obj": "Illinois"}
+{"sub": "Wisconsin", "obj": "Illinois"}
+{"sub": "Michigan", "obj": "Illinois"}
+{"sub": "Jordan", "obj": "Israel"}
+{"sub": "Lebanon", "obj": "Israel"}
+{"sub": "Arab League", "obj": "Israel"}
+{"sub": "Giovinazzo", "obj": "Bari"}
+{"sub": "Sanaag Region", "obj": "Bari"}
+{"sub": "Bitonto", "obj": "Bari"}
+{"sub": "Slovenia", "obj": "Italy"}
+{"sub": "Austria", "obj": "Italy"}
+{"sub": "France", "obj": "Italy"}
+{"sub": "Rhode Island", "obj": "Massachusetts"}
+{"sub": "New Hampshire", "obj": "Massachusetts"}
+{"sub": "Vermont", "obj": "Massachusetts"}
+{"sub": "Nevada", "obj": "California"}
+{"sub": "Baja California", "obj": "California"}
+{"sub": "Arizona", "obj": "California"}
+{"sub": "Vaughan", "obj": "Toronto"}
+{"sub": "Regional Municipality of Peel", "obj": "Toronto"}
+{"sub": "Mississauga", "obj": "Toronto"}
+{"sub": "Traversetolo", "obj": "Parma"}
+{"sub": "Langhirano", "obj": "Parma"}
+{"sub": "Montechiarugolo", "obj": "Parma"}
+{"sub": "Avola", "obj": "Syracuse"}
+{"sub": "Floridia", "obj": "Syracuse"}
+{"sub": "Priolo Gargallo", "obj": "Syracuse"}
+{"sub": "Coahuila", "obj": "Texas"}
+{"sub": "New Mexico", "obj": "Texas"}
+{"sub": "Oklahoma", "obj": "Texas"}
+{"sub": "Mexico", "obj": "Guatemala"}
+{"sub": "Honduras", "obj": "Guatemala"}
+{"sub": "El Salvador", "obj": "Guatemala"}
+{"sub": "Jesolo", "obj": "Venice"}
+{"sub": "Mogliano Veneto", "obj": "Venice"}
+{"sub": "Cavallino-Treporti", "obj": "Venice"}
+{"sub": "Bhutan", "obj": "India"}
+{"sub": "Nepal", "obj": "India"}
+{"sub": "Pakistan", "obj": "India"}
+{"sub": "Niger", "obj": "Algeria"}
+{"sub": "Libya", "obj": "Algeria"}
+{"sub": "Mauritania", "obj": "Algeria"}
+{"sub": "People's Republic of China", "obj": "Mongolia"}
+{"sub": "Chita Oblast", "obj": "Mongolia"}
+{"sub": "Russia", "obj": "Mongolia"}
+{"sub": "South Australia", "obj": "Queensland"}
+{"sub": "New South Wales", "obj": "Queensland"}
+{"sub": "Northern Territory", "obj": "Queensland"}
+{"sub": "Guinea-Bissau", "obj": "Guinea"}
+{"sub": "Ivory Coast", "obj": "Guinea"}
+{"sub": "Senegal", "obj": "Guinea"}
+{"sub": "Nevada", "obj": "Arizona"}
+{"sub": "Baja California", "obj": "Arizona"}
+{"sub": "New Mexico", "obj": "Arizona"}
+{"sub": "North Dakota", "obj": "Saskatchewan"}
+{"sub": "Montana", "obj": "Saskatchewan"}
+{"sub": "Northwest Territories", "obj": "Saskatchewan"}
+{"sub": "New Mexico", "obj": "Utah"}
+{"sub": "Arizona", "obj": "Utah"}
+{"sub": "Nevada", "obj": "Utah"}
+{"sub": "Pakistan", "obj": "Afghanistan"}
+{"sub": "Iran", "obj": "Afghanistan"}
+{"sub": "People's Republic of China", "obj": "Afghanistan"}
+{"sub": "Pasay", "obj": "Manila"}
+{"sub": "Makati", "obj": "Manila"}
+{"sub": "Mandaluyong", "obj": "Manila"}
+{"sub": "Malawi", "obj": "Tanzania"}
+{"sub": "Uganda", "obj": "Tanzania"}
+{"sub": "Mozambique", "obj": "Tanzania"}
+{"sub": "Ittigen", "obj": "Bern"}
+{"sub": "Bremgarten bei Bern", "obj": "Bern"}
+{"sub": "Muri bei Bern", "obj": "Bern"}
+{"sub": "Saxony", "obj": "Bavaria"}
+{"sub": "Upper Austria", "obj": "Bavaria"}
+{"sub": "Thuringia", "obj": "Bavaria"}
+{"sub": "Saudi Arabia", "obj": "Iraq"}
+{"sub": "Syria", "obj": "Iraq"}
+{"sub": "Iran", "obj": "Iraq"}
+{"sub": "Province of Canada", "obj": "Michigan"}
+{"sub": "Ohio", "obj": "Michigan"}
+{"sub": "Indiana", "obj": "Michigan"}
+{"sub": "Belize", "obj": "Mexico"}
+{"sub": "United States of America", "obj": "Mexico"}
+{"sub": "Guatemala", "obj": "Mexico"}
+{"sub": "Warwickshire", "obj": "Northamptonshire"}
+{"sub": "Rutland", "obj": "Northamptonshire"}
+{"sub": "Oxfordshire", "obj": "Northamptonshire"}
+{"sub": "People's Republic of China", "obj": "Kyrgyzstan"}
+{"sub": "Uzbekistan", "obj": "Kyrgyzstan"}
+{"sub": "Tajikistan", "obj": "Kyrgyzstan"}
+{"sub": "Saudi Arabia", "obj": "Jordan"}
+{"sub": "Iraq", "obj": "Jordan"}
+{"sub": "Israel", "obj": "Jordan"}
+{"sub": "Yugoslavia", "obj": "Greece"}
+{"sub": "North Macedonia", "obj": "Greece"}
+{"sub": "Bulgaria", "obj": "Greece"}
+{"sub": "Malaysia", "obj": "Thailand"}
+{"sub": "Democratic Kampuchea", "obj": "Thailand"}
+{"sub": "Laos", "obj": "Thailand"}
+{"sub": "Gaza Strip", "obj": "Egypt"}
+{"sub": "Bry land", "obj": "Egypt"}
+{"sub": "Israel", "obj": "Egypt"}
+{"sub": "Potsdam-Mittelmark District", "obj": "Berlin"}
+{"sub": "Stahnsdorf", "obj": "Berlin"}
+{"sub": "Oder-Spree District", "obj": "Berlin"}
+{"sub": "Missouri", "obj": "Tennessee"}
+{"sub": "North Carolina", "obj": "Tennessee"}
+{"sub": "Mississippi", "obj": "Tennessee"}
+{"sub": "Idaho", "obj": "Wyoming"}
+{"sub": "Colorado", "obj": "Wyoming"}
+{"sub": "Montana", "obj": "Wyoming"}
+{"sub": "Anif", "obj": "Salzburg"}
+{"sub": "Bavaria", "obj": "Salzburg"}
+{"sub": "Berchtesgadener Land", "obj": "Salzburg"}
+{"sub": "Tunisia", "obj": "Libya"}
+{"sub": "Niger", "obj": "Libya"}
+{"sub": "Egypt", "obj": "Libya"}
+{"sub": "Missouri", "obj": "Arkansas"}
+{"sub": "Louisiana", "obj": "Arkansas"}
+{"sub": "Texas", "obj": "Arkansas"}
+{"sub": "North Carolina", "obj": "Georgia"}
+{"sub": "Abkhazia", "obj": "Georgia"}
+{"sub": "South Carolina", "obj": "Georgia"}
+{"sub": "North Rhine-Westphalia", "obj": "Hesse"}
+{"sub": "Bavaria", "obj": "Hesse"}
+{"sub": "Thuringia", "obj": "Hesse"}
+{"sub": "Munich", "obj": "Munich"}
+{"sub": "Munich", "obj": "Munich"}
+{"sub": "Arkansas", "obj": "Louisiana"}
+{"sub": "Mississippi", "obj": "Louisiana"}
+{"sub": "Detroit", "obj": "Windsor"}
+{"sub": "Tecumseh", "obj": "Windsor"}
+{"sub": "Montenegro", "obj": "Croatia"}
+{"sub": "Slovenia", "obj": "Croatia"}
+{"sub": "Dominion of Newfoundland", "obj": "Canada"}
+{"sub": "United States of America", "obj": "Canada"}
+{"sub": "Bosco Gurin", "obj": "Campo"}
+{"sub": "Premia", "obj": "Campo"}
+{"sub": "Nebraska", "obj": "Colorado"}
+{"sub": "Kansas", "obj": "Colorado"}
+{"sub": "Clark", "obj": "Linden"}
+{"sub": "Rahway", "obj": "Linden"}
+{"sub": "Tibet Autonomous Region", "obj": "Sichuan"}
+{"sub": "Chongqing", "obj": "Sichuan"}
+{"sub": "European Union", "obj": "Denmark"}
+{"sub": "Sweden", "obj": "Denmark"}
+{"sub": "Cambridgeshire", "obj": "Hertfordshire"}
+{"sub": "Buckinghamshire", "obj": "Hertfordshire"}
+{"sub": "Eurasia", "obj": "Africa"}
+{"sub": "Asia", "obj": "Africa"}
+{"sub": "Togo", "obj": "Benin"}
+{"sub": "Niger", "obj": "Benin"}
+{"sub": "Guinea", "obj": "Liberia"}
+{"sub": "Ivory Coast", "obj": "Liberia"}
+{"sub": "Honduras", "obj": "Nicaragua"}
+{"sub": "Costa Rica", "obj": "Nicaragua"}
+{"sub": "Bolton", "obj": "Manchester"}
+{"sub": "Dorset", "obj": "Manchester"}
+{"sub": "Michigan", "obj": "Ohio"}
+{"sub": "Upper Canada", "obj": "Ohio"}
+{"sub": "Pino Torinese", "obj": "Turin"}
+{"sub": "Settimo Torinese", "obj": "Turin"}
+{"sub": "Gambia", "obj": "Senegal"}
+{"sub": "Arab League", "obj": "Senegal"}
+{"sub": "Zambia", "obj": "Namibia"}
+{"sub": "Angola", "obj": "Namibia"}
+{"sub": "Panama", "obj": "Colombia"}
+{"sub": "Peru", "obj": "Colombia"}
+{"sub": "Colorado", "obj": "Kansas"}
+{"sub": "Missouri", "obj": "Kansas"}
+{"sub": "Schleswig-Holstein", "obj": "Hamburg"}
+{"sub": "Lower Saxony", "obj": "Hamburg"}
+{"sub": "Bolivia", "obj": "Paraguay"}
+{"sub": "Brazil", "obj": "Paraguay"}
+{"sub": "Sant Just Desvern", "obj": "Barcelona"}
+{"sub": "El Prat de Llobregat", "obj": "Barcelona"}
+{"sub": "Australia", "obj": "Papua"}
+{"sub": "Papua New Guinea", "obj": "Papua"}
+{"sub": "Vechelde", "obj": "Brunswick"}
+{"sub": "Salzgitter", "obj": "Brunswick"}
+{"sub": "Gatineau", "obj": "Pontiac"}
+{"sub": "Aylmer", "obj": "Pontiac"}
+{"sub": "East Java", "obj": "Bali"}
+{"sub": "Bali Sea", "obj": "Bali"}
+{"sub": "Central Bedfordshire", "obj": "Luton"}
+{"sub": "Hemel Hempstead", "obj": "Luton"}
+{"sub": "Brazil", "obj": "Guyana"}
+{"sub": "Venezuela", "obj": "Guyana"}
+{"sub": "Herefordshire", "obj": "Worcestershire"}
+{"sub": "Warwickshire", "obj": "Worcestershire"}
+{"sub": "Haryana", "obj": "Delhi"}
+{"sub": "Uttar Pradesh", "obj": "Delhi"}
+{"sub": "Southampton County", "obj": "Franklin"}
+{"sub": "Hardyston Township", "obj": "Franklin"}
+{"sub": "Djibouti", "obj": "Somalia"}
+{"sub": "Kenya", "obj": "Somalia"}
+{"sub": "Rwanda", "obj": "Uganda"}
+{"sub": "Sudan", "obj": "Uganda"}
+{"sub": "Montenegro", "obj": "Kosovo"}
+{"sub": "North Macedonia", "obj": "Kosovo"}
+{"sub": "New Jersey", "obj": "Delaware"}
+{"sub": "Pennsylvania", "obj": "Delaware"}
+{"sub": "Leduc County", "obj": "Edmonton"}
+{"sub": "Nisku", "obj": "Edmonton"}
+{"sub": "Leicestershire", "obj": "Nottinghamshire"}
+{"sub": "Lincolnshire", "obj": "Nottinghamshire"}
+{"sub": "Chile", "obj": "Bolivia"}
+{"sub": "Argentina", "obj": "Bolivia"}
+{"sub": "Greater London", "obj": "Essex"}
+{"sub": "Suffolk", "obj": "Essex"}
+{"sub": "Shropshire", "obj": "Staffordshire"}
+{"sub": "Cheshire", "obj": "Staffordshire"}
+{"sub": "Greater Manchester", "obj": "Lancashire"}
+{"sub": "Cumbria", "obj": "Lancashire"}
+{"sub": "Maryland", "obj": "Virginia"}
+{"sub": "Washington, D.C.", "obj": "Virginia"}
+{"sub": "European Union", "obj": "Yugoslavia"}
+{"sub": "Bulgaria", "obj": "Yugoslavia"}
+{"sub": "Brunei", "obj": "Malaysia"}
+{"sub": "Indonesia", "obj": "Malaysia"}
+{"sub": "Somerset", "obj": "Gloucestershire"}
+{"sub": "Oxfordshire", "obj": "Gloucestershire"}
+{"sub": "Dos Hermanas", "obj": "Seville"}
+{"sub": "La Rinconada", "obj": "Seville"}
+{"sub": "Banten", "obj": "Jakarta"}
+{"sub": "West Java", "obj": "Jakarta"}
+{"sub": "Valencian Community", "obj": "Aragon"}
+{"sub": "Navarre", "obj": "Aragon"}
+{"sub": "Lower Canada", "obj": "Vermont"}
+{"sub": "Massachusetts", "obj": "Vermont"}
+{"sub": "British Columbia", "obj": "Alaska"}
+{"sub": "Chukotka Autonomous Okrug", "obj": "Alaska"}
+{"sub": "Iowa", "obj": "Wisconsin"}
+{"sub": "Michigan", "obj": "Wisconsin"}
+{"sub": "Florida", "obj": "Alabama"}
+{"sub": "Tennessee", "obj": "Alabama"}
+{"sub": "Rhein-Sieg District", "obj": "Cologne"}
+{"sub": "Rhein-Kreis Neuss", "obj": "Cologne"}
+{"sub": "Hebei", "obj": "Beijing"}
+{"sub": "Tianjin", "obj": "Beijing"}
+{"sub": "Papagou", "obj": "Athens"}
+{"sub": "Nea Filadelfeia", "obj": "Athens"}
+{"sub": "Germany", "obj": "Czechoslovakia"}
+{"sub": "German Democratic Republic", "obj": "Czechoslovakia"}
+{"sub": "Bunnik", "obj": "Utrecht"}
+{"sub": "IJsselstein", "obj": "Utrecht"}
+{"sub": "Iowa", "obj": "Minnesota"}
+{"sub": "Manitoba", "obj": "Minnesota"}
+{"sub": "Colombia", "obj": "Ecuador"}
+{"sub": "Peru", "obj": "Ecuador"}
+{"sub": "Manhattan", "obj": "Brooklyn"}
+{"sub": "Queens", "obj": "Brooklyn"}
+{"sub": "Tasmania", "obj": "Victoria"}
+{"sub": "New South Wales", "obj": "Victoria"}
+{"sub": "East China Sea", "obj": "Taiwan"}
+{"sub": "Japan", "obj": "Taiwan"}
+{"sub": "The Bronx", "obj": "Queens"}
+{"sub": "Brooklyn", "obj": "Queens"}
+{"sub": "Vaksdal", "obj": "Bergen"}
+{"sub": "Meland", "obj": "Bergen"}

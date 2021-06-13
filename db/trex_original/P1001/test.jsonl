@@ -1,0 +1,701 @@
+{"sub": "president of the French Republic", "obj": "France"}
+{"sub": "Prime Minister of Canada", "obj": "Canada"}
+{"sub": "Australian Labor Party", "obj": "Australia"}
+{"sub": "President of Mexico", "obj": "Mexico"}
+{"sub": "Senate of Australia", "obj": "Australia"}
+{"sub": "Governor of California", "obj": "California"}
+{"sub": "Supreme Court of Canada", "obj": "Canada"}
+{"sub": "Chancellor of Germany", "obj": "Germany"}
+{"sub": "Basic Law for the Federal Republic of Germany", "obj": "Germany"}
+{"sub": "President of Brazil", "obj": "Brazil"}
+{"sub": "Jatiya Sangshad", "obj": "Bangladesh"}
+{"sub": "Prime Minister of Israel", "obj": "Israel"}
+{"sub": "Prime Minister of Australia", "obj": "Australia"}
+{"sub": "Polish United Workers' Party", "obj": "Poland"}
+{"sub": "Parliament of Croatia", "obj": "Croatia"}
+{"sub": "Parliament of Canada", "obj": "Canada"}
+{"sub": "Government of Canada", "obj": "Canada"}
+{"sub": "Constitution Act, 1982", "obj": "Canada"}
+{"sub": "Canada Act 1982", "obj": "Canada"}
+{"sub": "Legislative Yuan", "obj": "Taiwan"}
+{"sub": "Constitution of Canada", "obj": "Canada"}
+{"sub": "Section Twenty-five of the Canadian Charter of Rights and Freedoms", "obj": "Canada"}
+{"sub": "Governor of Massachusetts", "obj": "Massachusetts"}
+{"sub": "Lok Sabha", "obj": "India"}
+{"sub": "Knesset", "obj": "Israel"}
+{"sub": "Parliament of Greenland", "obj": "Greenland"}
+{"sub": "Prime Minister of Italy", "obj": "Italy"}
+{"sub": "Governor General of Canada", "obj": "Canada"}
+{"sub": "Governor-General of Australia", "obj": "Australia"}
+{"sub": "Monarchy of Australia", "obj": "Australia"}
+{"sub": "Glasgow City Council", "obj": "Glasgow"}
+{"sub": "Declaration of the Establishment of the State of Israel", "obj": "Israel"}
+{"sub": "Taoiseach", "obj": "Ireland"}
+{"sub": "Iowa General Assembly", "obj": "Iowa"}
+{"sub": "Prime Minister of Japan", "obj": "Japan"}
+{"sub": "Governor of Texas", "obj": "Texas"}
+{"sub": "Manitoba Act, 1870", "obj": "Canada"}
+{"sub": "Yang di-Pertuan Agong", "obj": "Malaysia"}
+{"sub": "Constitution of Michigan", "obj": "Michigan"}
+{"sub": "Sejm of the Republic of Poland", "obj": "Poland"}
+{"sub": "President of Ireland", "obj": "Ireland"}
+{"sub": "Australian dollar", "obj": "Australia"}
+{"sub": "Oregon House of Representatives", "obj": "Oregon"}
+{"sub": "Oregon Legislative Assembly", "obj": "Oregon"}
+{"sub": "Vice President of Iraq", "obj": "Iraq"}
+{"sub": "Wyandotte Constitution", "obj": "Kansas"}
+{"sub": "Scottish Parliament", "obj": "Scotland"}
+{"sub": "National Assembly for Wales", "obj": "Wales"}
+{"sub": "Mayor of Chicago", "obj": "Chicago"}
+{"sub": "President of Pakistan", "obj": "Pakistan"}
+{"sub": "Chief Justice of Pakistan", "obj": "Pakistan"}
+{"sub": "Senate of the Philippines", "obj": "Philippines"}
+{"sub": "Government of Ireland", "obj": "Ireland"}
+{"sub": "Constitution of Florida", "obj": "Florida"}
+{"sub": "Belgian Senate", "obj": "Belgium"}
+{"sub": "President of Russia", "obj": "Russia"}
+{"sub": "Vermont Senate", "obj": "Vermont"}
+{"sub": "Vermont General Assembly", "obj": "Vermont"}
+{"sub": "President of the Philippines", "obj": "Philippines"}
+{"sub": "Rajya Sabha", "obj": "India"}
+{"sub": "aktiebolag", "obj": "Sweden"}
+{"sub": "Naamloze vennootschap", "obj": "Netherlands"}
+{"sub": "Premier of Queensland", "obj": "Queensland"}
+{"sub": "Premier of Quebec", "obj": "Quebec"}
+{"sub": "Althing", "obj": "Iceland"}
+{"sub": "Governor-General of the Philippines", "obj": "Philippines"}
+{"sub": "Storting", "obj": "Norway"}
+{"sub": "aksjeselskap", "obj": "Norway"}
+{"sub": "Lord Mayor of Dublin", "obj": "Dublin"}
+{"sub": "Welsh Government", "obj": "Wales"}
+{"sub": "Member of the National Assembly for Wales", "obj": "Wales"}
+{"sub": "Aktiengesellschaft", "obj": "Germany"}
+{"sub": "President of Afghanistan", "obj": "Afghanistan"}
+{"sub": "Prime Minister of Rhodesia", "obj": "Rhodesia"}
+{"sub": "First Minister of Wales", "obj": "Wales"}
+{"sub": "Parliament of Finland", "obj": "Finland"}
+{"sub": "Bloc pot", "obj": "Quebec"}
+{"sub": "National Assembly of Quebec", "obj": "Quebec"}
+{"sub": "Federal Chancellor of Austria", "obj": "Austria"}
+{"sub": "kabushiki gaisha", "obj": "Japan"}
+{"sub": "Minister President of Prussia", "obj": "Prussia"}
+{"sub": "Prime Minister of India", "obj": "India"}
+{"sub": "Legislative Assembly of Queensland", "obj": "Queensland"}
+{"sub": "Treasurer of Australia", "obj": "Australia"}
+{"sub": "monarch of Sweden", "obj": "Sweden"}
+{"sub": "President of Singapore", "obj": "Singapore"}
+{"sub": "Constitution of Syria", "obj": "Syria"}
+{"sub": "First Minister of Scotland", "obj": "Scotland"}
+{"sub": "Australian Security Intelligence Organisation", "obj": "Australia"}
+{"sub": "Parliament of Sweden", "obj": "Sweden"}
+{"sub": "Chief of General Staff", "obj": "Israel"}
+{"sub": "Oklahoma Senate", "obj": "Oklahoma"}
+{"sub": "Oregon State Senate", "obj": "Oregon"}
+{"sub": "Pittsburgh Police", "obj": "Pittsburgh"}
+{"sub": "President of Cuba", "obj": "Cuba"}
+{"sub": "Massachusetts Senate", "obj": "Massachusetts"}
+{"sub": "Governor of Tennessee", "obj": "Tennessee"}
+{"sub": "Chief Rabbinate of Israel", "obj": "Israel"}
+{"sub": "Lieutenant Governor of Massachusetts", "obj": "Massachusetts"}
+{"sub": "Deputy Prime Minister of Malaysia", "obj": "Malaysia"}
+{"sub": "Parks Canada", "obj": "Canada"}
+{"sub": "Michigan House of Representatives", "obj": "Michigan"}
+{"sub": "Florida Department of Law Enforcement", "obj": "Florida"}
+{"sub": "Tennessee Senate", "obj": "Tennessee"}
+{"sub": "Dublin City Council", "obj": "Dublin"}
+{"sub": "Utah House of Representatives", "obj": "Utah"}
+{"sub": "High Court", "obj": "Ireland"}
+{"sub": "Connecticut Senate", "obj": "Connecticut"}
+{"sub": "Vice-Chancellor of Germany", "obj": "Germany"}
+{"sub": "Premier of Ontario", "obj": "Ontario"}
+{"sub": "Legislative Assembly of Saskatchewan", "obj": "Saskatchewan"}
+{"sub": "Idaho Senate", "obj": "Idaho"}
+{"sub": "Minnesota Senate", "obj": "Minnesota"}
+{"sub": "Louisiana House of Representatives", "obj": "Louisiana"}
+{"sub": "Philadelphia City Council", "obj": "Philadelphia"}
+{"sub": "Kansas Senate", "obj": "Kansas"}
+{"sub": "Governor of Oklahoma", "obj": "Oklahoma"}
+{"sub": "Islamic Consultative Assembly", "obj": "Iran"}
+{"sub": "Constitution of Maryland", "obj": "Maryland"}
+{"sub": "Ohio Attorney General", "obj": "Ohio"}
+{"sub": "Federal Court of Canada", "obj": "Canada"}
+{"sub": "Australian Electoral Commission", "obj": "Australia"}
+{"sub": "Government of Russia", "obj": "Russia"}
+{"sub": "Vice President of India", "obj": "India"}
+{"sub": "Riigikogu", "obj": "Estonia"}
+{"sub": "Seimas", "obj": "Lithuania"}
+{"sub": "Attorney-General for Australia", "obj": "Australia"}
+{"sub": "Canada Health Act", "obj": "Canada"}
+{"sub": "Pennsylvania State Senate", "obj": "Pennsylvania"}
+{"sub": "Toronto City Council", "obj": "Toronto"}
+{"sub": "Lieutenant Governor of California", "obj": "California"}
+{"sub": "flag of Spain", "obj": "Spain"}
+{"sub": "Prime Minister of Iraq", "obj": "Iraq"}
+{"sub": "Counsel General for Wales", "obj": "Wales"}
+{"sub": "Louisiana State Senate", "obj": "Louisiana"}
+{"sub": "Wisconsin State Senate", "obj": "Wisconsin"}
+{"sub": "Constitution of Texas", "obj": "Texas"}
+{"sub": "Government of Australia", "obj": "Australia"}
+{"sub": "Legislative Assembly of Alberta", "obj": "Alberta"}
+{"sub": "Florida Senate", "obj": "Florida"}
+{"sub": "Samhain", "obj": "Scotland"}
+{"sub": "Singapore Democratic Party", "obj": "Singapore"}
+{"sub": "California State Assembly", "obj": "California"}
+{"sub": "Texas House of Representatives", "obj": "Texas"}
+{"sub": "People's Mujahedin of Iran", "obj": "Iran"}
+{"sub": "Kentucky Constitution", "obj": "Kentucky"}
+{"sub": "flag of France", "obj": "France"}
+{"sub": "Vice President of Brazil", "obj": "Brazil"}
+{"sub": "Maryland Senate", "obj": "Maryland"}
+{"sub": "President of Ukraine", "obj": "Ukraine"}
+{"sub": "Government of Tasmania", "obj": "Tasmania"}
+{"sub": "Chicago City Council", "obj": "Chicago"}
+{"sub": "Victorian Legislative Assembly", "obj": "Victoria"}
+{"sub": "Michigan Senate", "obj": "Michigan"}
+{"sub": "monarch of Norway", "obj": "Norway"}
+{"sub": "President of Tanzania", "obj": "Tanzania"}
+{"sub": "Pennsylvania General Assembly", "obj": "Pennsylvania"}
+{"sub": "Vice President of the Philippines", "obj": "Philippines"}
+{"sub": "Victorian Legislative Council", "obj": "Victoria"}
+{"sub": "Lord High Constable of Sweden", "obj": "Sweden"}
+{"sub": "Governor of Maryland", "obj": "Maryland"}
+{"sub": "Chief Justice of the Supreme Court of the Philippines", "obj": "Philippines"}
+{"sub": "Bristol City Council", "obj": "Bristol"}
+{"sub": "Lieutenant Governor of Texas", "obj": "Texas"}
+{"sub": "North American Industry Classification System", "obj": "Canada"}
+{"sub": "North American Industry Classification System", "obj": "Mexico"}
+{"sub": "Prime Minister of France", "obj": "France"}
+{"sub": "Canadian Human Rights Act", "obj": "Canada"}
+{"sub": "National Council of Switzerland", "obj": "Switzerland"}
+{"sub": "Ottawa City Council", "obj": "Ottawa"}
+{"sub": "California State Senate", "obj": "California"}
+{"sub": "Hawaii Senate", "obj": "Hawaii"}
+{"sub": "Illinois Senate", "obj": "Illinois"}
+{"sub": "Ohio House of Representatives", "obj": "Ohio"}
+{"sub": "Constitutional Court of Russia", "obj": "Russia"}
+{"sub": "Wakes week", "obj": "Scotland"}
+{"sub": "The Income-tax Act, 1961", "obj": "India"}
+{"sub": "Argentine Senate", "obj": "Argentina"}
+{"sub": "Missouri Senate", "obj": "Missouri"}
+{"sub": "Chamber of Deputies", "obj": "Argentina"}
+{"sub": "Mississippi Legislature", "obj": "Mississippi"}
+{"sub": "flag of Denmark", "obj": "Denmark"}
+{"sub": "Supreme Court Act", "obj": "Canada"}
+{"sub": "Commissioner of Yukon", "obj": "Yukon"}
+{"sub": "allmennaksjeselskap", "obj": "Norway"}
+{"sub": "President of Poland", "obj": "Poland"}
+{"sub": "Bundestag of Germany", "obj": "Germany"}
+{"sub": "flag of Ireland", "obj": "Ireland"}
+{"sub": "President of Austria", "obj": "Austria"}
+{"sub": "Copyright Act of Canada", "obj": "Canada"}
+{"sub": "Constitution Act, 1867", "obj": "Canada"}
+{"sub": "Section One of the Canadian Charter of Rights and Freedoms", "obj": "Canada"}
+{"sub": "Outer Space Treaty", "obj": "Moon"}
+{"sub": "President of the Senate of Nigeria", "obj": "Nigeria"}
+{"sub": "Deputy First Minister of Scotland", "obj": "Scotland"}
+{"sub": "Member of the Scottish Parliament", "obj": "Scotland"}
+{"sub": "President of the Swiss Confederation", "obj": "Switzerland"}
+{"sub": "Chief Justice of Canada", "obj": "Canada"}
+{"sub": "Government of Sweden", "obj": "Sweden"}
+{"sub": "Minnesota Attorney General", "obj": "Minnesota"}
+{"sub": "Prime Minister of Pakistan", "obj": "Pakistan"}
+{"sub": "Governor of Tasmania", "obj": "Tasmania"}
+{"sub": "President of Armenia", "obj": "Armenia"}
+{"sub": "Chicago Police Department", "obj": "Chicago"}
+{"sub": "president of Germany", "obj": "Germany"}
+{"sub": "Defence Minister of Denmark", "obj": "Denmark"}
+{"sub": "Lieutenant Governor of Ontario", "obj": "Ontario"}
+{"sub": "O'Brien dynasty", "obj": "Munster"}
+{"sub": "National Assembly", "obj": "Bulgaria"}
+{"sub": "Supreme Administrative Court of Finland", "obj": "Finland"}
+{"sub": "Illinois Attorney General", "obj": "Illinois"}
+{"sub": "Maharaja", "obj": "India"}
+{"sub": "Landtag of Bavaria", "obj": "Bavaria"}
+{"sub": "Ohio Senate", "obj": "Ohio"}
+{"sub": "Senate of Virginia", "obj": "Virginia"}
+{"sub": "Texas Senate", "obj": "Texas"}
+{"sub": "Virginia General Assembly", "obj": "Virginia"}
+{"sub": "Cabinet of Israel", "obj": "Israel"}
+{"sub": "Roman-Dutch law", "obj": "Netherlands"}
+{"sub": "Roman-Dutch law", "obj": "Namibia"}
+{"sub": "Roman-Dutch law", "obj": "Botswana"}
+{"sub": "Roman-Dutch law", "obj": "Zimbabwe"}
+{"sub": "Roman-Dutch law", "obj": "Guyana"}
+{"sub": "Roman-Dutch law", "obj": "Indonesia"}
+{"sub": "Arkansas Senate", "obj": "Arkansas"}
+{"sub": "Delaware Senate", "obj": "Delaware"}
+{"sub": "Alaska Senate", "obj": "Alaska"}
+{"sub": "Nevada Assembly", "obj": "Nevada"}
+{"sub": "Aberdeen City Council", "obj": "Aberdeen"}
+{"sub": "Mayor of Montreal", "obj": "Montreal"}
+{"sub": "Government of Macau", "obj": "Macau"}
+{"sub": "Colorado Senate", "obj": "Colorado"}
+{"sub": "Indian Act", "obj": "Canada"}
+{"sub": "Nottingham City Council", "obj": "Nottingham"}
+{"sub": "Massachusetts Attorney General", "obj": "Massachusetts"}
+{"sub": "Michigan Department of Transportation", "obj": "Michigan"}
+{"sub": "Parliament of Tasmania", "obj": "Tasmania"}
+{"sub": "Lieutenant Governor of Kentucky", "obj": "Kentucky"}
+{"sub": "Comptroller of Maryland", "obj": "Maryland"}
+{"sub": "Scottish Prison Service", "obj": "Scotland"}
+{"sub": "Federal Circuit Court of Australia", "obj": "Australia"}
+{"sub": "Boston City Council", "obj": "Boston"}
+{"sub": "Prime Minister of Belgium", "obj": "Belgium"}
+{"sub": "Associate Justice of the Supreme Court of the Philippines", "obj": "Philippines"}
+{"sub": "Colorado General Assembly", "obj": "Colorado"}
+{"sub": "association without lucrative purpose", "obj": "Belgium"}
+{"sub": "Prime Minister of Sweden", "obj": "Sweden"}
+{"sub": "Berlin Police", "obj": "Berlin"}
+{"sub": "Himno de Riego", "obj": "Spain"}
+{"sub": "Vice President of the Republic of China", "obj": "Taiwan"}
+{"sub": "Civil Marriage Act", "obj": "Canada"}
+{"sub": "Deputy Prime Minister of Canada", "obj": "Canada"}
+{"sub": "Pennsylvania House of Representatives", "obj": "Pennsylvania"}
+{"sub": "Deputy Prime Minister of Turkey", "obj": "Turkey"}
+{"sub": "Education Scotland", "obj": "Scotland"}
+{"sub": "official party status", "obj": "Canada"}
+{"sub": "Tasmanian Legislative Council", "obj": "Tasmania"}
+{"sub": "Minister of National Revenue", "obj": "Canada"}
+{"sub": "Constitution of Massachusetts", "obj": "Massachusetts"}
+{"sub": "Lieutenant Governor of Virginia", "obj": "Virginia"}
+{"sub": "Abgeordnetenhaus of Berlin", "obj": "Berlin"}
+{"sub": "Prime Minister of Thailand", "obj": "Thailand"}
+{"sub": "Prime Minister of Hungary", "obj": "Hungary"}
+{"sub": "French National Assembly", "obj": "France"}
+{"sub": "Safe Streets Act", "obj": "Ontario"}
+{"sub": "Ontario Superior Court of Justice", "obj": "Ontario"}
+{"sub": "President of Nicaragua", "obj": "Nicaragua"}
+{"sub": "Utah State Senate", "obj": "Utah"}
+{"sub": "Executive Order of the President of Russia", "obj": "Russia"}
+{"sub": "Montana Senate", "obj": "Montana"}
+{"sub": "Minister of External Affairs", "obj": "India"}
+{"sub": "flag of Switzerland", "obj": "Switzerland"}
+{"sub": "Lieutenant Governor of Louisiana", "obj": "Louisiana"}
+{"sub": "Prime Minister of Turkey", "obj": "Turkey"}
+{"sub": "Hamburg Parliament", "obj": "Hamburg"}
+{"sub": "Government of Queensland", "obj": "Queensland"}
+{"sub": "Kentucky Senate", "obj": "Kentucky"}
+{"sub": "National Security Guard", "obj": "India"}
+{"sub": "Kentucky House of Representatives", "obj": "Kentucky"}
+{"sub": "Hellenic Parliament", "obj": "Greece"}
+{"sub": "Solicitor-General for Ireland", "obj": "Ireland"}
+{"sub": "President of Kazakhstan", "obj": "Kazakhstan"}
+{"sub": "Reinfeldt Cabinet", "obj": "Sweden"}
+{"sub": "Texas Highway Patrol", "obj": "Texas"}
+{"sub": "Wyoming Senate", "obj": "Wyoming"}
+{"sub": "Prime Minister of Russia", "obj": "Russia"}
+{"sub": "Arizona House of Representatives", "obj": "Arizona"}
+{"sub": "Legislative Assembly of Ontario", "obj": "Ontario"}
+{"sub": "Iowa Senate", "obj": "Iowa"}
+{"sub": "Solicitor General for Scotland", "obj": "Scotland"}
+{"sub": "Prime Minister of Denmark", "obj": "Denmark"}
+{"sub": "flag of Singapore", "obj": "Singapore"}
+{"sub": "President of Greece", "obj": "Greece"}
+{"sub": "Senate", "obj": "France"}
+{"sub": "Speaker of the House of Representatives of the Philippines", "obj": "Philippines"}
+{"sub": "Prime Minister of Ukraine", "obj": "Ukraine"}
+{"sub": "Minister-President of Flanders", "obj": "Flanders"}
+{"sub": "President of the Executive Yuan", "obj": "Taiwan"}
+{"sub": "Vice-Chancellor of Austria", "obj": "Austria"}
+{"sub": "Mossos d'Esquadra", "obj": "Catalonia"}
+{"sub": "flag of Russia", "obj": "Russia"}
+{"sub": "Arkansas Attorney General", "obj": "Arkansas"}
+{"sub": "Constitution of Arkansas", "obj": "Arkansas"}
+{"sub": "President of Chile", "obj": "Chile"}
+{"sub": "flag of Canada", "obj": "Canada"}
+{"sub": "Lieutenant Governor of Alberta", "obj": "Alberta"}
+{"sub": "flag of Texas", "obj": "Texas"}
+{"sub": "Constitution of Alabama", "obj": "Alabama"}
+{"sub": "Alabama Senate", "obj": "Alabama"}
+{"sub": "Nebraska Legislature", "obj": "Nebraska"}
+{"sub": "National Native Title Tribunal", "obj": "Australia"}
+{"sub": "Attorney General of Alabama", "obj": "Alabama"}
+{"sub": "Cleveland City Council", "obj": "Cleveland"}
+{"sub": "Prime Minister of Spain", "obj": "Spain"}
+{"sub": "Victorian Civil and Administrative Tribunal", "obj": "Victoria"}
+{"sub": "Michigan Attorney General", "obj": "Michigan"}
+{"sub": "Companies' Creditors Arrangement Act", "obj": "Canada"}
+{"sub": "Secretariat of Social Development", "obj": "Mexico"}
+{"sub": "President of the Senate of the Philippines", "obj": "Philippines"}
+{"sub": "Wisconsin Supreme Court", "obj": "Wisconsin"}
+{"sub": "Senate of Poland", "obj": "Poland"}
+{"sub": "flag of Hawaii", "obj": "Hawaii"}
+{"sub": "Belarusian Orthodox Church", "obj": "Belarus"}
+{"sub": "Governor of Kentucky", "obj": "Kentucky"}
+{"sub": "Maryland House of Delegates", "obj": "Maryland"}
+{"sub": "Government of Victoria", "obj": "Victoria"}
+{"sub": "President of Romania", "obj": "Romania"}
+{"sub": "flag of the Netherlands", "obj": "Netherlands"}
+{"sub": "President of Italy", "obj": "Italy"}
+{"sub": "Oregon Attorney General", "obj": "Oregon"}
+{"sub": "Prime Minister of Malaysia", "obj": "Malaysia"}
+{"sub": "President of Egypt", "obj": "Egypt"}
+{"sub": "Atlanta Police Department", "obj": "Atlanta"}
+{"sub": "National Police Corps of Spain", "obj": "Spain"}
+{"sub": "Creu de Sant Jordi", "obj": "Catalonia"}
+{"sub": "Indonesian nationality law", "obj": "Indonesia"}
+{"sub": "Governor of Virginia", "obj": "Virginia"}
+{"sub": "War Measures Act", "obj": "Canada"}
+{"sub": "Constitution of Nevada", "obj": "Nevada"}
+{"sub": "Constitution of Montana", "obj": "Montana"}
+{"sub": "Japanese nationality law", "obj": "Japan"}
+{"sub": "President of Algeria", "obj": "Algeria"}
+{"sub": "Governing Mayor of Berlin", "obj": "Berlin"}
+{"sub": "Council of States of Switzerland", "obj": "Switzerland"}
+{"sub": "Australian Federal Police", "obj": "Australia"}
+{"sub": "flag of Jamaica", "obj": "Jamaica"}
+{"sub": "flag of Argentina", "obj": "Argentina"}
+{"sub": "etat", "obj": "Norway"}
+{"sub": "Constitution of California", "obj": "California"}
+{"sub": "Ephor", "obj": "Sparta"}
+{"sub": "President of Nigeria", "obj": "Nigeria"}
+{"sub": "Lipton", "obj": "Scotland"}
+{"sub": "Indiana Senate", "obj": "Indiana"}
+{"sub": "Louisiana State Legislature", "obj": "Louisiana"}
+{"sub": "Gayssot Act", "obj": "France"}
+{"sub": "Maryland General Assembly", "obj": "Maryland"}
+{"sub": "flag of Norway", "obj": "Norway"}
+{"sub": "Texas Attorney General", "obj": "Texas"}
+{"sub": "German Renewable Energy Act", "obj": "Germany"}
+{"sub": "Parliament of Navarre", "obj": "Navarre"}
+{"sub": "Utah State Legislature", "obj": "Utah"}
+{"sub": "Constitution of Indiana", "obj": "Indiana"}
+{"sub": "Christchurch City Council", "obj": "Christchurch"}
+{"sub": "Surname Law", "obj": "Turkey"}
+{"sub": "Governor of Michigan", "obj": "Michigan"}
+{"sub": "Constitution of Sweden", "obj": "Sweden"}
+{"sub": "Deputy Prime Minister of the Netherlands", "obj": "Netherlands"}
+{"sub": "Government of Serbia", "obj": "Serbia"}
+{"sub": "Connecticut General Assembly", "obj": "Connecticut"}
+{"sub": "Constitution of Arizona", "obj": "Arizona"}
+{"sub": "Missouri Attorney General", "obj": "Missouri"}
+{"sub": "Houston City Council", "obj": "Houston"}
+{"sub": "Ministry of Health and Social Affairs", "obj": "Sweden"}
+{"sub": "Crimes Act 1914", "obj": "Australia"}
+{"sub": "Heritage Railway Stations Protection Act", "obj": "Canada"}
+{"sub": "Edmonton City Council", "obj": "Edmonton"}
+{"sub": "Mississippi State Senate", "obj": "Mississippi"}
+{"sub": "Alaska Attorney General", "obj": "Alaska"}
+{"sub": "Pennsylvania Attorney General", "obj": "Pennsylvania"}
+{"sub": "Indiana Attorney General", "obj": "Indiana"}
+{"sub": "Allied Command Transformation", "obj": "NATO"}
+{"sub": "president of Tajikistan", "obj": "Tajikistan"}
+{"sub": "Speaker of the Pennsylvania House of Representatives", "obj": "Pennsylvania"}
+{"sub": "Kiev City Council", "obj": "Kiev"}
+{"sub": "Bankruptcy and Insolvency Act", "obj": "Canada"}
+{"sub": "list of Governors of Colorado", "obj": "Colorado"}
+{"sub": "Helsinki City Council", "obj": "Helsinki"}
+{"sub": "Attorney General of California", "obj": "California"}
+{"sub": "Congress of Deputies", "obj": "Spain"}
+{"sub": "emperor of Japan", "obj": "Japan"}
+{"sub": "Idaho Transportation Department", "obj": "Idaho"}
+{"sub": "Competition Act", "obj": "Canada"}
+{"sub": "Controlled Drugs and Substances Act", "obj": "Canada"}
+{"sub": "Gerousia", "obj": "Sparta"}
+{"sub": "Arizona Senate", "obj": "Arizona"}
+{"sub": "urban agglomeration in Qu\u00e9bec", "obj": "Quebec"}
+{"sub": "De Vlaamse Leeuw", "obj": "Flanders"}
+{"sub": "Chapter III Court", "obj": "Australia"}
+{"sub": "Lieutenant Governor of Pennsylvania", "obj": "Pennsylvania"}
+{"sub": "Sarpanch", "obj": "India"}
+{"sub": "President of Azerbaijan", "obj": "Azerbaijan"}
+{"sub": "Senate of Nigeria", "obj": "Nigeria"}
+{"sub": "Baltimore City Council", "obj": "Baltimore"}
+{"sub": "President of India", "obj": "India"}
+{"sub": "Assembly Commission", "obj": "Wales"}
+{"sub": "President of Estonia", "obj": "Estonia"}
+{"sub": "HADOPI law", "obj": "France"}
+{"sub": "Maharashtra Legislative Assembly", "obj": "Maharashtra"}
+{"sub": "Vice President of Nigeria", "obj": "Nigeria"}
+{"sub": "Constitution of Brazil", "obj": "Brazil"}
+{"sub": "region or constituency of the Scottish Parliament", "obj": "Scotland"}
+{"sub": "Saskatchewan Act", "obj": "Canada"}
+{"sub": "Derby City Council", "obj": "Derby"}
+{"sub": "Yukon Legislative Assembly", "obj": "Yukon"}
+{"sub": "flag of California", "obj": "California"}
+{"sub": "flag of Scotland", "obj": "Scotland"}
+{"sub": "Independent Administrative Institution", "obj": "Japan"}
+{"sub": "Tennessee Attorney General", "obj": "Tennessee"}
+{"sub": "Governor of Oregon", "obj": "Oregon"}
+{"sub": "flag of Lithuania", "obj": "Lithuania"}
+{"sub": "Riga City Council", "obj": "Riga"}
+{"sub": "Vidovdan", "obj": "Serbia"}
+{"sub": "Constitution of Louisiana", "obj": "Louisiana"}
+{"sub": "Canada Business Corporations Act", "obj": "Canada"}
+{"sub": "Marshal of the Sejm", "obj": "Poland"}
+{"sub": "limited liability company", "obj": "Serbia"}
+{"sub": "flag of Bulgaria", "obj": "Bulgaria"}
+{"sub": "Governor of Nebraska", "obj": "Nebraska"}
+{"sub": "Minneapolis Police Department", "obj": "Minneapolis"}
+{"sub": "Attorney General of Kentucky", "obj": "Kentucky"}
+{"sub": "Detroit City Council", "obj": "Detroit"}
+{"sub": "Legislative Council of Quebec", "obj": "Quebec"}
+{"sub": "President of Iraq", "obj": "Iraq"}
+{"sub": "flag of Turkey", "obj": "Turkey"}
+{"sub": "Nevada Senate", "obj": "Nevada"}
+{"sub": "flag of Malaysia", "obj": "Malaysia"}
+{"sub": "flag of Belarus", "obj": "Belarus"}
+{"sub": "Irish Trade Union Congress", "obj": "Ireland"}
+{"sub": "Ministry of Internal Affairs of Ukraine", "obj": "Ukraine"}
+{"sub": "Clarity Act", "obj": "Canada"}
+{"sub": "Gujarat Legislative Assembly", "obj": "Gujarat"}
+{"sub": "Provincial Court of Manitoba", "obj": "Manitoba"}
+{"sub": "flag of Cuba", "obj": "Cuba"}
+{"sub": "Seattle City Council", "obj": "Seattle"}
+{"sub": "Provincial Court of Saskatchewan", "obj": "Saskatchewan"}
+{"sub": "Cabinet of the Federal Republic of Germany", "obj": "Germany"}
+{"sub": "Ministry of Foreign Affairs of Poland", "obj": "Poland"}
+{"sub": "Kansas Attorney General", "obj": "Kansas"}
+{"sub": "Florida Attorney General", "obj": "Florida"}
+{"sub": "Agriculture and Agri-Food Canada", "obj": "Canada"}
+{"sub": "Gibraltar Parliament", "obj": "Gibraltar"}
+{"sub": "flag of Vietnam", "obj": "Vietnam"}
+{"sub": "flag of Bolivia", "obj": "Bolivia"}
+{"sub": "Alberta Act", "obj": "Canada"}
+{"sub": "Western Canada Concept", "obj": "Canada"}
+{"sub": "Hogmanay", "obj": "Scotland"}
+{"sub": "flag of India", "obj": "India"}
+{"sub": "Constitution of Alaska", "obj": "Alaska"}
+{"sub": "registered association", "obj": "Germany"}
+{"sub": "council of Paris", "obj": "Paris"}
+{"sub": "Government of Spain", "obj": "Spain"}
+{"sub": "Uganda Anti-Homosexuality Act, 2014", "obj": "Uganda"}
+{"sub": "Reference re Secession of Quebec", "obj": "Canada"}
+{"sub": "Mauritius Police Force", "obj": "Mauritius"}
+{"sub": "President of Turkey", "obj": "Turkey"}
+{"sub": "helseforetak", "obj": "Norway"}
+{"sub": "Federal Ministry of Education and Research", "obj": "Germany"}
+{"sub": "Solberg's Cabinet", "obj": "Norway"}
+{"sub": "President of Kenya", "obj": "Kenya"}
+{"sub": "Minister for Foreign Affairs", "obj": "Japan"}
+{"sub": "1905 French law on the Separation of the Churches and the State", "obj": "France"}
+{"sub": "Swiss Civil Code", "obj": "Switzerland"}
+{"sub": "bachelor's degree", "obj": "Canada"}
+{"sub": "Macanese pataca", "obj": "Macau"}
+{"sub": "Prime Minister of Bulgaria", "obj": "Bulgaria"}
+{"sub": "Minister for Foreign Affairs of Sweden", "obj": "Sweden"}
+{"sub": "National Council of the Slovak Republic", "obj": "Slovakia"}
+{"sub": "flag of Indiana", "obj": "Indiana"}
+{"sub": "Prime Minister of Bangladesh", "obj": "Bangladesh"}
+{"sub": "flag of Monaco", "obj": "Monaco"}
+{"sub": "mayor of Boston", "obj": "Boston"}
+{"sub": "Legislative Assembly of Macau", "obj": "Macau"}
+{"sub": "India\u2013Pakistan border", "obj": "India"}
+{"sub": "Defence Minister of Nigeria", "obj": "Nigeria"}
+{"sub": "prefect", "obj": "France"}
+{"sub": "Canada Marine Act", "obj": "Canada"}
+{"sub": "Canada Wildlife Act", "obj": "Canada"}
+{"sub": "Canadian Wildlife Service", "obj": "Canada"}
+{"sub": "flag of Somalia", "obj": "Somalia"}
+{"sub": "Canada Elections Act", "obj": "Canada"}
+{"sub": "Prime Minister of Fiji", "obj": "Fiji"}
+{"sub": "35-hour workweek", "obj": "France"}
+{"sub": "President of Argentina", "obj": "Argentina"}
+{"sub": "President of Israel", "obj": "Israel"}
+{"sub": "Ministry of Internal Affairs", "obj": "Russia"}
+{"sub": "President of Indonesia", "obj": "Indonesia"}
+{"sub": "Government of Moscow", "obj": "Moscow"}
+{"sub": "Moscow City Duma", "obj": "Moscow"}
+{"sub": "Ministry of Foreign Affairs of Japan", "obj": "Japan"}
+{"sub": "urban district", "obj": "Ireland"}
+{"sub": "President of the Republic of China", "obj": "Taiwan"}
+{"sub": "Assembly of the Republic of Kosovo", "obj": "Kosovo"}
+{"sub": "Edwards v Canada (Attorney General)", "obj": "Canada"}
+{"sub": "Section Fifteen of the Canadian Charter of Rights and Freedoms", "obj": "Canada"}
+{"sub": "Ministerium", "obj": "Germany"}
+{"sub": "Minneapolis City Council", "obj": "Minneapolis"}
+{"sub": "Parliament of the Republic of Moldova", "obj": "Moldova"}
+{"sub": "Nevada Legislature", "obj": "Nevada"}
+{"sub": "Connecticut Attorney General", "obj": "Connecticut"}
+{"sub": "President of Montenegro", "obj": "Montenegro"}
+{"sub": "liceo scientifico", "obj": "Italy"}
+{"sub": "Criminal Law Amendment Act, 1968-69", "obj": "Canada"}
+{"sub": "Transport Scotland", "obj": "Scotland"}
+{"sub": "Solicitor General of Canada", "obj": "Canada"}
+{"sub": "Tokyo Metropolitan Assembly", "obj": "Tokyo"}
+{"sub": "flag of Sweden", "obj": "Sweden"}
+{"sub": "Lieutenant Governor of Mississippi", "obj": "Mississippi"}
+{"sub": "Stoltenberg's First Cabinet", "obj": "Norway"}
+{"sub": "Landtag of Hesse", "obj": "Hesse"}
+{"sub": "Landeshauptmann", "obj": "Austria"}
+{"sub": "Deputy Prime Minister of Australia", "obj": "Australia"}
+{"sub": "Western Independence Party", "obj": "Canada"}
+{"sub": "Western Independence Party of Saskatchewan", "obj": "Saskatchewan"}
+{"sub": "Atlanta City Council", "obj": "Atlanta"}
+{"sub": "Vice-President of Kenya", "obj": "Kenya"}
+{"sub": "Wyoming Attorney General", "obj": "Wyoming"}
+{"sub": "Barangay Captain", "obj": "Philippines"}
+{"sub": "Chamber of Deputies of Italy", "obj": "Italy"}
+{"sub": "flag of Taiwan", "obj": "Taiwan"}
+{"sub": "Constable of Portugal", "obj": "Portugal"}
+{"sub": "Prime Minister of Slovenia", "obj": "Slovenia"}
+{"sub": "Michigan Supreme Court", "obj": "Michigan"}
+{"sub": "Nevada Attorney General", "obj": "Nevada"}
+{"sub": "Philippine Constabulary", "obj": "Philippines"}
+{"sub": "Finance Secretary of Pakistan", "obj": "Pakistan"}
+{"sub": "Bank Act", "obj": "Canada"}
+{"sub": "Els Segadors", "obj": "Catalonia"}
+{"sub": "National Assembly of Hungary", "obj": "Hungary"}
+{"sub": "Borgarting Court of Appeal", "obj": "Oslo"}
+{"sub": "flag of Australia", "obj": "Australia"}
+{"sub": "flag of Ukraine", "obj": "Ukraine"}
+{"sub": "Rajasthan Legislative Assembly", "obj": "Rajasthan"}
+{"sub": "President of Belarus", "obj": "Belarus"}
+{"sub": "flag of Haiti", "obj": "Haiti"}
+{"sub": "Sandre", "obj": "France"}
+{"sub": "President of Vietnam", "obj": "Vietnam"}
+{"sub": "Attorney General of Virginia", "obj": "Virginia"}
+{"sub": "President of Mongolia", "obj": "Mongolia"}
+{"sub": "National Congress of Honduras", "obj": "Honduras"}
+{"sub": "Security Council of Russia", "obj": "Russia"}
+{"sub": "Ministry of Interior of the Kingdom of Thailand", "obj": "Thailand"}
+{"sub": "Tasmanian House of Assembly", "obj": "Tasmania"}
+{"sub": "Tanzania Airports Authority", "obj": "Tanzania"}
+{"sub": "President of Syria", "obj": "Syria"}
+{"sub": "Surgeon General", "obj": "Canada"}
+{"sub": "Minister of National Defence", "obj": "Canada"}
+{"sub": "Beattie Ministry", "obj": "Queensland"}
+{"sub": "National Assembly", "obj": "Slovenia"}
+{"sub": "Goss Ministry", "obj": "Queensland"}
+{"sub": "Finance Minister of Denmark", "obj": "Denmark"}
+{"sub": "President of Kyrgyzstan", "obj": "Kyrgyzstan"}
+{"sub": "Social-Economic Council", "obj": "Netherlands"}
+{"sub": "Constitution of Hawaii", "obj": "Hawaii"}
+{"sub": "President of Honduras", "obj": "Honduras"}
+{"sub": "Cabinet of Afghanistan", "obj": "Afghanistan"}
+{"sub": "About-Picard law", "obj": "France"}
+{"sub": "Bavarian Senate", "obj": "Bavaria"}
+{"sub": "Falloux Laws", "obj": "France"}
+{"sub": "Prime Minister of Jamaica", "obj": "Jamaica"}
+{"sub": "Aragonese Corts", "obj": "Aragon"}
+{"sub": "Minister of International Trade", "obj": "Canada"}
+{"sub": "Court Martial Appeal Court of Canada", "obj": "Canada"}
+{"sub": "Ministry of education (France)", "obj": "France"}
+{"sub": "Delaware Constitution of 1792", "obj": "Delaware"}
+{"sub": "Hamburg Police", "obj": "Hamburg"}
+{"sub": "Mexican coat of arms", "obj": "Mexico"}
+{"sub": "Government of Hungary", "obj": "Hungary"}
+{"sub": "Oregon Geographic Names Board", "obj": "Oregon"}
+{"sub": "Prime Minister of Finland", "obj": "Finland"}
+{"sub": "Sexual Sterilization Act of Alberta", "obj": "Alberta"}
+{"sub": "Congress of Guatemala", "obj": "Guatemala"}
+{"sub": "Attorney General of Oklahoma", "obj": "Oklahoma"}
+{"sub": "Forgan Smith Ministry", "obj": "Queensland"}
+{"sub": "Landtag of Saxony", "obj": "Saxony"}
+{"sub": "Senate of Berlin", "obj": "Berlin"}
+{"sub": "Gair Ministry", "obj": "Queensland"}
+{"sub": "Secretar\u00eda de Inteligencia", "obj": "Argentina"}
+{"sub": "President of Moldova", "obj": "Moldova"}
+{"sub": "Nicklin Ministry", "obj": "Queensland"}
+{"sub": "Prime Minister of Moldova", "obj": "Moldova"}
+{"sub": "flag of Finland", "obj": "Finland"}
+{"sub": "Ontario Human Rights Code", "obj": "Ontario"}
+{"sub": "Tasmania Police", "obj": "Tasmania"}
+{"sub": "Kosovo Force", "obj": "Kosovo"}
+{"sub": "vice president of Indonesia", "obj": "Indonesia"}
+{"sub": "Assisted Human Reproduction Act", "obj": "Canada"}
+{"sub": "Premier of Tasmania", "obj": "Tasmania"}
+{"sub": "laurea", "obj": "Italy"}
+{"sub": "flag of Croatia", "obj": "Croatia"}
+{"sub": "President of Tunisia", "obj": "Tunisia"}
+{"sub": "Legislative Assembly of Manitoba", "obj": "Manitoba"}
+{"sub": "National Council of Austria", "obj": "Austria"}
+{"sub": "India\u2013Pakistan border", "obj": "Pakistan"}
+{"sub": "President of Finland", "obj": "Finland"}
+{"sub": "flag of Albania", "obj": "Albania"}
+{"sub": "Parliament of Catalonia", "obj": "Catalonia"}
+{"sub": "Oklahoma House of Representatives", "obj": "Oklahoma"}
+{"sub": "Afghan Ministry of Defense", "obj": "Afghanistan"}
+{"sub": "flag of Italy", "obj": "Italy"}
+{"sub": "Apella", "obj": "Sparta"}
+{"sub": "Governor of Hawaii", "obj": "Hawaii"}
+{"sub": "flag of Germany", "obj": "Germany"}
+{"sub": "Kerala Legislative Assembly", "obj": "Kerala"}
+{"sub": "Senate of Chile", "obj": "Chile"}
+{"sub": "President of Uzbekistan", "obj": "Uzbekistan"}
+{"sub": "States Reorganisation Act", "obj": "India"}
+{"sub": "flag of Libya", "obj": "Libya"}
+{"sub": "Section 51 of the Constitution of Australia", "obj": "Australia"}
+{"sub": "Victoria Police", "obj": "Victoria"}
+{"sub": "Ministry of Justice", "obj": "France"}
+{"sub": "Criminal Justice and Public Order Act 1994", "obj": "Scotland"}
+{"sub": "Canadian Multiculturalism Act", "obj": "Canada"}
+{"sub": "non-constituency Member of Parliament", "obj": "Singapore"}
+{"sub": "Alabama House of Representatives", "obj": "Alabama"}
+{"sub": "Governor of Victoria", "obj": "Victoria"}
+{"sub": "Chairman of the Senate of Pakistan", "obj": "Pakistan"}
+{"sub": "Federal Ministry for Economic Cooperation and Development", "obj": "Germany"}
+{"sub": "Prime Minister of Vietnam", "obj": "Vietnam"}
+{"sub": "President of Slovakia", "obj": "Slovakia"}
+{"sub": "Directorate-General for External Security", "obj": "France"}
+{"sub": "Solicitor-General of Australia", "obj": "Australia"}
+{"sub": "President of the Republic of Namibia", "obj": "Namibia"}
+{"sub": "President of Yemen", "obj": "Yemen"}
+{"sub": "Flag of the Philippines", "obj": "Philippines"}
+{"sub": "reference question", "obj": "Canada"}
+{"sub": ".de", "obj": "Germany"}
+{"sub": "President of Malawi", "obj": "Malawi"}
+{"sub": "Lord Mayor of Liverpool", "obj": "Liverpool"}
+{"sub": "President of Iran", "obj": "Iran"}
+{"sub": "Permanent account number", "obj": "India"}
+{"sub": "permanent residency in Canada", "obj": "Canada"}
+{"sub": "Telangana High Court", "obj": "Telangana"}
+{"sub": "President of Slovenia", "obj": "Slovenia"}
+{"sub": "Ceann Comhairle", "obj": "Ireland"}
+{"sub": "flag of Pakistan", "obj": "Pakistan"}
+{"sub": "Eisenbahn-Bau- und Betriebsordnung", "obj": "Germany"}
+{"sub": "Finnish Government", "obj": "Finland"}
+{"sub": "Virginia House of Delegates", "obj": "Virginia"}
+{"sub": "flydubai", "obj": "Dubai"}
+{"sub": "Democratic Constituent Congress", "obj": "Peru"}
+{"sub": "Federal Chancellery of Austria", "obj": "Austria"}
+{"sub": "Legislature of Manitoba", "obj": "Manitoba"}
+{"sub": "flag of Portugal", "obj": "Portugal"}
+{"sub": "unitary enterprise", "obj": "Russia"}
+{"sub": "Constitution of Uruguay", "obj": "Uruguay"}
+{"sub": "Ministry of Foreign Affairs of Ukraine", "obj": "Ukraine"}
+{"sub": "Council of Representatives of Iraq", "obj": "Iraq"}
+{"sub": "Attorney General of Maryland", "obj": "Maryland"}
+{"sub": "Prime Minister of Portugal", "obj": "Portugal"}
+{"sub": "Australian Signals Directorate", "obj": "Australia"}
+{"sub": "Justice Minister of Denmark", "obj": "Denmark"}
+{"sub": "Cathaoirleach", "obj": "Ireland"}
+{"sub": "Newfoundland Act", "obj": "Canada"}
+{"sub": "flag of Greece", "obj": "Greece"}
+{"sub": "Lieutenant Governor of Arkansas", "obj": "Arkansas"}
+{"sub": "Nebraska Attorney General", "obj": "Nebraska"}
+{"sub": "Taiwan (ROC) Resident Certificate", "obj": "Taiwan"}
+{"sub": "Prime Minister of Serbia", "obj": "Serbia"}
+{"sub": "Minister for Justice and Equality", "obj": "Ireland"}
+{"sub": "Western Block Party", "obj": "Canada"}
+{"sub": "flag of Maryland", "obj": "Maryland"}
+{"sub": "Reserved powers doctrine", "obj": "Australia"}
+{"sub": "Prime Minister of Egypt", "obj": "Egypt"}
+{"sub": "flag of Tibet", "obj": "Tibet"}
+{"sub": "Patriation Reference", "obj": "Canada"}
+{"sub": "Canadian Environmental Protection Act, 1999", "obj": "Canada"}
+{"sub": "Premier of Alberta", "obj": "Alberta"}
+{"sub": "coat of arms of Quebec", "obj": "Quebec"}
+{"sub": "Malayan dollar", "obj": "Brunei"}
+{"sub": "Section Seven of the Canadian Charter of Rights and Freedoms", "obj": "Canada"}
+{"sub": "Prime Minister of Greece", "obj": "Greece"}
+{"sub": "Section Sixteen of the Canadian Charter of Rights and Freedoms", "obj": "Canada"}
+{"sub": "Foreign Minister of Norway", "obj": "Norway"}
+{"sub": "Strafgesetzbuch", "obj": "Germany"}
+{"sub": "Minister for Foreign Affairs of Finland", "obj": "Finland"}
+{"sub": "flag of Mexico", "obj": "Mexico"}
+{"sub": "Federal Railway Authority", "obj": "Germany"}
+{"sub": "Heritage Lighthouse Protection Act", "obj": "Canada"}
+{"sub": "Canada Labour Code", "obj": "Canada"}
+{"sub": "Frisking", "obj": "France"}
+{"sub": "flag of Japan", "obj": "Japan"}
+{"sub": "Luftfahrt-Bundesamt", "obj": "Germany"}
+{"sub": "Speaker of the National Assembly of Pakistan", "obj": "Pakistan"}
+{"sub": "Canada Permanent Resident Card", "obj": "Canada"}
+{"sub": "Minister of Foreign Affairs", "obj": "Egypt"}
+{"sub": "House of Representatives", "obj": "Australia"}
+{"sub": "Armenian Secret Army for the Liberation of Armenia", "obj": "Europe"}
+{"sub": "Arizona Attorney General", "obj": "Arizona"}
+{"sub": "Section 51(xx) of the Constitution of Australia", "obj": "Australia"}
+{"sub": "DADVSI", "obj": "France"}
+{"sub": "Minister for Foreign Affairs", "obj": "Australia"}

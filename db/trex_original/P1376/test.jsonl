@@ -1,0 +1,234 @@
+{"sub": "Edmonton", "obj": "Alberta"}
+{"sub": "Ankara", "obj": "Turkey"}
+{"sub": "Amsterdam", "obj": "Netherlands"}
+{"sub": "Baku", "obj": "Azerbaijan"}
+{"sub": "Cairo", "obj": "Egypt"}
+{"sub": "Copenhagen", "obj": "Denmark"}
+{"sub": "Barcelona", "obj": "Catalonia"}
+{"sub": "Buenos Aires", "obj": "Argentina"}
+{"sub": "Munich", "obj": "Bavaria"}
+{"sub": "Florence", "obj": "Tuscany"}
+{"sub": "Rome", "obj": "Italy"}
+{"sub": "Algiers", "obj": "Algeria"}
+{"sub": "Tripoli", "obj": "Libya"}
+{"sub": "Antwerp", "obj": "Antwerp"}
+{"sub": "Canberra", "obj": "Australia"}
+{"sub": "Windhoek", "obj": "Namibia"}
+{"sub": "Heraklion", "obj": "Crete"}
+{"sub": "Baghdad", "obj": "Iraq"}
+{"sub": "Edinburgh", "obj": "Scotland"}
+{"sub": "Kabul", "obj": "Afghanistan"}
+{"sub": "Bonn", "obj": "Germany"}
+{"sub": "Berlin", "obj": "Germany"}
+{"sub": "Porto-Novo", "obj": "Benin"}
+{"sub": "Gaborone", "obj": "Botswana"}
+{"sub": "Paris", "obj": "France"}
+{"sub": "Mumbai", "obj": "Maharashtra"}
+{"sub": "Oslo", "obj": "Norway"}
+{"sub": "Jerusalem", "obj": "Judah"}
+{"sub": "Bishkek", "obj": "Kyrgyzstan"}
+{"sub": "Bucharest", "obj": "Romania"}
+{"sub": "Melbourne", "obj": "Victoria"}
+{"sub": "Beijing", "obj": "Taiwan"}
+{"sub": "Chongqing", "obj": "Taiwan"}
+{"sub": "Havana", "obj": "Cuba"}
+{"sub": "Denver", "obj": "Colorado"}
+{"sub": "Mogadishu", "obj": "Somalia"}
+{"sub": "Cardiff", "obj": "Wales"}
+{"sub": "Dublin", "obj": "Ireland"}
+{"sub": "Tunis", "obj": "Tunisia"}
+{"sub": "Rio de Janeiro", "obj": "Brazil"}
+{"sub": "Valletta", "obj": "Malta"}
+{"sub": "London", "obj": "England"}
+{"sub": "Rabat", "obj": "Morocco"}
+{"sub": "Riga", "obj": "Latvia"}
+{"sub": "Damascus", "obj": "Syria"}
+{"sub": "Dar es Salaam", "obj": "Tanzania"}
+{"sub": "London", "obj": "England"}
+{"sub": "Stockholm", "obj": "Sweden"}
+{"sub": "Helsinki", "obj": "Finland"}
+{"sub": "Prague", "obj": "Bohemia"}
+{"sub": "Indianapolis", "obj": "Indiana"}
+{"sub": "Madrid", "obj": "Spain"}
+{"sub": "Guatemala City", "obj": "Guatemala"}
+{"sub": "Warsaw", "obj": "Poland"}
+{"sub": "Guangzhou", "obj": "Guangdong"}
+{"sub": "Dresden", "obj": "Saxony"}
+{"sub": "Port-au-Prince", "obj": "Haiti"}
+{"sub": "Athens", "obj": "Greece"}
+{"sub": "Hobart", "obj": "Tasmania"}
+{"sub": "Tallinn", "obj": "Estonia"}
+{"sub": "Tokyo", "obj": "Japan"}
+{"sub": "Vienna", "obj": "Austria"}
+{"sub": "Ljubljana", "obj": "Slovenia"}
+{"sub": "Jerusalem", "obj": "Israel"}
+{"sub": "Jakarta", "obj": "Indonesia"}
+{"sub": "Turin", "obj": "Piedmont"}
+{"sub": "Nairobi", "obj": "Kenya"}
+{"sub": "Kuala Lumpur", "obj": "Malaysia"}
+{"sub": "Islamabad", "obj": "Pakistan"}
+{"sub": "Kathmandu", "obj": "Nepal"}
+{"sub": "Khartoum", "obj": "Sudan"}
+{"sub": "Vilnius", "obj": "Lithuania"}
+{"sub": "Beirut", "obj": "Lebanon"}
+{"sub": "Lisbon", "obj": "Portugal"}
+{"sub": "Luanda", "obj": "Angola"}
+{"sub": "Moscow", "obj": "Russia"}
+{"sub": "Winnipeg", "obj": "Manitoba"}
+{"sub": "Lilongwe", "obj": "Malawi"}
+{"sub": "Mexico City", "obj": "Mexico"}
+{"sub": "Maputo", "obj": "Mozambique"}
+{"sub": "Boston", "obj": "Massachusetts"}
+{"sub": "Ottawa", "obj": "Canada"}
+{"sub": "Montevideo", "obj": "Uruguay"}
+{"sub": "Manama", "obj": "Bahrain"}
+{"sub": "Bangalore", "obj": "Karnataka"}
+{"sub": "Budapest", "obj": "Hungary"}
+{"sub": "Tegucigalpa", "obj": "Honduras"}
+{"sub": "Gandhinagar", "obj": "Gujarat"}
+{"sub": "Podgorica", "obj": "Montenegro"}
+{"sub": "Toronto", "obj": "Ontario"}
+{"sub": "Panama City", "obj": "Panama"}
+{"sub": "Dakar", "obj": "Senegal"}
+{"sub": "Lagos", "obj": "Nigeria"}
+{"sub": "Bangkok", "obj": "Thailand"}
+{"sub": "Santiago", "obj": "Chile"}
+{"sub": "New Delhi", "obj": "India"}
+{"sub": "Belgrade", "obj": "Serbia"}
+{"sub": "Cagliari", "obj": "Sardinia"}
+{"sub": "Caracas", "obj": "Venezuela"}
+{"sub": "Nicosia", "obj": "Cyprus"}
+{"sub": "Kiev", "obj": "Ukraine"}
+{"sub": "Taipei", "obj": "Taiwan"}
+{"sub": "Abuja", "obj": "Nigeria"}
+{"sub": "Sofia", "obj": "Bulgaria"}
+{"sub": "Salt Lake City", "obj": "Utah"}
+{"sub": "Palermo", "obj": "Sicily"}
+{"sub": "Tehran", "obj": "Iran"}
+{"sub": "Quebec City", "obj": "Quebec"}
+{"sub": "Prague", "obj": "Czechoslovakia"}
+{"sub": "Dhaka", "obj": "Bangladesh"}
+{"sub": "Brisbane", "obj": "Queensland"}
+{"sub": "Harare", "obj": "Zimbabwe"}
+{"sub": "Aix-en-Provence", "obj": "Provence"}
+{"sub": "Monrovia", "obj": "Liberia"}
+{"sub": "Bern", "obj": "Switzerland"}
+{"sub": "Addis Ababa", "obj": "Ethiopia"}
+{"sub": "Zagreb", "obj": "Croatia"}
+{"sub": "Phnom Penh", "obj": "Cambodia"}
+{"sub": "Dushanbe", "obj": "Tajikistan"}
+{"sub": "Lansing", "obj": "Michigan"}
+{"sub": "Kuching", "obj": "Sarawak"}
+{"sub": "Manila", "obj": "Philippines"}
+{"sub": "Westminster", "obj": "England"}
+{"sub": "Quito", "obj": "Ecuador"}
+{"sub": "Leicester", "obj": "Leicestershire"}
+{"sub": "Kunming", "obj": "Yunnan"}
+{"sub": "Managua", "obj": "Nicaragua"}
+{"sub": "Warwick", "obj": "Warwickshire"}
+{"sub": "Sucre", "obj": "Bolivia"}
+{"sub": "Honolulu", "obj": "Hawaii"}
+{"sub": "Vientiane", "obj": "Laos"}
+{"sub": "Chengdu", "obj": "Sichuan"}
+{"sub": "Zaragoza", "obj": "Aragon"}
+{"sub": "Aylesbury", "obj": "Buckinghamshire"}
+{"sub": "Oxford", "obj": "Oxfordshire"}
+{"sub": "Chandigarh", "obj": "Haryana"}
+{"sub": "Niamey", "obj": "Niger"}
+{"sub": "Nanjing", "obj": "Taiwan"}
+{"sub": "Doha", "obj": "Qatar"}
+{"sub": "Harare", "obj": "Rhodesia"}
+{"sub": "Apia", "obj": "Samoa"}
+{"sub": "Bratislava", "obj": "Slovakia"}
+{"sub": "Kota Kinabalu", "obj": "Sabah"}
+{"sub": "Tashkent", "obj": "Uzbekistan"}
+{"sub": "Dodoma", "obj": "Tanzania"}
+{"sub": "Tirana", "obj": "Albania"}
+{"sub": "Kampala", "obj": "Uganda"}
+{"sub": "Hanoi", "obj": "Vietnam"}
+{"sub": "Aden", "obj": "Yemen"}
+{"sub": "Lusaka", "obj": "Zambia"}
+{"sub": "Yerevan", "obj": "Armenia"}
+{"sub": "Kuwait City", "obj": "Kuwait"}
+{"sub": "Port Louis", "obj": "Mauritius"}
+{"sub": "Accra", "obj": "Ghana"}
+{"sub": "Jaipur", "obj": "Rajasthan"}
+{"sub": "Minsk", "obj": "Belarus"}
+{"sub": "Des Moines", "obj": "Iowa"}
+{"sub": "Patna", "obj": "Bihar"}
+{"sub": "Baton Rouge", "obj": "Louisiana"}
+{"sub": "Yogyakarta", "obj": "Indonesia"}
+{"sub": "Nur-Sultan", "obj": "Kazakhstan"}
+{"sub": "Wiesbaden", "obj": "Hesse"}
+{"sub": "Dijon", "obj": "Burgundy"}
+{"sub": "Rouen", "obj": "Normandy"}
+{"sub": "Oklahoma City", "obj": "Oklahoma"}
+{"sub": "Ikeja", "obj": "Lagos"}
+{"sub": "Little Rock", "obj": "Arkansas"}
+{"sub": "N'Djamena", "obj": "Chad"}
+{"sub": "Amman", "obj": "Jordan"}
+{"sub": "Thiruvananthapuram", "obj": "Kerala"}
+{"sub": "Bridgetown", "obj": "Barbados"}
+{"sub": "Dubai", "obj": "Dubai"}
+{"sub": "Potsdam", "obj": "Brandenburg"}
+{"sub": "Antananarivo", "obj": "Madagascar"}
+{"sub": "Bamako", "obj": "Mali"}
+{"sub": "Annapolis", "obj": "Maryland"}
+{"sub": "Hyderabad", "obj": "Telangana"}
+{"sub": "Chandigarh", "obj": "Punjab"}
+{"sub": "Bourg-en-Bresse", "obj": "Ain"}
+{"sub": "Suva", "obj": "Fiji"}
+{"sub": "Harrisburg", "obj": "Pennsylvania"}
+{"sub": "Sana'a", "obj": "Yemen"}
+{"sub": "Panjim", "obj": "Goa"}
+{"sub": "Bandar Seri Begawan", "obj": "Brunei"}
+{"sub": "Cheyenne", "obj": "Wyoming"}
+{"sub": "Pamplona", "obj": "Navarre"}
+{"sub": "Libreville", "obj": "Gabon"}
+{"sub": "Pristina", "obj": "Kosovo"}
+{"sub": "Nuuk", "obj": "Greenland"}
+{"sub": "Cebu City", "obj": "Cebu"}
+{"sub": "Winchester", "obj": "England"}
+{"sub": "Belgrade", "obj": "Yugoslavia"}
+{"sub": "Hartford", "obj": "Connecticut"}
+{"sub": "Lima", "obj": "Peru"}
+{"sub": "Conakry", "obj": "Guinea"}
+{"sub": "Los Teques", "obj": "Miranda"}
+{"sub": "Juneau", "obj": "Alaska"}
+{"sub": "Belmopan", "obj": "Belize"}
+{"sub": "Gulshan Town", "obj": "Karachi"}
+{"sub": "Huacho", "obj": "Lima"}
+{"sub": "Sacramento", "obj": "California"}
+{"sub": "City of London", "obj": "England"}
+{"sub": "Kigali", "obj": "Rwanda"}
+{"sub": "Brussels", "obj": "Belgium"}
+{"sub": "Thimphu", "obj": "Bhutan"}
+{"sub": "Munich", "obj": "Munich"}
+{"sub": "Bukittinggi", "obj": "Indonesia"}
+{"sub": "Kabul", "obj": "Kabul"}
+{"sub": "Nauplion", "obj": "Greece"}
+{"sub": "Hinche", "obj": "Centre"}
+{"sub": "Alba Iulia", "obj": "Alba"}
+{"sub": "Boise", "obj": "Idaho"}
+{"sub": "Buea", "obj": "Southwest"}
+{"sub": "Nashville", "obj": "Tennessee"}
+{"sub": "Arlon", "obj": "Luxembourg"}
+{"sub": "Salzburg", "obj": "Salzburg"}
+{"sub": "Jayapura", "obj": "Papua"}
+{"sub": "Austin", "obj": "Texas"}
+{"sub": "Saint Paul", "obj": "Minnesota"}
+{"sub": "Muscat", "obj": "Oman"}
+{"sub": "Bertoua", "obj": "East"}
+{"sub": "Bafoussam", "obj": "West"}
+{"sub": "Tallahassee", "obj": "Florida"}
+{"sub": "Tbilisi", "obj": "Georgia"}
+{"sub": "Vergina", "obj": "Macedonia"}
+{"sub": "Brussels", "obj": "Flanders"}
+{"sub": "Zomba, Malawi", "obj": "Malawi"}
+{"sub": "Bentiu", "obj": "Unity"}
+{"sub": "Hebron", "obj": "Judah"}
+{"sub": "Lille", "obj": "Nord"}
+{"sub": "Topeka", "obj": "Kansas"}
+{"sub": "Rumbek", "obj": "Lakes"}
+{"sub": "Bosaso", "obj": "Bari"}
+{"sub": "Santiago de Compostela", "obj": "Galicia"}

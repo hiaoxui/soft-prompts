@@ -1,0 +1,46 @@
+trainer:
+  device: &device cuda
+  random_seed: 42
+  batch_size_no_grad: 64
+  batch_size_grad: 32
+  max_epoch: 16
+  weight_only_epoch: 0
+  fix_weights: false
+  patience: 4
+
+  leave_out: false
+  force_single_token: true
+  shuffle: true
+  show_top_patterns: 0
+  training_target:
+    - conditional
+    # - generate
+  accumulate_gradient: 1
+  randomize_prompt: false
+  frequent: false
+  smoothing: 0.0
+
+  max_layer: 24
+  penalty: [0.0, 0.0, 0.0, 0.0, 0.0]
+  log_path: 'logs/trex'
+
+  vocab_file: &vocab_file ~
+  conditional_prompt: false
+
+db:
+  path: db/trex_extend
+  single_lexicon: true
+  relation_type_filter: &filter
+  vocab_file: *vocab_file
+
+template:
+  relation_type_filter: *filter
+  path: prompts/trex_mine
+  min_length: -1
+  max_length: -1
+  max_num: -1
+
+lm:
+  model_type: 'bert'
+  param_name: 'bert-large-cased'
+  device: *device

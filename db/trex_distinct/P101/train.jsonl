@@ -1,0 +1,558 @@
+{"sub": "Robert A. Millikan", "obj": "physics"}
+{"sub": "Nicholas Metropolis", "obj": "physics"}
+{"sub": "Paul Langevin", "obj": "physics"}
+{"sub": "Henry Cavendish", "obj": "physics"}
+{"sub": "Hermann von Helmholtz", "obj": "physics"}
+{"sub": "Christoph Gerber", "obj": "physics"}
+{"sub": "August Kundt", "obj": "physics"}
+{"sub": "John Preskill", "obj": "physics"}
+{"sub": "Walther Meissner", "obj": "physics"}
+{"sub": "Felix Bloch", "obj": "physics"}
+{"sub": "Anton Zeilinger", "obj": "physics"}
+{"sub": "Dimitri Mendeleyev", "obj": "physics"}
+{"sub": "John Cockcroft", "obj": "physics"}
+{"sub": "Edoardo Amaldi", "obj": "physics"}
+{"sub": "John Henry Poynting", "obj": "physics"}
+{"sub": "Ilya Prigogine", "obj": "physics"}
+{"sub": "Uspekhi Fizicheskikh Nauk", "obj": "physics"}
+{"sub": "Wilhelm Wien", "obj": "physics"}
+{"sub": "Sean M. Carroll", "obj": "physics"}
+{"sub": "Francis Bitter", "obj": "physics"}
+{"sub": "James Franck", "obj": "physics"}
+{"sub": "physical system", "obj": "physics"}
+{"sub": "John Archibald Wheeler", "obj": "physics"}
+{"sub": "European Physical Journal", "obj": "physics"}
+{"sub": "Clarence Zener", "obj": "physics"}
+{"sub": "Ernest Lawrence", "obj": "physics"}
+{"sub": "Irving Langmuir Award", "obj": "physics"}
+{"sub": "Vilhelm Bjerknes", "obj": "physics"}
+{"sub": "Henri Becquerel", "obj": "physics"}
+{"sub": "Sin-Itiro Tomonaga", "obj": "physics"}
+{"sub": "Willis Lamb", "obj": "physics"}
+{"sub": "Edward Condon", "obj": "physics"}
+{"sub": "Leonhard Euler", "obj": "physics"}
+{"sub": "Harrie Massey", "obj": "physics"}
+{"sub": "Roger Penrose", "obj": "physics"}
+{"sub": "Steven Weinberg", "obj": "physics"}
+{"sub": "Joseph von Fraunhofer", "obj": "physics"}
+{"sub": "Edward Teller", "obj": "physics"}
+{"sub": "Hans Bethe", "obj": "physics"}
+{"sub": "Hantaro Nagaoka", "obj": "physics"}
+{"sub": "Percy Williams Bridgman", "obj": "physics"}
+{"sub": "George Volkoff", "obj": "physics"}
+{"sub": "James Clerk Maxwell", "obj": "physics"}
+{"sub": "Abram Ioffe", "obj": "physics"}
+{"sub": "Mildred Dresselhaus", "obj": "physics"}
+{"sub": "Pierre Curie", "obj": "physics"}
+{"sub": "Edward Victor Appleton", "obj": "physics"}
+{"sub": "Galileo Galilei", "obj": "physics"}
+{"sub": "Stuart Parkin", "obj": "physics"}
+{"sub": "Marcos Moshinsky", "obj": "physics"}
+{"sub": "Johann Christian Polycarp Erxleben", "obj": "physics"}
+{"sub": "Michael Faraday", "obj": "physics"}
+{"sub": "Sergey Chaplygin", "obj": "physics"}
+{"sub": "Lee Alvin DuBridge", "obj": "physics"}
+{"sub": "Philipp Lenard", "obj": "physics"}
+{"sub": "Johann Heinrich Lambert", "obj": "physics"}
+{"sub": "Enrico Fermi", "obj": "physics"}
+{"sub": "David Bohm", "obj": "physics"}
+{"sub": "Michio Kaku", "obj": "physics"}
+{"sub": "John Dalton", "obj": "physics"}
+{"sub": "Christiaan Huygens", "obj": "physics"}
+{"sub": "Daniel Bernoulli", "obj": "physics"}
+{"sub": "Isaac Newton", "obj": "physics"}
+{"sub": "Ernest Rutherford", "obj": "physics"}
+{"sub": "Gustav Kirchhoff", "obj": "physics"}
+{"sub": "Fritjof Capra", "obj": "physics"}
+{"sub": "Frank Wilczek", "obj": "physics"}
+{"sub": "Pyotr Lebedev", "obj": "physics"}
+{"sub": "Macedonio Melloni", "obj": "physics"}
+{"sub": "Kip S. Thorne", "obj": "physics"}
+{"sub": "Julian Schwinger", "obj": "physics"}
+{"sub": "Homi Jehangir Bhabha", "obj": "physics"}
+{"sub": "European Physical Society", "obj": "physics"}
+{"sub": "Vitaly Ginzburg", "obj": "physics"}
+{"sub": "Eugene Wigner", "obj": "physics"}
+{"sub": "Nathaniel Bowditch", "obj": "mathematics"}
+{"sub": "James Ivory", "obj": "mathematics"}
+{"sub": "Stephen Wolfram", "obj": "mathematics"}
+{"sub": "Georg Mohr", "obj": "mathematics"}
+{"sub": "Anita Borg", "obj": "mathematics"}
+{"sub": "John Vincent Atanasoff", "obj": "mathematics"}
+{"sub": "Jean Le Rond d'Alembert", "obj": "mathematics"}
+{"sub": "William Rowan Hamilton", "obj": "mathematics"}
+{"sub": "Christiaan Huygens", "obj": "mathematics"}
+{"sub": "Isaac Newton", "obj": "mathematics"}
+{"sub": "Herbert Robbins", "obj": "mathematics"}
+{"sub": "Galileo Galilei", "obj": "mathematics"}
+{"sub": "William Oughtred", "obj": "mathematics"}
+{"sub": "Arthur Moritz Schoenflies", "obj": "mathematics"}
+{"sub": "Wilhelm Ackermann", "obj": "mathematics"}
+{"sub": "Mstislav Keldysh", "obj": "mathematics"}
+{"sub": "George Bernard Dantzig", "obj": "mathematics"}
+{"sub": "Herman Auerbach", "obj": "mathematics"}
+{"sub": "Lipman Bers", "obj": "mathematics"}
+{"sub": "Edinburgh Mathematical Society", "obj": "mathematics"}
+{"sub": "Mathias Lerch", "obj": "mathematics"}
+{"sub": "Nicolaus Copernicus", "obj": "mathematics"}
+{"sub": "Isaac Barrow", "obj": "mathematics"}
+{"sub": "Polymath project", "obj": "mathematics"}
+{"sub": "Friedrich Bessel", "obj": "mathematics"}
+{"sub": "Mathematical folklore", "obj": "mathematics"}
+{"sub": "Hertha Ayrton", "obj": "mathematics"}
+{"sub": "John Napier", "obj": "mathematics"}
+{"sub": "Hjalmar Mellin", "obj": "mathematics"}
+{"sub": "Courant Institute of Mathematical Sciences", "obj": "mathematics"}
+{"sub": "Arnaud Denjoy", "obj": "mathematics"}
+{"sub": "ICTP Ramanujan Prize", "obj": "mathematics"}
+{"sub": "Bonaventura Cavalieri", "obj": "mathematics"}
+{"sub": "Nicolas Chuquet", "obj": "mathematics"}
+{"sub": "Alan Turing", "obj": "mathematics"}
+{"sub": "Nikolai Bogolyubov", "obj": "mathematics"}
+{"sub": "Horace Lamb", "obj": "mathematics"}
+{"sub": "SASTRA Ramanujan Prize", "obj": "mathematics"}
+{"sub": "Marian Rejewski", "obj": "mathematics"}
+{"sub": "Geometry Festival", "obj": "mathematics"}
+{"sub": "Marshall Harvey Stone", "obj": "mathematics"}
+{"sub": "Australian Mathematical Society", "obj": "mathematics"}
+{"sub": "Eric Harold Neville", "obj": "mathematics"}
+{"sub": "Luca Pacioli", "obj": "mathematics"}
+{"sub": "John Wallis", "obj": "mathematics"}
+{"sub": "Antoine Augustin Cournot", "obj": "mathematics"}
+{"sub": "Herbert A. Hauptman", "obj": "mathematics"}
+{"sub": "Giacomo F. Maraldi", "obj": "mathematics"}
+{"sub": "Laurent Lafforgue", "obj": "mathematics"}
+{"sub": "Otto E. Neugebauer", "obj": "mathematics"}
+{"sub": "Johannes de Sacrobosco", "obj": "mathematics"}
+{"sub": "Karl Menger", "obj": "mathematics"}
+{"sub": "Charles Babbage", "obj": "mathematics"}
+{"sub": "Laurent Schwartz", "obj": "mathematics"}
+{"sub": "Georges Reeb", "obj": "mathematics"}
+{"sub": "Francesco Maurolico", "obj": "mathematics"}
+{"sub": "Stefan Banach", "obj": "mathematics"}
+{"sub": "Adolphe Quetelet", "obj": "mathematics"}
+{"sub": "Hermann Schwarz", "obj": "mathematics"}
+{"sub": "Mikio Sato", "obj": "mathematics"}
+{"sub": "Calyampudi Radhakrishna Rao", "obj": "mathematics"}
+{"sub": "Regiomontanus", "obj": "mathematics"}
+{"sub": "Gerolamo Cardano", "obj": "mathematics"}
+{"sub": "Friedrich Hirzebruch", "obj": "mathematics"}
+{"sub": "Willebrord Snellius", "obj": "mathematics"}
+{"sub": "Aleksey Krylov", "obj": "mathematics"}
+{"sub": "Ulisse Dini", "obj": "mathematics"}
+{"sub": "Norbert Wiener", "obj": "mathematics"}
+{"sub": "Hypatia", "obj": "mathematics"}
+{"sub": "Bernd Sturmfels", "obj": "mathematics"}
+{"sub": "Sofia Kovalevskaya", "obj": "mathematics"}
+{"sub": "Brahmagupta", "obj": "mathematics"}
+{"sub": "Al-Kindi", "obj": "mathematics"}
+{"sub": "Lev Shcherba", "obj": "linguistics"}
+{"sub": "Vilhelm Thomsen", "obj": "linguistics"}
+{"sub": "Julius Pokorny", "obj": "linguistics"}
+{"sub": "Edward Sapir", "obj": "linguistics"}
+{"sub": "Tanya Reinhart", "obj": "linguistics"}
+{"sub": "Jonas Jablonskis", "obj": "linguistics"}
+{"sub": "Georgios Babiniotis", "obj": "linguistics"}
+{"sub": "Louis Lucien Bonaparte", "obj": "linguistics"}
+{"sub": "Peter von Uslar", "obj": "linguistics"}
+{"sub": "Leonard Bloomfield", "obj": "linguistics"}
+{"sub": "Samuel Linde", "obj": "linguistics"}
+{"sub": "Hrachia Adjarian", "obj": "linguistics"}
+{"sub": "Jan Baudouin de Courtenay", "obj": "linguistics"}
+{"sub": "Bernard Comrie", "obj": "linguistics"}
+{"sub": "John Chadwick", "obj": "linguistics"}
+{"sub": "Paul Ariste", "obj": "linguistics"}
+{"sub": "Benjamin Lee Whorf", "obj": "linguistics"}
+{"sub": "Johanna Nichols", "obj": "linguistics"}
+{"sub": "Martin Haspelmath", "obj": "linguistics"}
+{"sub": "Mesrop Mashtots", "obj": "linguistics"}
+{"sub": "Charles F. Hockett", "obj": "linguistics"}
+{"sub": "Natalia Shvedova", "obj": "linguistics"}
+{"sub": "Kees Versteegh", "obj": "linguistics"}
+{"sub": "Charles Kay Ogden", "obj": "linguistics"}
+{"sub": "Jens Andreas Friis", "obj": "linguistics"}
+{"sub": "Heymann Steinthal", "obj": "linguistics"}
+{"sub": "Leo Wiener", "obj": "linguistics"}
+{"sub": "Arnold Chikobava", "obj": "linguistics"}
+{"sub": "Yefim Karskiy", "obj": "linguistics"}
+{"sub": "Jernej Kopitar", "obj": "linguistics"}
+{"sub": "Robert Caldwell", "obj": "linguistics"}
+{"sub": "Roman Jakobson", "obj": "linguistics"}
+{"sub": "Lazarus Geiger", "obj": "linguistics"}
+{"sub": "grammatical category", "obj": "linguistics"}
+{"sub": "George Kingsley Zipf", "obj": "linguistics"}
+{"sub": "Sapir-Whorf hypothesis", "obj": "linguistics"}
+{"sub": "Viktor Zhirmunsky", "obj": "linguistics"}
+{"sub": "Ahmad Kasravi", "obj": "linguistics"}
+{"sub": "Ali-Akbar Dehkhoda", "obj": "linguistics"}
+{"sub": "Tamaz Gamkrelidze", "obj": "linguistics"}
+{"sub": "Zhou Youguang", "obj": "linguistics"}
+{"sub": "Akaki Shanidze", "obj": "linguistics"}
+{"sub": "Marston Morse", "obj": "topology"}
+{"sub": "Max Dehn", "obj": "topology"}
+{"sub": "Wolfgang Haken", "obj": "topology"}
+{"sub": "Robert Lee Moore", "obj": "topology"}
+{"sub": "Vladimir Voevodsky", "obj": "topology"}
+{"sub": "Oswald Veblen", "obj": "topology"}
+{"sub": "Andrew Casson", "obj": "topology"}
+{"sub": "Deane Montgomery", "obj": "topology"}
+{"sub": "Felix Hausdorff", "obj": "topology"}
+{"sub": "Andrey Tikhonov", "obj": "topology"}
+{"sub": "William Thurston", "obj": "topology"}
+{"sub": "Stefan Mazurkiewicz", "obj": "topology"}
+{"sub": "Andreas Floer", "obj": "topology"}
+{"sub": "Luitzen Egbertus Jan Brouwer", "obj": "topology"}
+{"sub": "James Waddell Alexander II", "obj": "topology"}
+{"sub": "Michel Kervaire", "obj": "topology"}
+{"sub": "Brian Bowditch", "obj": "topology"}
+{"sub": "Johann Benedict Listing", "obj": "topology"}
+{"sub": "Anatoly Fomenko", "obj": "topology"}
+{"sub": "Eberhard Hopf", "obj": "topology"}
+{"sub": "John Milnor", "obj": "topology"}
+{"sub": "Christopher Zeeman", "obj": "topology"}
+{"sub": "Kiiti Morita", "obj": "topology"}
+{"sub": "Leopold Vietoris", "obj": "topology"}
+{"sub": "Kazimierz Kuratowski", "obj": "topology"}
+{"sub": "Hellmuth Kneser", "obj": "topology"}
+{"sub": "Hassler Whitney", "obj": "topology"}
+{"sub": "Ian Agol", "obj": "topology"}
+{"sub": "Raymond Louis Wilder", "obj": "topology"}
+{"sub": "Herbert Seifert", "obj": "topology"}
+{"sub": "Heinz Hopf", "obj": "topology"}
+{"sub": "Enrico Betti", "obj": "topology"}
+{"sub": "R. H. Bing", "obj": "topology"}
+{"sub": "Dennis Sullivan", "obj": "topology"}
+{"sub": "Johannes de Groot", "obj": "topology"}
+{"sub": "Andrey Kolmogorov", "obj": "topology"}
+{"sub": "Karol Borsuk", "obj": "topology"}
+{"sub": "Nicolaus Copernicus", "obj": "astronomy"}
+{"sub": "Giovanni Domenico Cassini", "obj": "astronomy"}
+{"sub": "Fred Hoyle", "obj": "astronomy"}
+{"sub": "The Astronomical Journal", "obj": "astronomy"}
+{"sub": "Giovanni Battista Amici", "obj": "astronomy"}
+{"sub": "Leonhard Euler", "obj": "astronomy"}
+{"sub": "Tycho Brahe", "obj": "astronomy"}
+{"sub": "Patrick Moore", "obj": "astronomy"}
+{"sub": "Anders Celsius", "obj": "astronomy"}
+{"sub": "Johannes Fabricius", "obj": "astronomy"}
+{"sub": "Galileo Galilei", "obj": "astronomy"}
+{"sub": "Urania", "obj": "astronomy"}
+{"sub": "Isaac Newton", "obj": "astronomy"}
+{"sub": "Aryabhata", "obj": "astronomy"}
+{"sub": "Allan Sandage", "obj": "astronomy"}
+{"sub": "Karl Schwarzschild", "obj": "astronomy"}
+{"sub": "Johannes Hevelius", "obj": "astronomy"}
+{"sub": "Callippus", "obj": "astronomy"}
+{"sub": "Nilakantha Somayaji", "obj": "astronomy"}
+{"sub": "Nur ad-Din al-Bitruji", "obj": "astronomy"}
+{"sub": "Abraham bar Hiyya", "obj": "astronomy"}
+{"sub": "William Herschel", "obj": "astronomy"}
+{"sub": "William Crabtree", "obj": "astronomy"}
+{"sub": "Raymond Smith Dugan", "obj": "astronomy"}
+{"sub": "Nicole-Reine Lepaute", "obj": "astronomy"}
+{"sub": "Alexis Bouvard", "obj": "astronomy"}
+{"sub": "Giovanni Battista Riccioli", "obj": "astronomy"}
+{"sub": "Olin J. Eggen", "obj": "astronomy"}
+{"sub": "Otto Struve", "obj": "astronomy"}
+{"sub": "Friedrich Bessel", "obj": "astronomy"}
+{"sub": "Anaxagoras", "obj": "astronomy"}
+{"sub": "Frederik Kaiser", "obj": "astronomy"}
+{"sub": "Theodor von Oppolzer", "obj": "astronomy"}
+{"sub": "Urbain Le Verrier", "obj": "astronomy"}
+{"sub": "Edwin Hubble", "obj": "astronomy"}
+{"sub": "Robert Hanbury Brown", "obj": "astronomy"}
+{"sub": "Jeremiah Horrocks", "obj": "astronomy"}
+{"sub": "Leo Klejn", "obj": "archaeology"}
+{"sub": "Ephraim George Squier", "obj": "archaeology"}
+{"sub": "Arthur Evans", "obj": "archaeology"}
+{"sub": "Robert John Braidwood", "obj": "archaeology"}
+{"sub": "Palestine Exploration Fund", "obj": "archaeology"}
+{"sub": "Jacques de Morgan", "obj": "archaeology"}
+{"sub": "Alexey Okladnikov", "obj": "archaeology"}
+{"sub": "Howard Carter", "obj": "archaeology"}
+{"sub": "John Pendlebury", "obj": "archaeology"}
+{"sub": "John Davies Evans", "obj": "archaeology"}
+{"sub": "Ranuccio Bianchi Bandinelli", "obj": "archaeology"}
+{"sub": "James Mellaart", "obj": "archaeology"}
+{"sub": "Vorderasiatisches Museum Berlin", "obj": "archaeology"}
+{"sub": "Dyfed Archaeological Trust", "obj": "archaeology"}
+{"sub": "Ian Hodder", "obj": "archaeology"}
+{"sub": "Ekrem Akurgal", "obj": "archaeology"}
+{"sub": "John Garstang", "obj": "archaeology"}
+{"sub": "John Lubbock, 1st Baron Avebury", "obj": "archaeology"}
+{"sub": "Heinrich Schliemann", "obj": "archaeology"}
+{"sub": "British School at Athens", "obj": "archaeology"}
+{"sub": "Boris Rybakov", "obj": "archaeology"}
+{"sub": "Zahi Hawass", "obj": "archaeology"}
+{"sub": "Alexander Cunningham", "obj": "archaeology"}
+{"sub": "Robert Koldewey", "obj": "archaeology"}
+{"sub": "Manolis Andronikos", "obj": "archaeology"}
+{"sub": "Ernst Herzfeld", "obj": "archaeology"}
+{"sub": "Doro Levi", "obj": "archaeology"}
+{"sub": "Michael D. Coe", "obj": "archaeology"}
+{"sub": "Massimo Pallottino", "obj": "archaeology"}
+{"sub": "Georgi Kitov", "obj": "archaeology"}
+{"sub": "Arcisse de Caumont", "obj": "archaeology"}
+{"sub": "Mick Aston", "obj": "archaeology"}
+{"sub": "William Camden", "obj": "archaeology"}
+{"sub": "Kathleen Kenyon", "obj": "archaeology"}
+{"sub": "Julius Lothar Meyer", "obj": "chemistry"}
+{"sub": "Claude Louis Berthollet", "obj": "chemistry"}
+{"sub": "Nikolaus Joseph von Jacquin", "obj": "chemistry"}
+{"sub": "William Crookes", "obj": "chemistry"}
+{"sub": "Michael Faraday", "obj": "chemistry"}
+{"sub": "Norman Hackerman", "obj": "chemistry"}
+{"sub": "Italian Chemical Society", "obj": "chemistry"}
+{"sub": "Justus von Liebig", "obj": "chemistry"}
+{"sub": "Anselme Payen", "obj": "chemistry"}
+{"sub": "Max Joseph von Pettenkofer", "obj": "chemistry"}
+{"sub": "Dimitri Mendeleyev", "obj": "chemistry"}
+{"sub": "Robert Bunsen", "obj": "chemistry"}
+{"sub": "Humphry Davy", "obj": "chemistry"}
+{"sub": "Jan Baptist Van Helmont", "obj": "chemistry"}
+{"sub": "Wallace Carothers", "obj": "chemistry"}
+{"sub": "Jean-Baptiste Boussingault", "obj": "chemistry"}
+{"sub": "Louis Pasteur", "obj": "chemistry"}
+{"sub": "Elias James Corey", "obj": "chemistry"}
+{"sub": "William Lipscomb", "obj": "chemistry"}
+{"sub": "Henri Victor Regnault", "obj": "chemistry"}
+{"sub": "John Dalton", "obj": "chemistry"}
+{"sub": "Marie Curie", "obj": "chemistry"}
+{"sub": "Joseph Louis Gay-Lussac", "obj": "chemistry"}
+{"sub": "Georg Ernst Stahl", "obj": "chemistry"}
+{"sub": "Christian Wilhelm Blomstrand", "obj": "chemistry"}
+{"sub": "chemical test", "obj": "chemistry"}
+{"sub": "octane", "obj": "chemistry"}
+{"sub": "Johann Georg Gmelin", "obj": "chemistry"}
+{"sub": "Henri Moissan", "obj": "chemistry"}
+{"sub": "Edward Frankland", "obj": "chemistry"}
+{"sub": "Alexander William Williamson", "obj": "chemistry"}
+{"sub": "Carl Djerassi", "obj": "chemistry"}
+{"sub": "Svante August Arrhenius", "obj": "chemistry"}
+{"sub": "Torbern Bergman", "obj": "chemistry"}
+{"sub": "Leon Orbeli", "obj": "physiology"}
+{"sub": "Hermann von Helmholtz", "obj": "physiology"}
+{"sub": "William Thierry Preyer", "obj": "physiology"}
+{"sub": "Walter Bradford Cannon", "obj": "physiology"}
+{"sub": "Carl Ludwig", "obj": "physiology"}
+{"sub": "Nikolai Bernstein", "obj": "physiology"}
+{"sub": "John Newport Langley", "obj": "physiology"}
+{"sub": "Claude Bernard", "obj": "physiology"}
+{"sub": "Ernest Starling", "obj": "physiology"}
+{"sub": "Rudolf Wagner", "obj": "physiology"}
+{"sub": "Ivan Pavlov", "obj": "physiology"}
+{"sub": "Alfred Wilhelm Volkmann", "obj": "physiology"}
+{"sub": "Jean Pierre Flourens", "obj": "physiology"}
+{"sub": "Frederick Banting", "obj": "physiology"}
+{"sub": "William Harvey", "obj": "physiology"}
+{"sub": "John James Rickard Macleod", "obj": "physiology"}
+{"sub": "The Physiological Society", "obj": "physiology"}
+{"sub": "Hugo Kronecker", "obj": "physiology"}
+{"sub": "Albrecht Kossel", "obj": "physiology"}
+{"sub": "Joseph Barcroft", "obj": "physiology"}
+{"sub": "August Krogh", "obj": "physiology"}
+{"sub": "Charles Bell", "obj": "physiology"}
+{"sub": "Willem Einthoven", "obj": "physiology"}
+{"sub": "Ivan Sechenov", "obj": "physiology"}
+{"sub": "Friedrich Tiedemann", "obj": "physiology"}
+{"sub": "Petrus Camper", "obj": "physiology"}
+{"sub": "Ernst Heinrich Weber", "obj": "physiology"}
+{"sub": "Bert Sakmann", "obj": "physiology"}
+{"sub": "Stephen Hales", "obj": "physiology"}
+{"sub": "Archibald Hill", "obj": "physiology"}
+{"sub": "Ewald Hering", "obj": "physiology"}
+{"sub": "Ulf von Euler", "obj": "physiology"}
+{"sub": "Lev Vygotsky", "obj": "psychology"}
+{"sub": "Stanislav Grof", "obj": "psychology"}
+{"sub": "Hans Eysenck", "obj": "psychology"}
+{"sub": "Jean Piaget", "obj": "psychology"}
+{"sub": "Hermann Ebbinghaus", "obj": "psychology"}
+{"sub": "James Hillman", "obj": "psychology"}
+{"sub": "Ludwig Klages", "obj": "psychology"}
+{"sub": "Edward Thorndike", "obj": "psychology"}
+{"sub": "Aleksei N. Leontiev", "obj": "psychology"}
+{"sub": "Jonathan Haidt", "obj": "psychology"}
+{"sub": "Abraham Maslow", "obj": "psychology"}
+{"sub": "Thomas Gilovich", "obj": "psychology"}
+{"sub": "Amos Tversky", "obj": "psychology"}
+{"sub": "Carl Hovland", "obj": "psychology"}
+{"sub": "Ernest Jones", "obj": "psychology"}
+{"sub": "Edward B. Titchener", "obj": "psychology"}
+{"sub": "Pierre Janet", "obj": "psychology"}
+{"sub": "Michael Langone", "obj": "psychology"}
+{"sub": "Carl Rogers", "obj": "psychology"}
+{"sub": "Frederic Bartlett", "obj": "psychology"}
+{"sub": "Adriaan de Groot", "obj": "psychology"}
+{"sub": "Hermann von Helmholtz", "obj": "psychology"}
+{"sub": "Kurt Lewin", "obj": "psychology"}
+{"sub": "G. Stanley Hall", "obj": "psychology"}
+{"sub": "Paul Cameron", "obj": "psychology"}
+{"sub": "Thomas Bartholin", "obj": "medicine"}
+{"sub": "Franciscus Sylvius", "obj": "medicine"}
+{"sub": "Johann Christian Reil", "obj": "medicine"}
+{"sub": "Jean-Martin Charcot", "obj": "medicine"}
+{"sub": "medical association", "obj": "medicine"}
+{"sub": "Felix Plater", "obj": "medicine"}
+{"sub": "Jean-Nicolas Corvisart", "obj": "medicine"}
+{"sub": "Herman Boerhaave", "obj": "medicine"}
+{"sub": "Laurentius Roberg", "obj": "medicine"}
+{"sub": "Galen", "obj": "medicine"}
+{"sub": "Alexander Bogdanov", "obj": "medicine"}
+{"sub": "William Cheselden", "obj": "medicine"}
+{"sub": "Johann Georg Gmelin", "obj": "medicine"}
+{"sub": "Gilbert Blane", "obj": "medicine"}
+{"sub": "Carl Linnaeus", "obj": "medicine"}
+{"sub": "Asclepiades of Bithynia", "obj": "medicine"}
+{"sub": "Ibn Abi Usaibia", "obj": "medicine"}
+{"sub": "Armand Trousseau", "obj": "medicine"}
+{"sub": "Johann Peter Frank", "obj": "medicine"}
+{"sub": "Antonio Vallisneri", "obj": "medicine"}
+{"sub": "George Huntington", "obj": "medicine"}
+{"sub": "Erasmus Darwin", "obj": "medicine"}
+{"sub": "Christoph Wilhelm Hufeland", "obj": "medicine"}
+{"sub": "Paracelsus", "obj": "medicine"}
+{"sub": "Hermann Minkowski", "obj": "geometry"}
+{"sub": "Clark Kimberling", "obj": "geometry"}
+{"sub": "Mario Pieri", "obj": "geometry"}
+{"sub": "Menaechmus", "obj": "geometry"}
+{"sub": "Oswald Veblen", "obj": "geometry"}
+{"sub": "Karl Georg Christian von Staudt", "obj": "geometry"}
+{"sub": "Boris Delaunay", "obj": "geometry"}
+{"sub": "Raoul Bott", "obj": "geometry"}
+{"sub": "Archimedes", "obj": "geometry"}
+{"sub": "Joseph Diez Gergonne", "obj": "geometry"}
+{"sub": "David Hilbert", "obj": "geometry"}
+{"sub": "Werner Fenchel", "obj": "geometry"}
+{"sub": "Heinz Hopf", "obj": "geometry"}
+{"sub": "Mikhail Leonidovich Gromov", "obj": "geometry"}
+{"sub": "Nikolai Ivanovich Lobachevsky", "obj": "geometry"}
+{"sub": "Andrey Kolmogorov", "obj": "geometry"}
+{"sub": "Frank Morley", "obj": "geometry"}
+{"sub": "Michel Chasles", "obj": "geometry"}
+{"sub": "Euclid", "obj": "geometry"}
+{"sub": "Jakob Steiner", "obj": "geometry"}
+{"sub": "Henri Brocard", "obj": "geometry"}
+{"sub": "Moritz Pasch", "obj": "geometry"}
+{"sub": "Harold Scott MacDonald Coxeter", "obj": "geometry"}
+{"sub": "Immanuel Wallerstein", "obj": "sociology"}
+{"sub": "Karl Marx", "obj": "sociology"}
+{"sub": "Werner Sombart", "obj": "sociology"}
+{"sub": "Max Weber", "obj": "sociology"}
+{"sub": "Erving Goffman", "obj": "sociology"}
+{"sub": "Robert Neelly Bellah", "obj": "sociology"}
+{"sub": "Mark S. Granovetter", "obj": "sociology"}
+{"sub": "Alexander Zinoviev", "obj": "sociology"}
+{"sub": "William Isaac Thomas", "obj": "sociology"}
+{"sub": "Karl Polanyi", "obj": "sociology"}
+{"sub": "Ernest Burgess", "obj": "sociology"}
+{"sub": "David G. Bromley", "obj": "sociology"}
+{"sub": "Otto Neurath", "obj": "sociology"}
+{"sub": "Marcel Mauss", "obj": "sociology"}
+{"sub": "Saskia Sassen", "obj": "sociology"}
+{"sub": "Ulrich Beck", "obj": "sociology"}
+{"sub": "Piotr Sztompka", "obj": "sociology"}
+{"sub": "Vilfredo Pareto", "obj": "sociology"}
+{"sub": "Alfred Weber", "obj": "sociology"}
+{"sub": "Shmuel Eisenstadt", "obj": "sociology"}
+{"sub": "William Sharpey", "obj": "anatomy"}
+{"sub": "Wilhelm Krause", "obj": "anatomy"}
+{"sub": "Joseph von Gerlach", "obj": "anatomy"}
+{"sub": "Johann Wolfgang von Goethe", "obj": "anatomy"}
+{"sub": "Wilhelm Roux", "obj": "anatomy"}
+{"sub": "Anatomical terminology", "obj": "anatomy"}
+{"sub": "Hubert von Luschka", "obj": "anatomy"}
+{"sub": "Galen", "obj": "anatomy"}
+{"sub": "anatomical location", "obj": "anatomy"}
+{"sub": "Franciscus Sylvius", "obj": "anatomy"}
+{"sub": "Karl Bogislaus Reichert", "obj": "anatomy"}
+{"sub": "Karl Wilhelm von Kupffer", "obj": "anatomy"}
+{"sub": "Volcher Coiter", "obj": "anatomy"}
+{"sub": "Paul Broca", "obj": "anatomy"}
+{"sub": "Petrus Camper", "obj": "anatomy"}
+{"sub": "Nicolaus Steno", "obj": "anatomy"}
+{"sub": "Hermann Klaatsch", "obj": "anatomy"}
+{"sub": "Jean-Pierre Vernant", "obj": "anthropology"}
+{"sub": "James George Frazer", "obj": "anthropology"}
+{"sub": "George Murdock", "obj": "anthropology"}
+{"sub": "Napoleon Chagnon", "obj": "anthropology"}
+{"sub": "Tim Ingold", "obj": "anthropology"}
+{"sub": "Paul Radin", "obj": "anthropology"}
+{"sub": "Frederica de Laguna", "obj": "anthropology"}
+{"sub": "Mikhail Mikhaylovich Gerasimov", "obj": "anthropology"}
+{"sub": "Helen E. Fisher", "obj": "anthropology"}
+{"sub": "Ann Dunham", "obj": "anthropology"}
+{"sub": "Augustus Pitt Rivers", "obj": "anthropology"}
+{"sub": "Julian Steward", "obj": "anthropology"}
+{"sub": "Franz Boas", "obj": "anthropology"}
+{"sub": "Edward Burnett Tylor", "obj": "anthropology"}
+{"sub": "Paul Broca", "obj": "anthropology"}
+{"sub": "Alfred L. Kroeber", "obj": "anthropology"}
+{"sub": "Anti-Oedipus", "obj": "philosophy"}
+{"sub": "Karl Christian Friedrich Krause", "obj": "philosophy"}
+{"sub": "Joseph Priestley", "obj": "philosophy"}
+{"sub": "Nikolaj Frederik Severin Grundtvig", "obj": "philosophy"}
+{"sub": "Giordano Bruno", "obj": "philosophy"}
+{"sub": "Karl Marx", "obj": "philosophy"}
+{"sub": "PhilPapers", "obj": "philosophy"}
+{"sub": "Galileo Galilei", "obj": "philosophy"}
+{"sub": "Henry Corbin", "obj": "philosophy"}
+{"sub": "Larry Sanger", "obj": "philosophy"}
+{"sub": "A Thousand Plateaus", "obj": "philosophy"}
+{"sub": "Anaxagoras", "obj": "philosophy"}
+{"sub": "John Stuart Mill", "obj": "philosophy"}
+{"sub": "Leonard Peikoff", "obj": "philosophy"}
+{"sub": "Otto Brunfels", "obj": "theology"}
+{"sub": "John Polkinghorne", "obj": "theology"}
+{"sub": "Campegius Vitringa", "obj": "theology"}
+{"sub": "Josias Simmler", "obj": "theology"}
+{"sub": "Robert Moberly", "obj": "theology"}
+{"sub": "Michael Servetus", "obj": "theology"}
+{"sub": "Reinhold Niebuhr", "obj": "theology"}
+{"sub": "Friedrich Spanheim", "obj": "theology"}
+{"sub": "millennialism", "obj": "theology"}
+{"sub": "John Calvin", "obj": "theology"}
+{"sub": "Isaac Barrow", "obj": "theology"}
+{"sub": "George Metallinos", "obj": "theology"}
+{"sub": "Domingo de Soto", "obj": "theology"}
+{"sub": "Al-Masudi", "obj": "history"}
+{"sub": "William Camden", "obj": "history"}
+{"sub": "Max Weber", "obj": "history"}
+{"sub": "history journal", "obj": "history"}
+{"sub": "Chen Shou", "obj": "history"}
+{"sub": "Arnold Hermann Ludwig Heeren", "obj": "history"}
+{"sub": "Sima Qian", "obj": "history"}
+{"sub": "Giorgi Melikishvili", "obj": "history"}
+{"sub": "Guo Moruo", "obj": "history"}
+{"sub": "Johan Huizinga", "obj": "history"}
+{"sub": "Granius Licinianus", "obj": "history"}
+{"sub": "Ibn Hisham", "obj": "history"}
+{"sub": "Edward Gibbon", "obj": "history"}
+{"sub": "Yi-Fu Tuan", "obj": "geography"}
+{"sub": "Walter Isard", "obj": "geography"}
+{"sub": "Pomponius Mela", "obj": "geography"}
+{"sub": "August Heinrich Petermann", "obj": "geography"}
+{"sub": "James Morris Blaut", "obj": "geography"}
+{"sub": "Lisbon Geographic Society", "obj": "geography"}
+{"sub": "Carl Ritter", "obj": "geography"}
+{"sub": "David Harvey", "obj": "geography"}
+{"sub": "Gerardus Mercator", "obj": "geography"}
+{"sub": "Halford Mackinder", "obj": "geography"}
+{"sub": "Sydney Brenner", "obj": "biology"}
+{"sub": "Julian Huxley", "obj": "biology"}
+{"sub": "Barry Commoner", "obj": "biology"}
+{"sub": "Alfred Kinsey", "obj": "biology"}
+{"sub": "Matthias Jakob Schleiden", "obj": "biology"}
+{"sub": "Charles Darwin", "obj": "biology"}
+{"sub": "August Weismann", "obj": "biology"}
+{"sub": "integument", "obj": "biology"}
+{"sub": "Johannes Eugenius B\u00fclow Warming", "obj": "biology"}
+{"sub": "Francisco Varela", "obj": "biology"}
+{"sub": "Joseph Schumpeter", "obj": "economics"}
+{"sub": "Carl Menger", "obj": "economics"}
+{"sub": "Elinor Ostrom", "obj": "economics"}
+{"sub": "Max Weber", "obj": "economics"}
+{"sub": "Ludwig von Mises", "obj": "economics"}
+{"sub": "Karl Marx", "obj": "economics"}
+{"sub": "Antoine Augustin Cournot", "obj": "economics"}
+{"sub": "Adam Smith", "obj": "economics"}
+{"sub": "Alfred Marshall", "obj": "economics"}

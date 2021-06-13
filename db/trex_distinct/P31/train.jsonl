@@ -1,0 +1,739 @@
+{"sub": "Llandybie", "obj": "village"}
+{"sub": "Sojitra", "obj": "village"}
+{"sub": "Millingen aan de Rijn", "obj": "village"}
+{"sub": "West Chiltington", "obj": "village"}
+{"sub": "Kelvington-Wadena", "obj": "village"}
+{"sub": "Trottiscliffe", "obj": "village"}
+{"sub": "Trelawnyd", "obj": "village"}
+{"sub": "Ashridge", "obj": "village"}
+{"sub": "Annavaram", "obj": "village"}
+{"sub": "Tweedbank", "obj": "village"}
+{"sub": "Llanfairpwllgwyngyll", "obj": "village"}
+{"sub": "Kharnal", "obj": "village"}
+{"sub": "Phirangipuram", "obj": "village"}
+{"sub": "Penley", "obj": "village"}
+{"sub": "Nekkonda", "obj": "village"}
+{"sub": "Kadalundi", "obj": "village"}
+{"sub": "Portballintrae", "obj": "village"}
+{"sub": "Airth", "obj": "village"}
+{"sub": "Ambalapattu", "obj": "village"}
+{"sub": "Wembworthy", "obj": "village"}
+{"sub": "Three Bridges", "obj": "village"}
+{"sub": "Ilmington", "obj": "village"}
+{"sub": "Llanelwedd", "obj": "village"}
+{"sub": "Hugglescote", "obj": "village"}
+{"sub": "Rhu", "obj": "village"}
+{"sub": "Dunragit", "obj": "village"}
+{"sub": "West Clandon", "obj": "village"}
+{"sub": "Nagara", "obj": "village"}
+{"sub": "Pulingome", "obj": "village"}
+{"sub": "Backford", "obj": "village"}
+{"sub": "North Kilworth", "obj": "village"}
+{"sub": "Ruskington", "obj": "village"}
+{"sub": "Blackgang", "obj": "village"}
+{"sub": "Jandiala", "obj": "village"}
+{"sub": "Puthoor", "obj": "village"}
+{"sub": "Dolwyddelan", "obj": "village"}
+{"sub": "Bishop's Cleeve", "obj": "village"}
+{"sub": "Ridgmont", "obj": "village"}
+{"sub": "Kilpeck", "obj": "village"}
+{"sub": "Houghall", "obj": "village"}
+{"sub": "Cotherstone", "obj": "village"}
+{"sub": "Cogenhoe", "obj": "village"}
+{"sub": "Menheniot", "obj": "village"}
+{"sub": "Emneth", "obj": "village"}
+{"sub": "Humbie", "obj": "village"}
+{"sub": "Kholmogory", "obj": "village"}
+{"sub": "North Elmham", "obj": "village"}
+{"sub": "Narasannapeta", "obj": "village"}
+{"sub": "Mintlaw", "obj": "village"}
+{"sub": "Linthwaite", "obj": "village"}
+{"sub": "Byrakur", "obj": "village"}
+{"sub": "Great Braxted", "obj": "village"}
+{"sub": "Chenies", "obj": "village"}
+{"sub": "Chart Sutton", "obj": "village"}
+{"sub": "Kettlewell", "obj": "village"}
+{"sub": "Treforest", "obj": "village"}
+{"sub": "Mursley", "obj": "village"}
+{"sub": "Mickle Trafford", "obj": "village"}
+{"sub": "Mmadinare", "obj": "village"}
+{"sub": "Tudhoe", "obj": "village"}
+{"sub": "West Kilbride", "obj": "village"}
+{"sub": "Long Preston", "obj": "village"}
+{"sub": "Beit Hanina", "obj": "village"}
+{"sub": "Teversham", "obj": "village"}
+{"sub": "Berrington, Shropshire", "obj": "village"}
+{"sub": "Greens Norton", "obj": "village"}
+{"sub": "Boinpalle mandal", "obj": "village"}
+{"sub": "Asperen", "obj": "village"}
+{"sub": "Bachannapet", "obj": "village"}
+{"sub": "Kattangal", "obj": "village"}
+{"sub": "Rhigos", "obj": "village"}
+{"sub": "Swyre", "obj": "village"}
+{"sub": "Pyecombe", "obj": "village"}
+{"sub": "Trelewis", "obj": "village"}
+{"sub": "Little Bookham", "obj": "village"}
+{"sub": "Elmstead Market", "obj": "village"}
+{"sub": "Ormiston", "obj": "village"}
+{"sub": "Mersham", "obj": "village"}
+{"sub": "Great Bookham", "obj": "village"}
+{"sub": "Crawfordsburn", "obj": "village"}
+{"sub": "Pulham St Mary", "obj": "village"}
+{"sub": "Gittisham", "obj": "village"}
+{"sub": "Pedanandipadu", "obj": "village"}
+{"sub": "Broadmayne", "obj": "village"}
+{"sub": "Farnsfield", "obj": "village"}
+{"sub": "Yakubiyah", "obj": "village"}
+{"sub": "Dreghorn", "obj": "village"}
+{"sub": "East Tytherley", "obj": "village"}
+{"sub": "Pontyclun", "obj": "village"}
+{"sub": "Cleator", "obj": "village"}
+{"sub": "Chavapadu", "obj": "village"}
+{"sub": "Harberton", "obj": "village"}
+{"sub": "Ley Hill", "obj": "village"}
+{"sub": "Banatska Palanka", "obj": "village"}
+{"sub": "Snelston", "obj": "village"}
+{"sub": "Enborne", "obj": "village"}
+{"sub": "Little Baddow", "obj": "village"}
+{"sub": "Haverthwaite", "obj": "village"}
+{"sub": "Kilconquhar", "obj": "village"}
+{"sub": "Gortin", "obj": "village"}
+{"sub": "Little Horwood", "obj": "village"}
+{"sub": "Avaldsnes", "obj": "village"}
+{"sub": "Kulanada", "obj": "village"}
+{"sub": "Clogher", "obj": "village"}
+{"sub": "Erwadi", "obj": "village"}
+{"sub": "Stiklestad", "obj": "village"}
+{"sub": "Llansanffraid-ym-Mechain", "obj": "village"}
+{"sub": "Creswell, Derbyshire", "obj": "village"}
+{"sub": "Burton Bradstock", "obj": "village"}
+{"sub": "North Newington", "obj": "village"}
+{"sub": "Warmsworth", "obj": "village"}
+{"sub": "Totopara", "obj": "village"}
+{"sub": "Timble", "obj": "village"}
+{"sub": "Nafferton", "obj": "village"}
+{"sub": "Long Buckby", "obj": "village"}
+{"sub": "Fuldera", "obj": "village"}
+{"sub": "Layer de la Haye", "obj": "village"}
+{"sub": "Peruvannamuzhi", "obj": "village"}
+{"sub": "Llanpumsaint", "obj": "village"}
+{"sub": "Cefneithin", "obj": "village"}
+{"sub": "Woodseaves", "obj": "village"}
+{"sub": "Littlestone-on-Sea", "obj": "village"}
+{"sub": "Bigbury-on-Sea", "obj": "village"}
+{"sub": "Prestolee", "obj": "village"}
+{"sub": "Rodmarton", "obj": "village"}
+{"sub": "West Monkton", "obj": "village"}
+{"sub": "Treorchy", "obj": "village"}
+{"sub": "Shawbury", "obj": "village"}
+{"sub": "Chaddesley Corbett", "obj": "village"}
+{"sub": "Buckland Newton", "obj": "village"}
+{"sub": "Bekesbourne", "obj": "village"}
+{"sub": "Devarapalle, West Godavari", "obj": "village"}
+{"sub": "Kemsley", "obj": "village"}
+{"sub": "Gracehill", "obj": "village"}
+{"sub": "Abinger", "obj": "village"}
+{"sub": "Vallangi", "obj": "village"}
+{"sub": "Llanrhychwyn", "obj": "village"}
+{"sub": "Hethe", "obj": "village"}
+{"sub": "Blue Anchor", "obj": "village"}
+{"sub": "Panchalankurichi", "obj": "village"}
+{"sub": "Nantmor", "obj": "village"}
+{"sub": "Agout", "obj": "river"}
+{"sub": "Trave", "obj": "river"}
+{"sub": "Calavon", "obj": "river"}
+{"sub": "Naryn River", "obj": "river"}
+{"sub": "River Tern", "obj": "river"}
+{"sub": "Harding River", "obj": "river"}
+{"sub": "Surma River", "obj": "river"}
+{"sub": "River Towy", "obj": "river"}
+{"sub": "Kem River", "obj": "river"}
+{"sub": "Jiulong Jiang", "obj": "river"}
+{"sub": "Msta River", "obj": "river"}
+{"sub": "Warrego River", "obj": "river"}
+{"sub": "Hinds River", "obj": "river"}
+{"sub": "Gave d'Ossau", "obj": "river"}
+{"sub": "Vechte", "obj": "river"}
+{"sub": "Canche", "obj": "river"}
+{"sub": "Mula-Mutha River", "obj": "river"}
+{"sub": "Shire River", "obj": "river"}
+{"sub": "Oulujoki", "obj": "river"}
+{"sub": "Syas River", "obj": "river"}
+{"sub": "Oleta River", "obj": "river"}
+{"sub": "Guadiana", "obj": "river"}
+{"sub": "Mo Chhu", "obj": "river"}
+{"sub": "Ashuapmushuan River", "obj": "river"}
+{"sub": "Niagara River", "obj": "river"}
+{"sub": "Cares", "obj": "river"}
+{"sub": "Bogue Falaya", "obj": "river"}
+{"sub": "Barse", "obj": "river"}
+{"sub": "Lena River", "obj": "river"}
+{"sub": "Seym River", "obj": "river"}
+{"sub": "Mareb River", "obj": "river"}
+{"sub": "Chambira River", "obj": "river"}
+{"sub": "Tully River", "obj": "river"}
+{"sub": "River Frome", "obj": "river"}
+{"sub": "Timavo", "obj": "river"}
+{"sub": "Surma-Meghna River System", "obj": "river"}
+{"sub": "Western Scheldt", "obj": "river"}
+{"sub": "Chavanon", "obj": "river"}
+{"sub": "Uyu River", "obj": "river"}
+{"sub": "Yarkon River", "obj": "river"}
+{"sub": "Mardyke", "obj": "river"}
+{"sub": "Nun River", "obj": "river"}
+{"sub": "Ciliwung River", "obj": "river"}
+{"sub": "Boutonne", "obj": "river"}
+{"sub": "Suda River", "obj": "river"}
+{"sub": "Plenty River", "obj": "river"}
+{"sub": "Bouzanne", "obj": "river"}
+{"sub": "Yaqui River", "obj": "river"}
+{"sub": "Wakulla River", "obj": "river"}
+{"sub": "Kentucky River", "obj": "river"}
+{"sub": "Albany River", "obj": "river"}
+{"sub": "Mumford River", "obj": "river"}
+{"sub": "River Lynher", "obj": "river"}
+{"sub": "Pyoza River", "obj": "river"}
+{"sub": "Shubenacadie River", "obj": "river"}
+{"sub": "Trishuli River", "obj": "river"}
+{"sub": "Indrayani River", "obj": "river"}
+{"sub": "Maronne", "obj": "river"}
+{"sub": "Rajang River", "obj": "river"}
+{"sub": "Driva", "obj": "river"}
+{"sub": "Big Walnut Creek", "obj": "river"}
+{"sub": "Pymmes Brook", "obj": "river"}
+{"sub": "River Dysynni", "obj": "river"}
+{"sub": "Lopori River", "obj": "river"}
+{"sub": "Aniak River", "obj": "river"}
+{"sub": "Coca River", "obj": "river"}
+{"sub": "River Lymn", "obj": "river"}
+{"sub": "Anarjohka", "obj": "river"}
+{"sub": "Spaarne", "obj": "river"}
+{"sub": "Galien River", "obj": "river"}
+{"sub": "River Onny", "obj": "river"}
+{"sub": "Tisza", "obj": "river"}
+{"sub": "Karnaphuli River", "obj": "river"}
+{"sub": "River Leam", "obj": "river"}
+{"sub": "Chulym River", "obj": "river"}
+{"sub": "Necaxa River", "obj": "river"}
+{"sub": "Rakaia River", "obj": "river"}
+{"sub": "Dinkel", "obj": "river"}
+{"sub": "Palar River", "obj": "river"}
+{"sub": "Hermitage Water", "obj": "river"}
+{"sub": "Garcia River", "obj": "river"}
+{"sub": "Rule Water", "obj": "river"}
+{"sub": "Chuya River", "obj": "river"}
+{"sub": "Quinnipiac River", "obj": "river"}
+{"sub": "Navarro River", "obj": "river"}
+{"sub": "Karamenderes River", "obj": "river"}
+{"sub": "River Trent", "obj": "river"}
+{"sub": "Sikanni Chief River", "obj": "river"}
+{"sub": "Toutle River", "obj": "river"}
+{"sub": "River Afan", "obj": "river"}
+{"sub": "Bandiat", "obj": "river"}
+{"sub": "Sylva River", "obj": "river"}
+{"sub": "Guadalope", "obj": "river"}
+{"sub": "Collie River", "obj": "river"}
+{"sub": "Appoquinimink River", "obj": "river"}
+{"sub": "Afgedamde Maas", "obj": "river"}
+{"sub": "Balonne River", "obj": "river"}
+{"sub": "Knik River", "obj": "river"}
+{"sub": "Hallingdalselva", "obj": "river"}
+{"sub": "Winisk River", "obj": "river"}
+{"sub": "Rupt de Mad", "obj": "river"}
+{"sub": "Cians", "obj": "river"}
+{"sub": "Grand Morin", "obj": "river"}
+{"sub": "Exeter River", "obj": "river"}
+{"sub": "Morice River", "obj": "river"}
+{"sub": "River Bulbourne", "obj": "river"}
+{"sub": "Black Elster", "obj": "river"}
+{"sub": "Great Tenasserim River", "obj": "river"}
+{"sub": "Gediz River", "obj": "river"}
+{"sub": "Sevron", "obj": "river"}
+{"sub": "Kushk River", "obj": "river"}
+{"sub": "Matap\u00e9dia River", "obj": "river"}
+{"sub": "Samur River", "obj": "river"}
+{"sub": "Arno", "obj": "river"}
+{"sub": "Outstanding Florida Waters", "obj": "river"}
+{"sub": "River Hamble", "obj": "river"}
+{"sub": "River Teifi", "obj": "river"}
+{"sub": "River Tees", "obj": "river"}
+{"sub": "River Nar", "obj": "river"}
+{"sub": "Harricana River", "obj": "river"}
+{"sub": "Pend Oreille River", "obj": "river"}
+{"sub": "Runde River", "obj": "river"}
+{"sub": "Mojave River", "obj": "river"}
+{"sub": "Ostravice", "obj": "river"}
+{"sub": "Dabus River", "obj": "river"}
+{"sub": "Saint George River", "obj": "river"}
+{"sub": "Muskegon River", "obj": "river"}
+{"sub": "Zadorra", "obj": "river"}
+{"sub": "Gakona River", "obj": "river"}
+{"sub": "Akobo River", "obj": "river"}
+{"sub": "Jarama", "obj": "river"}
+{"sub": "Kunhar River", "obj": "river"}
+{"sub": "Molalla River", "obj": "river"}
+{"sub": "Archer River", "obj": "river"}
+{"sub": "Sepik", "obj": "river"}
+{"sub": "Dja River", "obj": "river"}
+{"sub": "A Fever You Can't Sweat Out", "obj": "album"}
+{"sub": "Stronger Than Pride", "obj": "album"}
+{"sub": "4Minutes Left", "obj": "album"}
+{"sub": "Destiny Fulfilled", "obj": "album"}
+{"sub": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars", "obj": "album"}
+{"sub": "Crazy Nights", "obj": "album"}
+{"sub": "Bears, Mayors, Scraps & Bones", "obj": "album"}
+{"sub": "Gore Obsessed", "obj": "album"}
+{"sub": "Someday Came Suddenly", "obj": "album"}
+{"sub": "Antichrist Superstar", "obj": "album"}
+{"sub": "Jaktens tid", "obj": "album"}
+{"sub": "Keep It Comin'", "obj": "album"}
+{"sub": "Free Yourself", "obj": "album"}
+{"sub": "The Argument", "obj": "album"}
+{"sub": "A Thousand Suns", "obj": "album"}
+{"sub": "Lord Willin'", "obj": "album"}
+{"sub": "Killa Season", "obj": "album"}
+{"sub": "Fragmen", "obj": "album"}
+{"sub": "Seasons End", "obj": "album"}
+{"sub": "Borrowed Heaven", "obj": "album"}
+{"sub": "One Day It'll All Make Sense", "obj": "album"}
+{"sub": "Barrio Fino", "obj": "album"}
+{"sub": "Human After All", "obj": "album"}
+{"sub": "Shiny Beast", "obj": "album"}
+{"sub": "Tongue n' Cheek", "obj": "album"}
+{"sub": "The Fragile", "obj": "album"}
+{"sub": "Nexus Polaris", "obj": "album"}
+{"sub": "The Breakthrough", "obj": "album"}
+{"sub": "Backspacer", "obj": "album"}
+{"sub": "Sarah Vaughan Sings George Gershwin", "obj": "album"}
+{"sub": "There Goes Rhymin' Simon", "obj": "album"}
+{"sub": "Vinyl Confessions", "obj": "album"}
+{"sub": "Meds", "obj": "album"}
+{"sub": "Pozitivna geografija", "obj": "album"}
+{"sub": "Sefronia", "obj": "album"}
+{"sub": "Thank You, Happy Birthday", "obj": "album"}
+{"sub": "The Bleeding", "obj": "album"}
+{"sub": "Subhuman Race", "obj": "album"}
+{"sub": "Midnight Love", "obj": "album"}
+{"sub": "Girls Can Tell", "obj": "album"}
+{"sub": "Dark Adrenaline", "obj": "album"}
+{"sub": "Good Kid, M.A.A.D City", "obj": "album"}
+{"sub": "Signify", "obj": "album"}
+{"sub": "Like Rats", "obj": "album"}
+{"sub": "Bare Trees", "obj": "album"}
+{"sub": "Ten New Songs", "obj": "album"}
+{"sub": "Floored", "obj": "album"}
+{"sub": "Our World, Our Way", "obj": "album"}
+{"sub": "Hello Fascination", "obj": "album"}
+{"sub": "Paley & Francis", "obj": "album"}
+{"sub": "Dolly, Dolly, Dolly", "obj": "album"}
+{"sub": "Break Every Rule", "obj": "album"}
+{"sub": "Ancora", "obj": "album"}
+{"sub": "Want Two", "obj": "album"}
+{"sub": "Crimson Thunder", "obj": "album"}
+{"sub": "Amanda Leigh", "obj": "album"}
+{"sub": "Life Won't Wait", "obj": "album"}
+{"sub": "On My Way Here", "obj": "album"}
+{"sub": "Atom Heart Mother", "obj": "album"}
+{"sub": "Nursery Cryme", "obj": "album"}
+{"sub": "Suicide Season", "obj": "album"}
+{"sub": "The Ritual", "obj": "album"}
+{"sub": "The Loudest Engine", "obj": "album"}
+{"sub": "Doggystyle", "obj": "album"}
+{"sub": "Heartbreak Express", "obj": "album"}
+{"sub": "The ABBA Generation", "obj": "album"}
+{"sub": "White Teeth, Black Thoughts", "obj": "album"}
+{"sub": "Major Moves", "obj": "album"}
+{"sub": "In My Memory", "obj": "album"}
+{"sub": "Vice Verses", "obj": "album"}
+{"sub": "The Velvet Rope", "obj": "album"}
+{"sub": "Buckingham Nicks", "obj": "album"}
+{"sub": "Power Windows", "obj": "album"}
+{"sub": "Les Chemins de verre", "obj": "album"}
+{"sub": "Caress of Steel", "obj": "album"}
+{"sub": "The Ultimate Sin", "obj": "album"}
+{"sub": "461 Ocean Boulevard", "obj": "album"}
+{"sub": "The Rise & Fall", "obj": "album"}
+{"sub": "Odelay", "obj": "album"}
+{"sub": "H.M.S. Donovan", "obj": "album"}
+{"sub": "500 Degreez", "obj": "album"}
+{"sub": "Go Away White", "obj": "album"}
+{"sub": "McClellan Airfield", "obj": "airport"}
+{"sub": "Roswell International Air Center", "obj": "airport"}
+{"sub": "Ketchikan International Airport", "obj": "airport"}
+{"sub": "Al Najaf International Airport", "obj": "airport"}
+{"sub": "Cairo International Airport", "obj": "airport"}
+{"sub": "Beauregard Regional Airport", "obj": "airport"}
+{"sub": "Mason City Municipal Airport", "obj": "airport"}
+{"sub": "Mobile Downtown Airport", "obj": "airport"}
+{"sub": "North Las Vegas Airport", "obj": "airport"}
+{"sub": "Washington Dulles International Airport", "obj": "airport"}
+{"sub": "Campo Grande International Airport", "obj": "airport"}
+{"sub": "New York Stewart International Airport", "obj": "airport"}
+{"sub": "Hervey Bay Airport", "obj": "airport"}
+{"sub": "Buchanan Field Airport", "obj": "airport"}
+{"sub": "Hohhot Baita International Airport", "obj": "airport"}
+{"sub": "Prince George Airport", "obj": "airport"}
+{"sub": "Nellis Air Force Base", "obj": "airport"}
+{"sub": "Albany International Airport", "obj": "airport"}
+{"sub": "Enrique Malek International Airport", "obj": "airport"}
+{"sub": "Sacramento Mather Airport", "obj": "airport"}
+{"sub": "Burlington International Airport", "obj": "airport"}
+{"sub": "Mariscal Sucre International Airport", "obj": "airport"}
+{"sub": "Marana Regional Airport", "obj": "airport"}
+{"sub": "Brunei International Airport", "obj": "airport"}
+{"sub": "Lemnos International Airport", "obj": "airport"}
+{"sub": "Townsville Airport", "obj": "airport"}
+{"sub": "Shijiazhuang Zhengding International Airport", "obj": "airport"}
+{"sub": "Hope Municipal Airport", "obj": "airport"}
+{"sub": "Cape Girardeau Regional Airport", "obj": "airport"}
+{"sub": "Brussels Airport", "obj": "airport"}
+{"sub": "Montrose Regional Airport", "obj": "airport"}
+{"sub": "Kahului Airport", "obj": "airport"}
+{"sub": "St. Louis Downtown Airport", "obj": "airport"}
+{"sub": "Cambrai-Niergnies Airport", "obj": "airport"}
+{"sub": "Perry-Foley Airport", "obj": "airport"}
+{"sub": "Vastrap", "obj": "airport"}
+{"sub": "Mashhad International Airport", "obj": "airport"}
+{"sub": "Oskemen Airport", "obj": "airport"}
+{"sub": "Wick Airport", "obj": "airport"}
+{"sub": "North Perry Airport", "obj": "airport"}
+{"sub": "Pokhara Airport", "obj": "airport"}
+{"sub": "Marechal Rondon International Airport", "obj": "airport"}
+{"sub": "Lanzhou Zhongchuan International Airport", "obj": "airport"}
+{"sub": "Kufra Airport", "obj": "airport"}
+{"sub": "Avalon Airport", "obj": "airport"}
+{"sub": "Texarkana Regional Airport", "obj": "airport"}
+{"sub": "Tauranga Airport", "obj": "airport"}
+{"sub": "Zamperini Field", "obj": "airport"}
+{"sub": "Albury Airport", "obj": "airport"}
+{"sub": "Monterrey International Airport", "obj": "airport"}
+{"sub": "Kilimanjaro International Airport", "obj": "airport"}
+{"sub": "Syktyvkar Airport", "obj": "airport"}
+{"sub": "Fort Worth Meacham International Airport", "obj": "airport"}
+{"sub": "Grant County International Airport", "obj": "airport"}
+{"sub": "Haines Airport", "obj": "airport"}
+{"sub": "Kingsley Field Air National Guard Base", "obj": "airport"}
+{"sub": "Niuatoputapu Airport", "obj": "airport"}
+{"sub": "Chileka International Airport", "obj": "airport"}
+{"sub": "Naval Air Station Brunswick", "obj": "airport"}
+{"sub": "Shah Amanat International Airport", "obj": "airport"}
+{"sub": "La Vanguardia Airport", "obj": "airport"}
+{"sub": "Joplin Regional Airport", "obj": "airport"}
+{"sub": "Pangborn Memorial Airport", "obj": "airport"}
+{"sub": "Metro Manila Film Festival Award for Best Director", "obj": "award"}
+{"sub": "Scheele Award", "obj": "award"}
+{"sub": "Outland Trophy", "obj": "award"}
+{"sub": "Prix Walo", "obj": "award"}
+{"sub": "Ludovic-Trarieux International Human Rights Prize", "obj": "award"}
+{"sub": "Prix de Flore", "obj": "award"}
+{"sub": "National Reunification Prize", "obj": "award"}
+{"sub": "Lindenberg Medal", "obj": "award"}
+{"sub": "Swedish Crime Writers' Academy", "obj": "award"}
+{"sub": "Stockholm Water Prize", "obj": "award"}
+{"sub": "Nancy Lieberman Award", "obj": "award"}
+{"sub": "CableACE Award", "obj": "award"}
+{"sub": "Koret Jewish Book Award", "obj": "award"}
+{"sub": "Gabriel Award", "obj": "award"}
+{"sub": "SECA Art Award", "obj": "award"}
+{"sub": "35th National Film Awards", "obj": "award"}
+{"sub": "JRA Award", "obj": "award"}
+{"sub": "Tom W. Bonner Prize in Nuclear Physics", "obj": "award"}
+{"sub": "Fleur du Cap Theatre Awards", "obj": "award"}
+{"sub": "Doig Medal", "obj": "award"}
+{"sub": "Dally M Medal", "obj": "award"}
+{"sub": "Special Operations Service Ribbon", "obj": "award"}
+{"sub": "Villa Massimo", "obj": "award"}
+{"sub": "Palm Dog Award", "obj": "award"}
+{"sub": "Nihon SF Taisho Award", "obj": "award"}
+{"sub": "Heinrich Greif Prize", "obj": "award"}
+{"sub": "Matteucci Medal", "obj": "award"}
+{"sub": "Fairtrade Town", "obj": "award"}
+{"sub": "Taite Music Prize", "obj": "award"}
+{"sub": "Lou Henson Award", "obj": "award"}
+{"sub": "Louis d'Or", "obj": "award"}
+{"sub": "Gumshoe Awards", "obj": "award"}
+{"sub": "Marcel Duchamp Prize", "obj": "award"}
+{"sub": "Alfred Bauer Prize", "obj": "award"}
+{"sub": "Pulitzer Prize for Explanatory Reporting", "obj": "award"}
+{"sub": "Bola de Ouro", "obj": "award"}
+{"sub": "COPSS Presidents' Award", "obj": "award"}
+{"sub": "UK Music Video Awards", "obj": "award"}
+{"sub": "Premier League Golden Boot", "obj": "award"}
+{"sub": "Drama Desk Award", "obj": "award"}
+{"sub": "Descartes Prize", "obj": "award"}
+{"sub": "Imperial Service Order", "obj": "award"}
+{"sub": "Chuck Bednarik Award", "obj": "award"}
+{"sub": "Ekushey Padak", "obj": "award"}
+{"sub": "Shohrat Order", "obj": "award"}
+{"sub": "Dally M Awards", "obj": "award"}
+{"sub": "Australian International Beer Awards", "obj": "award"}
+{"sub": "ECNY Awards", "obj": "award"}
+{"sub": "Cinema Eye Honors", "obj": "award"}
+{"sub": "Payne Stewart Award", "obj": "award"}
+{"sub": "Country Music Awards of Australia", "obj": "award"}
+{"sub": "Akumetsu", "obj": "manga"}
+{"sub": "Best Student Council", "obj": "manga"}
+{"sub": "Blue Exorcist", "obj": "manga"}
+{"sub": "Alpen Rose", "obj": "manga"}
+{"sub": "Coyote Ragtime Show", "obj": "manga"}
+{"sub": "Cutie Honey", "obj": "manga"}
+{"sub": "Guin Saga", "obj": "manga"}
+{"sub": "Don Dracula", "obj": "manga"}
+{"sub": "To Love-Ru", "obj": "manga"}
+{"sub": "Kamen Teacher", "obj": "manga"}
+{"sub": "Elfen Lied", "obj": "manga"}
+{"sub": "Shigurui", "obj": "manga"}
+{"sub": "Dengeki Daisy", "obj": "manga"}
+{"sub": "To-y", "obj": "manga"}
+{"sub": "Hero Tales", "obj": "manga"}
+{"sub": "Fate/kaleid liner Prisma Illya", "obj": "manga"}
+{"sub": "G-Taste", "obj": "manga"}
+{"sub": "Full Metal Panic!", "obj": "manga"}
+{"sub": "World Trigger", "obj": "manga"}
+{"sub": "La Conquista", "obj": "opera"}
+{"sub": "Isabeau", "obj": "opera"}
+{"sub": "Il signor Bruschino", "obj": "opera"}
+{"sub": "Christophe Colomb", "obj": "opera"}
+{"sub": "Almast", "obj": "opera"}
+{"sub": "Imeneo", "obj": "opera"}
+{"sub": "Die Kluge", "obj": "opera"}
+{"sub": "The Voyevoda", "obj": "opera"}
+{"sub": "Faramondo", "obj": "opera"}
+{"sub": "Ariodante", "obj": "opera"}
+{"sub": "Eugene Onegin", "obj": "opera"}
+{"sub": "Il re pastore", "obj": "opera"}
+{"sub": "Violanta", "obj": "opera"}
+{"sub": "Zanetto", "obj": "opera"}
+{"sub": "Susannah", "obj": "opera"}
+{"sub": "The Fairy-Queen", "obj": "opera"}
+{"sub": "Armida abbandonata", "obj": "opera"}
+{"sub": "Aitkenhead Glacier", "obj": "glacier"}
+{"sub": "Kornicker Glacier", "obj": "glacier"}
+{"sub": "Schytt Glacier", "obj": "glacier"}
+{"sub": "Bering Glacier", "obj": "glacier"}
+{"sub": "Sandy Glacier", "obj": "glacier"}
+{"sub": "Chacaltaya", "obj": "glacier"}
+{"sub": "Sjogren Glacier", "obj": "glacier"}
+{"sub": "Gough Glacier", "obj": "glacier"}
+{"sub": "Wilson Piedmont Glacier", "obj": "glacier"}
+{"sub": "Embree Glacier", "obj": "glacier"}
+{"sub": "Fleming Glacier", "obj": "glacier"}
+{"sub": "Venus Glacier", "obj": "glacier"}
+{"sub": "Dobrudzha Glacier", "obj": "glacier"}
+{"sub": "Victory Glacier", "obj": "glacier"}
+{"sub": "Lake Livingston", "obj": "reservoir"}
+{"sub": "Sudbury Reservoir", "obj": "reservoir"}
+{"sub": "Bratsk Reservoir", "obj": "reservoir"}
+{"sub": "Novosibirsk Reservoir", "obj": "reservoir"}
+{"sub": "Lake Vyrnwy", "obj": "reservoir"}
+{"sub": "Bighorn Lake", "obj": "reservoir"}
+{"sub": "Ringedalsvatnet", "obj": "reservoir"}
+{"sub": "Llyn Dulyn", "obj": "reservoir"}
+{"sub": "Biggesee", "obj": "reservoir"}
+{"sub": "Kiev Reservoir", "obj": "reservoir"}
+{"sub": "Candlewood Lake", "obj": "reservoir"}
+{"sub": "Pactola Lake", "obj": "reservoir"}
+{"sub": "Coedty Reservoir", "obj": "reservoir"}
+{"sub": "Caesar Creek State Park", "obj": "reservoir"}
+{"sub": "Gay Purr-ee", "obj": "film"}
+{"sub": "Coach Carter", "obj": "film"}
+{"sub": "The Golden Compass", "obj": "film"}
+{"sub": "13 Tzameti", "obj": "film"}
+{"sub": "The First Nudie Musical", "obj": "film"}
+{"sub": "The Incredible Shrinking Woman", "obj": "film"}
+{"sub": "American Movie", "obj": "film"}
+{"sub": "Bulworth", "obj": "film"}
+{"sub": "Apocalypse Now", "obj": "film"}
+{"sub": "Money Train", "obj": "film"}
+{"sub": "Pony Soldier", "obj": "film"}
+{"sub": "Born Free", "obj": "film"}
+{"sub": "Cool Runnings", "obj": "film"}
+{"sub": "Monsters University", "obj": "film"}
+{"sub": "Sheffield Castle", "obj": "castle"}
+{"sub": "Brancepeth Castle", "obj": "castle"}
+{"sub": "Berry Pomeroy Castle", "obj": "castle"}
+{"sub": "Lochinvar", "obj": "castle"}
+{"sub": "Kildrummy Castle", "obj": "castle"}
+{"sub": "Wolvesey Castle", "obj": "castle"}
+{"sub": "Bridgnorth Castle", "obj": "castle"}
+{"sub": "Hailes Castle", "obj": "castle"}
+{"sub": "Tantallon Castle", "obj": "castle"}
+{"sub": "Sverresborg", "obj": "castle"}
+{"sub": "Trakai Island Castle", "obj": "castle"}
+{"sub": "Dunluce Castle", "obj": "castle"}
+{"sub": "Cessford Castle", "obj": "castle"}
+{"sub": "Otahuhu", "obj": "suburb"}
+{"sub": "Bishopsworth", "obj": "suburb"}
+{"sub": "Kaleen", "obj": "suburb"}
+{"sub": "Giralang", "obj": "suburb"}
+{"sub": "Gilles Plains", "obj": "suburb"}
+{"sub": "Knoxfield", "obj": "suburb"}
+{"sub": "Gooseberry Hill", "obj": "suburb"}
+{"sub": "Kibera", "obj": "suburb"}
+{"sub": "East Melbourne", "obj": "suburb"}
+{"sub": "Deagon", "obj": "suburb"}
+{"sub": "Stivichall", "obj": "suburb"}
+{"sub": "Bayswater North", "obj": "suburb"}
+{"sub": "Saint Heliers", "obj": "suburb"}
+{"sub": "The Rock Hotel", "obj": "hotel"}
+{"sub": "Eden Roc Renaissance Hotel Miami Beach", "obj": "hotel"}
+{"sub": "Grand Rapids Hotel", "obj": "hotel"}
+{"sub": "Travelodge", "obj": "hotel"}
+{"sub": "British Transport Hotels", "obj": "hotel"}
+{"sub": "Catskill Mountain House", "obj": "hotel"}
+{"sub": "Galt House", "obj": "hotel"}
+{"sub": "Park Heathman Hotel", "obj": "hotel"}
+{"sub": "Rixos Al Rasheed Baghdad Hotel", "obj": "hotel"}
+{"sub": "Hotel Ambos Mundos", "obj": "hotel"}
+{"sub": "Omni Bedford Springs Resort", "obj": "hotel"}
+{"sub": "Hong Kong Philharmonic Orchestra", "obj": "orchestra"}
+{"sub": "New York Philharmonic", "obj": "orchestra"}
+{"sub": "Staatskapelle Halle", "obj": "orchestra"}
+{"sub": "Mariinsky Theatre Orchestra", "obj": "orchestra"}
+{"sub": "Munich Symphony Orchestra", "obj": "orchestra"}
+{"sub": "Chicago Sinfonietta", "obj": "orchestra"}
+{"sub": "Denver Symphony Orchestra", "obj": "orchestra"}
+{"sub": "Orlando Philharmonic Orchestra", "obj": "orchestra"}
+{"sub": "Tokyo Philharmonic Orchestra", "obj": "orchestra"}
+{"sub": "Ictus Ensemble", "obj": "orchestra"}
+{"sub": "Columbus Symphony", "obj": "orchestra"}
+{"sub": "Brookwood Cemetery", "obj": "cemetery"}
+{"sub": "Osney Cemetery", "obj": "cemetery"}
+{"sub": "Mount Holly Cemetery", "obj": "cemetery"}
+{"sub": "Green Mount Cemetery", "obj": "cemetery"}
+{"sub": "Graceland Cemetery", "obj": "cemetery"}
+{"sub": "Hooge Crater Commonwealth War Graves Commission Cemetery", "obj": "cemetery"}
+{"sub": "York Cemetery, York", "obj": "cemetery"}
+{"sub": "Erie Cemetery", "obj": "cemetery"}
+{"sub": "Fort Custer National Cemetery", "obj": "cemetery"}
+{"sub": "Notre Dame des Neiges Cemetery", "obj": "cemetery"}
+{"sub": "Myrtle Hill Cemetery", "obj": "cemetery"}
+{"sub": "1st Foreign Regiment", "obj": "regiment"}
+{"sub": "69th Infantry Regiment", "obj": "regiment"}
+{"sub": "32nd Regiment Royal Artillery", "obj": "regiment"}
+{"sub": "Burma Rifles", "obj": "regiment"}
+{"sub": "16th Cavalry Regiment", "obj": "regiment"}
+{"sub": "North Somerset Yeomanry", "obj": "regiment"}
+{"sub": "Regiment of Mounted Grenadiers", "obj": "regiment"}
+{"sub": "3rd Alpini Regiment", "obj": "regiment"}
+{"sub": "64th Armor Regiment", "obj": "regiment"}
+{"sub": "Devonshire Regiment", "obj": "regiment"}
+{"sub": "Taco Bell Arena", "obj": "arena"}
+{"sub": "National Basketball Arena", "obj": "arena"}
+{"sub": "Changchun Wuhuan Gymnasium", "obj": "arena"}
+{"sub": "Manchester Arena", "obj": "arena"}
+{"sub": "Taipei Arena", "obj": "arena"}
+{"sub": "Scotiabank Arena", "obj": "arena"}
+{"sub": "Nippon Gaishi Hall", "obj": "arena"}
+{"sub": "Miss Jummy", "obj": "Thoroughbred"}
+{"sub": "Cannonade", "obj": "Thoroughbred"}
+{"sub": "Sweet Solera", "obj": "Thoroughbred"}
+{"sub": "Never Bend", "obj": "Thoroughbred"}
+{"sub": "Sky Classic", "obj": "Thoroughbred"}
+{"sub": "Swynford", "obj": "Thoroughbred"}
+{"sub": "Lahan", "obj": "Thoroughbred"}
+{"sub": "Levator anguli oris", "obj": "muscle"}
+{"sub": "Subclavius muscle", "obj": "muscle"}
+{"sub": "stapedius muscle", "obj": "muscle"}
+{"sub": "Inferior gemellus muscle", "obj": "muscle"}
+{"sub": "abductor pollicis brevis muscle", "obj": "muscle"}
+{"sub": "fibularis longus", "obj": "muscle"}
+{"sub": "Mentalis", "obj": "muscle"}
+{"sub": "Orval Abbey", "obj": "monastery"}
+{"sub": "Steinfeld Abbey", "obj": "monastery"}
+{"sub": "Brauweiler Abbey", "obj": "monastery"}
+{"sub": "Praskvica Monastery", "obj": "monastery"}
+{"sub": "Antvorskov", "obj": "monastery"}
+{"sub": "Pantokratoros monastery", "obj": "monastery"}
+{"sub": "Valday Iversky Monastery", "obj": "monastery"}
+{"sub": "Styrian dialect group", "obj": "dialect"}
+{"sub": "Tweants", "obj": "dialect"}
+{"sub": "Brandenburgisch dialect", "obj": "dialect"}
+{"sub": "Milanese", "obj": "dialect"}
+{"sub": "Yorkshire dialect", "obj": "dialect"}
+{"sub": "High Franconian German", "obj": "dialect"}
+{"sub": "Old Godavari Bridge", "obj": "bridge"}
+{"sub": "Mathur Aqueduct", "obj": "bridge"}
+{"sub": "Billings Bridge", "obj": "bridge"}
+{"sub": "Northampton Street Bridge", "obj": "bridge"}
+{"sub": "Panther Hollow Bridge", "obj": "bridge"}
+{"sub": "Eiffel Bridge, Ungheni", "obj": "bridge"}
+{"sub": "193rd Infantry Brigade", "obj": "brigade"}
+{"sub": "8th Armored Brigade", "obj": "brigade"}
+{"sub": "48th Infantry Brigade Combat Team", "obj": "brigade"}
+{"sub": "95th Civil Affairs Brigade", "obj": "brigade"}
+{"sub": "2nd Marine Expeditionary Brigade", "obj": "brigade"}
+{"sub": "Saint John-Fundy", "obj": "constituency"}
+{"sub": "Brussels-Halle-Vilvoorde", "obj": "constituency"}
+{"sub": "Westminster-Richmond", "obj": "constituency"}
+{"sub": "Powell River-Sunshine Coast", "obj": "constituency"}
+{"sub": "Saskatoon Massey Place", "obj": "constituency"}
+{"sub": "Siding Spring Observatory", "obj": "observatory"}
+{"sub": "Ametlla de Mar Observatory", "obj": "observatory"}
+{"sub": "Pulkovo Observatory", "obj": "observatory"}
+{"sub": "Mount Laguna Observatory", "obj": "observatory"}
+{"sub": "Sonneberg Observatory", "obj": "observatory"}
+{"sub": "Catrake Force", "obj": "waterfall"}
+{"sub": "Khone Phapheng Falls", "obj": "waterfall"}
+{"sub": "Dry Falls", "obj": "waterfall"}
+{"sub": "Maria Cristina Falls", "obj": "waterfall"}
+{"sub": "Della Falls", "obj": "waterfall"}
+{"sub": "The Gay Life", "obj": "musical"}
+{"sub": "Sister Act", "obj": "musical"}
+{"sub": "Starlight Express", "obj": "musical"}
+{"sub": "Call Me Madam", "obj": "musical"}
+{"sub": "Beach Blanket Babylon", "obj": "musical"}
+{"sub": "Cleveland Point Light", "obj": "lighthouse"}
+{"sub": "Ryvingen Lighthouse", "obj": "lighthouse"}
+{"sub": "Lighthouse of Alexandria", "obj": "lighthouse"}
+{"sub": "Galley Head Lighthouse", "obj": "lighthouse"}
+{"sub": "Highland Light", "obj": "lighthouse"}
+{"sub": "Sorpe Reservoir", "obj": "dam"}
+{"sub": "Roxburgh Dam", "obj": "dam"}
+{"sub": "Volga Hydroelectric Station", "obj": "dam"}
+{"sub": "Limestone Generating Station", "obj": "dam"}
+{"sub": "Afsluitdijk", "obj": "dam"}
+{"sub": "Maximum-margin hyperplane", "obj": "theorem"}
+{"sub": "isomorphism theorem", "obj": "theorem"}
+{"sub": "Kodaira vanishing theorem", "obj": "theorem"}
+{"sub": "Nash embedding theorem", "obj": "theorem"}
+{"sub": "the inscribed angle theorem", "obj": "theorem"}
+{"sub": "Bass Formation", "obj": "formation"}
+{"sub": "Nemegt Formation", "obj": "formation"}
+{"sub": "Cutler Formation", "obj": "formation"}
+{"sub": "Spirit River Formation", "obj": "formation"}
+{"sub": "Pierre Shale", "obj": "formation"}
+{"sub": "leuprolide", "obj": "medication"}
+{"sub": "naloxone", "obj": "medication"}
+{"sub": "alfuzosin", "obj": "medication"}
+{"sub": "ribavirin", "obj": "medication"}
+{"sub": "\u03b2-lactulose", "obj": "medication"}
+{"sub": "2006 Borujerd earthquake", "obj": "earthquake"}
+{"sub": "1855 Ansei Edo earthquake", "obj": "earthquake"}
+{"sub": "1855 Wairarapa earthquake", "obj": "earthquake"}
+{"sub": "1988 Spitak earthquake", "obj": "earthquake"}
+{"sub": "2008 Sichuan earthquake", "obj": "earthquake"}
+{"sub": "Chora Church", "obj": "mosque"}
+{"sub": "Cave of the Patriarchs", "obj": "mosque"}
+{"sub": "Sayyidah Zaynab Mosque", "obj": "mosque"}
+{"sub": "Babri Masjid", "obj": "mosque"}
+{"sub": "Imam Husayn Shrine", "obj": "mosque"}
+{"sub": "Fantomex", "obj": "superhero"}
+{"sub": "Kyle Rayner", "obj": "superhero"}
+{"sub": "Thunderbolt Ross", "obj": "superhero"}
+{"sub": "Spider-Man 2099", "obj": "superhero"}
+{"sub": "Memorial Tunnel", "obj": "tunnel"}
+{"sub": "Houston tunnel system", "obj": "tunnel"}
+{"sub": "Aberdeen Tunnel", "obj": "tunnel"}
+{"sub": "Staple Bend Tunnel", "obj": "tunnel"}
+{"sub": "Molson", "obj": "brewery"}
+{"sub": "Cantillon Brewery", "obj": "brewery"}
+{"sub": "Ringnes", "obj": "brewery"}
+{"sub": "Heineken", "obj": "brewery"}
+{"sub": "Vyborg Library", "obj": "library"}
+{"sub": "Uppsala University Library", "obj": "library"}
+{"sub": "Harvard Library", "obj": "library"}
+{"sub": "Library Company of Philadelphia", "obj": "library"}
+{"sub": "Princeton Theological Seminary", "obj": "seminary"}
+{"sub": "Darul Uloom Haqqania", "obj": "seminary"}
+{"sub": "United Theological Seminary", "obj": "seminary"}

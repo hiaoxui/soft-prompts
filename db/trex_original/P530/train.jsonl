@@ -1,0 +1,741 @@
+{"sub": "Bolivia", "obj": "Israel"}
+{"sub": "Angola", "obj": "Portugal"}
+{"sub": "Mexico", "obj": "Brazil"}
+{"sub": "New Zealand", "obj": "Fiji"}
+{"sub": "Taiwan", "obj": "Philippines"}
+{"sub": "Germany", "obj": "Pakistan"}
+{"sub": "United Kingdom", "obj": "Spain"}
+{"sub": "Tajikistan", "obj": "Russia"}
+{"sub": "Chile", "obj": "Italy"}
+{"sub": "Russia", "obj": "Cambodia"}
+{"sub": "Australia", "obj": "Jamaica"}
+{"sub": "Serbia", "obj": "Italy"}
+{"sub": "United Kingdom", "obj": "Canada"}
+{"sub": "Thailand", "obj": "Laos"}
+{"sub": "Greece", "obj": "Nigeria"}
+{"sub": "Australia", "obj": "Cameroon"}
+{"sub": "Venezuela", "obj": "Canada"}
+{"sub": "Montenegro", "obj": "Serbia"}
+{"sub": "Ireland", "obj": "France"}
+{"sub": "Canada", "obj": "Ukraine"}
+{"sub": "Greece", "obj": "Malta"}
+{"sub": "Netherlands", "obj": "Singapore"}
+{"sub": "South Africa", "obj": "Philippines"}
+{"sub": "Taiwan", "obj": "Mongolia"}
+{"sub": "Armenia", "obj": "Cyprus"}
+{"sub": "Japan", "obj": "Bhutan"}
+{"sub": "Hungary", "obj": "Ukraine"}
+{"sub": "People's Republic of China", "obj": "Nepal"}
+{"sub": "Austria", "obj": "Hungary"}
+{"sub": "Cuba", "obj": "Mexico"}
+{"sub": "Venezuela", "obj": "Colombia"}
+{"sub": "Nigeria", "obj": "Angola"}
+{"sub": "Russia", "obj": "Slovenia"}
+{"sub": "France", "obj": "Somalia"}
+{"sub": "Romania", "obj": "France"}
+{"sub": "Nigeria", "obj": "Chad"}
+{"sub": "El Salvador", "obj": "Mexico"}
+{"sub": "South Korea", "obj": "Italy"}
+{"sub": "Paraguay", "obj": "Argentina"}
+{"sub": "Denmark", "obj": "Netherlands"}
+{"sub": "European Union", "obj": "Israel"}
+{"sub": "Peru", "obj": "Chile"}
+{"sub": "Italy", "obj": "Yugoslavia"}
+{"sub": "Italy", "obj": "Azerbaijan"}
+{"sub": "Canada", "obj": "France"}
+{"sub": "Turkmenistan", "obj": "Iran"}
+{"sub": "Greece", "obj": "Armenia"}
+{"sub": "Bangladesh", "obj": "Pakistan"}
+{"sub": "Germany", "obj": "Romania"}
+{"sub": "United Arab Emirates", "obj": "Oman"}
+{"sub": "Paraguay", "obj": "Uruguay"}
+{"sub": "Papua New Guinea", "obj": "Indonesia"}
+{"sub": "Thailand", "obj": "Cambodia"}
+{"sub": "Yugoslavia", "obj": "Italy"}
+{"sub": "Suriname", "obj": "Guyana"}
+{"sub": "Guatemala", "obj": "Belize"}
+{"sub": "Sweden", "obj": "Finland"}
+{"sub": "Germany", "obj": "Nicaragua"}
+{"sub": "Philippines", "obj": "Australia"}
+{"sub": "United Kingdom", "obj": "Romania"}
+{"sub": "Mauritania", "obj": "Mali"}
+{"sub": "Saudi Arabia", "obj": "Thailand"}
+{"sub": "India", "obj": "Japan"}
+{"sub": "Ireland", "obj": "Greece"}
+{"sub": "European Union", "obj": "Kenya"}
+{"sub": "Syria", "obj": "Turkey"}
+{"sub": "Kosovo", "obj": "Montenegro"}
+{"sub": "Grenada", "obj": "Barbados"}
+{"sub": "Bangladesh", "obj": "Japan"}
+{"sub": "Russia", "obj": "Spain"}
+{"sub": "Poland", "obj": "Germany"}
+{"sub": "Mexico", "obj": "Kazakhstan"}
+{"sub": "Chad", "obj": "Libya"}
+{"sub": "Croatia", "obj": "Argentina"}
+{"sub": "Barbados", "obj": "Brazil"}
+{"sub": "Bulgaria", "obj": "Hungary"}
+{"sub": "India", "obj": "Nepal"}
+{"sub": "Ukraine", "obj": "Brazil"}
+{"sub": "Zimbabwe", "obj": "Germany"}
+{"sub": "Russia", "obj": "Pakistan"}
+{"sub": "Mexico", "obj": "Morocco"}
+{"sub": "Niger", "obj": "Nigeria"}
+{"sub": "Bulgaria", "obj": "Turkey"}
+{"sub": "Lithuania", "obj": "Poland"}
+{"sub": "Austria", "obj": "Ukraine"}
+{"sub": "Slovakia", "obj": "Poland"}
+{"sub": "Kosovo", "obj": "Finland"}
+{"sub": "Thailand", "obj": "Indonesia"}
+{"sub": "Kazakhstan", "obj": "Armenia"}
+{"sub": "Hong Kong", "obj": "Taiwan"}
+{"sub": "Pakistan", "obj": "Kuwait"}
+{"sub": "Belize", "obj": "Guatemala"}
+{"sub": "South Africa", "obj": "Malawi"}
+{"sub": "Philippines", "obj": "Mexico"}
+{"sub": "South Korea", "obj": "Afghanistan"}
+{"sub": "Armenia", "obj": "Brazil"}
+{"sub": "North Korea", "obj": "Syria"}
+{"sub": "Norway", "obj": "Denmark"}
+{"sub": "European Union", "obj": "Tunisia"}
+{"sub": "Finland", "obj": "Latvia"}
+{"sub": "Greece", "obj": "Albania"}
+{"sub": "Russia", "obj": "Ukraine"}
+{"sub": "Mozambique", "obj": "Malawi"}
+{"sub": "South Sudan", "obj": "Kenya"}
+{"sub": "Germany", "obj": "Malaysia"}
+{"sub": "Afghanistan", "obj": "Norway"}
+{"sub": "Spain", "obj": "Venezuela"}
+{"sub": "Thailand", "obj": "Japan"}
+{"sub": "Cambodia", "obj": "Australia"}
+{"sub": "South Africa", "obj": "Nigeria"}
+{"sub": "India", "obj": "Vietnam"}
+{"sub": "Morocco", "obj": "Portugal"}
+{"sub": "Cyprus", "obj": "Armenia"}
+{"sub": "Czech Republic", "obj": "Poland"}
+{"sub": "Germany", "obj": "Ecuador"}
+{"sub": "Latvia", "obj": "Poland"}
+{"sub": "Brunei", "obj": "Singapore"}
+{"sub": "Bulgaria", "obj": "Mongolia"}
+{"sub": "Albania", "obj": "Croatia"}
+{"sub": "Norway", "obj": "Nepal"}
+{"sub": "Poland", "obj": "Bulgaria"}
+{"sub": "Botswana", "obj": "Zambia"}
+{"sub": "Mozambique", "obj": "Zambia"}
+{"sub": "France", "obj": "Cambodia"}
+{"sub": "France", "obj": "Greece"}
+{"sub": "Afghanistan", "obj": "Denmark"}
+{"sub": "India", "obj": "Portugal"}
+{"sub": "Togo", "obj": "Ghana"}
+{"sub": "Romania", "obj": "Vietnam"}
+{"sub": "United Arab Emirates", "obj": "Egypt"}
+{"sub": "South Korea", "obj": "Indonesia"}
+{"sub": "Soviet Union", "obj": "Pakistan"}
+{"sub": "Costa Rica", "obj": "Mexico"}
+{"sub": "South Sudan", "obj": "Uganda"}
+{"sub": "United Kingdom", "obj": "Malaysia"}
+{"sub": "Holy See", "obj": "Serbia"}
+{"sub": "India", "obj": "Fiji"}
+{"sub": "Iraq", "obj": "France"}
+{"sub": "Croatia", "obj": "Serbia"}
+{"sub": "Tajikistan", "obj": "Uzbekistan"}
+{"sub": "South Africa", "obj": "Kenya"}
+{"sub": "India", "obj": "Thailand"}
+{"sub": "Indonesia", "obj": "Iran"}
+{"sub": "Poland", "obj": "Ukraine"}
+{"sub": "Germany", "obj": "India"}
+{"sub": "Vietnam", "obj": "Malaysia"}
+{"sub": "Estonia", "obj": "Latvia"}
+{"sub": "Iran", "obj": "Georgia"}
+{"sub": "Singapore", "obj": "Taiwan"}
+{"sub": "Belarus", "obj": "Israel"}
+{"sub": "India", "obj": "Kenya"}
+{"sub": "Iraq", "obj": "Turkey"}
+{"sub": "Soviet Union", "obj": "Yugoslavia"}
+{"sub": "People's Republic of China", "obj": "Mongolia"}
+{"sub": "Spain", "obj": "France"}
+{"sub": "Japan", "obj": "Finland"}
+{"sub": "Lithuania", "obj": "Ukraine"}
+{"sub": "Germany", "obj": "Lithuania"}
+{"sub": "Switzerland", "obj": "Austria"}
+{"sub": "Turkey", "obj": "Israel"}
+{"sub": "United Kingdom", "obj": "Kenya"}
+{"sub": "Georgia", "obj": "Iraq"}
+{"sub": "Bulgaria", "obj": "Greece"}
+{"sub": "Denmark", "obj": "Iraq"}
+{"sub": "Latvia", "obj": "Estonia"}
+{"sub": "Russia", "obj": "Kazakhstan"}
+{"sub": "Pakistan", "obj": "Iran"}
+{"sub": "Austria", "obj": "Croatia"}
+{"sub": "Uruguay", "obj": "Italy"}
+{"sub": "Libya", "obj": "Algeria"}
+{"sub": "Indonesia", "obj": "Brunei"}
+{"sub": "Chile", "obj": "Cuba"}
+{"sub": "United States of America", "obj": "Canada"}
+{"sub": "Brunei", "obj": "Malaysia"}
+{"sub": "Pakistan", "obj": "Bangladesh"}
+{"sub": "Russia", "obj": "Bulgaria"}
+{"sub": "India", "obj": "Guyana"}
+{"sub": "Australia", "obj": "Bolivia"}
+{"sub": "Israel", "obj": "Cyprus"}
+{"sub": "United Kingdom", "obj": "Uruguay"}
+{"sub": "Australia", "obj": "Zambia"}
+{"sub": "Soviet Union", "obj": "Israel"}
+{"sub": "Serbia", "obj": "Greece"}
+{"sub": "Iraq", "obj": "Jordan"}
+{"sub": "Netherlands", "obj": "Belgium"}
+{"sub": "India", "obj": "Philippines"}
+{"sub": "Burkina Faso", "obj": "Ghana"}
+{"sub": "Argentina", "obj": "Uruguay"}
+{"sub": "Libya", "obj": "Yemen"}
+{"sub": "Eritrea", "obj": "Yemen"}
+{"sub": "Armenia", "obj": "Kazakhstan"}
+{"sub": "Greece", "obj": "Turkey"}
+{"sub": "Romania", "obj": "Hungary"}
+{"sub": "Germany", "obj": "Armenia"}
+{"sub": "India", "obj": "Iran"}
+{"sub": "Czechoslovakia", "obj": "Poland"}
+{"sub": "Egypt", "obj": "Ethiopia"}
+{"sub": "Colombia", "obj": "Ecuador"}
+{"sub": "Equatorial Guinea", "obj": "Brazil"}
+{"sub": "Afghanistan", "obj": "Pakistan"}
+{"sub": "Somalia", "obj": "Kenya"}
+{"sub": "European Union", "obj": "Cambodia"}
+{"sub": "Ethiopia", "obj": "Canada"}
+{"sub": "United Kingdom", "obj": "Barbados"}
+{"sub": "Georgia", "obj": "Lithuania"}
+{"sub": "Malawi", "obj": "Mozambique"}
+{"sub": "India", "obj": "Morocco"}
+{"sub": "Hong Kong", "obj": "Macau"}
+{"sub": "Uzbekistan", "obj": "Russia"}
+{"sub": "Egypt", "obj": "Syria"}
+{"sub": "European Union", "obj": "Monaco"}
+{"sub": "Bulgaria", "obj": "Ukraine"}
+{"sub": "Croatia", "obj": "Hungary"}
+{"sub": "Philippines", "obj": "Vietnam"}
+{"sub": "Germany", "obj": "Nigeria"}
+{"sub": "India", "obj": "Cambodia"}
+{"sub": "Hungary", "obj": "Poland"}
+{"sub": "Greece", "obj": "Moldova"}
+{"sub": "Pakistan", "obj": "Japan"}
+{"sub": "Georgia", "obj": "Kazakhstan"}
+{"sub": "Turkey", "obj": "Syria"}
+{"sub": "India", "obj": "Ukraine"}
+{"sub": "Indonesia", "obj": "Malaysia"}
+{"sub": "Armenia", "obj": "Iran"}
+{"sub": "United Kingdom", "obj": "Brunei"}
+{"sub": "Russia", "obj": "Sweden"}
+{"sub": "Republic of the Congo", "obj": "Taiwan"}
+{"sub": "Peru", "obj": "Colombia"}
+{"sub": "Romania", "obj": "Armenia"}
+{"sub": "Libya", "obj": "Germany"}
+{"sub": "Japan", "obj": "Thailand"}
+{"sub": "Tajikistan", "obj": "Pakistan"}
+{"sub": "Finland", "obj": "Norway"}
+{"sub": "Albania", "obj": "Turkey"}
+{"sub": "Brazil", "obj": "Paraguay"}
+{"sub": "European Union", "obj": "Honduras"}
+{"sub": "Bulgaria", "obj": "Australia"}
+{"sub": "Turkey", "obj": "Kazakhstan"}
+{"sub": "Iraq", "obj": "Lebanon"}
+{"sub": "Germany", "obj": "Kosovo"}
+{"sub": "Hungary", "obj": "Germany"}
+{"sub": "Germany", "obj": "Liberia"}
+{"sub": "Canada", "obj": "Cuba"}
+{"sub": "Colombia", "obj": "Panama"}
+{"sub": "Romania", "obj": "Greece"}
+{"sub": "Poland", "obj": "Slovakia"}
+{"sub": "Spain", "obj": "Greece"}
+{"sub": "Costa Rica", "obj": "Brazil"}
+{"sub": "Norway", "obj": "Iceland"}
+{"sub": "Russia", "obj": "Switzerland"}
+{"sub": "Israel", "obj": "Japan"}
+{"sub": "India", "obj": "France"}
+{"sub": "Moldova", "obj": "Romania"}
+{"sub": "Russia", "obj": "Montenegro"}
+{"sub": "Turkey", "obj": "France"}
+{"sub": "Saudi Arabia", "obj": "Iraq"}
+{"sub": "Luxembourg", "obj": "Italy"}
+{"sub": "Isle of Man", "obj": "Ireland"}
+{"sub": "Spain", "obj": "Philippines"}
+{"sub": "United Kingdom", "obj": "Malta"}
+{"sub": "North Korea", "obj": "Pakistan"}
+{"sub": "Moldova", "obj": "Russia"}
+{"sub": "Morocco", "obj": "Algeria"}
+{"sub": "France", "obj": "Poland"}
+{"sub": "France", "obj": "Vietnam"}
+{"sub": "Tunisia", "obj": "Israel"}
+{"sub": "Thailand", "obj": "Bhutan"}
+{"sub": "France", "obj": "Haiti"}
+{"sub": "Germany", "obj": "Russia"}
+{"sub": "United Kingdom", "obj": "Brazil"}
+{"sub": "Hungary", "obj": "Slovakia"}
+{"sub": "South Africa", "obj": "Ghana"}
+{"sub": "Kenya", "obj": "Mexico"}
+{"sub": "Norway", "obj": "Pakistan"}
+{"sub": "Uzbekistan", "obj": "Kyrgyzstan"}
+{"sub": "Mexico", "obj": "Russia"}
+{"sub": "European Union", "obj": "Switzerland"}
+{"sub": "Egypt", "obj": "Cyprus"}
+{"sub": "Bangladesh", "obj": "Bhutan"}
+{"sub": "Georgia", "obj": "Israel"}
+{"sub": "Mongolia", "obj": "Taiwan"}
+{"sub": "France", "obj": "Hungary"}
+{"sub": "Denmark", "obj": "Latvia"}
+{"sub": "Indonesia", "obj": "Philippines"}
+{"sub": "Finland", "obj": "Slovenia"}
+{"sub": "Spain", "obj": "Poland"}
+{"sub": "Germany", "obj": "Iceland"}
+{"sub": "Lebanon", "obj": "Russia"}
+{"sub": "Canada", "obj": "Armenia"}
+{"sub": "Canada", "obj": "Qatar"}
+{"sub": "Israel", "obj": "Nigeria"}
+{"sub": "Latvia", "obj": "Belarus"}
+{"sub": "Singapore", "obj": "Thailand"}
+{"sub": "Iceland", "obj": "Denmark"}
+{"sub": "Saudi Arabia", "obj": "Iran"}
+{"sub": "Iceland", "obj": "Greece"}
+{"sub": "State of Palestine", "obj": "Iran"}
+{"sub": "North Macedonia", "obj": "Greece"}
+{"sub": "Somalia", "obj": "Turkey"}
+{"sub": "Italy", "obj": "Latvia"}
+{"sub": "United States of America", "obj": "Guyana"}
+{"sub": "Denmark", "obj": "Zambia"}
+{"sub": "Belarus", "obj": "Switzerland"}
+{"sub": "Soviet Union", "obj": "Laos"}
+{"sub": "Bulgaria", "obj": "Georgia"}
+{"sub": "Rwanda", "obj": "Malawi"}
+{"sub": "Belgium", "obj": "Turkey"}
+{"sub": "Hungary", "obj": "Romania"}
+{"sub": "European Union", "obj": "Bangladesh"}
+{"sub": "Germany", "obj": "Tanzania"}
+{"sub": "Indonesia", "obj": "Bangladesh"}
+{"sub": "United Kingdom", "obj": "Norway"}
+{"sub": "Finland", "obj": "Sweden"}
+{"sub": "France", "obj": "Lebanon"}
+{"sub": "Portugal", "obj": "Indonesia"}
+{"sub": "Colombia", "obj": "Spain"}
+{"sub": "United States of America", "obj": "Bahrain"}
+{"sub": "Qatar", "obj": "Israel"}
+{"sub": "Ethiopia", "obj": "Egypt"}
+{"sub": "Malaysia", "obj": "Thailand"}
+{"sub": "European Union", "obj": "Greenland"}
+{"sub": "Cyprus", "obj": "Egypt"}
+{"sub": "Libya", "obj": "Malta"}
+{"sub": "Indonesia", "obj": "Vietnam"}
+{"sub": "Georgia", "obj": "Armenia"}
+{"sub": "Hong Kong", "obj": "Singapore"}
+{"sub": "South Korea", "obj": "Mexico"}
+{"sub": "Taiwan", "obj": "Japan"}
+{"sub": "Sudan", "obj": "Kenya"}
+{"sub": "Germany", "obj": "Haiti"}
+{"sub": "France", "obj": "Tunisia"}
+{"sub": "Belarus", "obj": "Italy"}
+{"sub": "Spain", "obj": "Paraguay"}
+{"sub": "Vietnam", "obj": "Indonesia"}
+{"sub": "Italy", "obj": "Chile"}
+{"sub": "Slovenia", "obj": "Hungary"}
+{"sub": "Indonesia", "obj": "Thailand"}
+{"sub": "France", "obj": "Mauritius"}
+{"sub": "Russia", "obj": "Latvia"}
+{"sub": "Australia", "obj": "Iraq"}
+{"sub": "Mexico", "obj": "Guatemala"}
+{"sub": "Armenia", "obj": "Azerbaijan"}
+{"sub": "United Kingdom", "obj": "Bahrain"}
+{"sub": "European Union", "obj": "Moldova"}
+{"sub": "Croatia", "obj": "Austria"}
+{"sub": "Algeria", "obj": "Tunisia"}
+{"sub": "Peru", "obj": "Bolivia"}
+{"sub": "France", "obj": "Malaysia"}
+{"sub": "Cuba", "obj": "Philippines"}
+{"sub": "India", "obj": "Panama"}
+{"sub": "Latvia", "obj": "Iceland"}
+{"sub": "Paraguay", "obj": "Italy"}
+{"sub": "Bosnia and Herzegovina", "obj": "Turkey"}
+{"sub": "Turkey", "obj": "Kosovo"}
+{"sub": "Canada", "obj": "Jamaica"}
+{"sub": "Germany", "obj": "Malawi"}
+{"sub": "Denmark", "obj": "Cyprus"}
+{"sub": "Estonia", "obj": "Sweden"}
+{"sub": "India", "obj": "Singapore"}
+{"sub": "Russia", "obj": "Poland"}
+{"sub": "Cyprus", "obj": "Germany"}
+{"sub": "Italy", "obj": "Belgium"}
+{"sub": "Denmark", "obj": "Lithuania"}
+{"sub": "Azerbaijan", "obj": "Turkey"}
+{"sub": "Panama", "obj": "Colombia"}
+{"sub": "Denmark", "obj": "Australia"}
+{"sub": "Somalia", "obj": "Yemen"}
+{"sub": "Germany", "obj": "Montenegro"}
+{"sub": "Iran", "obj": "Kyrgyzstan"}
+{"sub": "Indonesia", "obj": "Japan"}
+{"sub": "Hungary", "obj": "Slovenia"}
+{"sub": "Romania", "obj": "Moldova"}
+{"sub": "North Korea", "obj": "Australia"}
+{"sub": "Georgia", "obj": "Latvia"}
+{"sub": "Venezuela", "obj": "Russia"}
+{"sub": "Slovenia", "obj": "Kosovo"}
+{"sub": "India", "obj": "Guatemala"}
+{"sub": "Russia", "obj": "Austria"}
+{"sub": "Guyana", "obj": "Barbados"}
+{"sub": "Cambodia", "obj": "Vietnam"}
+{"sub": "India", "obj": "Mongolia"}
+{"sub": "France", "obj": "Norway"}
+{"sub": "Morocco", "obj": "France"}
+{"sub": "Hungary", "obj": "Bulgaria"}
+{"sub": "India", "obj": "Mauritius"}
+{"sub": "Germany", "obj": "Estonia"}
+{"sub": "Kenya", "obj": "Somalia"}
+{"sub": "Egypt", "obj": "Kenya"}
+{"sub": "Serbia", "obj": "Montenegro"}
+{"sub": "Armenia", "obj": "Turkey"}
+{"sub": "Chad", "obj": "Nigeria"}
+{"sub": "Ethiopia", "obj": "Kenya"}
+{"sub": "Croatia", "obj": "Slovenia"}
+{"sub": "India", "obj": "Madagascar"}
+{"sub": "Pakistan", "obj": "Morocco"}
+{"sub": "Portugal", "obj": "Armenia"}
+{"sub": "Slovakia", "obj": "Ukraine"}
+{"sub": "Tajikistan", "obj": "Kyrgyzstan"}
+{"sub": "Japan", "obj": "Mexico"}
+{"sub": "Somalia", "obj": "Ethiopia"}
+{"sub": "Portugal", "obj": "Morocco"}
+{"sub": "Mauritania", "obj": "Israel"}
+{"sub": "Russia", "obj": "Germany"}
+{"sub": "Chile", "obj": "Uruguay"}
+{"sub": "Algeria", "obj": "France"}
+{"sub": "Poland", "obj": "Lithuania"}
+{"sub": "Bahrain", "obj": "Pakistan"}
+{"sub": "Serbia", "obj": "Kazakhstan"}
+{"sub": "India", "obj": "Malta"}
+{"sub": "Tajikistan", "obj": "Armenia"}
+{"sub": "Israel", "obj": "Nepal"}
+{"sub": "Lithuania", "obj": "Belarus"}
+{"sub": "Iran", "obj": "Turkey"}
+{"sub": "Israel", "obj": "Romania"}
+{"sub": "Russia", "obj": "Philippines"}
+{"sub": "Argentina", "obj": "Paraguay"}
+{"sub": "Japan", "obj": "Nepal"}
+{"sub": "European Union", "obj": "Armenia"}
+{"sub": "Chile", "obj": "Peru"}
+{"sub": "Sri Lanka", "obj": "Bangladesh"}
+{"sub": "South Korea", "obj": "Kazakhstan"}
+{"sub": "Brazil", "obj": "Greece"}
+{"sub": "Australia", "obj": "Myanmar"}
+{"sub": "United Kingdom", "obj": "Argentina"}
+{"sub": "Pakistan", "obj": "Mexico"}
+{"sub": "Central African Republic", "obj": "Morocco"}
+{"sub": "Libya", "obj": "Chad"}
+{"sub": "Algeria", "obj": "Morocco"}
+{"sub": "Chile", "obj": "Bolivia"}
+{"sub": "Georgia", "obj": "Turkey"}
+{"sub": "Afghanistan", "obj": "Georgia"}
+{"sub": "European Union", "obj": "Georgia"}
+{"sub": "Estonia", "obj": "Finland"}
+{"sub": "Russia", "obj": "Greece"}
+{"sub": "Mexico", "obj": "Cuba"}
+{"sub": "Pakistan", "obj": "Kazakhstan"}
+{"sub": "Russia", "obj": "Norway"}
+{"sub": "Egypt", "obj": "Sudan"}
+{"sub": "Nicaragua", "obj": "Mexico"}
+{"sub": "People's Republic of China", "obj": "Cuba"}
+{"sub": "South Africa", "obj": "Angola"}
+{"sub": "Georgia", "obj": "Azerbaijan"}
+{"sub": "Iraq", "obj": "Iran"}
+{"sub": "Russia", "obj": "Armenia"}
+{"sub": "Belarus", "obj": "Azerbaijan"}
+{"sub": "South Africa", "obj": "Namibia"}
+{"sub": "United Kingdom", "obj": "Iceland"}
+{"sub": "Japan", "obj": "Taiwan"}
+{"sub": "Venezuela", "obj": "Jamaica"}
+{"sub": "Bolivia", "obj": "Peru"}
+{"sub": "Denmark", "obj": "Estonia"}
+{"sub": "France", "obj": "Spain"}
+{"sub": "Namibia", "obj": "Zimbabwe"}
+{"sub": "Russia", "obj": "Netherlands"}
+{"sub": "Japan", "obj": "Bangladesh"}
+{"sub": "Bulgaria", "obj": "Kosovo"}
+{"sub": "European Union", "obj": "Lebanon"}
+{"sub": "Iran", "obj": "Sudan"}
+{"sub": "Belarus", "obj": "Malaysia"}
+{"sub": "European Union", "obj": "India"}
+{"sub": "United Kingdom", "obj": "Ireland"}
+{"sub": "Brazil", "obj": "Mozambique"}
+{"sub": "Mexico", "obj": "Honduras"}
+{"sub": "Chile", "obj": "Jamaica"}
+{"sub": "Japan", "obj": "Cambodia"}
+{"sub": "European Union", "obj": "Kazakhstan"}
+{"sub": "South Korea", "obj": "Georgia"}
+{"sub": "Belarus", "obj": "Kazakhstan"}
+{"sub": "France", "obj": "Pakistan"}
+{"sub": "Iran", "obj": "Uzbekistan"}
+{"sub": "India", "obj": "Afghanistan"}
+{"sub": "Egypt", "obj": "Armenia"}
+{"sub": "Cambodia", "obj": "Thailand"}
+{"sub": "Bosnia and Herzegovina", "obj": "Serbia"}
+{"sub": "Afghanistan", "obj": "Iran"}
+{"sub": "Russia", "obj": "Hungary"}
+{"sub": "United Kingdom", "obj": "Venezuela"}
+{"sub": "Poland", "obj": "Belarus"}
+{"sub": "Japan", "obj": "Singapore"}
+{"sub": "Portugal", "obj": "Brazil"}
+{"sub": "Spain", "obj": "Uruguay"}
+{"sub": "Brazil", "obj": "Ecuador"}
+{"sub": "Poland", "obj": "Serbia"}
+{"sub": "Finland", "obj": "Iceland"}
+{"sub": "Mongolia", "obj": "Vietnam"}
+{"sub": "Belgium", "obj": "France"}
+{"sub": "Germany", "obj": "Canada"}
+{"sub": "Tajikistan", "obj": "Afghanistan"}
+{"sub": "Zambia", "obj": "Egypt"}
+{"sub": "Iceland", "obj": "Norway"}
+{"sub": "Germany", "obj": "Jamaica"}
+{"sub": "Austria", "obj": "Greece"}
+{"sub": "Czech Republic", "obj": "Hungary"}
+{"sub": "Indonesia", "obj": "Singapore"}
+{"sub": "Ukraine", "obj": "Montenegro"}
+{"sub": "Zimbabwe", "obj": "Zambia"}
+{"sub": "Brunei", "obj": "Thailand"}
+{"sub": "Australia", "obj": "Estonia"}
+{"sub": "Ukraine", "obj": "Afghanistan"}
+{"sub": "Iraq", "obj": "Kuwait"}
+{"sub": "Japan", "obj": "Germany"}
+{"sub": "Colombia", "obj": "Nicaragua"}
+{"sub": "France", "obj": "Romania"}
+{"sub": "Cuba", "obj": "Spain"}
+{"sub": "Mozambique", "obj": "Portugal"}
+{"sub": "Belgium", "obj": "Taiwan"}
+{"sub": "Sweden", "obj": "Lithuania"}
+{"sub": "Czechoslovakia", "obj": "Germany"}
+{"sub": "Germany", "obj": "Lebanon"}
+{"sub": "Romania", "obj": "Canada"}
+{"sub": "Denmark", "obj": "Norway"}
+{"sub": "Kosovo", "obj": "Estonia"}
+{"sub": "Japan", "obj": "Brazil"}
+{"sub": "Denmark", "obj": "Sweden"}
+{"sub": "United Kingdom", "obj": "Singapore"}
+{"sub": "Switzerland", "obj": "Kosovo"}
+{"sub": "Tunisia", "obj": "Russia"}
+{"sub": "Australia", "obj": "Mexico"}
+{"sub": "India", "obj": "Kuwait"}
+{"sub": "Iran", "obj": "Arabs"}
+{"sub": "Sweden", "obj": "Greece"}
+{"sub": "Estonia", "obj": "Denmark"}
+{"sub": "Venezuela", "obj": "Ecuador"}
+{"sub": "Iraq", "obj": "Egypt"}
+{"sub": "India", "obj": "Zambia"}
+{"sub": "Philippines", "obj": "Thailand"}
+{"sub": "Switzerland", "obj": "Pakistan"}
+{"sub": "Uganda", "obj": "Israel"}
+{"sub": "Taiwan", "obj": "Iceland"}
+{"sub": "Canada", "obj": "Singapore"}
+{"sub": "Japan", "obj": "Paraguay"}
+{"sub": "Croatia", "obj": "Norway"}
+{"sub": "United Kingdom", "obj": "Bangladesh"}
+{"sub": "Denmark", "obj": "Italy"}
+{"sub": "France", "obj": "Belgium"}
+{"sub": "United Kingdom", "obj": "Poland"}
+{"sub": "Portugal", "obj": "Spain"}
+{"sub": "Albania", "obj": "Kosovo"}
+{"sub": "Belgium", "obj": "Netherlands"}
+{"sub": "Uruguay", "obj": "Ecuador"}
+{"sub": "Saudi Arabia", "obj": "Cyprus"}
+{"sub": "United Kingdom", "obj": "Portugal"}
+{"sub": "Pakistan", "obj": "Greece"}
+{"sub": "Pakistan", "obj": "Tajikistan"}
+{"sub": "Myanmar", "obj": "Bangladesh"}
+{"sub": "Bolivia", "obj": "Argentina"}
+{"sub": "Kuwait", "obj": "Iraq"}
+{"sub": "Azerbaijan", "obj": "Iran"}
+{"sub": "Oman", "obj": "Pakistan"}
+{"sub": "Pakistan", "obj": "Norway"}
+{"sub": "Indonesia", "obj": "Yemen"}
+{"sub": "France", "obj": "India"}
+{"sub": "Indonesia", "obj": "Brazil"}
+{"sub": "Australia", "obj": "Mozambique"}
+{"sub": "United Arab Emirates", "obj": "Iran"}
+{"sub": "Kazakhstan", "obj": "Russia"}
+{"sub": "Uruguay", "obj": "Argentina"}
+{"sub": "Russia", "obj": "Mexico"}
+{"sub": "Portugal", "obj": "Mozambique"}
+{"sub": "Mexico", "obj": "Israel"}
+{"sub": "Armenia", "obj": "Georgia"}
+{"sub": "Hungary", "obj": "Moldova"}
+{"sub": "Spain", "obj": "Morocco"}
+{"sub": "Canada", "obj": "Iceland"}
+{"sub": "United States of America", "obj": "Serbia"}
+{"sub": "Russia", "obj": "Yemen"}
+{"sub": "Azerbaijan", "obj": "Israel"}
+{"sub": "Egypt", "obj": "Libya"}
+{"sub": "Ghana", "obj": "Denmark"}
+{"sub": "Japan", "obj": "Pakistan"}
+{"sub": "Malaysia", "obj": "Philippines"}
+{"sub": "Canada", "obj": "Uruguay"}
+{"sub": "Kuwait", "obj": "Pakistan"}
+{"sub": "Tanzania", "obj": "Australia"}
+{"sub": "Mexico", "obj": "Belize"}
+{"sub": "Bangladesh", "obj": "Greece"}
+{"sub": "Japan", "obj": "Philippines"}
+{"sub": "Botswana", "obj": "Namibia"}
+{"sub": "Serbia", "obj": "Kosovo"}
+{"sub": "Tanzania", "obj": "Zambia"}
+{"sub": "France", "obj": "Niger"}
+{"sub": "Mexico", "obj": "Philippines"}
+{"sub": "Japan", "obj": "Afghanistan"}
+{"sub": "Netherlands", "obj": "Indonesia"}
+{"sub": "Thailand", "obj": "Mexico"}
+{"sub": "Iran", "obj": "Tajikistan"}
+{"sub": "Iran", "obj": "Japan"}
+{"sub": "Germany", "obj": "Slovakia"}
+{"sub": "South Africa", "obj": "Mozambique"}
+{"sub": "Mauritania", "obj": "Senegal"}
+{"sub": "India", "obj": "Denmark"}
+{"sub": "Saudi Arabia", "obj": "Qatar"}
+{"sub": "Brazil", "obj": "Spain"}
+{"sub": "Ethiopia", "obj": "Somalia"}
+{"sub": "France", "obj": "Canada"}
+{"sub": "France", "obj": "Iran"}
+{"sub": "France", "obj": "Chad"}
+{"sub": "Haiti", "obj": "Chile"}
+{"sub": "Turkey", "obj": "Yemen"}
+{"sub": "Japan", "obj": "Portugal"}
+{"sub": "Serbia", "obj": "Slovakia"}
+{"sub": "France", "obj": "Algeria"}
+{"sub": "Chile", "obj": "Philippines"}
+{"sub": "Israel", "obj": "Armenia"}
+{"sub": "Venezuela", "obj": "Israel"}
+{"sub": "Lithuania", "obj": "Russia"}
+{"sub": "United States of America", "obj": "Latvia"}
+{"sub": "Japan", "obj": "Georgia"}
+{"sub": "Kenya", "obj": "Angola"}
+{"sub": "Sweden", "obj": "Denmark"}
+{"sub": "United Arab Emirates", "obj": "Bahrain"}
+{"sub": "Malaysia", "obj": "Vietnam"}
+{"sub": "Laos", "obj": "Thailand"}
+{"sub": "Saudi Arabia", "obj": "Bangladesh"}
+{"sub": "Netherlands", "obj": "Turkey"}
+{"sub": "Italy", "obj": "Argentina"}
+{"sub": "India", "obj": "Bangladesh"}
+{"sub": "Norway", "obj": "Finland"}
+{"sub": "Italy", "obj": "Ethiopia"}
+{"sub": "Pakistan", "obj": "Somalia"}
+{"sub": "Finland", "obj": "Estonia"}
+{"sub": "Azerbaijan", "obj": "Georgia"}
+{"sub": "Kyrgyzstan", "obj": "Tajikistan"}
+{"sub": "United Kingdom", "obj": "Cyprus"}
+{"sub": "Israel", "obj": "Norway"}
+{"sub": "Iraq", "obj": "Georgia"}
+{"sub": "European Union", "obj": "Luxembourg"}
+{"sub": "Pakistan", "obj": "Italy"}
+{"sub": "Azerbaijan", "obj": "Germany"}
+{"sub": "Kosovo", "obj": "Sweden"}
+{"sub": "Chile", "obj": "Argentina"}
+{"sub": "Spain", "obj": "Jamaica"}
+{"sub": "Austria", "obj": "Canada"}
+{"sub": "Israel", "obj": "Russia"}
+{"sub": "Malawi", "obj": "Zambia"}
+{"sub": "Ecuador", "obj": "Venezuela"}
+{"sub": "Palau", "obj": "Philippines"}
+{"sub": "Italy", "obj": "Brazil"}
+{"sub": "South Africa", "obj": "Mauritius"}
+{"sub": "Turkey", "obj": "Serbia"}
+{"sub": "Djibouti", "obj": "Somalia"}
+{"sub": "Austria", "obj": "Denmark"}
+{"sub": "Greece", "obj": "Iran"}
+{"sub": "India", "obj": "Mozambique"}
+{"sub": "East Timor", "obj": "Portugal"}
+{"sub": "France", "obj": "Albania"}
+{"sub": "North Macedonia", "obj": "Kosovo"}
+{"sub": "European Union", "obj": "Norway"}
+{"sub": "Brazil", "obj": "Israel"}
+{"sub": "Turkey", "obj": "Morocco"}
+{"sub": "Vietnam", "obj": "Cuba"}
+{"sub": "Taiwan", "obj": "Guatemala"}
+{"sub": "United Kingdom", "obj": "Egypt"}
+{"sub": "Russia", "obj": "Vietnam"}
+{"sub": "European Union", "obj": "Denmark"}
+{"sub": "Uzbekistan", "obj": "Tajikistan"}
+{"sub": "Serbia", "obj": "Brazil"}
+{"sub": "Kosovo", "obj": "Armenia"}
+{"sub": "France", "obj": "Denmark"}
+{"sub": "Croatia", "obj": "Albania"}
+{"sub": "Serbia", "obj": "Slovenia"}
+{"sub": "North Macedonia", "obj": "Italy"}
+{"sub": "Germany", "obj": "Myanmar"}
+{"sub": "Ukraine", "obj": "Japan"}
+{"sub": "Turkey", "obj": "Iran"}
+{"sub": "East Timor", "obj": "Indonesia"}
+{"sub": "Chile", "obj": "Mexico"}
+{"sub": "Brunei", "obj": "Philippines"}
+{"sub": "Jordan", "obj": "Egypt"}
+{"sub": "India", "obj": "Myanmar"}
+{"sub": "Russia", "obj": "Romania"}
+{"sub": "India", "obj": "Uganda"}
+{"sub": "Panama", "obj": "Canada"}
+{"sub": "Kosovo", "obj": "Albania"}
+{"sub": "Philippines", "obj": "Brunei"}
+{"sub": "Philippines", "obj": "Laos"}
+{"sub": "European Union", "obj": "Kyrgyzstan"}
+{"sub": "Haiti", "obj": "Venezuela"}
+{"sub": "Thailand", "obj": "Malaysia"}
+{"sub": "France", "obj": "Gabon"}
+{"sub": "Armenia", "obj": "Hungary"}
+{"sub": "Turkey", "obj": "Azerbaijan"}
+{"sub": "Kazakhstan", "obj": "Uzbekistan"}
+{"sub": "Iraq", "obj": "Germany"}
+{"sub": "Yemen", "obj": "Somalia"}
+{"sub": "France", "obj": "Morocco"}
+{"sub": "Canada", "obj": "Argentina"}
+{"sub": "Afghanistan", "obj": "Tajikistan"}
+{"sub": "Spain", "obj": "Peru"}
+{"sub": "Montenegro", "obj": "Kosovo"}
+{"sub": "Iraq", "obj": "Hungary"}
+{"sub": "Saudi Arabia", "obj": "Kyrgyzstan"}
+{"sub": "Czech Republic", "obj": "Germany"}
+{"sub": "France", "obj": "Singapore"}
+{"sub": "Georgia", "obj": "Iran"}
+{"sub": "India", "obj": "Greece"}
+{"sub": "Russia", "obj": "Algeria"}
+{"sub": "Kyrgyzstan", "obj": "Uzbekistan"}
+{"sub": "France", "obj": "Switzerland"}
+{"sub": "Australia", "obj": "Latvia"}
+{"sub": "Germany", "obj": "Georgia"}
+{"sub": "India", "obj": "Brunei"}
+{"sub": "Singapore", "obj": "Vietnam"}
+{"sub": "Azerbaijan", "obj": "Russia"}
+{"sub": "France", "obj": "Mexico"}
+{"sub": "Malaysia", "obj": "Brunei"}
+{"sub": "Slovenia", "obj": "Australia"}
+{"sub": "Serbia", "obj": "Albania"}
+{"sub": "Afghanistan", "obj": "Australia"}
+{"sub": "India", "obj": "Egypt"}
+{"sub": "Tanzania", "obj": "Kenya"}
+{"sub": "Poland", "obj": "Hungary"}
+{"sub": "Netherlands", "obj": "Taiwan"}
+{"sub": "South Africa", "obj": "Botswana"}
+{"sub": "Pakistan", "obj": "Afghanistan"}
+{"sub": "Turkey", "obj": "Egypt"}
+{"sub": "Vietnam", "obj": "Russia"}
+{"sub": "Chad", "obj": "Sudan"}
+{"sub": "East Timor", "obj": "Brazil"}
+{"sub": "Nepal", "obj": "Bangladesh"}
+{"sub": "South Korea", "obj": "Israel"}
+{"sub": "Turkey", "obj": "Pakistan"}
+{"sub": "Pakistan", "obj": "Vietnam"}
+{"sub": "People's Republic of China", "obj": "Laos"}
+{"sub": "United Kingdom", "obj": "Greece"}
+{"sub": "Italy", "obj": "India"}
+{"sub": "Azerbaijan", "obj": "Kazakhstan"}
+{"sub": "Morocco", "obj": "Spain"}
+{"sub": "Austria", "obj": "Switzerland"}
+{"sub": "Bolivia", "obj": "Chile"}
+{"sub": "Switzerland", "obj": "Indonesia"}
+{"sub": "Portugal", "obj": "Uruguay"}
+{"sub": "Ireland", "obj": "Cyprus"}
+{"sub": "Malaysia", "obj": "Cambodia"}
+{"sub": "France", "obj": "Thailand"}
+{"sub": "Bangladesh", "obj": "Afghanistan"}
+{"sub": "Philippines", "obj": "Cambodia"}
+{"sub": "Laos", "obj": "Vietnam"}
+{"sub": "Italy", "obj": "Japan"}
+{"sub": "Finland", "obj": "Greece"}
+{"sub": "Uzbekistan", "obj": "Kazakhstan"}

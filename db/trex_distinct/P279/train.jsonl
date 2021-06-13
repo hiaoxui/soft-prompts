@@ -1,0 +1,771 @@
+{"sub": "Activin A receptor type 1", "obj": "protein"}
+{"sub": "BH3 interacting domain death agonist", "obj": "protein"}
+{"sub": "Hemojuvelin BMP co-receptor", "obj": "protein"}
+{"sub": "Cholinergic receptor muscarinic 4", "obj": "protein"}
+{"sub": "Glutamate metabotropic receptor 1", "obj": "protein"}
+{"sub": "Glutamate metabotropic receptor 3", "obj": "protein"}
+{"sub": "Paxillin", "obj": "protein"}
+{"sub": "TNF receptor associated factor 2", "obj": "protein"}
+{"sub": "Phospholipase", "obj": "protein"}
+{"sub": "Erythropoietin", "obj": "protein"}
+{"sub": "antimicrobial peptide", "obj": "protein"}
+{"sub": "Interleukin 16", "obj": "protein"}
+{"sub": "Interleukin 9", "obj": "protein"}
+{"sub": "Glutamate metabotropic receptor 2", "obj": "protein"}
+{"sub": "carboxypeptidases", "obj": "protein"}
+{"sub": "TNF receptor superfamily member 8", "obj": "protein"}
+{"sub": "APC, WNT signaling pathway regulator", "obj": "protein"}
+{"sub": "Protein kinase C zeta", "obj": "protein"}
+{"sub": "ATP binding cassette subfamily B member 1", "obj": "protein"}
+{"sub": "Inhibitor of nuclear factor kappa B kinase subunit beta", "obj": "protein"}
+{"sub": "hemeprotein", "obj": "protein"}
+{"sub": "Cytochrome P450 family 2 subfamily C member 9", "obj": "protein"}
+{"sub": "V-ATPase", "obj": "protein"}
+{"sub": "Cyclin dependent kinase inhibitor 1B", "obj": "protein"}
+{"sub": "TAL bHLH transcription factor 1, erythroid differentiation factor", "obj": "protein"}
+{"sub": "Epidermal growth factor receptor", "obj": "protein"}
+{"sub": "Thy-1 cell surface antigen", "obj": "protein"}
+{"sub": "Urocortin", "obj": "protein"}
+{"sub": "LYN proto-oncogene, Src family tyrosine kinase", "obj": "protein"}
+{"sub": "Fas cell surface death receptor", "obj": "protein"}
+{"sub": "Elastin", "obj": "protein"}
+{"sub": "Cell division cycle 42", "obj": "protein"}
+{"sub": "Calcitonin receptor", "obj": "protein"}
+{"sub": "CD8", "obj": "protein"}
+{"sub": "SMAD family member 4", "obj": "protein"}
+{"sub": "Frataxin", "obj": "protein"}
+{"sub": "Deubiquitinating enzyme", "obj": "protein"}
+{"sub": "Solute carrier family 26 member 2", "obj": "protein"}
+{"sub": "Colony stimulating factor 3 receptor", "obj": "protein"}
+{"sub": "Pyruvate dehydrogenase kinase 1", "obj": "protein"}
+{"sub": "Cholesteryl ester transfer protein", "obj": "protein"}
+{"sub": "mucilage", "obj": "protein"}
+{"sub": "Nucleotide binding oligomerization domain containing 2", "obj": "protein"}
+{"sub": "RecA", "obj": "protein"}
+{"sub": "Vimentin", "obj": "protein"}
+{"sub": "Eosinophil peroxidase", "obj": "protein"}
+{"sub": "viral protein", "obj": "protein"}
+{"sub": "NPHS1 adhesion molecule, nephrin", "obj": "protein"}
+{"sub": "Glucagon receptor", "obj": "protein"}
+{"sub": "Opioid related nociceptin receptor 1", "obj": "protein"}
+{"sub": "Cystic fibrosis transmembrane conductance regulator", "obj": "protein"}
+{"sub": "Cholecystokinin", "obj": "protein"}
+{"sub": "ABL proto-oncogene 1, non-receptor tyrosine kinase", "obj": "protein"}
+{"sub": "Ret proto-oncogene", "obj": "protein"}
+{"sub": "Insulin like growth factor 2 receptor", "obj": "protein"}
+{"sub": "Nuclear receptor subfamily 1 group I member 2", "obj": "protein"}
+{"sub": "Interleukin 6 signal transducer (Gp130, oncostatin M receptor)", "obj": "protein"}
+{"sub": "Progesterone receptor", "obj": "protein"}
+{"sub": "CD28 molecule", "obj": "protein"}
+{"sub": "X-ray repair cross complementing 1", "obj": "protein"}
+{"sub": "EGF-like domain", "obj": "protein"}
+{"sub": "N-ethylmaleimide sensitive factor, vesicle fusing ATPase", "obj": "protein"}
+{"sub": "Prohibitin", "obj": "protein"}
+{"sub": "Myogenic differentiation 1", "obj": "protein"}
+{"sub": "Integrin subunit alpha 3", "obj": "protein"}
+{"sub": "KIT proto-oncogene, receptor tyrosine kinase", "obj": "protein"}
+{"sub": "Doublecortin", "obj": "protein"}
+{"sub": "growth hormone", "obj": "protein"}
+{"sub": "Cystatin C", "obj": "protein"}
+{"sub": "Fms related tyrosine kinase 3", "obj": "protein"}
+{"sub": "Interleukin 6", "obj": "protein"}
+{"sub": "FTO alpha-ketoglutarate dependent dioxygenase", "obj": "protein"}
+{"sub": "Thromboxane A2 receptor", "obj": "protein"}
+{"sub": "LIF receptor subunit alpha", "obj": "protein"}
+{"sub": "CD1d molecule", "obj": "protein"}
+{"sub": "Calcium voltage-gated channel subunit alpha1 C", "obj": "protein"}
+{"sub": "protein design", "obj": "protein"}
+{"sub": "5-hydroxytryptamine receptor 1B", "obj": "protein"}
+{"sub": "Mucolipin 1", "obj": "protein"}
+{"sub": "Heparanase", "obj": "protein"}
+{"sub": "Tumor protein p63", "obj": "protein"}
+{"sub": "Decorin", "obj": "protein"}
+{"sub": "ERM protein family", "obj": "protein"}
+{"sub": "colicin", "obj": "protein"}
+{"sub": "CD19 molecule", "obj": "protein"}
+{"sub": "Interferon gamma-1b", "obj": "protein"}
+{"sub": "KIT ligand", "obj": "protein"}
+{"sub": "Secretin receptor", "obj": "protein"}
+{"sub": "Nuclear receptor subfamily 5 group A member 1", "obj": "protein"}
+{"sub": "Cytidine deaminase", "obj": "protein"}
+{"sub": "Nucleoporin 62", "obj": "protein"}
+{"sub": "Glutamate metabotropic receptor 7", "obj": "protein"}
+{"sub": "Inhibitor of apoptosis domain", "obj": "protein"}
+{"sub": "Cyclin dependent kinase 4", "obj": "protein"}
+{"sub": "CD4 molecule", "obj": "protein"}
+{"sub": "Superoxide dismutase 2", "obj": "protein"}
+{"sub": "Neurofibromin 2", "obj": "protein"}
+{"sub": "GLI family zinc finger 3", "obj": "protein"}
+{"sub": "histone", "obj": "protein"}
+{"sub": "Lymphocyte cytosolic protein 2", "obj": "protein"}
+{"sub": "Cyclin dependent kinase inhibitor 2A", "obj": "protein"}
+{"sub": "High mobility group AT-hook 2", "obj": "protein"}
+{"sub": "apolipoprotein", "obj": "protein"}
+{"sub": "Transient receptor potential cation channel subfamily V member 1", "obj": "protein"}
+{"sub": "Ciliary neurotrophic factor", "obj": "protein"}
+{"sub": "Growth factor receptor bound protein 10", "obj": "protein"}
+{"sub": "Retinoid X receptor", "obj": "protein"}
+{"sub": "Hepatocyte growth factor", "obj": "protein"}
+{"sub": "CD24 molecule", "obj": "protein"}
+{"sub": "Nuclear receptor subfamily 3 group C member 1", "obj": "protein"}
+{"sub": "Integrin subunit alpha E", "obj": "protein"}
+{"sub": "C-X-C motif chemokine ligand 10", "obj": "protein"}
+{"sub": "Transient receptor potential cation channel subfamily A member 1", "obj": "protein"}
+{"sub": "Bone morphogenetic protein 4", "obj": "protein"}
+{"sub": "Aryl hydrocarbon receptor", "obj": "protein"}
+{"sub": "T-cell receptor", "obj": "protein"}
+{"sub": "Baculoviral IAP repeat containing 5", "obj": "protein"}
+{"sub": "Renin", "obj": "protein"}
+{"sub": "Tyrosine hydroxylase", "obj": "protein"}
+{"sub": "BRCA2 DNA repair associated", "obj": "protein"}
+{"sub": "Catenin beta 1", "obj": "protein"}
+{"sub": "Matrix metallopeptidase 2", "obj": "protein"}
+{"sub": "COPI", "obj": "protein"}
+{"sub": "Ras homolog family member A", "obj": "protein"}
+{"sub": "Catenin", "obj": "protein"}
+{"sub": "Catalase", "obj": "protein"}
+{"sub": "Brain derived neurotrophic factor", "obj": "protein"}
+{"sub": "Peroxisome proliferator activated receptor alpha", "obj": "protein"}
+{"sub": "Ornithine carbamoyltransferase", "obj": "protein"}
+{"sub": "Envelope glycoprotein GP120", "obj": "protein"}
+{"sub": "Arginine vasopressin receptor 2", "obj": "protein"}
+{"sub": "Erythrocyte membrane protein band 4.1", "obj": "protein"}
+{"sub": "Synuclein alpha", "obj": "protein"}
+{"sub": "Minichromosome maintenance", "obj": "protein"}
+{"sub": "Presenilin 1", "obj": "protein"}
+{"sub": "Potassium voltage-gated channel subfamily Q member 1", "obj": "protein"}
+{"sub": "Homeobox", "obj": "protein"}
+{"sub": "Myelin basic protein", "obj": "protein"}
+{"sub": "Caspase 8", "obj": "protein"}
+{"sub": "Myeloperoxidase", "obj": "protein"}
+{"sub": "Intercellular adhesion molecule 1", "obj": "protein"}
+{"sub": "Transforming growth factor beta superfamily", "obj": "protein"}
+{"sub": "bone morphogenetic protein", "obj": "protein"}
+{"sub": "Moesin", "obj": "protein"}
+{"sub": "Growth associated protein 43", "obj": "protein"}
+{"sub": "Solute carrier family 26 member 4", "obj": "protein"}
+{"sub": "E2F transcription factor 1", "obj": "protein"}
+{"sub": "Nuclear factor kappa B subunit 1", "obj": "protein"}
+{"sub": "ADP ribosylation factor 6", "obj": "protein"}
+{"sub": "Insulin like growth factor 1 receptor", "obj": "protein"}
+{"sub": "Toll like receptor 9", "obj": "protein"}
+{"sub": "Prolactin", "obj": "protein"}
+{"sub": "Gamma-aminobutyric acid type A receptor alpha1 subunit", "obj": "protein"}
+{"sub": "Transferrin", "obj": "protein"}
+{"sub": "Stottie cake", "obj": "bread"}
+{"sub": "Simit", "obj": "bread"}
+{"sub": "Vienna bread", "obj": "bread"}
+{"sub": "Corn tortilla", "obj": "bread"}
+{"sub": "white bread", "obj": "bread"}
+{"sub": "rusk", "obj": "bread"}
+{"sub": "quick bread", "obj": "bread"}
+{"sub": "panettone", "obj": "bread"}
+{"sub": "Rumali Roti", "obj": "bread"}
+{"sub": "Bolillo", "obj": "bread"}
+{"sub": "flatbread", "obj": "bread"}
+{"sub": "challah", "obj": "bread"}
+{"sub": "Torta", "obj": "bread"}
+{"sub": "Lardy cake", "obj": "bread"}
+{"sub": "Indian bread", "obj": "bread"}
+{"sub": "Ka-27", "obj": "helicopter"}
+{"sub": "Westland Wessex", "obj": "helicopter"}
+{"sub": "Sikorsky CH-53K King Stallion", "obj": "helicopter"}
+{"sub": "Mil Mi-28", "obj": "helicopter"}
+{"sub": "Kaman K-MAX", "obj": "helicopter"}
+{"sub": "Light Observation Helicopter", "obj": "helicopter"}
+{"sub": "Brantly B-2", "obj": "helicopter"}
+{"sub": "Kaman K-225", "obj": "helicopter"}
+{"sub": "Focke-Achgelis Fa 223", "obj": "helicopter"}
+{"sub": "Sikorsky R-6", "obj": "helicopter"}
+{"sub": "Sikorsky H-5", "obj": "helicopter"}
+{"sub": "Robinson R66", "obj": "helicopter"}
+{"sub": "OH-58 Kiowa", "obj": "helicopter"}
+{"sub": "Hiller YH-32 Hornet", "obj": "helicopter"}
+{"sub": "CH-148 Cyclone", "obj": "helicopter"}
+{"sub": "ballistic missile submarine", "obj": "submarine"}
+{"sub": "French Barracuda-class submarine", "obj": "submarine"}
+{"sub": "Amphion-class submarine", "obj": "submarine"}
+{"sub": "United States H-class submarine", "obj": "submarine"}
+{"sub": "Parthian-class submarine", "obj": "submarine"}
+{"sub": "midget submarine", "obj": "submarine"}
+{"sub": "Soviet S-class submarine", "obj": "submarine"}
+{"sub": "elektroboot", "obj": "submarine"}
+{"sub": "Soviet M-class submarine", "obj": "submarine"}
+{"sub": "submarine aircraft carrier", "obj": "submarine"}
+{"sub": "British L-class submarine", "obj": "submarine"}
+{"sub": "United States R-class submarine", "obj": "submarine"}
+{"sub": "Tambor-class submarine", "obj": "submarine"}
+{"sub": "solyanka", "obj": "soup"}
+{"sub": "blood soup", "obj": "soup"}
+{"sub": "Soto ayam", "obj": "soup"}
+{"sub": "salmorejo", "obj": "soup"}
+{"sub": "tomato soup", "obj": "soup"}
+{"sub": "peanut soup", "obj": "soup"}
+{"sub": "minestrone", "obj": "soup"}
+{"sub": "tong sui", "obj": "soup"}
+{"sub": "Beef noodle soup", "obj": "soup"}
+{"sub": "fish soup", "obj": "soup"}
+{"sub": "guk", "obj": "soup"}
+{"sub": "pea soup", "obj": "soup"}
+{"sub": "Czernina", "obj": "soup"}
+{"sub": "Portuguese Water Dog", "obj": "dog"}
+{"sub": "Afghan Hound", "obj": "dog"}
+{"sub": "lapdog", "obj": "dog"}
+{"sub": "working dog", "obj": "dog"}
+{"sub": "Spitz", "obj": "dog"}
+{"sub": "Bullmastiff", "obj": "dog"}
+{"sub": "Cairn Terrier", "obj": "dog"}
+{"sub": "bulldog", "obj": "dog"}
+{"sub": "Alaskan Klee Kai", "obj": "dog"}
+{"sub": "English Cocker Spaniel", "obj": "dog"}
+{"sub": "Australian Shepherd", "obj": "dog"}
+{"sub": "show dog", "obj": "dog"}
+{"sub": "basketball", "obj": "basketball"}
+{"sub": "netball", "obj": "basketball"}
+{"sub": "ice hockey", "obj": "basketball"}
+{"sub": "Gaelic football", "obj": "basketball"}
+{"sub": "shinty", "obj": "basketball"}
+{"sub": "women's basketball", "obj": "basketball"}
+{"sub": "softball", "obj": "basketball"}
+{"sub": "beach volleyball", "obj": "basketball"}
+{"sub": "Jewish studies", "obj": "history"}
+{"sub": "contemporary history", "obj": "history"}
+{"sub": "modern history", "obj": "history"}
+{"sub": "art history", "obj": "history"}
+{"sub": "history of philosophy", "obj": "history"}
+{"sub": "natural history", "obj": "history"}
+{"sub": "local history", "obj": "history"}
+{"sub": "limousine", "obj": "car"}
+{"sub": "Morris Oxford Farina", "obj": "car"}
+{"sub": "Pony car", "obj": "car"}
+{"sub": "Toyota SA", "obj": "car"}
+{"sub": "Grand tourer", "obj": "car"}
+{"sub": "muscle car", "obj": "car"}
+{"sub": "Morris Oxford bullnose", "obj": "car"}
+{"sub": "cupcake", "obj": "cake"}
+{"sub": "Jaffa Cakes", "obj": "cake"}
+{"sub": "torte", "obj": "cake"}
+{"sub": "Prinzregententorte", "obj": "cake"}
+{"sub": "pound cake", "obj": "cake"}
+{"sub": "chocolate cake", "obj": "cake"}
+{"sub": "Scone", "obj": "cake"}
+{"sub": "digital art", "obj": "art"}
+{"sub": "folk art", "obj": "art"}
+{"sub": "culinary art", "obj": "art"}
+{"sub": "sound art", "obj": "art"}
+{"sub": "site-specific art", "obj": "art"}
+{"sub": "Pre-Columbian art", "obj": "art"}
+{"sub": "paper cutting", "obj": "art"}
+{"sub": "New Zealand English", "obj": "English"}
+{"sub": "Welsh English", "obj": "English"}
+{"sub": "Malaysian English", "obj": "English"}
+{"sub": "Australian English", "obj": "English"}
+{"sub": "American English", "obj": "English"}
+{"sub": "Canadian English", "obj": "English"}
+{"sub": "Lucky Stores", "obj": "supermarket"}
+{"sub": "Albert Heijn", "obj": "supermarket"}
+{"sub": "Safeway Inc.", "obj": "supermarket"}
+{"sub": "Iceland (Supermarket)", "obj": "supermarket"}
+{"sub": "Coles Supermarkets", "obj": "supermarket"}
+{"sub": "Asian supermarket", "obj": "supermarket"}
+{"sub": "conflict resolution", "obj": "communication"}
+{"sub": "human communication", "obj": "communication"}
+{"sub": "technical communication", "obj": "communication"}
+{"sub": "organizational communication", "obj": "communication"}
+{"sub": "dead drop", "obj": "communication"}
+{"sub": "telepathy", "obj": "communication"}
+{"sub": "Influenza vaccine", "obj": "vaccine"}
+{"sub": "HIV vaccine", "obj": "vaccine"}
+{"sub": "Anthrax vaccines", "obj": "vaccine"}
+{"sub": "BCG vaccine", "obj": "vaccine"}
+{"sub": "polio vaccine", "obj": "vaccine"}
+{"sub": "Rabies vaccine", "obj": "vaccine"}
+{"sub": "Interstellar ark", "obj": "spacecraft"}
+{"sub": "Cluster II (spacecraft)", "obj": "spacecraft"}
+{"sub": "space station", "obj": "spacecraft"}
+{"sub": "Dragon 2", "obj": "spacecraft"}
+{"sub": "starship", "obj": "spacecraft"}
+{"sub": "artificial satellite", "obj": "spacecraft"}
+{"sub": "broccoli", "obj": "vegetable"}
+{"sub": "Wax gourd", "obj": "vegetable"}
+{"sub": "green bean", "obj": "vegetable"}
+{"sub": "eggplant", "obj": "vegetable"}
+{"sub": "brussels sprouts", "obj": "vegetable"}
+{"sub": "Cichorium endivia", "obj": "vegetable"}
+{"sub": "racing bicycle", "obj": "bicycle"}
+{"sub": "hybrid bicycle", "obj": "bicycle"}
+{"sub": "Recumbent bicycle", "obj": "bicycle"}
+{"sub": "folding bicycle", "obj": "bicycle"}
+{"sub": "fixed-gear bicycle", "obj": "bicycle"}
+{"sub": "Roadster (bicycle)", "obj": "bicycle"}
+{"sub": "cool jazz", "obj": "jazz"}
+{"sub": "smooth jazz", "obj": "jazz"}
+{"sub": "mainstream jazz", "obj": "jazz"}
+{"sub": "jazz fusion", "obj": "jazz"}
+{"sub": "post-bop", "obj": "jazz"}
+{"sub": "swing music", "obj": "jazz"}
+{"sub": "triquetral bone", "obj": "bone"}
+{"sub": "tarsal bone", "obj": "bone"}
+{"sub": "hamate bone", "obj": "bone"}
+{"sub": "sphenoid bone", "obj": "bone"}
+{"sub": "patella", "obj": "bone"}
+{"sub": "flat bone", "obj": "bone"}
+{"sub": "Cash", "obj": "coin"}
+{"sub": "toonie", "obj": "coin"}
+{"sub": "silver coin", "obj": "coin"}
+{"sub": "commemorative coin", "obj": "coin"}
+{"sub": "groschen", "obj": "coin"}
+{"sub": "bunker", "obj": "fortification"}
+{"sub": "Japanese castle", "obj": "fortification"}
+{"sub": "hillfort", "obj": "fortification"}
+{"sub": "Coastal defence and fortification", "obj": "fortification"}
+{"sub": "citadel", "obj": "fortification"}
+{"sub": "mobile app", "obj": "application"}
+{"sub": "personal information manager", "obj": "application"}
+{"sub": "calendaring software", "obj": "application"}
+{"sub": "video game", "obj": "application"}
+{"sub": "virtual machine", "obj": "application"}
+{"sub": "quena", "obj": "flute"}
+{"sub": "Pan flute", "obj": "flute"}
+{"sub": "Bansuri", "obj": "flute"}
+{"sub": "Native American flute", "obj": "flute"}
+{"sub": "bass flute", "obj": "flute"}
+{"sub": "baba ghanoush", "obj": "salad"}
+{"sub": "Olivier salad", "obj": "salad"}
+{"sub": "carrot salad", "obj": "salad"}
+{"sub": "acar", "obj": "salad"}
+{"sub": "Wurstsalat", "obj": "salad"}
+{"sub": "action film", "obj": "film"}
+{"sub": "Double feature", "obj": "film"}
+{"sub": "animated film", "obj": "film"}
+{"sub": "concert film", "obj": "film"}
+{"sub": "horror film", "obj": "film"}
+{"sub": "Centrifugal pump", "obj": "pump"}
+{"sub": "piston pump", "obj": "pump"}
+{"sub": "fuel pump", "obj": "pump"}
+{"sub": "pumpjack", "obj": "pump"}
+{"sub": "Chain pump", "obj": "pump"}
+{"sub": "American wine", "obj": "wine"}
+{"sub": "Champagne", "obj": "wine"}
+{"sub": "quinquina", "obj": "wine"}
+{"sub": "Czech wine", "obj": "wine"}
+{"sub": "Algerian wine", "obj": "wine"}
+{"sub": "Supersynchronous orbit", "obj": "orbit"}
+{"sub": "parking orbit", "obj": "orbit"}
+{"sub": "Non-inclined orbit", "obj": "orbit"}
+{"sub": "Inclined orbit", "obj": "orbit"}
+{"sub": "Hohmann transfer orbit", "obj": "orbit"}
+{"sub": "Acheron-class destroyer", "obj": "destroyer"}
+{"sub": "U and V-class destroyer", "obj": "destroyer"}
+{"sub": "G and H-class destroyer", "obj": "destroyer"}
+{"sub": "Porter-class destroyer", "obj": "destroyer"}
+{"sub": "glucose syrup", "obj": "syrup"}
+{"sub": "chocolate syrup", "obj": "syrup"}
+{"sub": "agave nectar", "obj": "syrup"}
+{"sub": "maple syrup", "obj": "syrup"}
+{"sub": "antitussive", "obj": "medication"}
+{"sub": "anesthetic", "obj": "medication"}
+{"sub": "antibiotic", "obj": "medication"}
+{"sub": "generic drug", "obj": "medication"}
+{"sub": "applied physics", "obj": "physics"}
+{"sub": "electromagnetism", "obj": "physics"}
+{"sub": "cosmology", "obj": "physics"}
+{"sub": "classical physics", "obj": "physics"}
+{"sub": "isomerase", "obj": "enzyme"}
+{"sub": "Acid phosphatase", "obj": "enzyme"}
+{"sub": "oxidoreductase", "obj": "enzyme"}
+{"sub": "digestive enzyme", "obj": "enzyme"}
+{"sub": "beam bridge", "obj": "bridge"}
+{"sub": "pontoon bridge", "obj": "bridge"}
+{"sub": "low-water crossing", "obj": "bridge"}
+{"sub": "moveable bridge", "obj": "bridge"}
+{"sub": "life insurance", "obj": "insurance"}
+{"sub": "accidental death and dismemberment insurance", "obj": "insurance"}
+{"sub": "vehicle insurance", "obj": "insurance"}
+{"sub": "long-term care insurance", "obj": "insurance"}
+{"sub": "Kundalini yoga", "obj": "Yoga"}
+{"sub": "Dream yoga", "obj": "Yoga"}
+{"sub": "Ashtanga Vinyasa Yoga", "obj": "Yoga"}
+{"sub": "Trul khor", "obj": "Yoga"}
+{"sub": "attributive verb", "obj": "verb"}
+{"sub": "English verb", "obj": "verb"}
+{"sub": "ambitransitive verb", "obj": "verb"}
+{"sub": "stative verb", "obj": "verb"}
+{"sub": "gusuku", "obj": "castle"}
+{"sub": "quadrangular castle", "obj": "castle"}
+{"sub": "Adulterine castle", "obj": "castle"}
+{"sub": "ringwork castle", "obj": "castle"}
+{"sub": "heterotroph", "obj": "organism"}
+{"sub": "detritivore", "obj": "organism"}
+{"sub": "carnivore", "obj": "organism"}
+{"sub": "microorganism", "obj": "organism"}
+{"sub": "A.304", "obj": "bomber"}
+{"sub": "heavy bomber", "obj": "bomber"}
+{"sub": "Tupolev Tu-2", "obj": "bomber"}
+{"sub": "AEG G.IV", "obj": "bomber"}
+{"sub": "Hinduism in Indonesia", "obj": "Hinduism"}
+{"sub": "Vaishnavism", "obj": "Hinduism"}
+{"sub": "Hinduism in Australia", "obj": "Hinduism"}
+{"sub": "Shaktism", "obj": "Hinduism"}
+{"sub": "Knox-class frigate", "obj": "frigate"}
+{"sub": "Sachsen-class frigate", "obj": "frigate"}
+{"sub": "Brandenburg-class frigate", "obj": "frigate"}
+{"sub": "Type 054 frigate", "obj": "frigate"}
+{"sub": "Lobster roll", "obj": "sandwich"}
+{"sub": "hot dog", "obj": "sandwich"}
+{"sub": "BLT", "obj": "sandwich"}
+{"sub": "club sandwich", "obj": "sandwich"}
+{"sub": "randomized algorithm", "obj": "algorithm"}
+{"sub": "multiplication algorithm", "obj": "algorithm"}
+{"sub": "search algorithm", "obj": "algorithm"}
+{"sub": "mathematical interpolation", "obj": "algorithm"}
+{"sub": "GRM4", "obj": "gene"}
+{"sub": "DSG1", "obj": "gene"}
+{"sub": "ABCG2", "obj": "gene"}
+{"sub": "NCAN", "obj": "gene"}
+{"sub": "F-type asteroid", "obj": "asteroid"}
+{"sub": "D-type asteroid", "obj": "asteroid"}
+{"sub": "Cybele asteroid", "obj": "asteroid"}
+{"sub": "B-type asteroid", "obj": "asteroid"}
+{"sub": "postcolonial feminism", "obj": "feminism"}
+{"sub": "atheist feminism", "obj": "feminism"}
+{"sub": "cultural feminism", "obj": "feminism"}
+{"sub": "Marxist feminism", "obj": "feminism"}
+{"sub": "Waxiang Chinese", "obj": "Chinese"}
+{"sub": "varieties of Chinese", "obj": "Chinese"}
+{"sub": "Middle Chinese", "obj": "Chinese"}
+{"sub": "Mandarin Chinese", "obj": "Chinese"}
+{"sub": "multiple chemical sensitivity", "obj": "syndrome"}
+{"sub": "Noonan syndrome", "obj": "syndrome"}
+{"sub": "Reye syndrome", "obj": "syndrome"}
+{"sub": "chronic fatigue syndrome", "obj": "syndrome"}
+{"sub": "frame drum", "obj": "drum"}
+{"sub": "Poeng mang", "obj": "drum"}
+{"sub": "hourglass drum", "obj": "drum"}
+{"sub": "hand drum", "obj": "drum"}
+{"sub": "Arianism", "obj": "Christianity"}
+{"sub": "Christian anarchism", "obj": "Christianity"}
+{"sub": "Progressive Christianity", "obj": "Christianity"}
+{"sub": "shogi", "obj": "chess"}
+{"sub": "xiangqi", "obj": "chess"}
+{"sub": "correspondence chess", "obj": "chess"}
+{"sub": "disc galaxy", "obj": "galaxy"}
+{"sub": "dwarf galaxy", "obj": "galaxy"}
+{"sub": "lenticular galaxy", "obj": "galaxy"}
+{"sub": "surface-to-surface missile", "obj": "missile"}
+{"sub": "anti-ship missile", "obj": "missile"}
+{"sub": "All-aspect", "obj": "missile"}
+{"sub": "Amiga 500", "obj": "Amiga"}
+{"sub": "Amiga 600", "obj": "Amiga"}
+{"sub": "Amiga 2000", "obj": "Amiga"}
+{"sub": "forensic anthropology", "obj": "anthropology"}
+{"sub": "Ecological anthropology", "obj": "anthropology"}
+{"sub": "economic anthropology", "obj": "anthropology"}
+{"sub": "colored gold", "obj": "alloy"}
+{"sub": "tombac", "obj": "alloy"}
+{"sub": "Monel", "obj": "alloy"}
+{"sub": "murder", "obj": "homicide"}
+{"sub": "uxoricide", "obj": "homicide"}
+{"sub": "euthanasia", "obj": "homicide"}
+{"sub": "K-theory", "obj": "mathematics"}
+{"sub": "advanced mathematics", "obj": "mathematics"}
+{"sub": "group cohomology", "obj": "mathematics"}
+{"sub": "manual transmission", "obj": "transmission"}
+{"sub": "automatic transmission", "obj": "transmission"}
+{"sub": "epicyclic gearing", "obj": "transmission"}
+{"sub": "government database", "obj": "database"}
+{"sub": "distributed database", "obj": "database"}
+{"sub": "chemical database", "obj": "database"}
+{"sub": "gay", "obj": "LGBT"}
+{"sub": "lesbian", "obj": "LGBT"}
+{"sub": "homosexuality", "obj": "LGBT"}
+{"sub": "Bishop of Lindisfarne", "obj": "bishop"}
+{"sub": "suffragan bishop", "obj": "bishop"}
+{"sub": "consecrator", "obj": "bishop"}
+{"sub": "C corporation", "obj": "corporation"}
+{"sub": "benefit corporation", "obj": "corporation"}
+{"sub": "Self-regulatory organization", "obj": "corporation"}
+{"sub": "torpedo boat", "obj": "warship"}
+{"sub": "turuma", "obj": "warship"}
+{"sub": "hemmema", "obj": "warship"}
+{"sub": "data science", "obj": "statistics"}
+{"sub": "descriptive statistics", "obj": "statistics"}
+{"sub": "multivariate statistics", "obj": "statistics"}
+{"sub": "X-ray telescope", "obj": "telescope"}
+{"sub": "optical telescope", "obj": "telescope"}
+{"sub": "robotic telescope", "obj": "telescope"}
+{"sub": "etruscology", "obj": "linguistics"}
+{"sub": "synchrony and diachrony", "obj": "linguistics"}
+{"sub": "ethnolinguistics", "obj": "linguistics"}
+{"sub": "sulfonic acid", "obj": "acid"}
+{"sub": "oxoacid", "obj": "acid"}
+{"sub": "mineral acid", "obj": "acid"}
+{"sub": "California-style pizza", "obj": "pizza"}
+{"sub": "New Haven-style pizza", "obj": "pizza"}
+{"sub": "Chicago-style pizza", "obj": "pizza"}
+{"sub": "high fantasy", "obj": "fantasy"}
+{"sub": "comic fantasy", "obj": "fantasy"}
+{"sub": "fantasy literature", "obj": "fantasy"}
+{"sub": "splenic artery", "obj": "artery"}
+{"sub": "subclavian artery", "obj": "artery"}
+{"sub": "aorta", "obj": "artery"}
+{"sub": "amateur astronomy", "obj": "astronomy"}
+{"sub": "Stellar kinematics", "obj": "astronomy"}
+{"sub": "astrometry", "obj": "astronomy"}
+{"sub": "Old Dutch", "obj": "Dutch"}
+{"sub": "Middle Dutch", "obj": "Dutch"}
+{"sub": "Brabantian", "obj": "Dutch"}
+{"sub": "social philosophy", "obj": "philosophy"}
+{"sub": "slavophilia", "obj": "philosophy"}
+{"sub": "philosophy of education", "obj": "philosophy"}
+{"sub": "tributary", "obj": "river"}
+{"sub": "Transboundary river", "obj": "river"}
+{"sub": "distributary", "obj": "river"}
+{"sub": "Los Angeles City Attorney", "obj": "lawyer"}
+{"sub": "patent attorney", "obj": "lawyer"}
+{"sub": "criminal defense lawyer", "obj": "lawyer"}
+{"sub": "striated muscle tissue", "obj": "muscle"}
+{"sub": "agonist", "obj": "muscle"}
+{"sub": "deltoid muscle", "obj": "muscle"}
+{"sub": "natural law", "obj": "law"}
+{"sub": "international law", "obj": "law"}
+{"sub": "gun control", "obj": "law"}
+{"sub": "labour economics", "obj": "economics"}
+{"sub": "health economics", "obj": "economics"}
+{"sub": "Chicago school of economics", "obj": "economics"}
+{"sub": "Celtic mythology", "obj": "mythology"}
+{"sub": "Greek mythology", "obj": "mythology"}
+{"sub": "Mesopotamian mythology", "obj": "mythology"}
+{"sub": "agroecology", "obj": "ecology"}
+{"sub": "landscape ecology", "obj": "ecology"}
+{"sub": "urban ecology", "obj": "ecology"}
+{"sub": "Falu red", "obj": "red"}
+{"sub": "Rosso corsa", "obj": "red"}
+{"sub": "French language in Canada", "obj": "French"}
+{"sub": "standard French", "obj": "French"}
+{"sub": "acid rain", "obj": "pollution"}
+{"sub": "water pollution", "obj": "pollution"}
+{"sub": "Pulse-Doppler radar", "obj": "radar"}
+{"sub": "over-the-horizon radar", "obj": "radar"}
+{"sub": "illiberal democracy", "obj": "democracy"}
+{"sub": "direct democracy", "obj": "democracy"}
+{"sub": "industrial espionage", "obj": "espionage"}
+{"sub": "signals intelligence", "obj": "espionage"}
+{"sub": "Arvanitic", "obj": "Albanian"}
+{"sub": "Tosk Albanian", "obj": "Albanian"}
+{"sub": "plosive consonant", "obj": "consonant"}
+{"sub": "palatal consonant", "obj": "consonant"}
+{"sub": "copolymer", "obj": "polymer"}
+{"sub": "polycarbonate", "obj": "polymer"}
+{"sub": "active voice", "obj": "voice"}
+{"sub": "applicative voice", "obj": "voice"}
+{"sub": "risk management", "obj": "management"}
+{"sub": "natural resource management", "obj": "management"}
+{"sub": "Yule Marble", "obj": "marble"}
+{"sub": "Creole marble", "obj": "marble"}
+{"sub": "abandoned village", "obj": "village"}
+{"sub": "nucleated village", "obj": "village"}
+{"sub": "linen", "obj": "textile"}
+{"sub": "muslin", "obj": "textile"}
+{"sub": "sequelae", "obj": "disease"}
+{"sub": "cancer", "obj": "disease"}
+{"sub": "complex volcano", "obj": "volcano"}
+{"sub": "stratovolcano", "obj": "volcano"}
+{"sub": "satrap", "obj": "governor"}
+{"sub": "Lord Lieutenant", "obj": "governor"}
+{"sub": "character actor", "obj": "actor"}
+{"sub": "stunt performer", "obj": "actor"}
+{"sub": "Bareback", "obj": "homosexuality"}
+{"sub": "gay", "obj": "homosexuality"}
+{"sub": "Roland TB-303", "obj": "synthesizer"}
+{"sub": "Yamaha SY77", "obj": "synthesizer"}
+{"sub": "oligomer", "obj": "molecule"}
+{"sub": "diatomic molecule", "obj": "molecule"}
+{"sub": "democratic socialism", "obj": "socialism"}
+{"sub": "Third camp", "obj": "socialism"}
+{"sub": "Aldol", "obj": "alcohol"}
+{"sub": "polyol", "obj": "alcohol"}
+{"sub": "bass-baritone", "obj": "bass"}
+{"sub": "basso profondo", "obj": "bass"}
+{"sub": "gamete", "obj": "cell"}
+{"sub": "stem cell", "obj": "cell"}
+{"sub": "explicit memory", "obj": "memory"}
+{"sub": "long-term memory", "obj": "memory"}
+{"sub": "commune of Chile", "obj": "municipality"}
+{"sub": "metropolitan municipality in Turkey", "obj": "municipality"}
+{"sub": "Arabic alphabet", "obj": "alphabet"}
+{"sub": "leet", "obj": "alphabet"}
+{"sub": "maglev train", "obj": "train"}
+{"sub": "freight train", "obj": "train"}
+{"sub": "phenetics", "obj": "biology"}
+{"sub": "ecology", "obj": "biology"}
+{"sub": "general aviation", "obj": "aviation"}
+{"sub": "civil aviation", "obj": "aviation"}
+{"sub": "freshwater aquarium", "obj": "aquarium"}
+{"sub": "marine aquarium", "obj": "aquarium"}
+{"sub": "quarter note", "obj": "note"}
+{"sub": "double whole note", "obj": "note"}
+{"sub": "isotope of nickel", "obj": "nickel"}
+{"sub": "Liberty Head nickel", "obj": "nickel"}
+{"sub": "Sport bike", "obj": "motorcycle"}
+{"sub": "Curtiss", "obj": "motorcycle"}
+{"sub": "bridge\u2013tunnel", "obj": "tunnel"}
+{"sub": "adit", "obj": "tunnel"}
+{"sub": "cold frame", "obj": "greenhouse"}
+{"sub": "orangery", "obj": "greenhouse"}
+{"sub": "presbyter", "obj": "priest"}
+{"sub": "pope", "obj": "priest"}
+{"sub": "Italo disco", "obj": "disco"}
+{"sub": "nu-disco", "obj": "disco"}
+{"sub": "youth suicide", "obj": "suicide"}
+{"sub": "animal suicide", "obj": "suicide"}
+{"sub": "concrete poetry", "obj": "poetry"}
+{"sub": "Latin poetry", "obj": "poetry"}
+{"sub": "succulent plant", "obj": "plant"}
+{"sub": "aquatic plant", "obj": "plant"}
+{"sub": "Littorio-class battleship", "obj": "battleship"}
+{"sub": "fast battleship", "obj": "battleship"}
+{"sub": "Gallery forest", "obj": "forest"}
+{"sub": "old-growth forest", "obj": "forest"}
+{"sub": "inland port", "obj": "port"}
+{"sub": "roadstead", "obj": "port"}
+{"sub": "Nor'easter", "obj": "storm"}
+{"sub": "derecho", "obj": "storm"}
+{"sub": "Kajkavian dialect", "obj": "Croatian"}
+{"sub": "Chakavian dialect", "obj": "Croatian"}
+{"sub": ".22 Long Rifle", "obj": "ammunition"}
+{"sub": "caliber", "obj": "ammunition"}
+{"sub": "diversion dam", "obj": "dam"}
+{"sub": "gravity dam", "obj": "dam"}
+{"sub": "jitterbug", "obj": "swing"}
+{"sub": "trapeze", "obj": "swing"}
+{"sub": "tree", "obj": "graph"}
+{"sub": "triangle-free graph", "obj": "graph"}
+{"sub": "mechanical television", "obj": "television"}
+{"sub": "analog television", "obj": "television"}
+{"sub": "Central Bavarian", "obj": "Bavarian"}
+{"sub": "Hutterite German", "obj": "Bavarian"}
+{"sub": "stallion", "obj": "horse"}
+{"sub": "mare", "obj": "horse"}
+{"sub": "People's Choice Award", "obj": "award"}
+{"sub": "BC Book Prizes", "obj": "award"}
+{"sub": "Cistercian nuns", "obj": "nun"}
+{"sub": "abbess", "obj": "nun"}
+{"sub": "Dutch gable", "obj": "gable"}
+{"sub": "crow-stepped gable", "obj": "gable"}
+{"sub": "National Recreation Trail", "obj": "trail"}
+{"sub": "bridle path", "obj": "trail"}
+{"sub": "hybrid airship", "obj": "aircraft"}
+{"sub": "aerostat", "obj": "aircraft"}
+{"sub": "deep sea fish", "obj": "fish"}
+{"sub": "hake", "obj": "fish"}
+{"sub": "Love hotel", "obj": "hotel"}
+{"sub": "ice hotel", "obj": "hotel"}
+{"sub": "Shagreen", "obj": "leather"}
+{"sub": "Russia leather", "obj": "leather"}
+{"sub": "abbey", "obj": "monastery"}
+{"sub": "convent", "obj": "monastery"}
+{"sub": "automatic firearm", "obj": "firearm"}
+{"sub": "personal defense weapon", "obj": "firearm"}
+{"sub": "Standard German", "obj": "German"}
+{"sub": "Berlinerisch dialect", "obj": "German"}
+{"sub": "masa", "obj": "dough"}
+{"sub": "choux pastry", "obj": "dough"}
+{"sub": "Wellington boot", "obj": "boot"}
+{"sub": "mukluk", "obj": "boot"}
+{"sub": "Buddhism in Vietnam", "obj": "Buddhism"}
+{"sub": "Zen", "obj": "Buddhism"}
+{"sub": "architect", "obj": "artist"}
+{"sub": "colorist", "obj": "artist"}
+{"sub": "sex tourism", "obj": "tourism"}
+{"sub": "Agritourism", "obj": "tourism"}
+{"sub": "Eindhoven Marathon", "obj": "marathon"}
+{"sub": "Boston Marathon", "obj": "marathon"}
+{"sub": "Pecorino Sardo", "obj": "cheese"}
+{"sub": "Serra da Estrela cheese", "obj": "cheese"}
+{"sub": "Chenier", "obj": "ridge"}
+{"sub": "100-year flood", "obj": "flood"}
+{"sub": "canister shot", "obj": "artillery"}
+{"sub": "veterinary medicine", "obj": "medicine"}
+{"sub": "Wessex Saddleback", "obj": "pig"}
+{"sub": "casement window", "obj": "window"}
+{"sub": "freestyle skiing", "obj": "skiing"}
+{"sub": "battlecruiser", "obj": "cruiser"}
+{"sub": "mail order", "obj": "retail"}
+{"sub": "lyricist", "obj": "poet"}
+{"sub": "cyberterrorism", "obj": "terrorism"}
+{"sub": "electromagnetic field", "obj": "field"}
+{"sub": "extratropical cyclone", "obj": "cyclone"}
+{"sub": "chamber choir", "obj": "choir"}
+{"sub": "childhood cancer", "obj": "cancer"}
+{"sub": "sociology of education", "obj": "sociology"}
+{"sub": "bermuda shorts", "obj": "shorts"}
+{"sub": "cable ferry", "obj": "ferry"}
+{"sub": "European dragon", "obj": "dragon"}
+{"sub": "trampolining", "obj": "gymnastics"}
+{"sub": "moorland", "obj": "habitat"}
+{"sub": "United States Marine Corps Scout Sniper", "obj": "sniper"}
+{"sub": "actuator", "obj": "engine"}
+{"sub": "four-centred arch", "obj": "arch"}
+{"sub": "disruptive coloration", "obj": "camouflage"}
+{"sub": "Ptasie mleczko", "obj": "candy"}
+{"sub": "hospital-acquired infection", "obj": "infection"}
+{"sub": "management accounting", "obj": "accounting"}
+{"sub": "computer simulation", "obj": "simulation"}
+{"sub": "sex club", "obj": "nightclub"}
+{"sub": "bulk density", "obj": "density"}
+{"sub": "transgender female", "obj": "transgender"}
+{"sub": "Belgian chocolate", "obj": "chocolate"}
+{"sub": "Protestant Bible", "obj": "Bible"}
+{"sub": "potassium-40", "obj": "potassium"}
+{"sub": "adhesive bandage", "obj": "bandage"}
+{"sub": "colored pencil", "obj": "pencil"}
+{"sub": "Encaustic tile", "obj": "tile"}
+{"sub": "satire", "obj": "humour"}
+{"sub": "marionette", "obj": "puppet"}
+{"sub": "attending physician", "obj": "physician"}
+{"sub": "softwood", "obj": "wood"}
+{"sub": "tobacco smoking", "obj": "smoking"}
+{"sub": "centrifugal clutch", "obj": "clutch"}
+{"sub": "Smoke grenade", "obj": "grenade"}
+{"sub": "workwear", "obj": "clothing"}
+{"sub": "polytrauma", "obj": "injury"}
+{"sub": "textile arts", "obj": "craft"}
+{"sub": "volcanologist", "obj": "geologist"}
+{"sub": "reflector sight", "obj": "sight"}
+{"sub": "electromagnet", "obj": "magnet"}
+{"sub": "pork", "obj": "meat"}
+{"sub": "AIDS orphan", "obj": "orphan"}
+{"sub": "dirk", "obj": "dagger"}
+{"sub": "electric locomotive", "obj": "locomotive"}
+{"sub": "grand jury", "obj": "jury"}
+{"sub": "novella", "obj": "fiction"}
+{"sub": "Complementary DNA", "obj": "DNA"}
+{"sub": "natural monopoly", "obj": "monopoly"}
+{"sub": "prison rape", "obj": "rape"}
+{"sub": "Rinzai school", "obj": "Zen"}
+{"sub": "nursery rhyme", "obj": "rhyme"}
+{"sub": "Progress-M", "obj": "Progress"}
+{"sub": "double hull", "obj": "hull"}
+{"sub": "temperate climate", "obj": "climate"}
+{"sub": "command ship", "obj": "flagship"}
+{"sub": "user interface", "obj": "interface"}
+{"sub": "referee", "obj": "referee"}
+{"sub": "Michigan left", "obj": "intersection"}
+{"sub": "ground beef", "obj": "beef"}
+{"sub": "castle", "obj": "home"}
+{"sub": "electronic filter", "obj": "filter"}
+{"sub": "repeating rifle", "obj": "rifle"}
+{"sub": "dramatic soprano", "obj": "soprano"}
+{"sub": "monologist", "obj": "comedian"}
+{"sub": "composer", "obj": "musician"}
+{"sub": "Aviation archaeology", "obj": "archaeology"}
+{"sub": "extreme poverty", "obj": "poverty"}
+{"sub": "sexual addiction", "obj": "addiction"}
+{"sub": "double track", "obj": "track"}
+{"sub": "McClellan saddle", "obj": "saddle"}
+{"sub": "pedestal desk", "obj": "desk"}
+{"sub": "Radon measure", "obj": "measure"}
+{"sub": "Middle Irish", "obj": "Irish"}
+{"sub": "psychedelic trance", "obj": "trance"}
+{"sub": "antihero", "obj": "protagonist"}

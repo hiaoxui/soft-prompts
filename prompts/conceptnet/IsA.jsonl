@@ -1,0 +1,14 @@
+{"template": "A [X] is a [Y]."}
+{"template": "A [X] is a kind of [Y]."}
+{"template": "Some [X] are [Y]."}
+{"template": "A [X] is a type of [Y]."}
+{"template": "A [X] is an [Y]."}
+{"template": "[Y] is [X]."}
+{"template": "A [X] is [Y]."}
+{"template": "[Y] is a type of [X]."}
+{"template": "[Y] is related to [X]."}
+{"template": "An [X] is a [Y]."}
+{"template": "An [X] is a type of [Y]."}
+{"template": "An [X] is a kind of [Y]."}
+{"template": "The [X] is [Y]."}
+{"template": "An [X] is an [Y]."}
